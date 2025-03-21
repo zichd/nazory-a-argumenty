@@ -19,10 +19,11 @@ jobs:
       - name: Run feed builder
         run: python feed_builder.py
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add rss.xml
           git commit -m "Update filtered RSS feed" || echo "No changes"
-          git push --force
-
+          git push origin main
