@@ -2,7 +2,7 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Každých 12 hodin
+    - cron: "30 12 * * *"  # Daily at 12:30 UTC (13:30 CET)
   workflow_dispatch:
 
 jobs:
