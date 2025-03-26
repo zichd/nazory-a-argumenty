@@ -24,7 +24,8 @@ def build_filtered_feed():
     # Each episode is a dictionary with metadata like title, link, duration, enclosure, etc.
     filtered_entries = [
         entry for entry in parsed_feed["episodes"]
-        if entry.get("duration", 0) >= MIN_DURATION_SECONDS
+        #if entry.get("duration", 0) >= MIN_DURATION_SECONDS
+        if True
     ]
 
     # STEP 4: Initialize a new RSS feed using FeedGenerator
