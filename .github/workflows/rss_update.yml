@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: "3.x"
       - name: Install dependencies
-        run: pip install feedparser requests
+        run: pip install feedgen podcastparser requests
       - name: Run feed builder
         run: python feed_builder.py
       - name: Commit and push changes
