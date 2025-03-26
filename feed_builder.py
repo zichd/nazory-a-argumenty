@@ -2,6 +2,11 @@ import requests
 import podcastparser
 from feedgen.feed import FeedGenerator
 import email.utils
+from io import BytesIO
+
+response = requests.get(SOURCE_FEED)
+parsed_feed = podcastparser.parse(SOURCE_FEED, BytesIO(response.content))
+
 
 SOURCE_FEED = "https://api.mujrozhlas.cz/rss/podcast/f4133d64-ccb2-30e7-a70f-23e9c54d8e76.rss"
 MIN_DURATION_SECONDS = 20 * 60  # 20 minutes
@@ -9,8 +14,8 @@ MIN_DURATION_SECONDS = 20 * 60  # 20 minutes
 def build_filtered_feed():
     # Fetch and parse podcast RSS feed
     response = requests.get(SOURCE_FEED)
-    parsed_feed = podcastparser.parse(SOURCE_FEED, response.content)
-
+    parsed_feed = podcastparser.parse(SOURCE_FEED, BytesIO(response.content))
+   
     # Filter entries by duration
     filtered_entries = [
         entry for entry in parsed_feed["episodes"]
