@@ -44,6 +44,7 @@ def build_filtered_feed():
     # STEP 4: Initialize a new RSS feed using FeedGenerator
     fg = FeedGenerator()
     fg.load_extension("podcast")  # enables podcast-specific RSS tags
+    
 
     fg.title(parsed_feed["title"])
     fg.link(href=parsed_feed.get("link", ""), rel="alternate")
