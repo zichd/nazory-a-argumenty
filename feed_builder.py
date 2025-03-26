@@ -5,6 +5,7 @@ import podcastparser  # For parsing podcast RSS feeds into structured Python dic
 from feedgen.feed import FeedGenerator  # For generating RSS feeds in a high-level, easy way
 import email.utils  # For formatting datetimes into proper RFC-822 pubDate strings
 from io import BytesIO  # To wrap raw bytes in a file-like object (needed for podcastparser)
+from datetime import datetime
 
 # URL of the source podcast RSS feed you want to filter
 SOURCE_FEED = "https://api.mujrozhlas.cz/rss/podcast/f4133d64-ccb2-30e7-a70f-23e9c54d8e76.rss"
@@ -36,13 +37,16 @@ def build_filtered_feed():
 
     # STEP 5: Add each filtered episode as an <item> to the new RSS feed
     for entry in filtered_entries:
+        published = entry["published"]
+        if isinstance(published, int):
+            published = datetime.fromtimestamp(published)
         fe = fg.add_entry()  # Create a new <item> element
 
         # Add required metadata to each item
         fe.title(entry["title"])  # Episode title
         fe.link(href=entry["link"])  # Link to the episode
         fe.guid(entry.get("id", entry["link"]))  # Globally unique ID; fall back to link if ID missing
-        fe.pubDate(email.utils.format_datetime(entry["published"]))  # Properly formatted pubDate
+        fe.pubDate(email.utils.format_datetime(published))  # Properly formatted pubDate
         fe.description(entry.get("summary", ""))  # Summary or description of the episode
 
         # Add the audio file enclosure (required for podcast clients)
