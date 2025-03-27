@@ -85,7 +85,7 @@ def build_filtered_feed():
     rss_pretty = fg.rss_str(pretty=True).decode("utf-8")
     rss_pretty = re.sub(r"<generator>.*?</generator>\s*", "", rss_pretty)
     # Write it to a file manually
-    with open("site/rss.xml", "w", encoding="utf-8") as f:
+    with open("output/rss.xml", "w", encoding="utf-8") as f:
         f.write(rss_pretty)
 
 

@@ -1,0 +1,61 @@
+{
+  "folders": [
+    {
+      "path": "../."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+    "terminal.integrated.env.windows": {
+      "VIRTUAL_ENV": "${workspaceFolder}\\.venv",
+      "PATH": "${workspaceFolder}\\.venv\\Scripts;${env:PATH}"
+    },
+    "terminal.integrated.env.linux": {
+      "VIRTUAL_ENV": "${workspaceFolder}/.venv",
+      "PATH": "${workspaceFolder}/.venv/bin:${env:PATH}"
+    },
+    "terminal.integrated.env.osx": {
+      "VIRTUAL_ENV": "${workspaceFolder}/.venv",
+      "PATH": "${workspaceFolder}/.venv/bin:${env:PATH}"
+    }
+  },
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Setup Dev Environment",
+        "type": "shell",
+        "windows": {
+          "command": "powershell",
+          "args": [
+            "-NoProfile",
+            "-ExecutionPolicy",
+            "Bypass",
+            "-Command",
+            "if (-Not (Test-Path .venv)) { python -m venv .venv; Write-Host 'Virtualenv created.' }; .venv\\Scripts\\python.exe -m pip install --upgrade pip; .venv\\Scripts\\pip.exe install -r requirements.txt; git ls-files output | ForEach-Object { git update-index --assume-unchanged $_; Write-Host \"Ignored $_\" }; .venv\\Scripts\\pip.exe freeze | Sort-Object | Out-File -Encoding utf8 requirements.lock.txt"
+          ]
+        },
+        "linux": {
+          "command": "bash",
+          "args": [
+            "-c",
+            "if [ ! -d .venv ]; then python3 -m venv .venv && echo 'Virtualenv created.'; fi; .venv/bin/python -m pip install --upgrade pip; .venv/bin/pip install -r requirements.txt; git ls-files output | xargs -I {} sh -c 'git update-index --assume-unchanged \"{}\" && echo \"Ignored {}\"'; .venv/bin/pip freeze | sort > requirements.lock.txt"
+          ]
+        },
+        "osx": {
+          "command": "bash",
+          "args": [
+            "-c",
+            "if [ ! -d .venv ]; then python3 -m venv .venv && echo 'Virtualenv created.'; fi; .venv/bin/python -m pip install --upgrade pip; .venv/bin/pip install -r requirements.txt; git ls-files output | xargs -I {} sh -c 'git update-index --assume-unchanged \"{}\" && echo \"Ignored {}\"'; .venv/bin/pip freeze | sort > requirements.lock.txt"
+          ]
+        },
+        "runOptions": {
+          "runOn": "folderOpen"
+        },
+        "presentation": {
+          "close": true,
+        }
+      }
+    ]
+  }
+}

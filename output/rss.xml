@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Názory a argumenty</title>
+    <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
+    <description>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <image>
+      <url>https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/6c6fb3f7c59d454cd0a6cf28642ade7a.png?itok=RE3Eqiwx&amp;v=3</url>
+      <title>Názory a argumenty</title>
+      <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
+    </image>
+    <language>cs</language>
+    <lastBuildDate>Thu, 27 Mar 2025 15:23:17 +0000</lastBuildDate>
+    <itunes:author>Český rozhlas</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
+      <description>Trumpovo zpochybňování dělby moci je útokem na americkou demokracii. Důležité věci neřeší psaníčka, ale večeře ve dvou. Evropa nemá na vybranou, musí zbrojit, nabádá Evropská komise v „bílé knize“. Německo a dluhová brzda.</description>
+      <guid isPermaLink="false">cae25316-5045-31d1-a8b9-d2c5f6bc848c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/11121571-4771-4fd9-a827-16f754f071c9.mp3" length="37378989" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Mar 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Radko Kubičkem</title>
+      <description>Trump není nepředvídatelný chaot. Má plán. Jak turecký prezident vystupuje z autobusu. Trump poznává, jak fungují cla. Kreml vede boj za své ještě narozené vojáky. Chcete vidět, jak se otepluje? A nechcete se upéct?</description>
+      <guid isPermaLink="false">62bb6d68-6185-3363-9ef3-26d5d745f3fd</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/55effaf5-da7c-4cd0-ba2f-720c1ea6127c.mp3" length="37466541" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Mar 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Česko je země šťastných lidí příšerně naštvaných na stát. Už ne Green deal, ale obrana a konkurenceschopnost. Summit ukázal, že Evropa se mění. Havlíčkovy tajnosnubné seance s odpůrci. Důvěra je cenná komodita. Platí to i pro USA. Muskovi se Tesla sype. Těžká hypotéka budoucího kancléře Merze</description>
+      <guid isPermaLink="false">a5edf7d1-3a13-3261-9cd7-fac665c39ee6</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1b87b449-49e9-4b0a-a7e5-de7045abd698.mp3" length="36342189" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Mar 2025 12:15:00 +0000</pubDate>
+      <itunes:duration>1514</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>NATO, nebo evropská armáda? Netanjahu se zbavuje kritiků a nové získává. Dusno kolem kandidátky Spolu. Výtah do sněmovny pro dezinformátory na sedm? STAČILO! Všichni nám lžou. Demokracie je slušnost</description>
+      <guid isPermaLink="false">77cce58e-b4fa-35f7-a915-ec4c6cde1e60</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5446620c-6cc0-40dc-922f-8cdc8e9ed5c8.mp3" length="36555309" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Mar 2025 11:34:00 +0000</pubDate>
+      <itunes:duration>1523</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Petrem Hartmanem</title>
+      <description>Vládu Petra Fialy začaly dobíhat její vlastní rozpočtové triky. Další jednání Ukrajina-Rusko v saudské Džiddě. Exšéf Cermatu a přijímačky na střední zdarma. Jde ve volbách i o hlasy predátorů? Vyostřila se debata o dětském certifikátu. Trumpova chybějící duše.</description>
+      <guid isPermaLink="false">b1909b0b-3c56-3ca8-9a5b-b7603c1d00bb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8dade0f8-b334-46a8-8fc6-647e4b2d04b9.mp3" length="37286829" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Mar 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1554</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Radko Kubičkem</title>
+      <description>Vycentrování stran provázejí personální ztráty. Kanada vs. Čína vs. Amerika. Jak posílit francouzskou „Velkou Němou“? Není radno v politice spoléhat na magii. Konec pražského šéfa magistrátu.</description>
+      <guid isPermaLink="false">fd561715-9c65-39c9-b241-0fa0f51d8466</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aa09bd7c-ad87-4b2c-96b4-21a821648c10.mp3" length="37457325" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Mar 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Srdečné pozdravy od Velkého bratra. Ukrajina a Rusko uzavřely se Spojenými státy dvě samostatné dohody o příměří. Koalice Spolu chce, aby lidé stáli na správné straně. Chudák Amerika, sama bez Evropy. Trump rozšlápl právní systém.</description>
+      <guid isPermaLink="false">3aa1e3bc-dd2c-3b22-bbf2-4dc52c1e42e8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8fa1b064-2add-4040-81bf-80b66c6b1825.mp3" length="37240173" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Mar 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
+      <description>Trumpova politika může zamíchat českými volbami. Sázka na lídra je hop, nebo trop. Trump sliboval „skvělou Ameriku“, přinesl hurikán. Není radno spoléhat v politice na magii.</description>
+      <guid isPermaLink="false">5e829d1e-693a-341f-bf0d-b5b6ada99db2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c6396e47-3010-4334-943b-08d715588bfb.mp3" length="37314477" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Mar 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
+    </item>
+  </channel>
+</rss>
