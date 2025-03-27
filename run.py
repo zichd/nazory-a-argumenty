@@ -44,7 +44,6 @@ def build_filtered_feed():
     # STEP 4: Initialize a new RSS feed using FeedGenerator
     fg = FeedGenerator()
     fg.load_extension("podcast")  # enables podcast-specific RSS tags
-    
 
     fg.title(parsed_feed["title"])
     fg.link(href=parsed_feed.get("link", ""), rel="alternate")
@@ -86,7 +85,7 @@ def build_filtered_feed():
     rss_pretty = fg.rss_str(pretty=True).decode("utf-8")
     rss_pretty = re.sub(r"<generator>.*?</generator>\s*", "", rss_pretty)
     # Write it to a file manually
-    with open("rss.xml", "w", encoding="utf-8") as f:
+    with open("site/rss.xml", "w", encoding="utf-8") as f:
         f.write(rss_pretty)
 
 
