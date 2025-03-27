@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 26 Mar 2025 20:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 13:01:16 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
-      <description>Převrat v Německu: Bundestag odbrzdil rozpočet. Korespondenční forma komunikace Fialy s Babišem. Trump a Putin aneb Co dál? Muskovi se sype Tesla. Z obecného dobra se vylhat nelze.</description>
-      <guid isPermaLink="false">c0deb4d7-3bb3-3de9-bde6-4c63263f070c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/931a1abe-9f1d-492e-b421-a48146945083.mp3" length="37450413" type="audio/mpeg"/>
-      <pubDate>Wed, 19 Mar 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
       <description>Trumpovo zpochybňování dělby moci je útokem na americkou demokracii. Důležité věci neřeší psaníčka, ale večeře ve dvou. Evropa nemá na vybranou, musí zbrojit, nabádá Evropská komise v „bílé knize“. Německo a dluhová brzda.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8fa1b064-2add-4040-81bf-80b66c6b1825.mp3" length="37240173" type="audio/mpeg"/>
       <pubDate>Wed, 26 Mar 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
+      <description>Trumpova politika může zamíchat českými volbami. Sázka na lídra je hop, nebo trop. Trump sliboval „skvělou Ameriku“, přinesl hurikán. Není radno spoléhat v politice na magii.</description>
+      <guid isPermaLink="false">5e829d1e-693a-341f-bf0d-b5b6ada99db2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c6396e47-3010-4334-943b-08d715588bfb.mp3" length="37314477" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Mar 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
