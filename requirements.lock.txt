@@ -1,0 +1,10 @@
+﻿certifi==2025.1.31
+charset-normalizer==3.4.1
+feedgen==1.0.0
+idna==3.10
+lxml==5.3.1
+podcastparser==0.6.10
+python-dateutil==2.9.0.post0
+requests==2.32.3
+six==1.17.0
+urllib3==2.3.0
