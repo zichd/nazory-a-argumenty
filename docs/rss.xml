@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 27 Mar 2025 16:06:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 13:00:25 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
-      <description>Trumpovo zpochybňování dělby moci je útokem na americkou demokracii. Důležité věci neřeší psaníčka, ale večeře ve dvou. Evropa nemá na vybranou, musí zbrojit, nabádá Evropská komise v „bílé knize“. Německo a dluhová brzda.</description>
-      <guid isPermaLink="false">cae25316-5045-31d1-a8b9-d2c5f6bc848c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/11121571-4771-4fd9-a827-16f754f071c9.mp3" length="37378989" type="audio/mpeg"/>
-      <pubDate>Thu, 20 Mar 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Radko Kubičkem</title>
       <description>Trump není nepředvídatelný chaot. Má plán. Jak turecký prezident vystupuje z autobusu. Trump poznává, jak fungují cla. Kreml vede boj za své ještě narozené vojáky. Chcete vidět, jak se otepluje? A nechcete se upéct?</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c6396e47-3010-4334-943b-08d715588bfb.mp3" length="37314477" type="audio/mpeg"/>
       <pubDate>Thu, 27 Mar 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Grónsko aneb O co tady doopravdy jde. Gazané proti Hamásu. Noví ruští emigranti návrat do vlasti nechystají. Obrana rukojmím boje o pozornost. Čas na zrušení ruských sankcí?</description>
+      <guid isPermaLink="false">eb31fe7c-cee4-3e06-ba7a-630cc26a3267</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e5966363-932d-4e44-a1c5-9a454e89fef2.mp3" length="37473453" type="audio/mpeg"/>
+      <pubDate>Fri, 28 Mar 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
