@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 28 Mar 2025 13:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 12:56:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -78,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e5966363-932d-4e44-a1c5-9a454e89fef2.mp3" length="37473453" type="audio/mpeg"/>
       <pubDate>Fri, 28 Mar 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Radkem Kubičkem</title>
+      <description>Evropská „koalice ochotných“ znemožňuje americké ústupky Rusku v neprospěch Ukrajiny. Epidemie slintavky a kulhavky ukazuje, že když se to hodí, je EU Slovensku dobrá. Aby Evropská unie přežila, musí se víc integrovat. Vyplývá to z nové strategie připravenosti. Trumpova vybělená Amerika. A kolik přátel má Petr Fiala? Digitalizaci nepřinesou ani dredy, ani lidovci. Spíš normální fungování státní správy</description>
+      <guid isPermaLink="false">2fd48af9-d9f4-3903-b72b-44a46c502c45</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6e8066c7-f96b-471a-afae-4058accde504.mp3" length="36713133" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Mar 2025 11:33:00 +0000</pubDate>
+      <itunes:duration>1530</itunes:duration>
     </item>
   </channel>
 </rss>
