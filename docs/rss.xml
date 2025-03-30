@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 29 Mar 2025 12:56:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 12:57:00 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Radko Kubičkem</title>
-      <description>Trump není nepředvídatelný chaot. Má plán. Jak turecký prezident vystupuje z autobusu. Trump poznává, jak fungují cla. Kreml vede boj za své ještě narozené vojáky. Chcete vidět, jak se otepluje? A nechcete se upéct?</description>
-      <guid isPermaLink="false">62bb6d68-6185-3363-9ef3-26d5d745f3fd</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/55effaf5-da7c-4cd0-ba2f-720c1ea6127c.mp3" length="37466541" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Mar 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Česko je země šťastných lidí příšerně naštvaných na stát. Už ne Green deal, ale obrana a konkurenceschopnost. Summit ukázal, že Evropa se mění. Havlíčkovy tajnosnubné seance s odpůrci. Důvěra je cenná komodita. Platí to i pro USA. Muskovi se Tesla sype. Těžká hypotéka budoucího kancléře Merze</description>
-      <guid isPermaLink="false">a5edf7d1-3a13-3261-9cd7-fac665c39ee6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1b87b449-49e9-4b0a-a7e5-de7045abd698.mp3" length="36342189" type="audio/mpeg"/>
-      <pubDate>Sat, 22 Mar 2025 12:15:00 +0000</pubDate>
-      <itunes:duration>1514</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
       <description>NATO, nebo evropská armáda? Netanjahu se zbavuje kritiků a nové získává. Dusno kolem kandidátky Spolu. Výtah do sněmovny pro dezinformátory na sedm? STAČILO! Všichni nám lžou. Demokracie je slušnost</description>
@@ -86,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6e8066c7-f96b-471a-afae-4058accde504.mp3" length="36713133" type="audio/mpeg"/>
       <pubDate>Sat, 29 Mar 2025 11:33:00 +0000</pubDate>
       <itunes:duration>1530</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Trump komplikuje kampaň, ale zároveň inspiruje. Záhada českého trumpismu. Slováci si kvůli obraně země dokázali sednout k jednomu stolu. Češi zatím ne. Obrana budoucnosti Evropy. Bradáčová v čele žalobců? Dobrá volba do temných časů. Mizející slova v éře Donalda Trumpa: jak to ovlivní Česko?</description>
+      <guid isPermaLink="false">37be94ac-a7e3-3cd3-9e37-6954b0694923</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ccb8bda8-e876-46cc-b1c4-ae87d660945e.mp3" length="36529965" type="audio/mpeg"/>
+      <pubDate>Sun, 30 Mar 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1522</itunes:duration>
     </item>
   </channel>
 </rss>
