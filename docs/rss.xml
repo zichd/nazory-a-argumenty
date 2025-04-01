@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 31 Mar 2025 13:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 13:03:18 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Petrem Hartmanem</title>
-      <description>Vládu Petra Fialy začaly dobíhat její vlastní rozpočtové triky. Další jednání Ukrajina-Rusko v saudské Džiddě. Exšéf Cermatu a přijímačky na střední zdarma. Jde ve volbách i o hlasy predátorů? Vyostřila se debata o dětském certifikátu. Trumpova chybějící duše.</description>
-      <guid isPermaLink="false">b1909b0b-3c56-3ca8-9a5b-b7603c1d00bb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8dade0f8-b334-46a8-8fc6-647e4b2d04b9.mp3" length="37286829" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Mar 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Radko Kubičkem</title>
       <description>Vycentrování stran provázejí personální ztráty. Kanada vs. Čína vs. Amerika. Jak posílit francouzskou „Velkou Němou“? Není radno v politice spoléhat na magii. Konec pražského šéfa magistrátu.</description>
@@ -59,9 +51,9 @@
       <title>Poslechněte si všechny sobotní komentáře s Radkem Kubičkem</title>
       <description>Evropská „koalice ochotných“ znemožňuje americké ústupky Rusku v neprospěch Ukrajiny. Epidemie slintavky a kulhavky ukazuje, že když se to hodí, je EU Slovensku dobrá. Aby Evropská unie přežila, musí se víc integrovat. Vyplývá to z nové strategie připravenosti. Trumpova vybělená Amerika. A kolik přátel má Petr Fiala? Digitalizaci nepřinesou ani dredy, ani lidovci. Spíš normální fungování státní správy</description>
       <guid isPermaLink="false">2fd48af9-d9f4-3903-b72b-44a46c502c45</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6e8066c7-f96b-471a-afae-4058accde504.mp3" length="36713133" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8b023d55-3532-4d48-861f-dd9cb43ce9bc.mp3" length="35763885" type="audio/mpeg"/>
       <pubDate>Sat, 29 Mar 2025 11:33:00 +0000</pubDate>
-      <itunes:duration>1530</itunes:duration>
+      <itunes:duration>1490</itunes:duration>
     </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
@@ -77,6 +69,14 @@
       <guid isPermaLink="false">52fc57a3-6aa6-3357-a507-d25dcb135c20</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/560c8cca-e3a6-4d30-a438-93e804c1f332.mp3" length="37460781" type="audio/mpeg"/>
       <pubDate>Mon, 31 Mar 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Svět není černobílý. A neměla by být ani politika. Sýrie a Turecko se potkaly na eskalátoru. Odsouzení Le Penové zamíchá celou francouzskou politikou. Brazílie a diktatura. Josef Topol. Talent mu zničila normalizace.</description>
+      <guid isPermaLink="false">0543db68-c68e-3b5a-b070-b4ced4725f38</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6b21b65b-fe11-4a7d-8413-6eaf8aae1b03.mp3" length="37463085" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
