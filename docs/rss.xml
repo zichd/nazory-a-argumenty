@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 01 Apr 2025 13:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 13:02:34 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Radko Kubičkem</title>
-      <description>Vycentrování stran provázejí personální ztráty. Kanada vs. Čína vs. Amerika. Jak posílit francouzskou „Velkou Němou“? Není radno v politice spoléhat na magii. Konec pražského šéfa magistrátu.</description>
-      <guid isPermaLink="false">fd561715-9c65-39c9-b241-0fa0f51d8466</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aa09bd7c-ad87-4b2c-96b4-21a821648c10.mp3" length="37457325" type="audio/mpeg"/>
-      <pubDate>Tue, 25 Mar 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Srdečné pozdravy od Velkého bratra. Ukrajina a Rusko uzavřely se Spojenými státy dvě samostatné dohody o příměří. Koalice Spolu chce, aby lidé stáli na správné straně. Chudák Amerika, sama bez Evropy. Trump rozšlápl právní systém.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6b21b65b-fe11-4a7d-8413-6eaf8aae1b03.mp3" length="37463085" type="audio/mpeg"/>
       <pubDate>Tue, 01 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Svatý rok na ministerstvu financí. S čím létají ruské aerolinky? Vyloučit rozhodčí, ne Le Penovou? Chce dítě na gympl? Výuka ze základní školy často nestačí.</description>
+      <guid isPermaLink="false">1c88ca98-f0b1-3eae-be39-17f11960c87f</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e053c40f-ba01-4fd4-b7d0-1b61c2e7d533.mp3" length="37345005" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
