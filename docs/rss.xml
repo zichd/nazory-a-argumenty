@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 03 Apr 2025 13:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 13:00:57 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
-      <description>Trumpova politika může zamíchat českými volbami. Sázka na lídra je hop, nebo trop. Trump sliboval „skvělou Ameriku“, přinesl hurikán. Není radno spoléhat v politice na magii.</description>
-      <guid isPermaLink="false">5e829d1e-693a-341f-bf0d-b5b6ada99db2</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c6396e47-3010-4334-943b-08d715588bfb.mp3" length="37314477" type="audio/mpeg"/>
-      <pubDate>Thu, 27 Mar 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Grónsko aneb O co tady doopravdy jde. Gazané proti Hamásu. Noví ruští emigranti návrat do vlasti nechystají. Obrana rukojmím boje o pozornost. Čas na zrušení ruských sankcí?</description>
@@ -77,6 +69,14 @@
       <guid isPermaLink="false">87c07f76-a43d-3816-a805-206b34b064b9</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/eb169892-827c-4fef-8e9e-78fdae0f8f45.mp3" length="37183149" type="audio/mpeg"/>
       <pubDate>Thu, 03 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1549</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Amerika na prvním místě: Trump plní své sliby do písmene. Proclívání v Růžové zahradě. Běloruska na cestě domů. Ruské diváky připravují na jaderný popel místo Evropy. Stačilo! hlásí, že si chce vzít zemi zpátky.</description>
+      <guid isPermaLink="false">84b4ffb6-59a4-3ffa-a9e9-019536a7d555</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/00693c9a-cc8d-4626-94cf-54ec6d496223.mp3" length="37180845" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1549</itunes:duration>
     </item>
   </channel>
