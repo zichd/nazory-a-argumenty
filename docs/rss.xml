@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 05 Apr 2025 12:56:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 12:56:24 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Radkem Kubičkem</title>
-      <description>Evropská „koalice ochotných“ znemožňuje americké ústupky Rusku v neprospěch Ukrajiny. Epidemie slintavky a kulhavky ukazuje, že když se to hodí, je EU Slovensku dobrá. Aby Evropská unie přežila, musí se víc integrovat. Vyplývá to z nové strategie připravenosti. Trumpova vybělená Amerika. A kolik přátel má Petr Fiala? Digitalizaci nepřinesou ani dredy, ani lidovci. Spíš normální fungování státní správy</description>
-      <guid isPermaLink="false">2fd48af9-d9f4-3903-b72b-44a46c502c45</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8b023d55-3532-4d48-861f-dd9cb43ce9bc.mp3" length="35763885" type="audio/mpeg"/>
-      <pubDate>Sat, 29 Mar 2025 11:33:00 +0000</pubDate>
-      <itunes:duration>1490</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Trump komplikuje kampaň, ale zároveň inspiruje. Záhada českého trumpismu. Slováci si kvůli obraně země dokázali sednout k jednomu stolu. Češi zatím ne. Obrana budoucnosti Evropy. Bradáčová v čele žalobců? Dobrá volba do temných časů. Mizející slova v éře Donalda Trumpa: jak to ovlivní Česko?</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c3244521-326d-4a2e-b120-655db4e833bd.mp3" length="37435437" type="audio/mpeg"/>
       <pubDate>Sat, 05 Apr 2025 11:17:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Cla mohou oslabit nacionální pravici; Trumpova cla z ulice Hanoje; Ruská stínová válka v Evropě? Putin vítězí; Trump pohřbil Pax americana</description>
+      <guid isPermaLink="false">20f5c6c4-fff8-38b0-af65-30398cba3a34</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1d2ce1ce-fff0-4344-9659-0d9d979017ae.mp3" length="37309293" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2025 11:05:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
