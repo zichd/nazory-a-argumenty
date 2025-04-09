@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 08 Apr 2025 13:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 13:03:09 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Svět není černobílý. A neměla by být ani politika. Sýrie a Turecko se potkaly na eskalátoru. Odsouzení Le Penové zamíchá celou francouzskou politikou. Brazílie a diktatura. Josef Topol. Talent mu zničila normalizace.</description>
-      <guid isPermaLink="false">0543db68-c68e-3b5a-b070-b4ced4725f38</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6b21b65b-fe11-4a7d-8413-6eaf8aae1b03.mp3" length="37463085" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Svatý rok na ministerstvu financí. S čím létají ruské aerolinky? Vyloučit rozhodčí, ne Le Penovou? Chce dítě na gympl? Výuka ze základní školy často nestačí.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1e774458-0965-4eb7-b221-d18ed1fdc0e3.mp3" length="37474605" type="audio/mpeg"/>
       <pubDate>Tue, 08 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Jak dopadnou Trumpova cla? Škoda se už stala. Největším spojencem Evropy je nyní americký kapitalismus. Hnutí ANO chce být pro všechny, i když ho to ohrožuje. Dějiny NATO jsou dějinami konfliktů a kompromisů. Dětský certifikát prošel. Navzdory rituální sebevraždě Marka Bendy i celé ODS.</description>
+      <guid isPermaLink="false">8f46f208-df67-3932-9d85-848480c91e14</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a80aaf0f-d5f1-44e4-9c85-963a07ce47e9.mp3" length="37418157" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
