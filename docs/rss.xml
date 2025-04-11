@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 10 Apr 2025 13:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 13:01:39 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Výsledky tří volebních klání v USA jsou pro Trumpa varováním. Pro Babiše je přijatelnější Konečná než Okamurův slepenec. Ekonomická politika Donalda Trumpa aneb Teror, nebo chaos? EU nespěchá s odpovědí na Trumpova cla.</description>
-      <guid isPermaLink="false">87c07f76-a43d-3816-a805-206b34b064b9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/eb169892-827c-4fef-8e9e-78fdae0f8f45.mp3" length="37183149" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1549</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Amerika na prvním místě: Trump plní své sliby do písmene. Proclívání v Růžové zahradě. Běloruska na cestě domů. Ruské diváky připravují na jaderný popel místo Evropy. Stačilo! hlásí, že si chce vzít zemi zpátky.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1e18af6b-ad85-407b-b990-812d32b364c3.mp3" length="37463661" type="audio/mpeg"/>
       <pubDate>Thu, 10 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Trump dává Íránu vybrat: naše bomby, nebo vaše bomby. Aby Evropská unie přežila, musí se víc integrovat. Trumpova celní strategie má logiku. Putinovci označili vraždu ukrajinských dětí za úspěšnou zkoušku lidskosti Rusů. Kolik procent opravdu uspokojí Trumpa?</description>
+      <guid isPermaLink="false">a21b15e7-09cd-30ed-a488-10dada25f8c5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/1dbb6da83d2e66429a4e4f73a39c465f.mp3" length="37320768" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
