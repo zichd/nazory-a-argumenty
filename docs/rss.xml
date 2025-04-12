@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 11 Apr 2025 13:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 12:56:40 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -78,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/1dbb6da83d2e66429a4e4f73a39c465f.mp3" length="37320768" type="audio/mpeg"/>
       <pubDate>Fri, 11 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
+      <description>Co dělá s ruskou ekonomikou propad cen ropy; Američané vyklízejí klíčovou základnu východní Evropy. Polsko se na USA už nemůže spolehnout; Jak vyjednávat s Putinem</description>
+      <guid isPermaLink="false">fe23b573-1d48-3a13-9816-556e6784ab34</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4dde591c-68bd-4e95-a1f7-62a6380ec685.mp3" length="35431533" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Apr 2025 11:08:00 +0000</pubDate>
+      <itunes:duration>1476</itunes:duration>
     </item>
   </channel>
 </rss>
