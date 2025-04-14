@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 13 Apr 2025 12:57:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 13:03:21 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Ruský vyjednavač ve Washingtonu; Německo otevřelo první zahraničí vojenskou základnu. A začne zbrojit; Trump a Musk mlží ohledně penzijní reformy. Voliči proto křičí; Boj o dálnici</description>
-      <guid isPermaLink="false">46c52a6d-aeab-3777-ad44-c6e3870c1ed0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c3244521-326d-4a2e-b120-655db4e833bd.mp3" length="37435437" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Apr 2025 11:17:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Cla mohou oslabit nacionální pravici; Trumpova cla z ulice Hanoje; Ruská stínová válka v Evropě? Putin vítězí; Trump pohřbil Pax americana</description>
-      <guid isPermaLink="false">20f5c6c4-fff8-38b0-af65-30398cba3a34</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f30e1283-0a81-4e1c-984e-eccdccfe9450.mp3" length="37346733" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Apr 2025 11:05:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Petrem Hartmanem</title>
       <description>Slovensko teď stíhá jedna krize za druhou. Jeden formulář, jedny daně, spousta starostí? Klany kontra Hamás. Kdo, s kým, proti komu, proč. Ach, jak hluboko jsem klesla, aneb morálka paní Sněmovny. Zapadneš do paralelního světa dezinformací a už se nevymaníš. Proč? Na vině je hluboká nedůvěra.</description>
@@ -86,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cf2950c5-8543-4f16-a74a-64548ede1f7e.mp3" length="37440045" type="audio/mpeg"/>
       <pubDate>Sun, 13 Apr 2025 11:20:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Celní válka způsobí ekonomické potíže všem, a také posílí populismus. Kdo je závislý víc? Český pracovní trh na Ukrajincích, nebo Ukrajinci na životě v Česku? Němečtí radikálové se dotahují na Merze. Česká muniční iniciativa zůstává „majstrštykem“ české politiky. Výdělečný byznys krátkodobých pronájmů.</description>
+      <guid isPermaLink="false">21292a12-bcf7-3e6e-9216-6e410385ec44</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3c5b2492-a272-4fca-b578-28a28d038653.mp3" length="37467117" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
