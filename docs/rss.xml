@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 15 Apr 2025 13:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 13:03:22 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
-      <description>Radikálům změna vlády nestačí, chtějí změnu režimu. Proč přestalo být Rakousko lídrem „šetrných“ v Evropské unii. Chytré nášlapné miny jako způsob odstrašení Rusů.</description>
-      <guid isPermaLink="false">7309714b-fc00-332b-82d1-a928c9c0afaf</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1e774458-0965-4eb7-b221-d18ed1fdc0e3.mp3" length="37474605" type="audio/mpeg"/>
-      <pubDate>Tue, 08 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Jak dopadnou Trumpova cla? Škoda se už stala. Největším spojencem Evropy je nyní americký kapitalismus. Hnutí ANO chce být pro všechny, i když ho to ohrožuje. Dějiny NATO jsou dějinami konfliktů a kompromisů. Dětský certifikát prošel. Navzdory rituální sebevraždě Marka Bendy i celé ODS.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f9c4d8a0-435d-408e-b16f-b21ff494e014.mp3" length="37366893" type="audio/mpeg"/>
       <pubDate>Tue, 15 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Řešení problémů s nelegální migrací není předvolební doba nakloněna. Čeští elfové varují. Maďarsko omezilo ústavní práva. Francie v čele Evropy?</description>
+      <guid isPermaLink="false">58ec4a4f-97bb-3874-92a5-98210a50f5c8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/82d77464-899e-4abf-8419-c09d11d464de.mp3" length="36929709" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1539</itunes:duration>
     </item>
   </channel>
 </rss>
