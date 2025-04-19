@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 18 Apr 2025 13:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 12:56:57 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
-      <description>Trump šíří nebezpečný chaos doma i ve světě. Proč Babiš odložil červenou kšiltovku? EU vypálila první celní salvu proti USA: hodně, nebo málo? Ztracený horizont Ameriky. Nenápadný půvab teokracie.</description>
-      <guid isPermaLink="false">4c2514ce-6ce7-3fde-a932-3612cc865316</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1e18af6b-ad85-407b-b990-812d32b364c3.mp3" length="37463661" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Trump dává Íránu vybrat: naše bomby, nebo vaše bomby. Aby Evropská unie přežila, musí se víc integrovat. Trumpova celní strategie má logiku. Putinovci označili vraždu ukrajinských dětí za úspěšnou zkoušku lidskosti Rusů. Kolik procent opravdu uspokojí Trumpa?</description>
-      <guid isPermaLink="false">a21b15e7-09cd-30ed-a488-10dada25f8c5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/1dbb6da83d2e66429a4e4f73a39c465f.mp3" length="37320768" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
       <description>Co dělá s ruskou ekonomikou propad cen ropy; Američané vyklízejí klíčovou základnu východní Evropy. Polsko se na USA už nemůže spolehnout; Jak vyjednávat s Putinem</description>
@@ -86,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4a49d4f6-0260-4abb-a889-bd7a513c07ec.mp3" length="37350189" type="audio/mpeg"/>
       <pubDate>Fri, 18 Apr 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentíře s Petrem Schwarzem</title>
+      <description>Proměny ukrajinského prezidenta. Zažíváme už čtvrté Velikonoce, kdy u nás žijeme v klidu, ale nedaleko od nás je pácháno čiré zlo. Trump připouští neúspěch ve snaze o mír. Která strana je lidová? Bowie nebowie. Motoristé v boji o Sněmovnu nenechávají nic náhodě</description>
+      <guid isPermaLink="false">b95230d1-6911-358a-8d0b-dc93a04fbd22</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4bdff716-412f-4e81-a122-2181ec57715d.mp3" length="36190125" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Apr 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1508</itunes:duration>
     </item>
   </channel>
 </rss>
