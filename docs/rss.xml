@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 21 Apr 2025 13:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 13:02:38 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Celní válka způsobí ekonomické potíže všem, a také posílí populismus. Kdo je závislý víc? Český pracovní trh na Ukrajincích, nebo Ukrajinci na životě v Česku? Němečtí radikálové se dotahují na Merze. Česká muniční iniciativa zůstává „majstrštykem“ české politiky. Výdělečný byznys krátkodobých pronájmů.</description>
-      <guid isPermaLink="false">21292a12-bcf7-3e6e-9216-6e410385ec44</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3c5b2492-a272-4fca-b578-28a28d038653.mp3" length="37467117" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
       <description>Motoristé v boji o Sněmovnu nenechávají nic náhodě. EU hledá, jak dál vojensky pomáhat Ukrajině bez USA. Nielen Amerika, ale aj Európa potrebuje svoj „Iron Dome“. Drogy, nebo školka?</description>
@@ -56,7 +48,7 @@
       <itunes:duration>1556</itunes:duration>
     </item>
     <item>
-      <title>Poslechněte si všechny sobotní komentíře s Petrem Schwarzem</title>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
       <description>Proměny ukrajinského prezidenta. Zažíváme už čtvrté Velikonoce, kdy u nás žijeme v klidu, ale nedaleko od nás je pácháno čiré zlo. Trump připouští neúspěch ve snaze o mír. Která strana je lidová? Bowie nebowie. Motoristé v boji o Sněmovnu nenechávají nic náhodě</description>
       <guid isPermaLink="false">b95230d1-6911-358a-8d0b-dc93a04fbd22</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4bdff716-412f-4e81-a122-2181ec57715d.mp3" length="36190125" type="audio/mpeg"/>
@@ -70,6 +62,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d797f3ec-0815-46b2-99c8-b51db5e25dd0.mp3" length="35129709" type="audio/mpeg"/>
       <pubDate>Sun, 20 Apr 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1464</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
+      <description>U přijímacích zkoušek na střední školy vláda nesplnila, co slíbila. Vrtěti kohoutem? V Babišově videu je ještě něco víc. Opatřil si Okamura výkonný lux? Harvard má ve válce s Trumpem pravdu i máslo na hlavě. Na pomlázku. Jak můžu pomoct?</description>
+      <guid isPermaLink="false">9456970</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/379a5fcc6bc2d78c1bafe46c01acf9ed.mp3" length="36244800" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Apr 2025 16:30:00 +0000</pubDate>
+      <itunes:duration>1510</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Patricií Polanskou</title>
+      <description>Smrt papeže Františka. Papež vždy dokázal překvapit. Vyhýbat se voličům nebo před nimi mlžit je ukázkou politické neprofesionality. Primátor, který upírá dětem vzdělání. Když jde o volby ve Vídni, jde solidarita se zadrženým soudruhem v Istanbulu stranou.</description>
+      <guid isPermaLink="false">2e80932f-bf1f-37a7-ae21-2f69391738ca</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7af1edea-b39c-4f6c-8c94-4acbb8820d71.mp3" length="37478061" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
