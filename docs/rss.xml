@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 23 Apr 2025 11:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 11:24:46 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Řešení problémů s nelegální migrací není předvolební doba nakloněna. Čeští elfové varují. Maďarsko omezilo ústavní práva. Francie v čele Evropy?</description>
-      <guid isPermaLink="false">58ec4a4f-97bb-3874-92a5-98210a50f5c8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/82d77464-899e-4abf-8419-c09d11d464de.mp3" length="36929709" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1539</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Trumpova válka s univerzitami ohrožuje vědecký výzkum. Otevřené dveře do velké politiky a kdo se jimi chystá projít. Postavení dolaru se otřásá. Koudelkovo potvrzení tušeného.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6426b739-0eef-43ee-ac58-1bc0f2a42689.mp3" length="37386477" type="audio/mpeg"/>
       <pubDate>Wed, 23 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
+      <description>Trumpova deportační politika testuje americkou demokracii. Turkovo moře po kolena aneb jak leadership nevypadá. Londýnská (ne)schůzka k Ukrajině. Kritika slovenského prezidenta Pellegriniho na adresu Fica. Netanjahu se čelně střetl s Barem.</description>
+      <guid isPermaLink="false">d691603e-f9bd-36e6-a7c6-115b90dbe7c9</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d376c722-f73e-4f52-b029-a81043d62ddb.mp3" length="37372077" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
