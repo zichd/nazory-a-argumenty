@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 24 Apr 2025 11:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 11:24:13 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Trumpova válka s univerzitami ohrožuje vědecký výzkum. Otevřené dveře do velké politiky a kdo se jimi chystá projít. Postavení dolaru se otřásá. Koudelkovo potvrzení tušeného.</description>
-      <guid isPermaLink="false">409d04fe-9d87-3a49-a847-4de9776de6c5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/08e8482c-77d1-43c1-9a77-e5c9114fcfb2.mp3" length="37423917" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Empatie kontra entropie. Evropa chce masově investovat do umělé inteligence, má však na to? Trump Íránu něco nabízí. Ví sám, co to je? Spor kolem českého občanství pro Rusy stále trvá. Trump děsí i miliardáře, kteří mu předtím tleskali. Jedno velké psychodrama s přijímačkami</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d376c722-f73e-4f52-b029-a81043d62ddb.mp3" length="37372077" type="audio/mpeg"/>
       <pubDate>Thu, 24 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
+      <description>Demokracie umírá u volebních uren. Dost bylo lhaní, že je Rusko proti válce. Jak lobbisté zlobbovali zákon o lobbingu k obrazu svému. Filip Turek se chlubí porušováním pravidel. Typický antisystémový politik. Byznys a sen o hubnutí.</description>
+      <guid isPermaLink="false">29fe944f-401c-3f53-825f-fafe92cd7dbb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4cd37433-bccf-4d08-9385-1e5fe879ee39.mp3" length="37414701" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
