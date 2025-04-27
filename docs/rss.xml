@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 26 Apr 2025 11:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 11:22:32 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Proměny ukrajinského prezidenta. Zažíváme už čtvrté Velikonoce, kdy u nás žijeme v klidu, ale nedaleko od nás je pácháno čiré zlo. Trump připouští neúspěch ve snaze o mír. Která strana je lidová? Bowie nebowie. Motoristé v boji o Sněmovnu nenechávají nic náhodě</description>
-      <guid isPermaLink="false">b95230d1-6911-358a-8d0b-dc93a04fbd22</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4bdff716-412f-4e81-a122-2181ec57715d.mp3" length="36190125" type="audio/mpeg"/>
-      <pubDate>Sat, 19 Apr 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1508</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Nekritická podpora postupu Izraele v Gaze je už neudržitelná. Digitální risk neproměnil Ivan Bartoš v zisk. Terapeutická diplomacie premiérky Meloniové. Trump věří, že trhy skáčou, jak pískne. Jen jestli se nepřepočítal. Mohou velké koalice za růst extremismu? Vždycky pomůže, když posádka funguje</description>
@@ -70,6 +62,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4cd37433-bccf-4d08-9385-1e5fe879ee39.mp3" length="37414701" type="audio/mpeg"/>
       <pubDate>Fri, 25 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Hartmanem</title>
+      <description>Jan Souček uvádí: Jak nakonec naštvat úplně všechny. Daně a jak na ně? Český přístup k daním z nemovitosti je dlouhodobě zcela neudržitelný. Co rozhodne? Lužičtí Srbové, národ, který má nás Čechy nejradši, a který chtěl být s námi v jednom státě. Návrat normality. Česko má po pěti letech v pořádku rozpočet. Smrt papeže Františka</description>
+      <guid isPermaLink="false">9460834</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/223556a3f105080f8a2f4a91489b4f14.mp3" length="37452672" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Apr 2025 16:33:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">01b400f1-abc0-3577-ad04-17e993e0ab30</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5aff8e58-dc2a-4fff-83b6-7c5bd2e9324a.mp3" length="36868077" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Apr 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1536</itunes:duration>
     </item>
   </channel>
 </rss>
