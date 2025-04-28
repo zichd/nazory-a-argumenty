@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 27 Apr 2025 11:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 11:38:48 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Nekritická podpora postupu Izraele v Gaze je už neudržitelná. Digitální risk neproměnil Ivan Bartoš v zisk. Terapeutická diplomacie premiérky Meloniové. Trump věří, že trhy skáčou, jak pískne. Jen jestli se nepřepočítal. Mohou velké koalice za růst extremismu? Vždycky pomůže, když posádka funguje</description>
-      <guid isPermaLink="false">9ca33e73-b82f-362f-9893-b93dc0ed0bb6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d797f3ec-0815-46b2-99c8-b51db5e25dd0.mp3" length="35129709" type="audio/mpeg"/>
-      <pubDate>Sun, 20 Apr 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1464</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
       <description>U přijímacích zkoušek na střední školy vláda nesplnila, co slíbila. Vrtěti kohoutem? V Babišově videu je ještě něco víc. Opatřil si Okamura výkonný lux? Harvard má ve válce s Trumpem pravdu i máslo na hlavě. Na pomlázku. Jak můžu pomoct?</description>
@@ -72,12 +64,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Jan Fingerland.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Janem Fingerlandem</title>
+      <description>Římské rozhovory. EU se odvážila pokutovat americké giganty, ale jen nesměle. Velká koalice vypadá čím dál pravděpodobněji. Úleva pro jinak tristní Socdem. Trumpova cla jako trest za chudobu. USA se za Suezské krize postavily spolu se SSSR proti Francii a Velké Británii</description>
       <guid isPermaLink="false">01b400f1-abc0-3577-ad04-17e993e0ab30</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5aff8e58-dc2a-4fff-83b6-7c5bd2e9324a.mp3" length="36868077" type="audio/mpeg"/>
       <pubDate>Sun, 27 Apr 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1536</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Ve vzdělávání vláda něco jiného říká a jiné kroky dělá. Angličtina nebo jiný světový jazyk od 1. třídy? Změnu vítají i rodiče. Nekup to, když je to tak výhodné. Prezident TV Star. Minimální důstojná mzda dává zpětnou vazbu nízké příjmové realitě v Česku.</description>
+      <guid isPermaLink="false">c8a19778-1e50-38c1-b9c4-6a10b4072476</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6d7d6a58-e23d-4264-beaf-9c47de717e67.mp3" length="37283373" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1553</itunes:duration>
     </item>
   </channel>
 </rss>
