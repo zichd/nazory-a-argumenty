@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 29 Apr 2025 11:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 11:24:03 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
-      <description>U přijímacích zkoušek na střední školy vláda nesplnila, co slíbila. Vrtěti kohoutem? V Babišově videu je ještě něco víc. Opatřil si Okamura výkonný lux? Harvard má ve válce s Trumpem pravdu i máslo na hlavě. Na pomlázku. Jak můžu pomoct?</description>
-      <guid isPermaLink="false">9456970</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/379a5fcc6bc2d78c1bafe46c01acf9ed.mp3" length="36244800" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Apr 2025 16:30:00 +0000</pubDate>
-      <itunes:duration>1510</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Patricií Polanskou</title>
-      <description>Smrt papeže Františka. Papež vždy dokázal překvapit. Vyhýbat se voličům nebo před nimi mlžit je ukázkou politické neprofesionality. Primátor, který upírá dětem vzdělání. Když jde o volby ve Vídni, jde solidarita se zadrženým soudruhem v Istanbulu stranou.</description>
-      <guid isPermaLink="false">2e80932f-bf1f-37a7-ae21-2f69391738ca</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7af1edea-b39c-4f6c-8c94-4acbb8820d71.mp3" length="37478061" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Petrem Schwarzem</title>
       <description>Návrat normality. Česko má po pěti letech v pořádku rozpočet. S bílou vlajkou papež nepochodil na Ukrajině ani v Rusku. Za papežem Františkem truchlí i Blízký východ. Ceny bytů ve východní Evropě explodovaly. Smrt afghánského atentátníka míří k soudu.</description>
@@ -86,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7a83c0eb-f496-4dca-9426-11b968ce465d.mp3" length="37453293" type="audio/mpeg"/>
       <pubDate>Tue, 29 Apr 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Petrem Hartmanem</title>
+      <description>Strach z inflace se šíří. Jak ho překonat? Blíží se konec války na Ukrajině? Ale za jakých podmínek? Továrny z 50. let se nikomu nikam nevrátí. Noční můra z maďarského veta. Palestinský prezident jmenoval nástupce.</description>
+      <guid isPermaLink="false">8ad205b2-1a02-3214-9393-8a4b7ecd4277</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e602396b-3d4c-4edf-9e1b-7cbbee8f05ac.mp3" length="37452717" type="audio/mpeg"/>
+      <pubDate>Wed, 30 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
