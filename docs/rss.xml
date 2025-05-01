@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 30 Apr 2025 11:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 11:23:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -77,6 +77,14 @@
       <guid isPermaLink="false">8ad205b2-1a02-3214-9393-8a4b7ecd4277</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e602396b-3d4c-4edf-9e1b-7cbbee8f05ac.mp3" length="37452717" type="audio/mpeg"/>
       <pubDate>Wed, 30 Apr 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">9e988632-97a3-3df4-b81e-e1d4dd780dd9</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6d400e68-1e02-4ff8-b7b1-8371e6b9f740.mp3" length="37433133" type="audio/mpeg"/>
+      <pubDate>Thu, 01 May 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
