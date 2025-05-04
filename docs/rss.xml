@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 03 May 2025 11:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 11:22:42 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
-      <description>Demokracie umírá u volebních uren. Dost bylo lhaní, že je Rusko proti válce. Jak lobbisté zlobbovali zákon o lobbingu k obrazu svému. Filip Turek se chlubí porušováním pravidel. Typický antisystémový politik. Byznys a sen o hubnutí.</description>
-      <guid isPermaLink="false">29fe944f-401c-3f53-825f-fafe92cd7dbb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4cd37433-bccf-4d08-9385-1e5fe879ee39.mp3" length="37414701" type="audio/mpeg"/>
-      <pubDate>Fri, 25 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Petrem Hartmanem</title>
       <description>Jan Souček uvádí: Jak nakonec naštvat úplně všechny. Daně a jak na ně? Český přístup k daním z nemovitosti je dlouhodobě zcela neudržitelný. Co rozhodne? Lužičtí Srbové, národ, který má nás Čechy nejradši, a který chtěl být s námi v jednom státě. Návrat normality. Česko má po pěti letech v pořádku rozpočet. Smrt papeže Františka</description>
@@ -77,6 +69,22 @@
       <guid isPermaLink="false">09e1b807-9cd1-36ac-bdb8-d72493fa5073</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9bf44088-7571-4475-8041-e3409b719076.mp3" length="37456749" type="audio/mpeg"/>
       <pubDate>Fri, 02 May 2025 11:15:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Nemaluj Konečnou na zeď! A proč je tenhle výrok ryzí naivita; V Německu možná nastupuje kabinet poslední šance; Trumpova bláhová představa o věčnosti; Přežijí novináři autokraty?</description>
+      <guid isPermaLink="false">dce340c2-7d15-3882-ae20-60719080e857</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/70e827dc-8942-43b7-a8e9-e232ce0e5fba.mp3" length="35554221" type="audio/mpeg"/>
+      <pubDate>Sat, 03 May 2025 17:15:00 +0000</pubDate>
+      <itunes:duration>1481</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <guid isPermaLink="false">bcd389a8-1f1d-3c8f-8e66-4a45f6a1b07b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fcf933ef-36ec-429f-8f73-060b91695bcf.mp3" length="37460781" type="audio/mpeg"/>
+      <pubDate>Sun, 04 May 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
