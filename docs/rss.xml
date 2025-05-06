@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 05 May 2025 11:24:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 11:25:33 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -70,6 +70,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fcf933ef-36ec-429f-8f73-060b91695bcf.mp3" length="37460781" type="audio/mpeg"/>
       <pubDate>Sun, 04 May 2025 11:30:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Patricií Polanskou</title>
+      <description>Slovenský premiér není před volbami v Česku ani inspirace, ani strašák. Chudoba Čechy neohrožuje, špatná data a neřešení problémů ano. Blíží se legalizace konopí. Češi, mistři v pití.</description>
+      <guid isPermaLink="false">ba07e168-3f81-3584-a64d-7686b898acdc</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6f7fee8c-0d76-4fc1-b92d-de2225ec2e2a.mp3" length="37458477" type="audio/mpeg"/>
+      <pubDate>Mon, 05 May 2025 17:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Výročí, s nímž si v současnosti nevíme rady. Zelenskyj v Praze. Respekt Scholzovi, odcházejícímu muži středu. Warren Buffet jde do důchodu. Lekce z ukrajinské války.</description>
+      <guid isPermaLink="false">705bfc76-3391-3449-9f3f-5cda7780e5bb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2a567cb2-f808-4b56-8f11-dc683bc714fb.mp3" length="37295469" type="audio/mpeg"/>
+      <pubDate>Tue, 06 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1554</itunes:duration>
     </item>
   </channel>
 </rss>
