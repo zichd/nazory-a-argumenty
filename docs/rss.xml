@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 06 May 2025 11:25:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 11:25:15 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Ve vzdělávání vláda něco jiného říká a jiné kroky dělá. Angličtina nebo jiný světový jazyk od 1. třídy? Změnu vítají i rodiče. Nekup to, když je to tak výhodné. Prezident TV Star. Minimální důstojná mzda dává zpětnou vazbu nízké příjmové realitě v Česku.</description>
-      <guid isPermaLink="false">c8a19778-1e50-38c1-b9c4-6a10b4072476</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6d7d6a58-e23d-4264-beaf-9c47de717e67.mp3" length="37283373" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1553</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Hrozí nečitelným Pirátům osud Zelených a Věcí veřejných? Trumpova obchodní válka tlačí EU, aby uzavírala dohody se zbytkem světa. Příliš dlouhý smutek. O nové negramotnosti a kultuře.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2a567cb2-f808-4b56-8f11-dc683bc714fb.mp3" length="37295469" type="audio/mpeg"/>
       <pubDate>Tue, 06 May 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1554</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Jako propuštění z věznice Shawshank. Inflace pod dvěma procenty. Další válka. Tentokrát o satelity. Vládní koalice si dokáže ve Sněmovně komplikovat život sama. Konkláve začíná. Od Merzovy vlády se čeká nový rozjezd Evropské unie.</description>
+      <guid isPermaLink="false">00486ad8-796d-3fae-aa4a-733bb1e844bf</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a7c46610-acac-41cf-a4ad-2ad4ff2135c2.mp3" length="37358829" type="audio/mpeg"/>
+      <pubDate>Wed, 07 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
