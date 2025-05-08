@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 07 May 2025 11:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 11:25:07 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Hrozí nečitelným Pirátům osud Zelených a Věcí veřejných? Trumpova obchodní válka tlačí EU, aby uzavírala dohody se zbytkem světa. Příliš dlouhý smutek. O nové negramotnosti a kultuře.</description>
-      <guid isPermaLink="false">6a15ae6b-6013-3de5-813a-a3c1b20db68e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7a83c0eb-f496-4dca-9426-11b968ce465d.mp3" length="37453293" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Apr 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Petrem Hartmanem</title>
       <description>Strach z inflace se šíří. Jak ho překonat? Blíží se konec války na Ukrajině? Ale za jakých podmínek? Továrny z 50. let se nikomu nikam nevrátí. Noční můra z maďarského veta. Palestinský prezident jmenoval nástupce.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a7c46610-acac-41cf-a4ad-2ad4ff2135c2.mp3" length="37358829" type="audio/mpeg"/>
       <pubDate>Wed, 07 May 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">a02bb5e2-0800-3d76-90d5-67ddda707f46</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e13cf9c8-1dff-4d83-a055-f651e7ee4200.mp3" length="36214893" type="audio/mpeg"/>
+      <pubDate>Thu, 08 May 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1509</itunes:duration>
     </item>
   </channel>
 </rss>
