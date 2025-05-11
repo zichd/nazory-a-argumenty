@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 10 May 2025 11:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 11:22:14 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Janem Fingerlandem</title>
-      <description>Ukrajinsko-americká dohoda o nerostných surovinách. Kolik stojí voják. Proč ministr Válek neprověřil ceny léků. Jak jsem rozhněval ruské vlastence. Ostrov u levého břehu na 1. máje. Jdou po mně</description>
-      <guid isPermaLink="false">09e1b807-9cd1-36ac-bdb8-d72493fa5073</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4e431a81-fd93-4a7b-8d3f-31f8b852dcb0.mp3" length="38092653" type="audio/mpeg"/>
-      <pubDate>Fri, 02 May 2025 11:15:00 +0000</pubDate>
-      <itunes:duration>1587</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
       <description>Nemaluj Konečnou na zeď! A proč je tenhle výrok ryzí naivita; V Německu možná nastupuje kabinet poslední šance; Trumpova bláhová představa o věčnosti; Přežijí novináři autokraty?</description>
@@ -72,12 +64,20 @@
       <itunes:duration>1535</itunes:duration>
     </item>
     <item>
+      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
+      <description>Na Rudém náměstí se pochodovalo, a také mluvilo. Kudy povede katolickou církev systematicky smýšlející pragmatik. S Alternativou pro Německo je třeba se vyrovnat politicky, nikoli zásahem úřadů či soudů. Jiří Bartoška alias Barťák. Další válka, tentokrát o satelity. Výročí, s nímž si v současnosti nevíme rady</description>
+      <guid isPermaLink="false">69f2b43f-2460-3969-ad2a-d17b501a1e2d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aad80ea0-4ca0-426c-bfa3-0c2671460d95.mp3" length="38016621" type="audio/mpeg"/>
+      <pubDate>Sat, 10 May 2025 11:15:00 +0000</pubDate>
+      <itunes:duration>1584</itunes:duration>
+    </item>
+    <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">69f2b43f-2460-3969-ad2a-d17b501a1e2d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e71bff00-19fc-4b76-a186-3560ad7fed1f.mp3" length="37380717" type="audio/mpeg"/>
-      <pubDate>Sat, 10 May 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
+      <guid isPermaLink="false">12ae752e-ddc3-3123-b6a9-dc4195b53338</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ef4872be-23f3-4c68-80eb-83da7222d1a4.mp3" length="35794989" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1491</itunes:duration>
     </item>
   </channel>
 </rss>
