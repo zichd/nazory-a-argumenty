@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 11 May 2025 11:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 11:25:34 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Nemaluj Konečnou na zeď! A proč je tenhle výrok ryzí naivita; V Německu možná nastupuje kabinet poslední šance; Trumpova bláhová představa o věčnosti; Přežijí novináři autokraty?</description>
-      <guid isPermaLink="false">dce340c2-7d15-3882-ae20-60719080e857</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ada6e9a5-bb58-487f-879c-3a99cef33f71.mp3" length="36190125" type="audio/mpeg"/>
-      <pubDate>Sat, 03 May 2025 17:15:00 +0000</pubDate>
-      <itunes:duration>1508</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Stahují se USA z role zprostředkovatele mezi Ruskem a Ukrajinou?; Výročí, na které slovenská vláda jaksi zapomněla; O osudu demokracie mohou ještě stále rozhodnout sami občané; Polsko si chystá nového prezidenta; Sto dní šílenství s Donaldem I.; Při hybridních válkách nelze zapomínat na „domácí frontu“</description>
@@ -64,6 +56,14 @@
       <itunes:duration>1535</itunes:duration>
     </item>
     <item>
+      <title>Poslechněte si všechny páteční komentáře s Janem Fingerlandem</title>
+      <description>Kdo chce válku a kdo mír. Unavený geroj Putin chrání Rus před Západem. Odešel Jiří Bartoška alias Barťák. V Rumunsku má k prezidentství nakročeno George Simion, evropský spojenec Fialovy ODS. Tropický Sovětský svaz Nicoláse Madura.</description>
+      <guid isPermaLink="false">c928530b-dd02-39d5-adc7-cacf9d7d7739</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/c1c572c06e0046bd02cdb872e6403b02.mp3" length="37394496" type="audio/mpeg"/>
+      <pubDate>Fri, 09 May 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
       <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
       <description>Na Rudém náměstí se pochodovalo, a také mluvilo. Kudy povede katolickou církev systematicky smýšlející pragmatik. S Alternativou pro Německo je třeba se vyrovnat politicky, nikoli zásahem úřadů či soudů. Jiří Bartoška alias Barťák. Další válka, tentokrát o satelity. Výročí, s nímž si v současnosti nevíme rady</description>
       <guid isPermaLink="false">69f2b43f-2460-3969-ad2a-d17b501a1e2d</guid>
@@ -72,12 +72,20 @@
       <itunes:duration>1584</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
+      <description>Migranty nahradil národní socialismus. Stovky tisíc exvoličů Spolu by teď nešly volit. Jejich velký omyl? Slovensku hrozí, že ho ostatní začnou úplně ignorovat. Tropický Sovětský svaz Nicoláse Madura. Proměna PPF, konec jedné éry. Co mají společného Ukrajinka, Chorvat a Češka</description>
       <guid isPermaLink="false">12ae752e-ddc3-3123-b6a9-dc4195b53338</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ef4872be-23f3-4c68-80eb-83da7222d1a4.mp3" length="35794989" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/05e27c6e-b081-41b3-9b5a-ec2d6e99ffbd.mp3" length="36430893" type="audio/mpeg"/>
       <pubDate>Sun, 11 May 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1491</itunes:duration>
+      <itunes:duration>1518</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Evropská komise navrhla seznam amerického zboží, na které by EU měla uvalit cla. Proč je zpoždění školského zákona vinou politiků tak nezodpovědné? Regulace nájemného nefunguje. Přesto se valí světem jako lavina. Marné Čechů volání po jednotě v bezpečnostní politice. Umíte číst zprávy?</description>
+      <guid isPermaLink="false">5d9b95ff-a902-3d3a-93c6-da58818ebb9f</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/83be450a-3296-492b-bf82-6825d1d39ae5.mp3" length="37464813" type="audio/mpeg"/>
+      <pubDate>Mon, 12 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
