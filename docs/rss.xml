@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 12 May 2025 11:25:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 11:25:24 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Stahují se USA z role zprostředkovatele mezi Ruskem a Ukrajinou?; Výročí, na které slovenská vláda jaksi zapomněla; O osudu demokracie mohou ještě stále rozhodnout sami občané; Polsko si chystá nového prezidenta; Sto dní šílenství s Donaldem I.; Při hybridních válkách nelze zapomínat na „domácí frontu“</description>
-      <guid isPermaLink="false">bcd389a8-1f1d-3c8f-8e66-4a45f6a1b07b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5ab65961-0090-42e7-902f-e288f07dbede.mp3" length="38096685" type="audio/mpeg"/>
-      <pubDate>Sun, 04 May 2025 11:30:00 +0000</pubDate>
-      <itunes:duration>1587</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Patricií Polanskou</title>
       <description>Slovenský premiér není před volbami v Česku ani inspirace, ani strašák. Chudoba Čechy neohrožuje, špatná data a neřešení problémů ano. Blíží se legalizace konopí. Češi, mistři v pití.</description>
@@ -83,8 +75,16 @@
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Evropská komise navrhla seznam amerického zboží, na které by EU měla uvalit cla. Proč je zpoždění školského zákona vinou politiků tak nezodpovědné? Regulace nájemného nefunguje. Přesto se valí světem jako lavina. Marné Čechů volání po jednotě v bezpečnostní politice. Umíte číst zprávy?</description>
       <guid isPermaLink="false">5d9b95ff-a902-3d3a-93c6-da58818ebb9f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/83be450a-3296-492b-bf82-6825d1d39ae5.mp3" length="37464813" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5dbd9441-fdc2-4540-9a9f-3f5e15a38b48.mp3" length="38100717" type="audio/mpeg"/>
       <pubDate>Mon, 12 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1588</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Vyhrát volby nestačí. Důležitější bude, kdo a s kým sestaví příští vládu. Trump vyráží na Blízký východ. Máme jásat nad tím, že europoslanci rozvolnili pravidla pro emise automobilů? Síla německé demokracie.</description>
+      <guid isPermaLink="false">dd7424da-7f40-36b4-9fe0-410d07ea6038</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/757e77b9-b6d4-4523-9436-9f7c56505fa1.mp3" length="37470573" type="audio/mpeg"/>
+      <pubDate>Tue, 13 May 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
