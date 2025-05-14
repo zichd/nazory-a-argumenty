@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 13 May 2025 11:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 11:25:06 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Patricií Polanskou</title>
-      <description>Slovenský premiér není před volbami v Česku ani inspirace, ani strašák. Chudoba Čechy neohrožuje, špatná data a neřešení problémů ano. Blíží se legalizace konopí. Češi, mistři v pití.</description>
-      <guid isPermaLink="false">ba07e168-3f81-3584-a64d-7686b898acdc</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/36176a7d-3489-475d-adc7-e76c3b4dc293.mp3" length="38094381" type="audio/mpeg"/>
-      <pubDate>Mon, 05 May 2025 17:10:00 +0000</pubDate>
-      <itunes:duration>1587</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Výročí, s nímž si v současnosti nevíme rady. Zelenskyj v Praze. Respekt Scholzovi, odcházejícímu muži středu. Warren Buffet jde do důchodu. Lekce z ukrajinské války.</description>
@@ -83,9 +75,17 @@
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Vyhrát volby nestačí. Důležitější bude, kdo a s kým sestaví příští vládu. Trump vyráží na Blízký východ. Máme jásat nad tím, že europoslanci rozvolnili pravidla pro emise automobilů? Síla německé demokracie.</description>
       <guid isPermaLink="false">dd7424da-7f40-36b4-9fe0-410d07ea6038</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/757e77b9-b6d4-4523-9436-9f7c56505fa1.mp3" length="37470573" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/04661066-4d31-47e3-ad9e-4397fd81d00c.mp3" length="38106477" type="audio/mpeg"/>
       <pubDate>Tue, 13 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
+      <itunes:duration>1588</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Ideální svět není. Byty zase budou zdražovat. Pozdější vyhlášení termínu voleb neférové praktiky nevymýtí. Stejné místo, stejný konflikt, jen trochu jinak rozdané karty. Může Babiš konečně zlikvidovat SOCDEM? Dobrá nálada je zpět. Na necelé tři měsíce.</description>
+      <guid isPermaLink="false">46c331e7-a472-33a4-ad27-3290f6032dbd</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f1037fcb-3eb2-437f-a6b1-8616d78c1bfc.mp3" length="37417581" type="audio/mpeg"/>
+      <pubDate>Wed, 14 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
