@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 14 May 2025 11:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 11:25:13 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Výročí, s nímž si v současnosti nevíme rady. Zelenskyj v Praze. Respekt Scholzovi, odcházejícímu muži středu. Warren Buffet jde do důchodu. Lekce z ukrajinské války.</description>
-      <guid isPermaLink="false">705bfc76-3391-3449-9f3f-5cda7780e5bb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/503ae756-164b-45f2-ac42-0902717f0752.mp3" length="37931373" type="audio/mpeg"/>
-      <pubDate>Tue, 06 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1580</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Jako propuštění z věznice Shawshank. Inflace pod dvěma procenty. Další válka. Tentokrát o satelity. Vládní koalice si dokáže ve Sněmovně komplikovat život sama. Konkláve začíná. Od Merzovy vlády se čeká nový rozjezd Evropské unie.</description>
@@ -83,9 +75,17 @@
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Ideální svět není. Byty zase budou zdražovat. Pozdější vyhlášení termínu voleb neférové praktiky nevymýtí. Stejné místo, stejný konflikt, jen trochu jinak rozdané karty. Může Babiš konečně zlikvidovat SOCDEM? Dobrá nálada je zpět. Na necelé tři měsíce.</description>
       <guid isPermaLink="false">46c331e7-a472-33a4-ad27-3290f6032dbd</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f1037fcb-3eb2-437f-a6b1-8616d78c1bfc.mp3" length="37417581" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/71d391d1-4c3e-4ad5-a891-5d1a16f8fc4c.mp3" length="38053485" type="audio/mpeg"/>
       <pubDate>Wed, 14 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
+      <itunes:duration>1586</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
+      <description>Sen ANO o většinové vládě je v ohrožení. Babiš a Fiala pečou své předvolební dorty. Trump v Sýrii. Končí čínsko-americká celní válka. Údajně. Hranice EU s Ruskem jde středem estonské říčky.</description>
+      <guid isPermaLink="false">cff5d26d-6e43-3fd2-849d-18e7c6b6c54e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b93d94f4-11ec-4f4b-a06e-734f647e255e.mp3" length="37431981" type="audio/mpeg"/>
+      <pubDate>Thu, 15 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
