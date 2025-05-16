@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 15 May 2025 11:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 11:24:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Jako propuštění z věznice Shawshank. Inflace pod dvěma procenty. Další válka. Tentokrát o satelity. Vládní koalice si dokáže ve Sněmovně komplikovat život sama. Konkláve začíná. Od Merzovy vlády se čeká nový rozjezd Evropské unie.</description>
-      <guid isPermaLink="false">00486ad8-796d-3fae-aa4a-733bb1e844bf</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e6472c16-2a95-4d2b-9f37-36b37c293df1.mp3" length="37994733" type="audio/mpeg"/>
-      <pubDate>Wed, 07 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1583</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
       <description>Osmdesát let od konce 2. světové války je pro Čechy érou politických zvratů. Sázka na zdravý rozum může vést na scestí. Merzovo klopýtnutí ukazuje novou nestálost německé politiky. Zneužité oslavy konce války. Reisenauer na Kampě. Květnové spanilé jízdy</description>
@@ -83,9 +75,17 @@
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Sen ANO o většinové vládě je v ohrožení. Babiš a Fiala pečou své předvolební dorty. Trump v Sýrii. Končí čínsko-americká celní válka. Údajně. Hranice EU s Ruskem jde středem estonské říčky.</description>
       <guid isPermaLink="false">cff5d26d-6e43-3fd2-849d-18e7c6b6c54e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b93d94f4-11ec-4f4b-a06e-734f647e255e.mp3" length="37431981" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9b06cf0d-2dc8-418f-8e80-97fe4e25072d.mp3" length="37941821" type="audio/mpeg"/>
       <pubDate>Thu, 15 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
+      <itunes:duration>1581</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Rusko jako velmoc? Zdařilá simulace. Co se (ne)stalo v Istanbulu. O bezpečnosti s prezidentem. Rusové se vyžívají v krutém mučení ukrajinských vězňů. V Polsku se ve volbách prezidenta rozhoduje, jestli bude Tuskova vláda skutečně vládnout.</description>
+      <guid isPermaLink="false">f7e522fd-ffac-3a6b-a8cf-d26018d7e3ab</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a6c67025-9397-4b81-b7a5-b9d2692aac8b.mp3" length="38103597" type="audio/mpeg"/>
+      <pubDate>Fri, 16 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1588</itunes:duration>
     </item>
   </channel>
 </rss>
