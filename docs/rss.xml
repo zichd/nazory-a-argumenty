@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 16 May 2025 11:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 11:22:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
-      <description>Osmdesát let od konce 2. světové války je pro Čechy érou politických zvratů. Sázka na zdravý rozum může vést na scestí. Merzovo klopýtnutí ukazuje novou nestálost německé politiky. Zneužité oslavy konce války. Reisenauer na Kampě. Květnové spanilé jízdy</description>
-      <guid isPermaLink="false">a02bb5e2-0800-3d76-90d5-67ddda707f46</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2178651e-1d4f-4ec3-bd20-7e3f28ec090f.mp3" length="36850797" type="audio/mpeg"/>
-      <pubDate>Thu, 08 May 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1535</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Janem Fingerlandem</title>
       <description>Kdo chce válku a kdo mír. Unavený geroj Putin chrání Rus před Západem. Odešel Jiří Bartoška alias Barťák. V Rumunsku má k prezidentství nakročeno George Simion, evropský spojenec Fialovy ODS. Tropický Sovětský svaz Nicoláse Madura.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a6c67025-9397-4b81-b7a5-b9d2692aac8b.mp3" length="38103597" type="audio/mpeg"/>
       <pubDate>Fri, 16 May 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1588</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">d58881f9-c0f2-3df9-8480-f8ec65649cf2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9e238302-264b-461f-af28-b6cb681f259d.mp3" length="35965485" type="audio/mpeg"/>
+      <pubDate>Sat, 17 May 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1499</itunes:duration>
     </item>
   </channel>
 </rss>
