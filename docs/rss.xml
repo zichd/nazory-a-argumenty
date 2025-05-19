@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 18 May 2025 11:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 11:25:17 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
-      <description>Migranty nahradil národní socialismus. Stovky tisíc exvoličů Spolu by teď nešly volit. Jejich velký omyl? Slovensku hrozí, že ho ostatní začnou úplně ignorovat. Tropický Sovětský svaz Nicoláse Madura. Proměna PPF, konec jedné éry. Co mají společného Ukrajinka, Chorvat a Češka</description>
-      <guid isPermaLink="false">12ae752e-ddc3-3123-b6a9-dc4195b53338</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/05e27c6e-b081-41b3-9b5a-ec2d6e99ffbd.mp3" length="36430893" type="audio/mpeg"/>
-      <pubDate>Sun, 11 May 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1518</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Evropská komise navrhla seznam amerického zboží, na které by EU měla uvalit cla. Proč je zpoždění školského zákona vinou politiků tak nezodpovědné? Regulace nájemného nefunguje. Přesto se valí světem jako lavina. Marné Čechů volání po jednotě v bezpečnostní politice. Umíte číst zprávy?</description>
@@ -72,12 +64,20 @@
       <itunes:duration>1525</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Nejen slova, ale i činy. STAN na sjezdu. Končí kurdská válka v Turecku. Nebo možná ne. Velvyslanec Koštoval vyráží do Moskvy. Ruská kontrarozvědka už ho vyhlíží. Bidenovo chřadnutí nezachránil ani Spielberg. Cruisova mise na záchranu světa v Cannes splněna</description>
       <guid isPermaLink="false">dd3afd71-d740-3afb-a845-bc80d7781a1c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7e363c22-ef44-4df1-a8f8-a3cd7d9c1b2d.mp3" length="37030509" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/62471a36-3267-4dc9-8eea-eaf9aa1276f1.mp3" length="37666413" type="audio/mpeg"/>
       <pubDate>Sun, 18 May 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1543</itunes:duration>
+      <itunes:duration>1569</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
+      <description>Vláda zatím nepředstavila reálný způsob, jak financovat vyšší obranné výdaje. Eutanázie není řešením špatné péče. Pokud vláda přidá peníze na platy vojákům a policistům, musí přidat i špionům BIS. Dočkáme se zaměstnaneckých akcií?</description>
+      <guid isPermaLink="false">8de8ca72-99f6-3fff-a7cc-aa45206a6977</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/514fa07f-0bb3-4637-910d-294ac11a908a.mp3" length="37351917" type="audio/mpeg"/>
+      <pubDate>Mon, 19 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
