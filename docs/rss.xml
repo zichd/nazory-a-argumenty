@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 19 May 2025 11:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 11:25:38 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Evropská komise navrhla seznam amerického zboží, na které by EU měla uvalit cla. Proč je zpoždění školského zákona vinou politiků tak nezodpovědné? Regulace nájemného nefunguje. Přesto se valí světem jako lavina. Marné Čechů volání po jednotě v bezpečnostní politice. Umíte číst zprávy?</description>
-      <guid isPermaLink="false">5d9b95ff-a902-3d3a-93c6-da58818ebb9f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5dbd9441-fdc2-4540-9a9f-3f5e15a38b48.mp3" length="38100717" type="audio/mpeg"/>
-      <pubDate>Mon, 12 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1588</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Vyhrát volby nestačí. Důležitější bude, kdo a s kým sestaví příští vládu. Trump vyráží na Blízký východ. Máme jásat nad tím, že europoslanci rozvolnili pravidla pro emise automobilů? Síla německé demokracie.</description>
@@ -75,9 +67,17 @@
       <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
       <description>Vláda zatím nepředstavila reálný způsob, jak financovat vyšší obranné výdaje. Eutanázie není řešením špatné péče. Pokud vláda přidá peníze na platy vojákům a policistům, musí přidat i špionům BIS. Dočkáme se zaměstnaneckých akcií?</description>
       <guid isPermaLink="false">8de8ca72-99f6-3fff-a7cc-aa45206a6977</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/514fa07f-0bb3-4637-910d-294ac11a908a.mp3" length="37351917" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a5708fe9-5d73-4a69-9022-2733f532c40b.mp3" length="37987245" type="audio/mpeg"/>
       <pubDate>Mon, 19 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
+      <itunes:duration>1583</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Zahraniční politika strany nedělí tolik, jak by se na první pohled mohlo zdát. Telefonní linka Putin-Trump. EU se raduje po velkém volebním víkendu, ale jen opatrně. Motoristé stále brzdící. Polsko: Šanci na prezidenta mají oba kandidáti.</description>
+      <guid isPermaLink="false">7ad27b44-2d7c-374d-8f22-d6dc5a9d2c3e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/74c73a68-e095-4c13-9aaa-5919da410935.mp3" length="37384173" type="audio/mpeg"/>
+      <pubDate>Tue, 20 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
