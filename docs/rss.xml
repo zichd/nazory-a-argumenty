@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 20 May 2025 11:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 11:25:06 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Vyhrát volby nestačí. Důležitější bude, kdo a s kým sestaví příští vládu. Trump vyráží na Blízký východ. Máme jásat nad tím, že europoslanci rozvolnili pravidla pro emise automobilů? Síla německé demokracie.</description>
-      <guid isPermaLink="false">dd7424da-7f40-36b4-9fe0-410d07ea6038</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/04661066-4d31-47e3-ad9e-4397fd81d00c.mp3" length="38106477" type="audio/mpeg"/>
-      <pubDate>Tue, 13 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1588</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Ideální svět není. Byty zase budou zdražovat. Pozdější vyhlášení termínu voleb neférové praktiky nevymýtí. Stejné místo, stejný konflikt, jen trochu jinak rozdané karty. Může Babiš konečně zlikvidovat SOCDEM? Dobrá nálada je zpět. Na necelé tři měsíce.</description>
@@ -75,8 +67,16 @@
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Zahraniční politika strany nedělí tolik, jak by se na první pohled mohlo zdát. Telefonní linka Putin-Trump. EU se raduje po velkém volebním víkendu, ale jen opatrně. Motoristé stále brzdící. Polsko: Šanci na prezidenta mají oba kandidáti.</description>
       <guid isPermaLink="false">7ad27b44-2d7c-374d-8f22-d6dc5a9d2c3e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/74c73a68-e095-4c13-9aaa-5919da410935.mp3" length="37384173" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/651cb283-d2a5-460a-800c-8bb640fcb7a2.mp3" length="38019501" type="audio/mpeg"/>
       <pubDate>Tue, 20 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1584</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Kdo zastaví „velký krásný zákon“? Tři eskalace války v Gaze. Prezident vytyčil hranici pro jmenování ministrů. Evropané brzy opustí ráj z Temu a Sheinu.</description>
+      <guid isPermaLink="false">acab60a4-be84-330c-8e27-ed17c306a7df</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/927a71ab-d0f5-427e-8cd2-ee17179ce5ff.mp3" length="37394541" type="audio/mpeg"/>
+      <pubDate>Wed, 21 May 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
