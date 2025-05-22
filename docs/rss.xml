@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 21 May 2025 11:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 11:25:25 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
-      <description>Ideální svět není. Byty zase budou zdražovat. Pozdější vyhlášení termínu voleb neférové praktiky nevymýtí. Stejné místo, stejný konflikt, jen trochu jinak rozdané karty. Může Babiš konečně zlikvidovat SOCDEM? Dobrá nálada je zpět. Na necelé tři měsíce.</description>
-      <guid isPermaLink="false">46c331e7-a472-33a4-ad27-3290f6032dbd</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/71d391d1-4c3e-4ad5-a891-5d1a16f8fc4c.mp3" length="38053485" type="audio/mpeg"/>
-      <pubDate>Wed, 14 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1586</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Sen ANO o většinové vládě je v ohrožení. Babiš a Fiala pečou své předvolební dorty. Trump v Sýrii. Končí čínsko-americká celní válka. Údajně. Hranice EU s Ruskem jde středem estonské říčky.</description>
@@ -75,9 +67,17 @@
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Kdo zastaví „velký krásný zákon“? Tři eskalace války v Gaze. Prezident vytyčil hranici pro jmenování ministrů. Evropané brzy opustí ráj z Temu a Sheinu.</description>
       <guid isPermaLink="false">acab60a4-be84-330c-8e27-ed17c306a7df</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/927a71ab-d0f5-427e-8cd2-ee17179ce5ff.mp3" length="37394541" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ae465913-b9dc-4d53-8cf9-1ea8a4906206.mp3" length="38030445" type="audio/mpeg"/>
       <pubDate>Wed, 21 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
+      <itunes:duration>1585</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
+      <description>Trump zatím kráčí od prohry k prohře. O co přijdeme, když nepostavíme Dukovany? Vláda se ráda chlubí zahraniční politikou. Na přehlížení válečných zločinů v Gaze ale nic k chlubení není. O smutných očích Ivana Olbrachta.</description>
+      <guid isPermaLink="false">96000a9d-d784-340b-bed1-d7cbf3910243</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fce22f14-b54f-40e6-b52c-c590aa3f05d4.mp3" length="37309293" type="audio/mpeg"/>
+      <pubDate>Thu, 22 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
