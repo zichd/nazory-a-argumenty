@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 22 May 2025 11:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 11:24:33 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -73,11 +73,19 @@
     </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
-      <description>Trump zatím kráčí od prohry k prohře. O co přijdeme, když nepostavíme Dukovany? Vláda se ráda chlubí zahraniční politikou. Na přehlížení válečných zločinů v Gaze ale nic k chlubení není. O smutných očích Ivana Olbrachta.</description>
+      <description>Trump zatím kráčí od prohry k prohře. Oč přijdeme, když nepostavíme Dukovany? Vláda se ráda chlubí zahraniční politikou. Na přehlížení válečných zločinů v Gaze ale nic k chlubení není. O smutných očích Ivana Olbrachta.</description>
       <guid isPermaLink="false">96000a9d-d784-340b-bed1-d7cbf3910243</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fce22f14-b54f-40e6-b52c-c590aa3f05d4.mp3" length="37309293" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f61043d8-1158-40b4-b15e-bab6bb663361.mp3" length="37945197" type="audio/mpeg"/>
       <pubDate>Thu, 22 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
+      <itunes:duration>1581</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
+      <description>V digitalizaci vítězí Česko nad Německem na celé čáře. Vražda izraelských diplomatů ve Washingtonu. EU zahájila proces revize asociační dohody s Izraelem. Rusem snadno a rychle.</description>
+      <guid isPermaLink="false">ef655a0e-22d8-3bf6-9abc-0e3dd5a6bc97</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6a98ee6c-10d5-4a02-883c-fe4e41f1bb33.mp3" length="37209645" type="audio/mpeg"/>
+      <pubDate>Fri, 23 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1550</itunes:duration>
     </item>
   </channel>
 </rss>
