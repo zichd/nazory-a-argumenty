@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 23 May 2025 11:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 11:22:20 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Sen ANO o většinové vládě je v ohrožení. Babiš a Fiala pečou své předvolební dorty. Trump v Sýrii. Končí čínsko-americká celní válka. Údajně. Hranice EU s Ruskem jde středem estonské říčky.</description>
-      <guid isPermaLink="false">cff5d26d-6e43-3fd2-849d-18e7c6b6c54e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9b06cf0d-2dc8-418f-8e80-97fe4e25072d.mp3" length="37941821" type="audio/mpeg"/>
-      <pubDate>Thu, 15 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1581</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Rusko jako velmoc? Zdařilá simulace. Co se (ne)stalo v Istanbulu. O bezpečnosti s prezidentem. Rusové se vyžívají v krutém mučení ukrajinských vězňů. V Polsku se ve volbách prezidenta rozhoduje, jestli bude Tuskova vláda skutečně vládnout.</description>
@@ -83,9 +75,17 @@
       <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
       <description>V digitalizaci vítězí Česko nad Německem na celé čáře. Vražda izraelských diplomatů ve Washingtonu. EU zahájila proces revize asociační dohody s Izraelem. Rusem snadno a rychle.</description>
       <guid isPermaLink="false">ef655a0e-22d8-3bf6-9abc-0e3dd5a6bc97</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6a98ee6c-10d5-4a02-883c-fe4e41f1bb33.mp3" length="37209645" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a3833a92-8a63-4761-bb6c-8ea92e6d419e.mp3" length="37845549" type="audio/mpeg"/>
       <pubDate>Fri, 23 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1550</itunes:duration>
+      <itunes:duration>1577</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">fe83c2c0-7ce5-3933-bea9-a4d02ce5c495</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/634ddcc2-eded-415b-aa7c-cbe156fa42d1.mp3" length="37485549" type="audio/mpeg"/>
+      <pubDate>Sat, 24 May 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
