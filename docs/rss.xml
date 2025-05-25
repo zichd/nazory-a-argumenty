@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 24 May 2025 11:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 11:22:29 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Rusko jako velmoc? Zdařilá simulace. Co se (ne)stalo v Istanbulu. O bezpečnosti s prezidentem. Rusové se vyžívají v krutém mučení ukrajinských vězňů. V Polsku se ve volbách prezidenta rozhoduje, jestli bude Tuskova vláda skutečně vládnout.</description>
-      <guid isPermaLink="false">f7e522fd-ffac-3a6b-a8cf-d26018d7e3ab</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a6c67025-9397-4b81-b7a5-b9d2692aac8b.mp3" length="38103597" type="audio/mpeg"/>
-      <pubDate>Fri, 16 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1588</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
       <description>První přímé jednání mezi Ruskem a Ukrajinou po více než třech letech. Nedůvěra ve volby klade otázku, zda vůbec může přežít demokracie. Maláčová se nejspíš rozhodla pohřbít sociální demokracii. Fico v Putinových stopách. Volá po míru, ale pokračuje ve válce. Výsledek prezidentských voleb bude mít větší dopad vzhledem k rostoucí úloze Polska v Evropě. Zemřel „nejskromnější prezident“ Jose „Pepe“ Mujica</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1577</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Jan Fingerland.</description>
+      <title>Poslechněte si všechny sobotní komentáře s Janem Fingerlandem</title>
+      <description>Lživé billboardy nejsou trestné. Ale o „zločin“ přesto jde; Situace v ukrajinské armádě; Teď jde o všechno. Koalice Spolu ale zas zahájila kampaň sérii výkřiků; Složité umění odcházení v podání Elona Muska; Gastarbeiter jako učebnicový uprchlík</description>
       <guid isPermaLink="false">fe83c2c0-7ce5-3933-bea9-a4d02ce5c495</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/634ddcc2-eded-415b-aa7c-cbe156fa42d1.mp3" length="37485549" type="audio/mpeg"/>
-      <pubDate>Sat, 24 May 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/342a7395-7fa4-49c9-8a8a-86d00a96e2c3.mp3" length="38121453" type="audio/mpeg"/>
+      <pubDate>Sat, 24 May 2025 11:17:00 +0000</pubDate>
+      <itunes:duration>1588</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">dedd04de-3ebb-37cc-a31c-b10ea1761e9f</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b09ec58a-153f-494e-b14c-0c24857c1f0c.mp3" length="37408941" type="audio/mpeg"/>
+      <pubDate>Sun, 25 May 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
