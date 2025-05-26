@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 25 May 2025 11:22:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 11:23:23 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>První přímé jednání mezi Ruskem a Ukrajinou po více než třech letech. Nedůvěra ve volby klade otázku, zda vůbec může přežít demokracie. Maláčová se nejspíš rozhodla pohřbít sociální demokracii. Fico v Putinových stopách. Volá po míru, ale pokračuje ve válce. Výsledek prezidentských voleb bude mít větší dopad vzhledem k rostoucí úloze Polska v Evropě. Zemřel „nejskromnější prezident“ Jose „Pepe“ Mujica</description>
-      <guid isPermaLink="false">d58881f9-c0f2-3df9-8480-f8ec65649cf2</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8841583a-60fb-4b59-83a9-3c3ea9784ef6.mp3" length="36601389" type="audio/mpeg"/>
-      <pubDate>Sat, 17 May 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1525</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Nejen slova, ale i činy. STAN na sjezdu. Končí kurdská válka v Turecku. Nebo možná ne. Velvyslanec Koštoval vyráží do Moskvy. Ruská kontrarozvědka už ho vyhlíží. Bidenovo chřadnutí nezachránil ani Spielberg. Cruisova mise na záchranu světa v Cannes splněna</description>
-      <guid isPermaLink="false">dd3afd71-d740-3afb-a845-bc80d7781a1c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/62471a36-3267-4dc9-8eea-eaf9aa1276f1.mp3" length="37666413" type="audio/mpeg"/>
-      <pubDate>Sun, 18 May 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1569</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
       <description>Vláda zatím nepředstavila reálný způsob, jak financovat vyšší obranné výdaje. Eutanázie není řešením špatné péče. Pokud vláda přidá peníze na platy vojákům a policistům, musí přidat i špionům BIS. Dočkáme se zaměstnaneckých akcií?</description>
@@ -80,12 +64,20 @@
       <itunes:duration>1588</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Hartman.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Hartmanem</title>
+      <description>Prezident Pavel mezi líbivými gesty a státnickými kroky; U státní maturity propadli politici; Slovensko se v očích Čechů propadá. Dostihnout to může i Babiše; Tajné služby čekají další ruské kybernetické útoky v Evropě; Pachatelem podle barvy pleti; České průšvihy 1945-1948</description>
       <guid isPermaLink="false">dedd04de-3ebb-37cc-a31c-b10ea1761e9f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b09ec58a-153f-494e-b14c-0c24857c1f0c.mp3" length="37408941" type="audio/mpeg"/>
-      <pubDate>Sun, 25 May 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1a0b396b-8069-4598-9096-2efe5b2e807c.mp3" length="38044845" type="audio/mpeg"/>
+      <pubDate>Sun, 25 May 2025 11:26:00 +0000</pubDate>
+      <itunes:duration>1585</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Konrádem</title>
+      <description>Další důležité změny v přijímacím řízení na střední školy vláda nechystá. Návrh zdražit dopravu ve Středočeském kraji a Praze. Evropané slibují Ukrajině podporu za všech okolností, bez Trumpa ale zatím nevědí jak. A Polsko před druhým kolem prezidentské volby. To jsou témata pondělních Názorů a argumentů, jimiž provází Ondřej Konrád.</description>
+      <guid isPermaLink="false">0d6acb77-c68a-3389-ab0f-918ad7343393</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f568a5d3-82db-4fc2-9c1b-ca0de51908ed.mp3" length="37459629" type="audio/mpeg"/>
+      <pubDate>Mon, 26 May 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
