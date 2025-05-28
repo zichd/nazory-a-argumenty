@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 27 May 2025 11:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 11:25:38 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
-      <description>Vláda zatím nepředstavila reálný způsob, jak financovat vyšší obranné výdaje. Eutanázie není řešením špatné péče. Pokud vláda přidá peníze na platy vojákům a policistům, musí přidat i špionům BIS. Dočkáme se zaměstnaneckých akcií?</description>
-      <guid isPermaLink="false">8de8ca72-99f6-3fff-a7cc-aa45206a6977</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/514fa07f-0bb3-4637-910d-294ac11a908a.mp3" length="37351917" type="audio/mpeg"/>
-      <pubDate>Mon, 19 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Zahraniční politika strany nedělí tolik, jak by se na první pohled mohlo zdát. Telefonní linka Putin-Trump. EU se raduje po velkém volebním víkendu, ale jen opatrně. Motoristé stále brzdící. Polsko: Šanci na prezidenta mají oba kandidáti.</description>
@@ -80,11 +72,19 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Předvolební atmosféru zahustí i několik soudních verdiktů. Trumpova hrozba padesátiprocentními cly sice odložena, přetrvává však pocit bezradnosti. Palestinští ozbrojenci odcházejí ze Sýrie a Libanonu. Svoboda v hrsti diktátora Madura. Bitva o balíky: příběh kapitalismu. A studený máj. To jsou témata úterních Názorů a argumentů s Petrem Schwarzem.</description>
       <guid isPermaLink="false">d6af4d2c-57f5-3643-8bcf-0b91ce2aae95</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/382e0d68-1dc6-49bd-831c-e6e4dba0adb2.mp3" length="37316205" type="audio/mpeg"/>
-      <pubDate>Tue, 27 May 2025 10:34:00 +0000</pubDate>
+      <pubDate>Tue, 27 May 2025 11:44:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">2b5bb753-1088-32a1-b5d8-4e1fac2b24f0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/43364dea-0945-4dd8-b8bc-79ba8508f4ef.mp3" length="37313901" type="audio/mpeg"/>
+      <pubDate>Wed, 28 May 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
