@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 28 May 2025 11:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 11:25:10 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Zahraniční politika strany nedělí tolik, jak by se na první pohled mohlo zdát. Telefonní linka Putin-Trump. EU se raduje po velkém volebním víkendu, ale jen opatrně. Motoristé stále brzdící. Polsko: Šanci na prezidenta mají oba kandidáti.</description>
-      <guid isPermaLink="false">7ad27b44-2d7c-374d-8f22-d6dc5a9d2c3e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/74c73a68-e095-4c13-9aaa-5919da410935.mp3" length="37384173" type="audio/mpeg"/>
-      <pubDate>Tue, 20 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Kdo zastaví „velký krásný zákon“? Tři eskalace války v Gaze. Prezident vytyčil hranici pro jmenování ministrů. Evropané brzy opustí ráj z Temu a Sheinu.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1555</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Jan Fingerland.</description>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Začala letní ruská ofenziva na Ukrajině? Měli by mladí lidé volit v Česku už od 17 let? Jaké auto by chtěl každý? Proč politici nechtějí kádrovat? Čím teď ohrožuje Evropskou unii maďarský premiér Viktor Orbán? A jak je možné, že rodina Donalda Trumpa neustále bohatne? Středečními Názory a argumenty provází Jan Fingerland.</description>
       <guid isPermaLink="false">2b5bb753-1088-32a1-b5d8-4e1fac2b24f0</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/43364dea-0945-4dd8-b8bc-79ba8508f4ef.mp3" length="37313901" type="audio/mpeg"/>
-      <pubDate>Wed, 28 May 2025 10:34:00 +0000</pubDate>
+      <pubDate>Wed, 28 May 2025 11:19:00 +0000</pubDate>
       <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
+      <description>Trumpův „krásný“ zákon a dluhový strop jsou třaskavá směs. Hlasy krajanů výsledek voleb neovlivní. Měli bychom umět vyloučit Maďarsko z EU. Doba, kdy to může být třeba, se blíží. Trumpův „zlatý deštník“. Merzovo varování Ficově vládě. Domino aneb pohodlí je tyran</description>
+      <guid isPermaLink="false">03bdbf7b-655d-3849-b241-a0711af458d2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2291a27f-5814-48ff-8dcb-6125e617803a.mp3" length="37426221" type="audio/mpeg"/>
+      <pubDate>Thu, 29 May 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
