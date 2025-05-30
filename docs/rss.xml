@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 29 May 2025 11:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 11:24:34 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Kdo zastaví „velký krásný zákon“? Tři eskalace války v Gaze. Prezident vytyčil hranici pro jmenování ministrů. Evropané brzy opustí ráj z Temu a Sheinu.</description>
-      <guid isPermaLink="false">acab60a4-be84-330c-8e27-ed17c306a7df</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/927a71ab-d0f5-427e-8cd2-ee17179ce5ff.mp3" length="37394541" type="audio/mpeg"/>
-      <pubDate>Wed, 21 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
       <description>Trump zatím kráčí od prohry k prohře. Oč přijdeme, když nepostavíme Dukovany? Vláda se ráda chlubí zahraniční politikou. Na přehlížení válečných zločinů v Gaze ale nic k chlubení není. O smutných očích Ivana Olbrachta.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2291a27f-5814-48ff-8dcb-6125e617803a.mp3" length="37426221" type="audio/mpeg"/>
       <pubDate>Thu, 29 May 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">5a4f7bbf-e028-3314-8dc5-a0203b89e917</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/03536125-0d52-4f0e-9b72-7523af49e11b.mp3" length="37455597" type="audio/mpeg"/>
+      <pubDate>Fri, 30 May 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
