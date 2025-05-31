@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 30 May 2025 11:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 11:23:06 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
-      <description>Trump zatím kráčí od prohry k prohře. Oč přijdeme, když nepostavíme Dukovany? Vláda se ráda chlubí zahraniční politikou. Na přehlížení válečných zločinů v Gaze ale nic k chlubení není. O smutných očích Ivana Olbrachta.</description>
-      <guid isPermaLink="false">96000a9d-d784-340b-bed1-d7cbf3910243</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fce22f14-b54f-40e6-b52c-c590aa3f05d4.mp3" length="37309293" type="audio/mpeg"/>
-      <pubDate>Thu, 22 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
       <description>V digitalizaci vítězí Česko nad Německem na celé čáře. Vražda izraelských diplomatů ve Washingtonu. EU zahájila proces revize asociační dohody s Izraelem. Rusem snadno a rychle.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1559</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Všechno zlé je k něčemu dobré. Trumpův ješitný boj s Harvardem. Rusko je připraveno válčit věčně. Etanazie ve volebním programu STAN. Když se AI brání vypnutí. Šťastný chutělec</description>
       <guid isPermaLink="false">5a4f7bbf-e028-3314-8dc5-a0203b89e917</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/03536125-0d52-4f0e-9b72-7523af49e11b.mp3" length="37455597" type="audio/mpeg"/>
-      <pubDate>Fri, 30 May 2025 10:34:00 +0000</pubDate>
+      <pubDate>Fri, 30 May 2025 11:15:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">0f08401a-7383-387e-aa60-6b79255eecea</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c8384773-e065-4df5-812b-74d6f0510af4.mp3" length="36817389" type="audio/mpeg"/>
+      <pubDate>Sat, 31 May 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1534</itunes:duration>
     </item>
   </channel>
 </rss>
