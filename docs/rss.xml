@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 31 May 2025 11:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 11:23:45 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
-      <description>V digitalizaci vítězí Česko nad Německem na celé čáře. Vražda izraelských diplomatů ve Washingtonu. EU zahájila proces revize asociační dohody s Izraelem. Rusem snadno a rychle.</description>
-      <guid isPermaLink="false">ef655a0e-22d8-3bf6-9abc-0e3dd5a6bc97</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6a98ee6c-10d5-4a02-883c-fe4e41f1bb33.mp3" length="37209645" type="audio/mpeg"/>
-      <pubDate>Fri, 23 May 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1550</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Janem Fingerlandem</title>
-      <description>Lživé billboardy nejsou trestné. Ale o „zločin“ přesto jde; Situace v ukrajinské armádě; Teď jde o všechno. Koalice Spolu ale zas zahájila kampaň sérii výkřiků; Složité umění odcházení v podání Elona Muska; Gastarbeiter jako učebnicový uprchlík</description>
-      <guid isPermaLink="false">fe83c2c0-7ce5-3933-bea9-a4d02ce5c495</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/634ddcc2-eded-415b-aa7c-cbe156fa42d1.mp3" length="37485549" type="audio/mpeg"/>
-      <pubDate>Sat, 24 May 2025 11:17:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Hartmanem</title>
       <description>Prezident Pavel mezi líbivými gesty a státnickými kroky; U státní maturity propadli politici; Slovensko se v očích Čechů propadá. Dostihnout to může i Babiše; Tajné služby čekají další ruské kybernetické útoky v Evropě; Pachatelem podle barvy pleti; České průšvihy 1945-1948</description>
@@ -80,12 +64,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Ondřej Konrád.</description>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Blažek, bitcoiny a demise. Smutné vyhlídky pro mír na Ukrajině. Kufřík s dvojitým dnem. Stromy v Paříži. Trumpova hrozba padesátiprocentními cly sice odložena, přetrvává však pocit bezradnosti. Trumpova rodina bohatne. Nejen během státních návštěv</description>
       <guid isPermaLink="false">0f08401a-7383-387e-aa60-6b79255eecea</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c8384773-e065-4df5-812b-74d6f0510af4.mp3" length="36817389" type="audio/mpeg"/>
       <pubDate>Sat, 31 May 2025 10:33:00 +0000</pubDate>
       <itunes:duration>1534</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <guid isPermaLink="false">0d0d4d47-2e93-3310-be53-66ab5e568e1e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6304b16b-35b9-46a3-87b1-727aef550930.mp3" length="36498285" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Jun 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1521</itunes:duration>
     </item>
   </channel>
 </rss>
