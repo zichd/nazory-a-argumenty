@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 01 Jun 2025 11:23:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 11:26:12 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Hartmanem</title>
-      <description>Prezident Pavel mezi líbivými gesty a státnickými kroky; U státní maturity propadli politici; Slovensko se v očích Čechů propadá. Dostihnout to může i Babiše; Tajné služby čekají další ruské kybernetické útoky v Evropě; Pachatelem podle barvy pleti; České průšvihy 1945-1948</description>
-      <guid isPermaLink="false">dedd04de-3ebb-37cc-a31c-b10ea1761e9f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b09ec58a-153f-494e-b14c-0c24857c1f0c.mp3" length="37408941" type="audio/mpeg"/>
-      <pubDate>Sun, 25 May 2025 11:26:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Konrádem</title>
       <description>Další důležité změny v přijímacím řízení na střední školy vláda nechystá. Návrh zdražit dopravu ve Středočeském kraji a Praze. Evropané slibují Ukrajině podporu za všech okolností, bez Trumpa ale zatím nevědí jak. A Polsko před druhým kolem prezidentské volby. To jsou témata pondělních Názorů a argumentů, jimiž provází Ondřej Konrád.</description>
@@ -72,12 +64,28 @@
       <itunes:duration>1534</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Politický odkaz Pavla Blažka. Afrika jde doprava. Hrdá a odvážná Milada Horáková. Uvízne znovu Babiš ve svěrací kazajce střetu zájmů? Cannes – výpadek optimismu ze současného světa. Svoboda v hrsti diktátora Madura</description>
       <guid isPermaLink="false">0d0d4d47-2e93-3310-be53-66ab5e568e1e</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6304b16b-35b9-46a3-87b1-727aef550930.mp3" length="36498285" type="audio/mpeg"/>
       <pubDate>Sun, 01 Jun 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1521</itunes:duration>
+    </item>
+    <item>
+      <title>Karel Hvížďala: Hrdá a odvážná Milada Horáková</title>
+      <description>„Neplačte – neteskněte moc – je mi to takhle lepší než pozvolna umírat. Dlouhou nesvobodu už by mé srdce nevydrželo. Takto se rozletím zase do polí a luk, strání a k rybníkům, na hory i nížiny. Budu zase nespoutaná, a ten klid a mír. Dejte mi ho – bylo toho tolik, co bylo nutno překonávat – chci už jít. Už se zase vidím nově na světě...</description>
+      <guid isPermaLink="false">9485902</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/80f27825caab02ef8c68b8eb5a5a578f.mp3" length="36493056" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Jun 2025 13:30:00 +0000</pubDate>
+      <itunes:duration>1521</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">82b89563-396b-33ed-bd5c-86652ca1517d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4e3798d4-8e95-48a2-95ed-e35d8f3525ac.mp3" length="37245933" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Jun 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
