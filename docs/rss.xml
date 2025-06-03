@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 02 Jun 2025 11:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 11:25:57 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -80,12 +80,20 @@
       <itunes:duration>1521</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Jan Fingerland.</description>
+      <title>Poslechněte si všechny komentáře s Janem Fingerlandem</title>
+      <description>Co přinese rezignace ministra spravedlnosti Pavla Blažka, komentuje Petr Hartman. Dále uslyšíte o tom, co znamená vítězství Karola Nawrockého v polských prezidentských volbách. Proč je nebezpečné, když slovenský ministr vnitra přirovnává úplatkáře k Miladě Horákové? Jak se utrácí před volbami? Filip Turek jde to českých parlamentních voleb. A Osudové zastavení podle Ondřeje Neffa.</description>
       <guid isPermaLink="false">82b89563-396b-33ed-bd5c-86652ca1517d</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4e3798d4-8e95-48a2-95ed-e35d8f3525ac.mp3" length="37245933" type="audio/mpeg"/>
-      <pubDate>Mon, 02 Jun 2025 10:34:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jun 2025 11:36:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Pro opozici přišla bitcoinová kauza jako na zavolanou. Co se (ne)domluvilo v Istanbulu. Nawrockého vítězství je předzvěstí velkých problémů, nejen pro Polsko, ale pro celou EU. Merzova jízda v zahraniční politice pokračuje. Ale jak dlouho mu elán vydrží? Švédové popsali, jak funguje ruská dezinformační agentura SDA.</description>
+      <guid isPermaLink="false">06357d54-1f57-3a9a-b404-63db3ffd4cf8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c94d250f-96fe-4f53-b48e-639746949f1c.mp3" length="36879597" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Jun 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1537</itunes:duration>
     </item>
   </channel>
 </rss>
