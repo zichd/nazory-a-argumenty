@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 04 Jun 2025 11:26:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 11:26:18 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Předvolební atmosféru zahustí i několik soudních verdiktů. Trumpova hrozba padesátiprocentními cly sice odložena, přetrvává však pocit bezradnosti. Palestinští ozbrojenci odcházejí ze Sýrie a Libanonu. Svoboda v hrsti diktátora Madura. Bitva o balíky: příběh kapitalismu. A studený máj. To jsou témata úterních Názorů a argumentů s Petrem Schwarzem.</description>
-      <guid isPermaLink="false">d6af4d2c-57f5-3643-8bcf-0b91ce2aae95</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/382e0d68-1dc6-49bd-831c-e6e4dba0adb2.mp3" length="37316205" type="audio/mpeg"/>
-      <pubDate>Tue, 27 May 2025 11:44:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Začala letní ruská ofenziva na Ukrajině? Měli by mladí lidé volit v Česku už od 17 let? Jaké auto by chtěl každý? Proč politici nechtějí kádrovat? Čím teď ohrožuje Evropskou unii maďarský premiér Viktor Orbán? A jak je možné, že rodina Donalda Trumpa neustále bohatne? Středečními Názory a argumenty provází Jan Fingerland.</description>
@@ -94,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/786bc1ba-9c85-461b-8dc2-1ee5050413d6.mp3" length="37332909" type="audio/mpeg"/>
       <pubDate>Wed, 04 Jun 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
+      <description>Projekt vlády bez premiéra zkrachoval. Klíč k dalšímu politickému vývoji drží STAN. Je čas vyhlásit konkurz na premiéra. Nizozemská vláda padla. Prokleté neziskové organizace.</description>
+      <guid isPermaLink="false">d4fabf2a-577d-36f5-bc2d-953e1859b0f7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6a78abdb-a12f-4e20-993e-85b496074368.mp3" length="37457325" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Jun 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
