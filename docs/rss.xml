@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 10 Jun 2025 11:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 11:25:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Pro opozici přišla bitcoinová kauza jako na zavolanou. Co se (ne)domluvilo v Istanbulu. Nawrockého vítězství je předzvěstí velkých problémů, nejen pro Polsko, ale pro celou EU. Merzova jízda v zahraniční politice pokračuje. Ale jak dlouho mu elán vydrží? Švédové popsali, jak funguje ruská dezinformační agentura SDA.</description>
-      <guid isPermaLink="false">06357d54-1f57-3a9a-b404-63db3ffd4cf8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/141d60a9-fa54-4afa-8953-73ed34c82c18.mp3" length="37528173" type="audio/mpeg"/>
-      <pubDate>Tue, 03 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1564</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Američané přestávají nakupovat, recese je na obzoru. Odpovědnost podle ministra Jurečky. Kterak stát k miliardě a k velkému průšvihu přišel. Turecko je světový hráč ve zbrojní výrobě. Česko je na cestě k zásadnímu zákonu, který může zlepšit životy dětí.</description>
@@ -75,9 +67,17 @@
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Eva Decroix, talentovaná politička ve špatnou chvíli na špatném místě. Národní garda v ulicích LA. Proč česká opozice sází na rozleptávání důvěry ve férovost voleb? Čechy a sudetské Němce spojuje láska k Česku. Nenávist a výčitky mizí. Maxi novela trestního zákoníku může vnést spravedlnost do případů kolem konopí. Konečně.</description>
       <guid isPermaLink="false">b88bc001-72e4-3207-92b9-d68c54765d81</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c8e3ce12-8c5f-4930-b95c-709f3a5dc892.mp3" length="37392237" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/20e5b937-5a78-437d-a357-14cdda384259.mp3" length="38173293" type="audio/mpeg"/>
       <pubDate>Tue, 10 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
+      <itunes:duration>1591</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Proč zdražování potravin nikdo nezastaví. Bitcoiny, STAN a ODS. Hnutí ANO už má zase problém s Brnem. Trump chce nahradit akademiky praktickými patrioty. Podobnost 30. let a let současných ve střední Evropě.</description>
+      <guid isPermaLink="false">b35c0107-f781-3f52-a972-7cd1aec70124</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/02352c80-e56c-43d7-ac2c-390efac5387f.mp3" length="37468269" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Jun 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
