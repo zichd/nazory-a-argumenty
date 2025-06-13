@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 12 Jun 2025 11:25:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 11:25:59 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
-      <description>Projekt vlády bez premiéra zkrachoval. Klíč k dalšímu politickému vývoji drží STAN. Je čas vyhlásit konkurz na premiéra. Nizozemská vláda padla. Prokleté neziskové organizace.</description>
-      <guid isPermaLink="false">d4fabf2a-577d-36f5-bc2d-953e1859b0f7</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4e595e75-27f4-421b-b7d9-31eabb557433.mp3" length="38105901" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1588</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Babišův triumf… A co pak? Sněmovna o bitcoinové kauze. Když létají třísky. Nejchudší země Evropy Bulharsko bude platit eurem. Políček Čechům? Muskovo smutné zklamání z Krále Ubu.</description>
@@ -75,9 +67,17 @@
       <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
       <description>Vládní koalice zůstane na společné lodi. Ta ale nabírá vodu. Kauza za všechny peníze. Nebo minimálně za pět procent. O rusko-čínských (ne)přátelských vztazích. Evropský soud směřuje k odsouzení Maďarska se značnými politickými důsledky. Třetina romských žen čelí domácímu násilí. Jde o stejný počet jako u majoritní společnosti.</description>
       <guid isPermaLink="false">cb3d44e9-d0a1-33fd-8afc-a20e2acfb898</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/97225179-19f7-4d94-9efa-6d87be833494.mp3" length="37167021" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5ccaa81e-195a-452f-9acb-2630228fb08a.mp3" length="37815597" type="audio/mpeg"/>
       <pubDate>Thu, 12 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1549</itunes:duration>
+      <itunes:duration>1576</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
+      <description>Pochopení minulosti je klíčem k budoucnosti. Bitcoinová kauza začíná dávat smysl. Tusk dostal důvěru, ale co bude dál? Na modly se v Rusku nesahá. Ani na Navalného.</description>
+      <guid isPermaLink="false">aa18edd3-df88-395f-989d-621c13747dbe</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c0f3ca7d-4e73-447f-8501-4244097b1943.mp3" length="37195821" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Jun 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1550</itunes:duration>
     </item>
   </channel>
 </rss>
