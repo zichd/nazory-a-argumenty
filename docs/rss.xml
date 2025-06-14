@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 13 Jun 2025 11:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 11:23:15 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -75,9 +75,17 @@
       <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
       <description>Pochopení minulosti je klíčem k budoucnosti. Bitcoinová kauza začíná dávat smysl. Tusk dostal důvěru, ale co bude dál? Na modly se v Rusku nesahá. Ani na Navalného.</description>
       <guid isPermaLink="false">aa18edd3-df88-395f-989d-621c13747dbe</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c0f3ca7d-4e73-447f-8501-4244097b1943.mp3" length="37195821" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d183c2e5-9272-4043-9d7c-ea4199822663.mp3" length="37844397" type="audio/mpeg"/>
       <pubDate>Fri, 13 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1550</itunes:duration>
+      <itunes:duration>1577</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">04190c6b-ab52-3e1b-957e-68168b533c6b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6432261a-e3c8-43d7-af51-f6e3ef1aff27.mp3" length="36759789" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Jun 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1532</itunes:duration>
     </item>
   </channel>
 </rss>
