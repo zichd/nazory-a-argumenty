@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 14 Jun 2025 11:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 11:23:20 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Babišův triumf… A co pak? Sněmovna o bitcoinové kauze. Když létají třísky. Nejchudší země Evropy Bulharsko bude platit eurem. Políček Čechům? Muskovo smutné zklamání z Krále Ubu.</description>
-      <guid isPermaLink="false">a339f6c3-ae4c-3592-949c-e7736582938e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/632b8a57-af0f-4e3e-b1c4-b79fbe7a3ed3.mp3" length="38065005" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1586</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
       <description>Spojenci se chystají schválit pět procent na zbrojení, aby odstrašili Rusko a potěšili Trumpa; Dozvuky Pavučiny; Za svobodu Vietnamu; Francouzská pravice hledá prezidenta; Volkswagen plánuje čtyřdenní pracovní týden. Z donucení</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1577</itunes:duration>
     </item>
     <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Přísně polotajný program hnutí ANO. Ponižování voličů stranickými pseudofakty. Piráti koušou. Starostové a nezávislí jsou naštvaní. Bitcoinová kauza nahrála Babišovi. Sýrie se svléká do plavek. Ale kterých? Eva Decroix, talentovaná politička ve špatnou chvíli na špatném místě. Trump chce nahradit akademiky praktickými patrioty</description>
+      <guid isPermaLink="false">04190c6b-ab52-3e1b-957e-68168b533c6b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ecc5852c-fcd0-47d1-a5ee-373ae3065be6.mp3" length="37408365" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Jun 2025 11:15:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">04190c6b-ab52-3e1b-957e-68168b533c6b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6432261a-e3c8-43d7-af51-f6e3ef1aff27.mp3" length="36759789" type="audio/mpeg"/>
-      <pubDate>Sat, 14 Jun 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1532</itunes:duration>
+      <guid isPermaLink="false">bccd0863-d148-3d4e-95cb-1a454dc001df</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/98b0b0ae-0795-4672-a308-130be9fa11ad.mp3" length="36659565" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Jun 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1527</itunes:duration>
     </item>
   </channel>
 </rss>
