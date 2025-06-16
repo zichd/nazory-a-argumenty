@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 15 Jun 2025 11:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 11:26:07 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>Spojenci se chystají schválit pět procent na zbrojení, aby odstrašili Rusko a potěšili Trumpa; Dozvuky Pavučiny; Za svobodu Vietnamu; Francouzská pravice hledá prezidenta; Volkswagen plánuje čtyřdenní pracovní týden. Z donucení</description>
-      <guid isPermaLink="false">fd0f5fb6-9e6f-348d-b6ae-5bf4db427c74</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0eb7b58f-9458-4000-b486-e8c677c83934.mp3" length="37895085" type="audio/mpeg"/>
-      <pubDate>Sat, 07 Jun 2025 11:17:00 +0000</pubDate>
-      <itunes:duration>1579</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
       <description>Která verze Blažkovy kauzy je horší?; O přežití vlády rozhodne Vít Rakušan; Mohou bicoiny vyblednout? Jak souvisí slovenská transakční daň se17. listopadem; Dva překvapivé projevy odporu proti Hamásu v Gaze; I Česko stále financuje ruskou válku na Ukrajině</description>
@@ -80,12 +72,12 @@
       <itunes:duration>1559</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Bude vláda reagovat na radikalizaci opozice? Viva Trump! Prezident USA ubírá armádě na profesionalitě. Pláč na špatném hrobě. Sněmování sudetských Němců v Čechách? Byl by to symbol konečného smíření a odpuštění. Josef Topol a jeho zápas s magií slov. Oni to rádi horké</description>
       <guid isPermaLink="false">bccd0863-d148-3d4e-95cb-1a454dc001df</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/98b0b0ae-0795-4672-a308-130be9fa11ad.mp3" length="36659565" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/760afbfd-6b04-4455-9a44-a36c3fdf5191.mp3" length="37308141" type="audio/mpeg"/>
       <pubDate>Sun, 15 Jun 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1527</itunes:duration>
+      <itunes:duration>1554</itunes:duration>
     </item>
   </channel>
 </rss>
