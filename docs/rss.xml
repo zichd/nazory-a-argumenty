@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 21 Jun 2025 11:26:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 11:24:13 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -83,9 +83,17 @@
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Petr Hartman.</description>
       <guid isPermaLink="false">6ca0ce4e-5f07-3101-b63a-48e4ad038842</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/961e7773-8c6e-43f2-b70d-15e2135e24e0.mp3" length="37125549" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e59c1118-159c-44a9-9b6c-4780bc1a5b99.mp3" length="37774125" type="audio/mpeg"/>
       <pubDate>Sat, 21 Jun 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1547</itunes:duration>
+      <itunes:duration>1574</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <guid isPermaLink="false">ee7075a4-172c-387f-9d91-fe049797bc0f</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a9c97d7d-e835-47a1-9fb2-ec267fc9da6b.mp3" length="37255149" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Jun 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
