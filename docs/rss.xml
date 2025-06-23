@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 22 Jun 2025 11:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 11:26:31 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
-      <description>Pochopení minulosti je klíčem k budoucnosti. Bitcoinová kauza začíná dávat smysl. Tusk dostal důvěru, ale co bude dál? Na modly se v Rusku nesahá. Ani na Navalného.</description>
-      <guid isPermaLink="false">aa18edd3-df88-395f-989d-621c13747dbe</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d183c2e5-9272-4043-9d7c-ea4199822663.mp3" length="37844397" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1577</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
       <description>Přísně polotajný program hnutí ANO. Ponižování voličů stranickými pseudofakty. Piráti koušou. Starostové a nezávislí jsou naštvaní. Bitcoinová kauza nahrála Babišovi. Sýrie se svléká do plavek. Ale kterých? Eva Decroix, talentovaná politička ve špatnou chvíli na špatném místě. Trump chce nahradit akademiky praktickými patrioty</description>
@@ -80,20 +72,28 @@
       <itunes:duration>1581</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Hartman.</description>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Hartmanem</title>
+      <description>Svatým bojem za morálku politiků k vládě naprostých cyniků; Parlament jako upovídaný podcast; Kde jsou lvi v konfliktu Íránu a Izraele; Sociolog Hartl vidí českou politiku jako odtrženou od lidí. Omyl, na masy je přilepená, ale chybí elity</description>
       <guid isPermaLink="false">6ca0ce4e-5f07-3101-b63a-48e4ad038842</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e59c1118-159c-44a9-9b6c-4780bc1a5b99.mp3" length="37774125" type="audio/mpeg"/>
       <pubDate>Sat, 21 Jun 2025 10:33:00 +0000</pubDate>
       <itunes:duration>1574</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Janem Fingerlandem</title>
+      <description>Vláda se nechová, jako by šlo o všechno. Začneme tisknout učebnice ruštiny?; Gradací útoků na Ukrajince se Babiš dál propadá do temných vod krajní pravice; Zpátky do minulosti? Piráti se snaží oživit energii z volební kampaně 2017; Summit NATO by měl ideálně vyslat zprávu, že Západ je připraven čelit ruské hrozbě; Erudovaný a nekompromisní Jan Tesař</description>
       <guid isPermaLink="false">ee7075a4-172c-387f-9d91-fe049797bc0f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a9c97d7d-e835-47a1-9fb2-ec267fc9da6b.mp3" length="37255149" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e141bfc1-972a-415a-a127-5498d2927e2f.mp3" length="37903725" type="audio/mpeg"/>
       <pubDate>Sun, 22 Jun 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
+      <itunes:duration>1579</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
+      <description>Ruské reakce na americký útok na Írán. Amerika a Írán. Česko a Írán. Drahé Česko vyčerpává rozpočet i šedá ekonomika. Bitcoiny a preference.</description>
+      <guid isPermaLink="false">d49a18c1-baa6-3748-a0dd-3a814da0ad91</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c4e793de-7848-4a01-bcf8-cbc5e4690977.mp3" length="37109421" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Jun 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1546</itunes:duration>
     </item>
   </channel>
 </rss>
