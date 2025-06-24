@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 23 Jun 2025 11:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 11:26:21 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Přísně polotajný program hnutí ANO. Ponižování voličů stranickými pseudofakty. Piráti koušou. Starostové a nezávislí jsou naštvaní. Bitcoinová kauza nahrála Babišovi. Sýrie se svléká do plavek. Ale kterých? Eva Decroix, talentovaná politička ve špatnou chvíli na špatném místě. Trump chce nahradit akademiky praktickými patrioty</description>
-      <guid isPermaLink="false">04190c6b-ab52-3e1b-957e-68168b533c6b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ecc5852c-fcd0-47d1-a5ee-373ae3065be6.mp3" length="37408365" type="audio/mpeg"/>
-      <pubDate>Sat, 14 Jun 2025 11:15:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Bude vláda reagovat na radikalizaci opozice? Viva Trump! Prezident USA ubírá armádě na profesionalitě. Pláč na špatném hrobě. Sněmování sudetských Němců v Čechách? Byl by to symbol konečného smíření a odpuštění. Josef Topol a jeho zápas s magií slov. Oni to rádi horké</description>
-      <guid isPermaLink="false">bccd0863-d148-3d4e-95cb-1a454dc001df</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/760afbfd-6b04-4455-9a44-a36c3fdf5191.mp3" length="37308141" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Jun 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
       <description>Vláda Robert Fica plánuje měnit Ústavu. Nikoliv k lepšímu. Overtourismus a protesty. Jak se (ne)projevuje bitcoinová kauza v preferencích. Vzdát se svobody nevede k prosperitě.</description>
@@ -91,9 +75,17 @@
       <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
       <description>Ruské reakce na americký útok na Írán. Amerika a Írán. Česko a Írán. Drahé Česko vyčerpává rozpočet i šedá ekonomika. Bitcoiny a preference.</description>
       <guid isPermaLink="false">d49a18c1-baa6-3748-a0dd-3a814da0ad91</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c4e793de-7848-4a01-bcf8-cbc5e4690977.mp3" length="37109421" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0eac2bd4-e579-4f3b-9198-c33f64cf7cb1.mp3" length="37863981" type="audio/mpeg"/>
       <pubDate>Mon, 23 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1546</itunes:duration>
+      <itunes:duration>1578</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Bez ohledu na volby si zasloužíme, aby každá kauza měla svou tečku. Chaos v nostrifikacích opozice převrátila v útoky na vysoce vzdělanou ministryni Decroix. Absurdní. Střelba v syrském kostele. Zdánlivě rozumný nápad, jak se bránit přistěhovalcům.</description>
+      <guid isPermaLink="false">b5b64ed1-f4c4-3b5e-9b1c-829158977316</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/05b69eca-f9bc-46c4-84bb-9a23a9ff5eb7.mp3" length="37453869" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Jun 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
