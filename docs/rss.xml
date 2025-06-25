@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 24 Jun 2025 11:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 11:26:49 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
-      <description>Vláda Robert Fica plánuje měnit Ústavu. Nikoliv k lepšímu. Overtourismus a protesty. Jak se (ne)projevuje bitcoinová kauza v preferencích. Vzdát se svobody nevede k prosperitě.</description>
-      <guid isPermaLink="false">0a2ed644-fc30-30cc-b7ee-08e3ad8228f0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/00b009d5-0d12-430b-97ea-63be0d3dedaa.mp3" length="38130093" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1589</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
       <description>Bitcoinová kauza zásadně ovlivní vztahy mezi stranami. Íránsko-izraelská přestřelka a co bude dál? Český daňový populismus. Ovlivní v Polsku katechismus přijetí na střední školu?</description>
@@ -83,9 +75,17 @@
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Bez ohledu na volby si zasloužíme, aby každá kauza měla svou tečku. Chaos v nostrifikacích opozice převrátila v útoky na vysoce vzdělanou ministryni Decroix. Absurdní. Střelba v syrském kostele. Zdánlivě rozumný nápad, jak se bránit přistěhovalcům.</description>
       <guid isPermaLink="false">b5b64ed1-f4c4-3b5e-9b1c-829158977316</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/05b69eca-f9bc-46c4-84bb-9a23a9ff5eb7.mp3" length="37453869" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8c59c0e0-ac66-4982-abf9-922337e3923d.mp3" length="38102445" type="audio/mpeg"/>
       <pubDate>Tue, 24 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
+      <itunes:duration>1588</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Ropná krize, která nebyla. Bude mít Česko pravomocně odsouzeného premiéra? Zelení na kandidátkách Pirátů. Summit NATO. Barbarství, které zachvátilo zemi.</description>
+      <guid isPermaLink="false">fb771370-2264-3d2e-95e4-8d6efde34a8c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3edd3a96-b1f8-4ac6-a464-b0a3facd4653.mp3" length="37415277" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Jun 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
