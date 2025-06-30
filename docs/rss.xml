@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 29 Jun 2025 11:24:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 11:26:40 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Hartmanem</title>
-      <description>Svatým bojem za morálku politiků k vládě naprostých cyniků; Parlament jako upovídaný podcast; Kde jsou lvi v konfliktu Íránu a Izraele; Sociolog Hartl vidí českou politiku jako odtrženou od lidí. Omyl, na masy je přilepená, ale chybí elity</description>
-      <guid isPermaLink="false">6ca0ce4e-5f07-3101-b63a-48e4ad038842</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e59c1118-159c-44a9-9b6c-4780bc1a5b99.mp3" length="37774125" type="audio/mpeg"/>
-      <pubDate>Sat, 21 Jun 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1574</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Janem Fingerlandem</title>
       <description>Vláda se nechová, jako by šlo o všechno. Začneme tisknout učebnice ruštiny?; Gradací útoků na Ukrajince se Babiš dál propadá do temných vod krajní pravice; Zpátky do minulosti? Piráti se snaží oživit energii z volební kampaně 2017; Summit NATO by měl ideálně vyslat zprávu, že Západ je připraven čelit ruské hrozbě; Erudovaný a nekompromisní Jan Tesař</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1556</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Jak se česká justice potýká s mocnými politiky. Zaorálek neumí procenta! Nebo je to jinak? Bezpečnost, nebo represe? Je postavení dolaru v ohrožení? Levočská Donatellova busta ukazuje metody slovenské ministryně kultury. Rvačka o Sudety</description>
       <guid isPermaLink="false">b0cd272e-3c50-3b75-b158-8dd3e991d9e4</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6ab152bc-b5f8-4ce7-b91b-2039274fc29c.mp3" length="35269677" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c71c4e32-ebba-430f-bd97-0947d6c2feb3.mp3" length="35918253" type="audio/mpeg"/>
       <pubDate>Sun, 29 Jun 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1470</itunes:duration>
+      <itunes:duration>1497</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Patricií Polanskou</title>
+      <description>Donald Trump mocný. Propuštění běloruských politických vězňů. SOCDEM a Stačilo! v objetí. G7 aneb jak se USA vyhnuly dohodě o minimální světové dani.</description>
+      <guid isPermaLink="false">86b34dc9-92d4-3216-b3cf-f3579448f99d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f0c0ac6e-9f7b-444d-b3c4-d4afc4564f61.mp3" length="37230957" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Jun 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
