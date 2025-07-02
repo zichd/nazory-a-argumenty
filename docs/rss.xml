@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 01 Jul 2025 11:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 11:26:13 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
-      <description>Ruské reakce na americký útok na Írán. Amerika a Írán. Česko a Írán. Drahé Česko vyčerpává rozpočet i šedá ekonomika. Bitcoiny a preference.</description>
-      <guid isPermaLink="false">d49a18c1-baa6-3748-a0dd-3a814da0ad91</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/72f52808-061c-4d94-a28b-9b329d36309c.mp3" length="37215405" type="audio/mpeg"/>
-      <pubDate>Mon, 23 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Bez ohledu na volby si zasloužíme, aby každá kauza měla svou tečku. Chaos v nostrifikacích opozice převrátila v útoky na vysoce vzdělanou ministryni Decroix. Absurdní. Střelba v syrském kostele. Zdánlivě rozumný nápad, jak se bránit přistěhovalcům.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b00687fe-b182-4878-854d-760e13d4383d.mp3" length="37260909" type="audio/mpeg"/>
       <pubDate>Tue, 01 Jul 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1553</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Čistá, ale zoufale neefektivní. Hledání prezidenta pomocí průzkumu veřejného mínění. Almužna, nebo aligátor. Trump oslabuje dolar aneb Make Dollar Weak Again. Baku se chce vymanit z ruské sféry vlivu.</description>
+      <guid isPermaLink="false">cc6a40a2-df7c-3ce9-9521-fe7ebe9d75aa</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9548f3f7-d486-4655-92ae-d2824cceed4a.mp3" length="37387629" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
