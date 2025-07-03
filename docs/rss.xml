@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 02 Jul 2025 11:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 11:26:43 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Bez ohledu na volby si zasloužíme, aby každá kauza měla svou tečku. Chaos v nostrifikacích opozice převrátila v útoky na vysoce vzdělanou ministryni Decroix. Absurdní. Střelba v syrském kostele. Zdánlivě rozumný nápad, jak se bránit přistěhovalcům.</description>
-      <guid isPermaLink="false">b5b64ed1-f4c4-3b5e-9b1c-829158977316</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/05b69eca-f9bc-46c4-84bb-9a23a9ff5eb7.mp3" length="37453869" type="audio/mpeg"/>
-      <pubDate>Tue, 24 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Ropná krize, která nebyla. Bude mít Česko pravomocně odsouzeného premiéra? Zelení na kandidátkách Pirátů. Summit NATO. Barbarství, které zachvátilo zemi.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9548f3f7-d486-4655-92ae-d2824cceed4a.mp3" length="37387629" type="audio/mpeg"/>
       <pubDate>Wed, 02 Jul 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
+      <description>Velký krásný zákon štěpí Trumpovy republikány. EU vyhlásila mezikrok na cestě k bezemisní ekonomice, Česko je proti. Obejde se Ukrajina bez amerických zbraní? Stát na správné straně. Ale pak hlavně jít. Kobza opouští SPD, vrátí se ke komunistům?</description>
+      <guid isPermaLink="false">362b524f-49a9-3468-9039-3c221a8a9459</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/18090706-2195-417c-bc53-814372914b66.mp3" length="37316205" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
