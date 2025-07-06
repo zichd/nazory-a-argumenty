@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 05 Jul 2025 11:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 11:25:17 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
-      <description>Za vyhazování peněz na zbrojení si můžeme sami. Bůh si nemyslí, že je Putin. Mladí teroristé z Brna, jak se bránit? Rodiče mají své děti bránit před infekcí nenávisti. Polsko bude možná přepočítávat hlasy z prezidentských voleb.</description>
-      <guid isPermaLink="false">d47ccbda-e485-3626-ad6e-20011543baf5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8ae4e503-42b6-47c2-966b-0158fcff437a.mp3" length="37141101" type="audio/mpeg"/>
-      <pubDate>Fri, 27 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1548</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
       <description>Navýšení výdajů NATO na obranu je vysoké. Stěžujte si ale u Putina. Předsudečná nenávist SPD nesnese toleranci. České studentky a žačky jsou o krok blíž k lepšímu prostředí pro své vzdělávání. Stálo to Radě ČT za to. Boje skončily, válka asi ne. Drahé Česko vyčerpává rozpočet i šedá ekonomika</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1554</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
+      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
+      <description>Blackout v českých hlavách; Stejně jako ANO, i Spolu oznámí program až v září. Bude jen obecný, strany se neshodly na daních; Co nás může naučit výpadek elektřiny; Marná nelásky snaha</description>
       <guid isPermaLink="false">d1123260-8c25-3a0d-999d-fe7c4ebd195b</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fc0c9c8f-ebd0-4377-9d74-d8603f91e431.mp3" length="36596781" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Jul 2025 10:33:00 +0000</pubDate>
+      <pubDate>Sat, 05 Jul 2025 11:36:00 +0000</pubDate>
       <itunes:duration>1525</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">1ee09b5e-0948-3cb9-aa5a-d55451c0d956</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d03c4ca7-9b7d-4878-a667-85357d951620.mp3" length="36931437" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Jul 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1539</itunes:duration>
     </item>
   </channel>
 </rss>
