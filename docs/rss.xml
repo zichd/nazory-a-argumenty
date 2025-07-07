@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 06 Jul 2025 11:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 11:26:13 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Navýšení výdajů NATO na obranu je vysoké. Stěžujte si ale u Putina. Předsudečná nenávist SPD nesnese toleranci. České studentky a žačky jsou o krok blíž k lepšímu prostředí pro své vzdělávání. Stálo to Radě ČT za to. Boje skončily, válka asi ne. Drahé Česko vyčerpává rozpočet i šedá ekonomika</description>
-      <guid isPermaLink="false">c313773f-b151-364d-9fff-dfcaf0f6eb01</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/87c08072-07e5-4475-9f91-e03ed011be7f.mp3" length="36699885" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Jun 2025 11:15:00 +0000</pubDate>
-      <itunes:duration>1529</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Jak se česká justice potýká s mocnými politiky. Zaorálek neumí procenta! Nebo je to jinak? Bezpečnost, nebo represe? Je postavení dolaru v ohrožení? Levočská Donatellova busta ukazuje metody slovenské ministryně kultury. Rvačka o Sudety</description>
-      <guid isPermaLink="false">b0cd272e-3c50-3b75-b158-8dd3e991d9e4</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0c067019-c286-42fa-bf2a-48a335c088ff.mp3" length="35345709" type="audio/mpeg"/>
-      <pubDate>Sun, 29 Jun 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1473</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Patricií Polanskou</title>
       <description>Donald Trump mocný. Propuštění běloruských politických vězňů. SOCDEM a Stačilo! v objetí. G7 aneb jak se USA vyhnuly dohodě o minimální světové dani.</description>
@@ -80,12 +64,20 @@
       <itunes:duration>1525</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
+      <description>Češi opět proti všem!; Emisní povolenky znamenají zdražení. Přesně to mají dělat; Ten trochu zvláštní svátek; Trikolóra jako druhdy Úsvit?; Nad jeruzalémským projevem Milana Kundery; Přišel domů a zavřel se v pokoji...</description>
       <guid isPermaLink="false">1ee09b5e-0948-3cb9-aa5a-d55451c0d956</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d03c4ca7-9b7d-4878-a667-85357d951620.mp3" length="36931437" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Jul 2025 10:34:00 +0000</pubDate>
+      <pubDate>Sun, 06 Jul 2025 11:11:00 +0000</pubDate>
       <itunes:duration>1539</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Proč se učitelé vládou slibovaných platů nakonec nedočkali. Blíží se cílová rovinka. Ale EU stále neví, jaká cla proti ní Trump zavede a jak na ně odpoví. Ukrajina bez amerických zbraní a Putin. Pomůže zdravotnictví tzv. jednodenní lékařství?</description>
+      <guid isPermaLink="false">bd03e673-8d56-31fa-8c3e-d42300f98d7e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/39d5bf81-07dd-4436-a242-2e918e71594b.mp3" length="37436589" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
