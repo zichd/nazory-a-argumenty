@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 07 Jul 2025 11:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 11:26:57 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -77,6 +77,14 @@
       <guid isPermaLink="false">bd03e673-8d56-31fa-8c3e-d42300f98d7e</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/39d5bf81-07dd-4436-a242-2e918e71594b.mp3" length="37436589" type="audio/mpeg"/>
       <pubDate>Mon, 07 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">dd86e878-8d12-3b39-93d9-63ef92f37eb5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d446e832-ce02-4519-a4ec-0ba8bc8d5a96.mp3" length="37452141" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Jul 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
