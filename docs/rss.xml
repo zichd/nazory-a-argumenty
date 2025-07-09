@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 08 Jul 2025 11:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 11:27:24 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Patricií Polanskou</title>
-      <description>Donald Trump mocný. Propuštění běloruských politických vězňů. SOCDEM a Stačilo! v objetí. G7 aneb jak se USA vyhnuly dohodě o minimální světové dani.</description>
-      <guid isPermaLink="false">86b34dc9-92d4-3216-b3cf-f3579448f99d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0645541b-ab2e-4ef6-adc9-4539d03fae76.mp3" length="37320237" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Jun 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Sněmovní volby budou i soubojem prezidentů. Prezidentovi se nechce věřit, že by Stanjura o bitcoinovém daru předem nevěděl. Není sám. Dluhopisy přestávají být sprostým slovem? Nedělitelnost svobody a mezinárodní právo.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1560</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Hartman.</description>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Snad se Putin nad koncem liberální globalizace raduje předčasně. Proč je vysoká cena elektřiny v Německu Merzovou prohrou? Dukova omluva? Otevřená okna do ložnic politiků čili tvrdý návrat Turkovy minulosti.</description>
       <guid isPermaLink="false">dd86e878-8d12-3b39-93d9-63ef92f37eb5</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d446e832-ce02-4519-a4ec-0ba8bc8d5a96.mp3" length="37452141" type="audio/mpeg"/>
-      <pubDate>Tue, 08 Jul 2025 10:34:00 +0000</pubDate>
+      <pubDate>Tue, 08 Jul 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Velké krásné dluhy. Česko jde Trumpovou cestou. Češi jsou zvyklí na všecko nadávat, ale screeningů máme podle ministra Válka „snad nejvíc na světě“. „Energeťáky“ aneb Poruchy spánku, úzkosti, srdeční problémy i obezita. Od Trumpa k socialismu.</description>
+      <guid isPermaLink="false">813ff932-0262-39b1-a9ca-c95e4835a7cb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/279eaffc-81e5-4a0b-9e83-8420adbe84d5.mp3" length="37188909" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1549</itunes:duration>
     </item>
   </channel>
 </rss>
