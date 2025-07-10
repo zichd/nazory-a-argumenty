@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 09 Jul 2025 11:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 11:26:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Sněmovní volby budou i soubojem prezidentů. Prezidentovi se nechce věřit, že by Stanjura o bitcoinovém daru předem nevěděl. Není sám. Dluhopisy přestávají být sprostým slovem? Nedělitelnost svobody a mezinárodní právo.</description>
-      <guid isPermaLink="false">f30971da-b21b-3c54-8f16-039178424977</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b00687fe-b182-4878-854d-760e13d4383d.mp3" length="37260909" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1553</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Čistá, ale zoufale neefektivní. Hledání prezidenta pomocí průzkumu veřejného mínění. Almužna, nebo aligátor. Trump oslabuje dolar aneb Make Dollar Weak Again. Baku se chce vymanit z ruské sféry vlivu.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/279eaffc-81e5-4a0b-9e83-8420adbe84d5.mp3" length="37188909" type="audio/mpeg"/>
       <pubDate>Wed, 09 Jul 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1549</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Patricií Polanskou</title>
+      <description>Jak by měl fungovat Ústavní soud podle představ opozice? Může být sebevražda ruského ministra Starovojta rozbuškou? Kdo by teď chtěl v USA vyrábět? Tuší politici, co všechno jim voliči odpustí?</description>
+      <guid isPermaLink="false">a4c61b02-239c-33b9-852c-36891df62d75</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0cb0a5ce-3617-4a34-9294-fbfd961773c4.mp3" length="37479213" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
