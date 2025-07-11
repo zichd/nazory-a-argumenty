@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 10 Jul 2025 11:26:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 11:26:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Čistá, ale zoufale neefektivní. Hledání prezidenta pomocí průzkumu veřejného mínění. Almužna, nebo aligátor. Trump oslabuje dolar aneb Make Dollar Weak Again. Baku se chce vymanit z ruské sféry vlivu.</description>
-      <guid isPermaLink="false">cc6a40a2-df7c-3ce9-9521-fe7ebe9d75aa</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9548f3f7-d486-4655-92ae-d2824cceed4a.mp3" length="37387629" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
       <description>Velký krásný zákon štěpí Trumpovy republikány. EU vyhlásila mezikrok na cestě k bezemisní ekonomice, Česko je proti. Obejde se Ukrajina bez amerických zbraní? Stát na správné straně. Ale pak hlavně jít. Kobza opouští SPD, vrátí se ke komunistům?</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0cb0a5ce-3617-4a34-9294-fbfd961773c4.mp3" length="37479213" type="audio/mpeg"/>
       <pubDate>Thu, 10 Jul 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Patricií Polanskou</title>
+      <description>Trumpova politika chaosu pokračuje. Von der Leyenová ustála pokus o svržení Evropským parlamentem. Festivalový týden v Karlových Varech je Potěmkinova vesnice karlovarské chudoby. Proč chce jít k volbám tak málo lidí?</description>
+      <guid isPermaLink="false">16e9f848-1876-3eee-9c04-0d9f28c0d08b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8ee6527b-31e6-40a8-ac2b-46b16b2b1806.mp3" length="37440045" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
