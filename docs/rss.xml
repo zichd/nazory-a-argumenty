@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 11 Jul 2025 11:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 11:25:39 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
-      <description>Velký krásný zákon štěpí Trumpovy republikány. EU vyhlásila mezikrok na cestě k bezemisní ekonomice, Česko je proti. Obejde se Ukrajina bez amerických zbraní? Stát na správné straně. Ale pak hlavně jít. Kobza opouští SPD, vrátí se ke komunistům?</description>
-      <guid isPermaLink="false">362b524f-49a9-3468-9039-3c221a8a9459</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/18090706-2195-417c-bc53-814372914b66.mp3" length="37316205" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Cyril, Metoděj, Hus a dnešní Ukrajina. Emisní povolenky s námi zůstanou. Ztrácí Tesla dech? Demonstrativní účastí na Budapest Pride pomohli europoslanci víc Orbánovi než Maďarům. Proč tak astronomické ceny jahod a třešní?</description>
@@ -81,11 +73,19 @@
     </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Patricií Polanskou</title>
-      <description>Trumpova politika chaosu pokračuje. Von der Leyenová ustála pokus o svržení Evropským parlamentem. Festivalový týden v Karlových Varech je Potěmkinova vesnice karlovarské chudoby. Proč chce jít k volbám tak málo lidí?</description>
+      <description>Trumpova politika chaosu pokračuje. Ursula von der Leyenová ustála pokus o svržení Evropským parlamentem. Festivalový týden v Karlových Varech je Potěmkinova vesnice karlovarské chudoby. Proč chce jít k volbám tak málo lidí?</description>
       <guid isPermaLink="false">16e9f848-1876-3eee-9c04-0d9f28c0d08b</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8ee6527b-31e6-40a8-ac2b-46b16b2b1806.mp3" length="37440045" type="audio/mpeg"/>
       <pubDate>Fri, 11 Jul 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Důchodce Zeman nepřestal prahnout po skalpu sociální demokracie, Když je ve Francii vedro, EU stále neví, za jakých podmínek bude s EU obchodovat; ví však, že to bude horší, Velké krásné dluhy. Česko jde Trumpovou cestou, Najít, co spojuje</description>
+      <guid isPermaLink="false">5318dba9-13de-353d-9b69-8ab12ebe52f5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a0912a5b-3611-4e49-9ca9-cba2e5f12ffd.mp3" length="37163565" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1548</itunes:duration>
     </item>
   </channel>
 </rss>
