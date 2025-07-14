@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 13 Jul 2025 11:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 11:27:54 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>Blackout v českých hlavách; Stejně jako ANO, i Spolu oznámí program až v září. Bude jen obecný, strany se neshodly na daních; Co nás může naučit výpadek elektřiny; Marná nelásky snaha</description>
-      <guid isPermaLink="false">d1123260-8c25-3a0d-999d-fe7c4ebd195b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fc0c9c8f-ebd0-4377-9d74-d8603f91e431.mp3" length="36596781" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Jul 2025 11:36:00 +0000</pubDate>
-      <itunes:duration>1525</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
       <description>Češi opět proti všem!; Emisní povolenky znamenají zdražení. Přesně to mají dělat; Ten trochu zvláštní svátek; Trikolóra jako druhdy Úsvit?; Nad jeruzalémským projevem Milana Kundery; Přišel domů a zavřel se v pokoji...</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/699456a8-8b7e-49af-a6db-300247db1efd.mp3" length="37488429" type="audio/mpeg"/>
       <pubDate>Sun, 13 Jul 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
+      <description>Proč německému kancléři došla trpělivost s Robertem Ficem? Ukrajina potřebuje investice, ale především mír. Americká cla, poslední hřebík do konkurenceschopnosti Evropy? Potíže s Grokem. Fiala píše do Bratislavy.</description>
+      <guid isPermaLink="false">b2243c66-2161-3fdf-9695-e389c42286d0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f1ae5dff-eabb-4f8a-b9b5-8837033e4048.mp3" length="37426797" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
