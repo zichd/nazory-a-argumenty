@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 14 Jul 2025 11:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 11:27:50 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
-      <description>Češi opět proti všem!; Emisní povolenky znamenají zdražení. Přesně to mají dělat; Ten trochu zvláštní svátek; Trikolóra jako druhdy Úsvit?; Nad jeruzalémským projevem Milana Kundery; Přišel domů a zavřel se v pokoji...</description>
-      <guid isPermaLink="false">1ee09b5e-0948-3cb9-aa5a-d55451c0d956</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d03c4ca7-9b7d-4878-a667-85357d951620.mp3" length="36931437" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Jul 2025 11:11:00 +0000</pubDate>
-      <itunes:duration>1539</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Proč se učitelé vládou slibovaných platů nakonec nedočkali. Blíží se cílová rovinka. Ale EU stále neví, jaká cla proti ní Trump zavede a jak na ně odpoví. Ukrajina bez amerických zbraní a Putin. Pomůže zdravotnictví tzv. jednodenní lékařství?</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f1ae5dff-eabb-4f8a-b9b5-8837033e4048.mp3" length="37426797" type="audio/mpeg"/>
       <pubDate>Mon, 14 Jul 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
+      <description>Trump chce 30procentní cla pro EU. Loni o něm Babiš řekl, že „nejlepším řešením pro Evropu a svět“. Podivná rozvodová novela. Kdo není hrdý na Spojené státy?</description>
+      <guid isPermaLink="false">db7599cb-5044-3518-bf3c-977ed8bcd909</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dff36ed2-cbc3-4871-93b6-1e107f347ed0.mp3" length="37147437" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1548</itunes:duration>
     </item>
   </channel>
 </rss>
