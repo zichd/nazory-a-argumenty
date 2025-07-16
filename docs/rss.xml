@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 15 Jul 2025 11:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 11:28:08 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Proč se učitelé vládou slibovaných platů nakonec nedočkali. Blíží se cílová rovinka. Ale EU stále neví, jaká cla proti ní Trump zavede a jak na ně odpoví. Ukrajina bez amerických zbraní a Putin. Pomůže zdravotnictví tzv. jednodenní lékařství?</description>
-      <guid isPermaLink="false">bd03e673-8d56-31fa-8c3e-d42300f98d7e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/39d5bf81-07dd-4436-a242-2e918e71594b.mp3" length="37436589" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Snad se Putin nad koncem liberální globalizace raduje předčasně. Proč je vysoká cena elektřiny v Německu Merzovou prohrou? Dukova omluva? Otevřená okna do ložnic politiků čili tvrdý návrat Turkovy minulosti.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dff36ed2-cbc3-4871-93b6-1e107f347ed0.mp3" length="37147437" type="audio/mpeg"/>
       <pubDate>Tue, 15 Jul 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1548</itunes:duration>
+    </item>
+    <item>
+      <title>Letní zdražování, možná horší, než myslíte</title>
+      <description>Násilí v Sýrii. Trumpův kryptoměnový ráj. Kubánská tyranie a její rutina. Nejen o tom bude řeč ve středečním pořadu. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">ed717f4e-11d0-3df6-a9cc-c654ca60e773</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e5fc827f-26d1-4086-beb7-2781f1639fb1.mp3" length="37457325" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Jul 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
