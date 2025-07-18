@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 17 Jul 2025 11:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 11:27:53 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Velké krásné dluhy. Česko jde Trumpovou cestou. Češi jsou zvyklí na všecko nadávat, ale screeningů máme podle ministra Válka „snad nejvíc na světě“. „Energeťáky“ aneb Poruchy spánku, úzkosti, srdeční problémy i obezita. Od Trumpa k socialismu.</description>
-      <guid isPermaLink="false">813ff932-0262-39b1-a9ca-c95e4835a7cb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e6685a1f-2e98-4cf8-bfc1-917666a1a9a6.mp3" length="37745325" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1573</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Patricií Polanskou</title>
       <description>Jak by měl fungovat Ústavní soud podle představ opozice? Může být sebevražda ruského ministra Starovojta rozbuškou? Kdo by teď chtěl v USA vyrábět? Tuší politici, co všechno jim voliči odpustí?</description>
@@ -83,9 +75,17 @@
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
       <description>Ruské mávnutí rukou nad Trumpem. Babišův bolehlav se jmenuje SPD. Rigidní česká politika je v rukách Stačilo! Češi podle průzkumů souhlasí s trestem smrti. Epsteinovy složky štěpí Trumpovo hnutí MAGA.</description>
       <guid isPermaLink="false">4b8c0457-0db5-37fa-8331-1cd68f845a0a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ff6e86d9-de23-4a91-bbe1-1c68323bddb2.mp3" length="37179693" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/148747f0-dcb4-4e26-98dd-15689ee8b111.mp3" length="37736685" type="audio/mpeg"/>
       <pubDate>Thu, 17 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1549</itunes:duration>
+      <itunes:duration>1572</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Předvolební spílání Evropské unii je cesta do pekel. Evropská komise navrhla odvážný rozpočet, spoustu hráčů rozladila. Dusno kolem Tchaj-wanu. Cenzura v Rusku je zakázána, ale musí být ještě tužší. Koho chce Babiš útoky na českou muniční iniciativu oslovit? Voliče SPD nepřetáhne, nerozhodnuté odradí.</description>
+      <guid isPermaLink="false">a1129c51-30dc-3bf1-b21e-ec8b51aeb665</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1eed8cee-f55d-4fb8-afa2-5830b65ef26c.mp3" length="37401453" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
