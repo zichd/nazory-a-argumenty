@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 20 Jul 2025 11:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 11:28:31 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Důchodce Zeman nepřestal prahnout po skalpu sociální demokracie, Když je ve Francii vedro, EU stále neví, za jakých podmínek bude s USA obchodovat; ví však, že to bude horší, Velké krásné dluhy. Česko jde Trumpovou cestou, Najít, co spojuje</description>
-      <guid isPermaLink="false">5318dba9-13de-353d-9b69-8ab12ebe52f5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/56e3a441-f5b4-4f2f-a80b-dc746a0ecf4e.mp3" length="37720557" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1572</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Trump se proti Evropě vytasil se zničujícími 30 procenty, Proč bitcoinové kauza nepohnula s voliči ani o milimetr, Jak nevydat Babiše k definitivnímu odsouzení, Úředníci na mušce bez opory v realitě, Americký dolar v těžkých časech, Na uprchlíky platí pevná ruka aneb dánské předsednictví</description>
-      <guid isPermaLink="false">9fe1a16f-b743-317f-9dde-d2228871b514</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4f8a7a1a-709e-445f-b46a-d58afeef528b.mp3" length="38045421" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1585</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
       <description>Proč německému kancléři došla trpělivost s Robertem Ficem? Ukrajina potřebuje investice, ale především mír. Americká cla, poslední hřebík do konkurenceschopnosti Evropy? Potíže s Grokem. Fiala píše do Bratislavy.</description>
@@ -83,9 +67,17 @@
       <title>Poslechněte si všechny nedělní komentáře s Janem Fingerlandem</title>
       <description>Ukrajinu podporujeme, jen když to nic nestojí, Zelenského seznam českých firem porušujících embargo? Je to ostuda i Fialovy vlády, Problémy v oblasti duševního zdraví u dětí jsou stále více alarmující, místo podpory hází stát renomovaným organizacím klacky pod nohy, Sémantická krize jako největší nebezpečí</description>
       <guid isPermaLink="false">5b6dbe1e-3389-3a0e-a4b1-faceb858aee2</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/49ae1acc-4a3d-4634-8ff7-74df6cb0912d.mp3" length="37577133" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0eae95fd-16e6-49c5-921b-7e87441e532d.mp3" length="38134125" type="audio/mpeg"/>
       <pubDate>Sun, 20 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1566</itunes:duration>
+      <itunes:duration>1589</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Návrh změnit ústavu kvůli rozpočtové odpovědnosti se vládě nepovedl. Ukrajina navrhla přímá jednání s Ruskem. Sebevražda SOCDEM ve vozíku Stačilo! aneb Symbolický konec staré politiky. Donald Trump proti centrální bance. Nemít děti – jedna z nejhorších investic.</description>
+      <guid isPermaLink="false">25e02990-9bf5-389b-abc2-5f10b041b142</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/34ba67ee-7703-44ab-b067-7b8299664220.mp3" length="37451565" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
