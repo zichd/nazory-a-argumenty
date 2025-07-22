@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 21 Jul 2025 11:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 11:28:14 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -75,9 +75,17 @@
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Návrh změnit ústavu kvůli rozpočtové odpovědnosti se vládě nepovedl. Ukrajina navrhla přímá jednání s Ruskem. Sebevražda SOCDEM ve vozíku Stačilo! aneb Symbolický konec staré politiky. Donald Trump proti centrální bance. Nemít děti – jedna z nejhorších investic.</description>
       <guid isPermaLink="false">25e02990-9bf5-389b-abc2-5f10b041b142</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/34ba67ee-7703-44ab-b067-7b8299664220.mp3" length="37451565" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e325bc68-6a01-48e4-9c2c-eec066ce22eb.mp3" length="38008557" type="audio/mpeg"/>
       <pubDate>Mon, 21 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
+      <itunes:duration>1584</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Teď nás kauzy politiků nevzrušují, o to větší zvrat ale může přijít, až se ucho utrhne. Stačilo! a SOCDEM spolu. Drahé bydlení, další skleněný strop rozdělující společnost. Ukradené volby? Blábol, který šikovně vypěstovala opozice, se nebezpečně ujal.</description>
+      <guid isPermaLink="false">3ab2a3ed-b820-3ed4-bad4-0bceccc36fca</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f87c18a9-0a76-40a8-af57-7f9b815293a5.mp3" length="36977517" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1541</itunes:duration>
     </item>
   </channel>
 </rss>
