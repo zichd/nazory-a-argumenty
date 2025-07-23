@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 22 Jul 2025 11:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 11:28:41 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
-      <description>Proč německému kancléři došla trpělivost s Robertem Ficem? Ukrajina potřebuje investice, ale především mír. Americká cla, poslední hřebík do konkurenceschopnosti Evropy? Potíže s Grokem. Fiala píše do Bratislavy.</description>
-      <guid isPermaLink="false">b2243c66-2161-3fdf-9695-e389c42286d0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8b8d796a-1f38-4c66-b4b9-f001988e3c2f.mp3" length="37983789" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1583</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
       <description>Trump chce 30procentní cla pro EU. Loni o něm Babiš řekl, že „nejlepším řešením pro Evropu a svět“. Podivná rozvodová novela. Kdo není hrdý na Spojené státy?</description>
@@ -83,9 +75,17 @@
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Teď nás kauzy politiků nevzrušují, o to větší zvrat ale může přijít, až se ucho utrhne. Stačilo! a SOCDEM spolu. Drahé bydlení, další skleněný strop rozdělující společnost. Ukradené volby? Blábol, který šikovně vypěstovala opozice, se nebezpečně ujal.</description>
       <guid isPermaLink="false">3ab2a3ed-b820-3ed4-bad4-0bceccc36fca</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f87c18a9-0a76-40a8-af57-7f9b815293a5.mp3" length="36977517" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1d813b1a-7730-4655-a73e-9a9d665bac8c.mp3" length="37534509" type="audio/mpeg"/>
       <pubDate>Tue, 22 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1541</itunes:duration>
+      <itunes:duration>1564</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Petrem Hartmanem</title>
+      <description>Drúzové aneb lekce spletitosti. Trojúhelník Washington-Moskva-Peking. Nové miliardy pro německou ekonomiku nejsou všechno. Maláčová a Zaorálek vyrazili hájit „hodnoty“, kterým by se před deseti lety smáli. Není průzkum jako průzkum.</description>
+      <guid isPermaLink="false">d8595249-c81c-3f2a-be35-70eec55b59d7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9fb3432e-6b99-4a06-8c6e-8392853b0a8a.mp3" length="37457901" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
