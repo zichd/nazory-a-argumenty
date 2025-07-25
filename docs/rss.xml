@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 24 Jul 2025 11:28:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 11:28:22 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Letní zdražování? Možná bude horší, než si myslíte. Násilí v Sýrii. Trumpův kryptoměnový ráj. Schůze v Londýně ukázala, že se koalice ochotných se pomalu emancipuje. Kubánská tyranie a její rutina.</description>
-      <guid isPermaLink="false">ed717f4e-11d0-3df6-a9cc-c654ca60e773</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1f926c6c-d840-4961-bd48-489d7e6fc7a5.mp3" length="38014317" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1584</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
       <description>Ruské mávnutí rukou nad Trumpem. Babišův bolehlav se jmenuje SPD. Rigidní česká politika je v rukách Stačilo! Češi podle průzkumů souhlasí s trestem smrti. Epsteinovy složky štěpí Trumpovo hnutí MAGA.</description>
@@ -83,9 +75,17 @@
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Šéf Fed bude trpět. Byl na Trumpovi příliš nezávislý. Schůzka Zelenskyj-Putin? Zeman a Klaus opět ve hře. Tusk chce novou vládou zvrátit dosavadní dynamiku. Evropský rozpočet a otázka soudržnosti. Nerozumný pacient, nebo jen těžce pracující?</description>
       <guid isPermaLink="false">582ef38c-8b35-31a2-bf7b-dbea87dd2f01</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/17d8a468-1ac9-491b-a894-986062fcff35.mp3" length="37462509" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d5a663df-4658-461f-891d-0fae97c58def.mp3" length="38019501" type="audio/mpeg"/>
       <pubDate>Thu, 24 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
+      <itunes:duration>1584</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Hartmanem</title>
+      <description>Západ v atomové pasti Ruska? Rusko je nedotknutelné i pro tzv. opozici. Policie navrhla obžalovat Tomia Okamuru. Za 1,5 roku může přijít čínsko-ruský test NATO, varuje velitel sil NATO.</description>
+      <guid isPermaLink="false">240cbbca-fccd-356d-9557-50eb775182ef</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ccd9993e-3d83-4e18-8e87-c2987dcafb95.mp3" length="37131309" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1547</itunes:duration>
     </item>
   </channel>
 </rss>
