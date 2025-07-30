@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 29 Jul 2025 11:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 11:29:09 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Návrh změnit ústavu kvůli rozpočtové odpovědnosti se vládě nepovedl. Ukrajina navrhla přímá jednání s Ruskem. Sebevražda SOCDEM ve vozíku Stačilo! aneb Symbolický konec staré politiky. Donald Trump proti centrální bance. Nemít děti – jedna z nejhorších investic.</description>
-      <guid isPermaLink="false">25e02990-9bf5-389b-abc2-5f10b041b142</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e325bc68-6a01-48e4-9c2c-eec066ce22eb.mp3" length="38008557" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1584</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Teď nás kauzy politiků nevzrušují, o to větší zvrat ale může přijít, až se ucho utrhne. Stačilo! a SOCDEM spolu. Drahé bydlení, další skleněný strop rozdělující společnost. Ukradené volby? Blábol, který šikovně vypěstovala opozice, se nebezpečně ujal.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1584</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Hartman.</description>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Koordinátor končí dřív, než byly pochybnosti nad bitcoinovou kauzou rozptýleny. Zelenskyj žehlí protikorupční kauzu. Americko-britský pohled na dohody o clech. Přes nás nikoli! A k nám ne!</description>
       <guid isPermaLink="false">6c6259bc-43e5-30fd-94d6-ec4b74f5cd0e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b3a1a9ac-9f5e-4fd6-adff-ebfd40b1b452.mp3" length="37437741" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Jul 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/78ccb6ad-4206-4c7a-b975-15bfb2c9c776.mp3" length="37994157" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Jul 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1583</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">f744f1fd-1be0-3874-8a67-653aeafe4d05</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f02f4c72-481b-4a9b-925f-b704952e10b1.mp3" length="37281069" type="audio/mpeg"/>
+      <pubDate>Wed, 30 Jul 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1553</itunes:duration>
     </item>
   </channel>
 </rss>
