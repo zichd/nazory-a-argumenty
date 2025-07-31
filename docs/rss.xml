@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 30 Jul 2025 11:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 11:28:53 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Teď nás kauzy politiků nevzrušují, o to větší zvrat ale může přijít, až se ucho utrhne. Stačilo! a SOCDEM spolu. Drahé bydlení, další skleněný strop rozdělující společnost. Ukradené volby? Blábol, který šikovně vypěstovala opozice, se nebezpečně ujal.</description>
-      <guid isPermaLink="false">3ab2a3ed-b820-3ed4-bad4-0bceccc36fca</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1d813b1a-7730-4655-a73e-9a9d665bac8c.mp3" length="37534509" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1564</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Petrem Hartmanem</title>
       <description>Drúzové aneb lekce spletitosti. Trojúhelník Washington-Moskva-Peking. Nové miliardy pro německou ekonomiku nejsou všechno. Maláčová a Zaorálek vyrazili hájit „hodnoty“, kterým by se před deseti lety smáli. Není průzkum jako průzkum.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1583</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Jan Fingerland.</description>
+      <title>Poslechněte si středeční komentáře s Janem Fingerlandem</title>
+      <description>Kdo s kým půjde do sněmovních voleb? O tom už je rozhodnuto. Jak ale oslovit nevoliče? Jaké jsou dopady takzvané bitcoinové kauzy?Za prezidenta Petra Pavla se nemusíme stydět, ukázala to jeho návštěva dalajlámy. Začal závod o AI. A ukrajinský prezident Volodymyr Zelenskyj ztratil svatozář, navíc nahrál těm, kterí odmítají členství Ukrajiny v Evropské unii. To jsou témata středečních Názorů a argumentů, jimiž provází Jan Fingerland.</description>
       <guid isPermaLink="false">f744f1fd-1be0-3874-8a67-653aeafe4d05</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f02f4c72-481b-4a9b-925f-b704952e10b1.mp3" length="37281069" type="audio/mpeg"/>
-      <pubDate>Wed, 30 Jul 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1553</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0ea864e6-125c-474a-8c76-445f7c382fd4.mp3" length="37838061" type="audio/mpeg"/>
+      <pubDate>Wed, 30 Jul 2025 11:54:00 +0000</pubDate>
+      <itunes:duration>1577</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">1bd41ee8-fd3e-334d-87f4-b864842d8b25</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e3e987fe-41e9-421c-b0ec-37951373ba08.mp3" length="37294893" type="audio/mpeg"/>
+      <pubDate>Thu, 31 Jul 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1554</itunes:duration>
     </item>
   </channel>
 </rss>
