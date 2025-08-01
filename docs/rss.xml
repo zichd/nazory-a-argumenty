@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 31 Jul 2025 11:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 11:28:43 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Petrem Hartmanem</title>
-      <description>Drúzové aneb lekce spletitosti. Trojúhelník Washington-Moskva-Peking. Nové miliardy pro německou ekonomiku nejsou všechno. Maláčová a Zaorálek vyrazili hájit „hodnoty“, kterým by se před deseti lety smáli. Není průzkum jako průzkum.</description>
-      <guid isPermaLink="false">d8595249-c81c-3f2a-be35-70eec55b59d7</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f8a37e6b-a2bb-4d42-852f-b6e58a82c0ad.mp3" length="38014893" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1584</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Šéf Fed bude trpět. Byl na Trumpovi příliš nezávislý. Schůzka Zelenskyj-Putin? Zeman a Klaus opět ve hře. Tusk chce novou vládou zvrátit dosavadní dynamiku. Evropský rozpočet a otázka soudržnosti. Nerozumný pacient, nebo jen těžce pracující?</description>
@@ -80,12 +72,12 @@
       <itunes:duration>1577</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si čtvrteční komentáře s Petrem Schwarzem</title>
+      <description>Představuje celní dohoda mezi Spojenými státy a Evropskou unií jen přechodnou stabilitu? Evropa narazila na realitu „nového“ světa. Existuje internacionála pravicových extremistů? A zajímá českou vládu vůbec kritická situace v Gaze? V glose uslyšíte příběh z přechodu pro chodce. Čtvrtečními Názory a argumenty provází Petr Schwarz.</description>
       <guid isPermaLink="false">1bd41ee8-fd3e-334d-87f4-b864842d8b25</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e3e987fe-41e9-421c-b0ec-37951373ba08.mp3" length="37294893" type="audio/mpeg"/>
-      <pubDate>Thu, 31 Jul 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5bd7332d-0237-441b-a9b1-ac70bf1af480.mp3" length="37851885" type="audio/mpeg"/>
+      <pubDate>Thu, 31 Jul 2025 11:32:00 +0000</pubDate>
+      <itunes:duration>1577</itunes:duration>
     </item>
   </channel>
 </rss>
