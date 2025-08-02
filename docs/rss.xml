@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 01 Aug 2025 11:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 11:26:14 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>Šéf Fed bude trpět. Byl na Trumpovi příliš nezávislý. Schůzka Zelenskyj-Putin? Zeman a Klaus opět ve hře. Tusk chce novou vládou zvrátit dosavadní dynamiku. Evropský rozpočet a otázka soudržnosti. Nerozumný pacient, nebo jen těžce pracující?</description>
-      <guid isPermaLink="false">582ef38c-8b35-31a2-bf7b-dbea87dd2f01</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d5a663df-4658-461f-891d-0fae97c58def.mp3" length="38019501" type="audio/mpeg"/>
-      <pubDate>Thu, 24 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1584</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Hartmanem</title>
       <description>Západ v atomové pasti Ruska? Rusko je nedotknutelné i pro tzv. opozici. Policie navrhla obžalovat Tomia Okamuru. Za 1,5 roku může přijít čínsko-ruský test NATO, varuje velitel sil NATO.</description>
@@ -78,6 +70,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5bd7332d-0237-441b-a9b1-ac70bf1af480.mp3" length="37851885" type="audio/mpeg"/>
       <pubDate>Thu, 31 Jul 2025 11:32:00 +0000</pubDate>
       <itunes:duration>1577</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Bude česká superdávka vzorem pro zahraničí? Kdy skončí válka v Gaze a kdy vznikne samostatný palestinský stát? Co nám ukazuje první český viet film? Cla Donalda Trumpa jsou pokusem o nový režim mezinárodního obchodu. Proč Eva Turnova nemá ráda hledání? A stručné dějiny ruské beznaděje. To jsou témata pátečních Názorů a argumentů, jimiž provází Petr Schwarz.</description>
+      <guid isPermaLink="false">9526444</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/33f4a975-c82f-4c6e-93e7-b8a6146ac9f5.mp3" length="38907195" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Aug 2025 12:46:00 +0000</pubDate>
+      <itunes:duration>1621</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">18c862b0-aa74-3df0-a822-9bc480e732f9</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/077c2028-f104-476d-a9c7-5f14916f03c8.mp3" length="37461357" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Aug 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
