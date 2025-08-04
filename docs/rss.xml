@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 03 Aug 2025 11:27:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 11:29:39 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Hartmanem</title>
-      <description>Západ v atomové pasti Ruska? Rusko je nedotknutelné i pro tzv. opozici. Policie navrhla obžalovat Tomia Okamuru. Za 1,5 roku může přijít čínsko-ruský test NATO, varuje velitel sil NATO.</description>
-      <guid isPermaLink="false">240cbbca-fccd-356d-9557-50eb775182ef</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6a3cd162-fdd6-4710-8567-927169fe88cf.mp3" length="37688301" type="audio/mpeg"/>
-      <pubDate>Fri, 25 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1570</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>EU a Čína – minisummit, ale přece jenom… Proč by demokraté neměli jít do vlády s Babišem ani ve jménu zažehnání většího zla. Žijeme v předválečné době a jsme na tom nejlépe, jak jsme kdy byli, platí pro Poláky. Ale i pro nás. K volbám od 16 let: Labouristé strategicky sází na mládí bez zkušeností. Nové miliardy navíc pro německou ekonomiku nejsou všechno. Drahé bydlení, další skleněný strop rozdělující společnost</description>
-      <guid isPermaLink="false">bce94747-0649-3604-876e-6af1babf8e1f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fa8da20e-7b06-452b-b1c2-26a03fd59894.mp3" length="35389485" type="audio/mpeg"/>
-      <pubDate>Sat, 26 Jul 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1475</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Nechtějte po politicích program. Nic takového neexistuje. Babiš bojuje o radikální voliče SPD a Stačilo! a bude to ostré. Pokud patříme na Západ, podpoříme reformu eurorozpočtu. Chatboti naslouchají nonstop. Proč ale nasloucháme my jim? Šéf Fed bude trpět, byl příliš nezávislý na Trumpovi. Drúzové aneb lekce spletitosti</description>
@@ -91,9 +75,17 @@
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Patricie Polanská.</description>
       <guid isPermaLink="false">e2cca2f4-6c88-3dfa-83ff-d0000750284f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9d37f7b1-45d9-4aff-988b-cff3852d22f3.mp3" length="36414765" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/985297a4-78ea-4a12-a2de-656fbc49dba0.mp3" length="36971757" type="audio/mpeg"/>
       <pubDate>Sun, 03 Aug 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1517</itunes:duration>
+      <itunes:duration>1540</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">fa57e917-544d-3895-ac0a-296713cccbf7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/29fe3fa9-1cb5-488f-bd52-29300483eed7.mp3" length="37437741" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Aug 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
