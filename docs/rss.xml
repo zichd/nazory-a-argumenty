@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 05 Aug 2025 11:29:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 11:29:28 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Nechtějte po politicích program. Nic takového neexistuje. Babiš bojuje o radikální voliče SPD a Stačilo! a bude to ostré. Pokud patříme na Západ, podpoříme reformu eurorozpočtu. Chatboti naslouchají nonstop. Proč ale nasloucháme my jim? Šéf Fed bude trpět, byl příliš nezávislý na Trumpovi. Drúzové aneb lekce spletitosti</description>
-      <guid isPermaLink="false">0a798ca2-64d0-3e91-9ad5-bdc75cbdf4ee</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3c438fd4-859d-4fbf-b2b9-52f9bdf39d3f.mp3" length="37699821" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Jul 2025 11:15:00 +0000</pubDate>
-      <itunes:duration>1571</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Zemi čekají nejen volby, ale zřejmě také rozpočtové provizorium. Celní dohoda jako výhra? Protikorupční zákony ničí pověst Zelenského. Jak slovenský prezident Pellegrini vztah k armádě našel. USA zatíží evropské dovozy 15procentním clem.</description>
@@ -88,12 +80,20 @@
       <itunes:duration>1583</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
+      <title>Poslechněte si všechny úterní komentáře s Patricií Polanskou</title>
+      <description>Vládnutí s SPD by mohlo být pro Andreje Babiše (ANO) hotovým očistcem. Je to důvod, proč mobilizuje proti Praze? Návod, jak rozeznat nová ohrožení demokracie, sepsal Yuval Noah Harari. V Česku nejvíc plýtvají potravinami domácnosti, nikolik potravinové řetězce. Svět je zabalený v plastu. To jsou náměty úterních komentářů i glosy. Pořadem provází Patricie Polanská.</description>
       <guid isPermaLink="false">3b34dbe8-068d-3755-91a4-558ef43220d1</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/552db945-3c14-4ce1-a492-38da517f815d.mp3" length="37464813" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Aug 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/59131c6c-28c3-476c-997e-dea8d8ffeca4.mp3" length="38021805" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1584</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">bdd9257a-530c-32b5-a7c5-fa7b875582b4</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fcbe8612-3438-435f-ab07-bcf855065fc7.mp3" length="37218285" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Aug 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
