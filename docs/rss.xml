@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 06 Aug 2025 11:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 11:29:26 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Zemi čekají nejen volby, ale zřejmě také rozpočtové provizorium. Celní dohoda jako výhra? Protikorupční zákony ničí pověst Zelenského. Jak slovenský prezident Pellegrini vztah k armádě našel. USA zatíží evropské dovozy 15procentním clem.</description>
-      <guid isPermaLink="false">cd5a1bdc-da80-3727-aeaa-862ebe47ff50</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cf9694d3-ac09-44bb-94d3-fc5b253a4117.mp3" length="38018349" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Jul 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1584</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Koordinátor končí dřív, než byly pochybnosti nad bitcoinovou kauzou rozptýleny. Zelenskyj žehlí protikorupční kauzu. Americko-britský pohled na dohody o clech. Přes nás nikoli! A k nám ne!</description>
@@ -88,12 +80,20 @@
       <itunes:duration>1584</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Ondřej Konrád.</description>
+      <title>Poslechněte si všechny komentáře s Ondřejem Konrádem</title>
+      <description>Co se stalo, když Ben Gvir vystoupil na Chrámovou horu. Jaderná přestřelka mezi Spojenými státy a Ruskem. Nové vlaky znamenají i nové příležitosti. Anebo boj o italské královské klenoty. To jsou náměty příspěvků středečních Názorů a argumentů, jimiž tentokrát provází Ondřej Konrád.</description>
       <guid isPermaLink="false">bdd9257a-530c-32b5-a7c5-fa7b875582b4</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fcbe8612-3438-435f-ab07-bcf855065fc7.mp3" length="37218285" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Aug 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dea63f8c-8406-4feb-881c-f6bf0f8cf06b.mp3" length="37775277" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Aug 2025 11:53:00 +0000</pubDate>
+      <itunes:duration>1574</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny komentáře s Patricií Polanskou</title>
+      <description>Souboj o překreslování volebních obvodů v Texasu je další zkouškou americké demokracie. Evropská unie se váhavě rozhoupává k mírným sankcím proti Izraeli. Spirituální ekonomika zažívá boom. A Starostové kverulují, ovšem jen zlehka. To jsou témata čtvrtečních Názorů a argumentů, které moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">c2dbdcf2-0e69-39b2-a7c3-fe8621df82ef</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/24d20c88-07f8-4784-97d4-5eba4898e53e.mp3" length="36987885" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Aug 2025 11:13:00 +0000</pubDate>
+      <itunes:duration>1541</itunes:duration>
     </item>
   </channel>
 </rss>
