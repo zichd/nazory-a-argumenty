@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 09 Aug 2025 11:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 11:25:20 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si čtvrteční komentáře s Petrem Schwarzem</title>
-      <description>Představuje celní dohoda mezi Spojenými státy a Evropskou unií jen přechodnou stabilitu? Evropa narazila na realitu „nového“ světa. Existuje internacionála pravicových extremistů? A zajímá českou vládu vůbec kritická situace v Gaze? V glose uslyšíte příběh z přechodu pro chodce. Čtvrtečními Názory a argumenty provází Petr Schwarz.</description>
-      <guid isPermaLink="false">1bd41ee8-fd3e-334d-87f4-b864842d8b25</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5bd7332d-0237-441b-a9b1-ac70bf1af480.mp3" length="37851885" type="audio/mpeg"/>
-      <pubDate>Thu, 31 Jul 2025 11:32:00 +0000</pubDate>
-      <itunes:duration>1577</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Bude česká superdávka vzorem pro zahraničí? Kdy skončí válka v Gaze a kdy vznikne samostatný palestinský stát? Co nám ukazuje první český viet film? Cla Donalda Trumpa jsou pokusem o nový režim mezinárodního obchodu. Proč Eva Turnova nemá ráda hledání? A stručné dějiny ruské beznaděje. To jsou témata pátečních Názorů a argumentů, jimiž provází Petr Schwarz.</description>
@@ -88,12 +80,20 @@
       <itunes:duration>1567</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Volby? Nejdu! Jak se z pravicových voličů stávají anarchisté. Opoziční lídři svorně obžalovaní. S Evou Decroix je bitcoinový kříž. Zbytečně! Rybářská návnada. EU se váhavě rozhoupává k mírným sankcím proti Izraeli</description>
       <guid isPermaLink="false">fcda27f3-f5ce-3db3-83c6-387827566fff</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c52478f3-ba07-4764-9a75-b549bb818353.mp3" length="35077293" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/56cd5075-6bd9-415f-9a7f-dc22eb68dd2e.mp3" length="35634285" type="audio/mpeg"/>
       <pubDate>Sat, 09 Aug 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1462</itunes:duration>
+      <itunes:duration>1485</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <guid isPermaLink="false">dacee25f-280f-393c-ba55-d87c9b3bca42</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8a021bd1-3a9d-4714-aeef-ba7a38851248.mp3" length="37264365" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Aug 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1553</itunes:duration>
     </item>
   </channel>
 </rss>
