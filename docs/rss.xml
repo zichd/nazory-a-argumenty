@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 10 Aug 2025 11:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 11:28:12 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Bude česká superdávka vzorem pro zahraničí? Kdy skončí válka v Gaze a kdy vznikne samostatný palestinský stát? Co nám ukazuje první český viet film? Cla Donalda Trumpa jsou pokusem o nový režim mezinárodního obchodu. Proč Eva Turnova nemá ráda hledání? A stručné dějiny ruské beznaděje. To jsou témata pátečních Názorů a argumentů, jimiž provází Petr Schwarz.</description>
-      <guid isPermaLink="false">9526444</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/33f4a975-c82f-4c6e-93e7-b8a6146ac9f5.mp3" length="38907195" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Aug 2025 12:46:00 +0000</pubDate>
-      <itunes:duration>1621</itunes:duration>
-    </item>
     <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Patricie Polanská.</description>
@@ -88,12 +80,20 @@
       <itunes:duration>1485</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Bude Petr Fiala následovat Edvarda Beneše? Bývalá pětikoalice ztratila část podpory mladých voličů. Babiš jich zaujal celou čtvrtinu. Investoři objevili „kouzlo“ nájemního bydlení a to teď zdražuje. Překvapivé to není, problematické ano. Osobní superinteligence do každé rodiny. Česká ekonomika se bez cizinců už neobejde. Boom spirituální ekonomiky</description>
       <guid isPermaLink="false">dacee25f-280f-393c-ba55-d87c9b3bca42</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8a021bd1-3a9d-4714-aeef-ba7a38851248.mp3" length="37264365" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/99888f0d-c7a5-4c35-861a-20b93bfff7b8.mp3" length="37821357" type="audio/mpeg"/>
       <pubDate>Sun, 10 Aug 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1553</itunes:duration>
+      <itunes:duration>1576</itunes:duration>
+    </item>
+    <item>
+      <title>O připravované schůzce Donalda Trumpu s Vladimirem Putinem, o tzv. předdůchodu pro náročné profese, o kontroverzních výrocích slovenského premiéra</title>
+      <description>Také o tom uslyšíte v analýzách a názorech, které pro vás připravili renomovaní komentátoři. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">91d26832-b893-30ea-ab20-e585ee974d66</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a9b57bef-72c2-4336-935a-9fd87db1421f.mp3" length="37459629" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Aug 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
