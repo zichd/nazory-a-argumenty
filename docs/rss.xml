@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 11 Aug 2025 11:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 11:26:28 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">18c862b0-aa74-3df0-a822-9bc480e732f9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d4fbef27-9e4c-478b-b8d2-f35b515db7f7.mp3" length="38018349" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Aug 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1584</itunes:duration>
-    </item>
     <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Patricie Polanská.</description>
@@ -88,12 +80,20 @@
       <itunes:duration>1576</itunes:duration>
     </item>
     <item>
-      <title>O připravované schůzce Donalda Trumpu s Vladimirem Putinem, o tzv. předdůchodu pro náročné profese, o kontroverzních výrocích slovenského premiéra</title>
-      <description>Také o tom uslyšíte v analýzách a názorech, které pro vás připravili renomovaní komentátoři. Moderuje Petr Hartman.</description>
+      <title>Poslechněte si všechny pondělní komentáře s Petrem Hartmanem</title>
+      <description>Příští českou vládu čeká i jeden čím dál složitější rébus: Slovensko. Schůzka na Aljašce. Komu prospějí změny v předdůchodech. Jak poznat lež. Kupte papeže!</description>
       <guid isPermaLink="false">91d26832-b893-30ea-ab20-e585ee974d66</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a9b57bef-72c2-4336-935a-9fd87db1421f.mp3" length="37459629" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Aug 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a4865c44-ccde-41a4-9a86-62eedb679bb8.mp3" length="38016621" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Aug 2025 11:15:00 +0000</pubDate>
+      <itunes:duration>1584</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
+      <description>Na Aljašce Evropané nebudou, ale půjde tam o jejich budoucnost. Může za zájem o bitcoinovou kauzu okurková sezóna, jak nám tvrdí Eva Decroix? Evropa, Česko a Aljaška. Netanjahu vsadil na dobytí Gazy.</description>
+      <guid isPermaLink="false">8f035044-e7e9-3b85-a762-f4b899321078</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/57736b74-0aed-4111-a80f-9bd80fb779fb.mp3" length="37451565" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
