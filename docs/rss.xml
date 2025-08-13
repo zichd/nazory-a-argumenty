@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 12 Aug 2025 11:26:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 11:27:13 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">e2cca2f4-6c88-3dfa-83ff-d0000750284f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/985297a4-78ea-4a12-a2de-656fbc49dba0.mp3" length="36971757" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Aug 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1540</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si pondělní komentáře s Janem Fingerlandem</title>
       <description>Česká ekonomika se už bez cizinců neobejde. Ale ministerstvo ruší podporu škol s více ukrajinskými dětmi. V J.A.R. nemůže rappovat žádný politik, rozhodla kapela. O ruské aroganci a světe, ve kterém nikdo není nikomu nic dlužen. A glosa Ondřeje Neffa o vráceném kořenáči. To jsou témata pondělních Názorů a argumentů, jimiž provází Jan Fingerland.</description>
@@ -89,11 +81,19 @@
     </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
-      <description>Na Aljašce Evropané nebudou, ale půjde tam o jejich budoucnost. Může za zájem o bitcoinovou kauzu okurková sezóna, jak nám tvrdí Eva Decroix? Evropa, Česko a Aljaška. Netanjahu vsadil na dobytí Gazy.</description>
+      <description>Na Aljašce Evropané nebudou, ale půjde tam o jejich budoucnost. Může za zájem o bitcoinovou kauzu okurková sezóna, jak nám tvrdí Eva Decroix? Netanjahu vsadil na dobytí Gaza-City. Programová shoda až dojemná.</description>
       <guid isPermaLink="false">8f035044-e7e9-3b85-a762-f4b899321078</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/57736b74-0aed-4111-a80f-9bd80fb779fb.mp3" length="37451565" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/01bdc079-38ba-4fa4-b4da-b6b745dfa4fc.mp3" length="38008557" type="audio/mpeg"/>
       <pubDate>Tue, 12 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
+      <itunes:duration>1584</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Ani stovky miliard neodstraní dopravní chudobu. Bude se po sněmovních volbách překotně měnit Ústava? Medvěděv a Fico jsou Putinova surová, hlásná dvojka. Snad se k nim po volbách česká vláda nepřidá. Tak princip, nebo peníze?</description>
+      <guid isPermaLink="false">4ec9ed84-4370-3421-b584-355be3925b33</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9670b105-d0b4-4c92-b1b8-edb34467872c.mp3" length="37305261" type="audio/mpeg"/>
+      <pubDate>Wed, 13 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1554</itunes:duration>
     </item>
   </channel>
 </rss>
