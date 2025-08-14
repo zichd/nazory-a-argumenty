@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 13 Aug 2025 11:27:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 11:26:50 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si pondělní komentáře s Janem Fingerlandem</title>
-      <description>Česká ekonomika se už bez cizinců neobejde. Ale ministerstvo ruší podporu škol s více ukrajinskými dětmi. V J.A.R. nemůže rappovat žádný politik, rozhodla kapela. O ruské aroganci a světe, ve kterém nikdo není nikomu nic dlužen. A glosa Ondřeje Neffa o vráceném kořenáči. To jsou témata pondělních Názorů a argumentů, jimiž provází Jan Fingerland.</description>
-      <guid isPermaLink="false">fa57e917-544d-3895-ac0a-296713cccbf7</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7b614fcc-8c92-4a36-90d3-f432b55ffedb.mp3" length="37994157" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Aug 2025 11:29:00 +0000</pubDate>
-      <itunes:duration>1583</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Patricií Polanskou</title>
       <description>Vládnutí s SPD by mohlo být pro Andreje Babiše (ANO) hotovým očistcem. Je to důvod, proč mobilizuje proti Praze? Návod, jak rozeznat nová ohrožení demokracie, sepsal Yuval Noah Harari. V Česku nejvíc plýtvají potravinami domácnosti, nikolik potravinové řetězce. Svět je zabalený v plastu. To jsou náměty úterních komentářů i glosy. Pořadem provází Patricie Polanská.</description>
@@ -91,9 +83,17 @@
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Ani stovky miliard neodstraní dopravní chudobu. Bude se po sněmovních volbách překotně měnit Ústava? Medvěděv a Fico jsou Putinova surová, hlásná dvojka. Snad se k nim po volbách česká vláda nepřidá. Tak princip, nebo peníze?</description>
       <guid isPermaLink="false">4ec9ed84-4370-3421-b584-355be3925b33</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9670b105-d0b4-4c92-b1b8-edb34467872c.mp3" length="37305261" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a8499b6e-e145-401e-88de-f91d603f5b97.mp3" length="37861677" type="audio/mpeg"/>
       <pubDate>Wed, 13 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
+      <itunes:duration>1578</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
+      <description>Nasazení federálních složek ve Washingtonu je past na demokraty. Předaljašské tanečky Zmrzlinové stroje – klíč k ekonomické obnově Polska? ANO a kauza málem mrtvého psa.</description>
+      <guid isPermaLink="false">80553994-c8d8-300d-b2dc-d355ba708b06</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/92ae358d-bb80-4d6c-866b-b68d76dd8bc8.mp3" length="36915309" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1538</itunes:duration>
     </item>
   </channel>
 </rss>
