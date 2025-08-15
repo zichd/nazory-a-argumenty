@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 14 Aug 2025 11:26:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 11:25:34 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Patricií Polanskou</title>
-      <description>Vládnutí s SPD by mohlo být pro Andreje Babiše (ANO) hotovým očistcem. Je to důvod, proč mobilizuje proti Praze? Návod, jak rozeznat nová ohrožení demokracie, sepsal Yuval Noah Harari. V Česku nejvíc plýtvají potravinami domácnosti, nikolik potravinové řetězce. Svět je zabalený v plastu. To jsou náměty úterních komentářů i glosy. Pořadem provází Patricie Polanská.</description>
-      <guid isPermaLink="false">3b34dbe8-068d-3755-91a4-558ef43220d1</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/59131c6c-28c3-476c-997e-dea8d8ffeca4.mp3" length="38021805" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1584</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny komentáře s Ondřejem Konrádem</title>
       <description>Co se stalo, když Ben Gvir vystoupil na Chrámovou horu. Jaderná přestřelka mezi Spojenými státy a Ruskem. Nové vlaky znamenají i nové příležitosti. Anebo boj o italské královské klenoty. To jsou náměty příspěvků středečních Názorů a argumentů, jimiž tentokrát provází Ondřej Konrád.</description>
@@ -91,9 +83,17 @@
       <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
       <description>Nasazení federálních složek ve Washingtonu je past na demokraty. Předaljašské tanečky Zmrzlinové stroje – klíč k ekonomické obnově Polska? ANO a kauza málem mrtvého psa.</description>
       <guid isPermaLink="false">80553994-c8d8-300d-b2dc-d355ba708b06</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/92ae358d-bb80-4d6c-866b-b68d76dd8bc8.mp3" length="36915309" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cdd44877-e6ab-46a5-a9f4-bdfe10d09cf7.mp3" length="37472301" type="audio/mpeg"/>
       <pubDate>Thu, 14 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1538</itunes:duration>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Kamilou Schusterovou</title>
+      <description>Putinův „deal“ je z 18. století. Kreml zakázal Rusům volat přes WhatsApp a Telegram. Ještě nejsme tam, kde bychom mohli být. Válka o to, kdo vyhrál válku. Ať to dopadne, jak chce, Česko bylo na té správné straně. Američtí prezidenti a Nobelova cena míru.</description>
+      <guid isPermaLink="false">6ae09620-4a8b-313f-9f86-4d0a502d82de</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/38acee86-9294-46ae-a021-9f1ac1a9f42a.mp3" length="37457325" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
