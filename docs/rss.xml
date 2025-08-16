@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 15 Aug 2025 11:25:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 11:23:42 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny komentáře s Ondřejem Konrádem</title>
-      <description>Co se stalo, když Ben Gvir vystoupil na Chrámovou horu. Jaderná přestřelka mezi Spojenými státy a Ruskem. Nové vlaky znamenají i nové příležitosti. Anebo boj o italské královské klenoty. To jsou náměty příspěvků středečních Názorů a argumentů, jimiž tentokrát provází Ondřej Konrád.</description>
-      <guid isPermaLink="false">bdd9257a-530c-32b5-a7c5-fa7b875582b4</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dea63f8c-8406-4feb-881c-f6bf0f8cf06b.mp3" length="37775277" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Aug 2025 11:53:00 +0000</pubDate>
-      <itunes:duration>1574</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny komentáře s Patricií Polanskou</title>
       <description>Souboj o překreslování volebních obvodů v Texasu je další zkouškou americké demokracie. Evropská unie se váhavě rozhoupává k mírným sankcím proti Izraeli. Spirituální ekonomika zažívá boom. A Starostové kverulují, ovšem jen zlehka. To jsou témata čtvrtečních Názorů a argumentů, které moderuje Patricie Polanská.</description>
@@ -88,12 +80,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Poslechněte si všechny páteční komentáře s Kamilou Schusterovou</title>
+      <title>Poslechněte si všechny páteční komentáře s Kamilou Pešekovou</title>
       <description>Putinův „deal“ je z 18. století. Kreml zakázal Rusům volat přes WhatsApp a Telegram. Ještě nejsme tam, kde bychom mohli být. Válka o to, kdo vyhrál válku. Ať to dopadne, jak chce, Česko bylo na té správné straně. Američtí prezidenti a Nobelova cena míru.</description>
       <guid isPermaLink="false">6ae09620-4a8b-313f-9f86-4d0a502d82de</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/38acee86-9294-46ae-a021-9f1ac1a9f42a.mp3" length="37457325" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/eff7bbdf-8c79-4c30-8387-b67c345a41ea.mp3" length="38014317" type="audio/mpeg"/>
       <pubDate>Fri, 15 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
+      <itunes:duration>1584</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">72f05d73-f06a-32d1-a4f6-78f6d0cd4a8d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b50029d4-1d85-4ac6-ba15-d444fcabe7c0.mp3" length="34949421" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Aug 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1456</itunes:duration>
     </item>
   </channel>
 </rss>
