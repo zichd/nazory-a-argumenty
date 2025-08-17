@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 16 Aug 2025 11:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 11:24:11 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny komentáře s Patricií Polanskou</title>
-      <description>Souboj o překreslování volebních obvodů v Texasu je další zkouškou americké demokracie. Evropská unie se váhavě rozhoupává k mírným sankcím proti Izraeli. Spirituální ekonomika zažívá boom. A Starostové kverulují, ovšem jen zlehka. To jsou témata čtvrtečních Názorů a argumentů, které moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">c2dbdcf2-0e69-39b2-a7c3-fe8621df82ef</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5db8db78-c26d-4a15-ac1a-ab161da25d87.mp3" length="37544301" type="audio/mpeg"/>
-      <pubDate>Thu, 07 Aug 2025 11:13:00 +0000</pubDate>
-      <itunes:duration>1564</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
       <description>Svět je v pohybu. Co přinese do funkce nastupující prezident Nawrocki česko-polským vztahům? Mnoho ruských emigrantů je sice proti Vladimiru Putinovi, ale pro Rusko. Špatné příklady by neměly táhnout, i když je za tím BBC. A jak se mluví psí řečí? To jsou témata pátečních Názorů a argumentů, jimiž ze studia provází Ondřej Konrád.</description>
@@ -88,12 +80,20 @@
       <itunes:duration>1584</itunes:duration>
     </item>
     <item>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Blažek s Decroix nejlepšími píáristy opozice; Neúspěšné odvolávání ministra Šaška je také dokladem povrchnosti slovenské opozice; Krachy na solárním trhu ukazují, že se trh konsoliduje</description>
+      <guid isPermaLink="false">72f05d73-f06a-32d1-a4f6-78f6d0cd4a8d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/05c7ca8c-afd9-4517-ac84-95b4a72f15c7.mp3" length="35505837" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Aug 2025 11:20:00 +0000</pubDate>
+      <itunes:duration>1479</itunes:duration>
+    </item>
+    <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">72f05d73-f06a-32d1-a4f6-78f6d0cd4a8d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b50029d4-1d85-4ac6-ba15-d444fcabe7c0.mp3" length="34949421" type="audio/mpeg"/>
-      <pubDate>Sat, 16 Aug 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1456</itunes:duration>
+      <guid isPermaLink="false">71bb0653-f8ad-3b71-9bfe-9ede4614f741</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ce58e3d6-ffb9-4c6e-90fa-317932e6efbe.mp3" length="34553709" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Aug 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1440</itunes:duration>
     </item>
   </channel>
 </rss>
