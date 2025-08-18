@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 17 Aug 2025 11:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 11:27:36 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
-      <description>Svět je v pohybu. Co přinese do funkce nastupující prezident Nawrocki česko-polským vztahům? Mnoho ruských emigrantů je sice proti Vladimiru Putinovi, ale pro Rusko. Špatné příklady by neměly táhnout, i když je za tím BBC. A jak se mluví psí řečí? To jsou témata pátečních Názorů a argumentů, jimiž ze studia provází Ondřej Konrád.</description>
-      <guid isPermaLink="false">bd168c40-d531-306a-97e2-352c62645796</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/999c7603-7f31-4048-9128-0d9f1979c5e4.mp3" length="37606509" type="audio/mpeg"/>
-      <pubDate>Fri, 08 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1567</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Volby? Nejdu! Jak se z pravicových voličů stávají anarchisté. Opoziční lídři svorně obžalovaní. S Evou Decroix je bitcoinový kříž. Zbytečně! Rybářská návnada. EU se váhavě rozhoupává k mírným sankcím proti Izraeli</description>
-      <guid isPermaLink="false">fcda27f3-f5ce-3db3-83c6-387827566fff</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/56cd5075-6bd9-415f-9a7f-dc22eb68dd2e.mp3" length="35634285" type="audio/mpeg"/>
-      <pubDate>Sat, 09 Aug 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1485</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
       <description>Bude Petr Fiala následovat Edvarda Beneše? Bývalá pětikoalice ztratila část podpory mladých voličů. Babiš jich zaujal celou čtvrtinu. Investoři objevili „kouzlo“ nájemního bydlení a to teď zdražuje. Překvapivé to není, problematické ano. Osobní superinteligence do každé rodiny. Česká ekonomika se bez cizinců už neobejde. Boom spirituální ekonomiky</description>
@@ -88,12 +72,20 @@
       <itunes:duration>1479</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Ondřej Konrád.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Na Aljašce vyhrál spíš Putin než Trump, z hlediska Evropy se nic zásadního nezměnilo; Politický testament Petra Fialy; Jaké recepty najdeme v ekonomických programech politických stran; ÚS se zastal otce jedné z obětí střelby na Filosofické fakultě. Vztah k obětem se mění pomalu; Proč ČSSD ztrácí půdu pod nohama</description>
       <guid isPermaLink="false">71bb0653-f8ad-3b71-9bfe-9ede4614f741</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ce58e3d6-ffb9-4c6e-90fa-317932e6efbe.mp3" length="34553709" type="audio/mpeg"/>
-      <pubDate>Sun, 17 Aug 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1440</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6a938b13-d7fa-4a9b-aa84-f9b25a09dfc8.mp3" length="35110701" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Aug 2025 11:38:00 +0000</pubDate>
+      <itunes:duration>1463</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Jaké sliby dávají strany a hnutí učitelům před volbami? Nekonkrétní. Dostupné bydlení zůstává hitem, na který se může zaměřit další vláda. Další Gorbačov hned tak nepřijde. Devítiměsíční občanské nepokoje v Srbsku... a nic.</description>
+      <guid isPermaLink="false">f23c6283-a9c5-3df4-89ad-0242517af861</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2b9f2058-01a8-4b16-bc46-7278cc7db1f7.mp3" length="37446957" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
