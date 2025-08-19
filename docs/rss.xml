@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 18 Aug 2025 11:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 11:24:53 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -83,8 +83,16 @@
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Jaké sliby dávají strany a hnutí učitelům před volbami? Nekonkrétní. Dostupné bydlení zůstává hitem, na který se může zaměřit další vláda. Další Gorbačov hned tak nepřijde. Devítiměsíční občanské nepokoje v Srbsku... a nic.</description>
       <guid isPermaLink="false">f23c6283-a9c5-3df4-89ad-0242517af861</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2b9f2058-01a8-4b16-bc46-7278cc7db1f7.mp3" length="37446957" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a20d91b0-b167-44ba-8e19-84f545e52fea.mp3" length="38105901" type="audio/mpeg"/>
       <pubDate>Mon, 18 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1588</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Zápas o preferenční hlasy bude letos nelítostný. To složitější Trumpa teprve čeká. Pouhé symboly válku neukončí. Evropa může stavět na tom, co se ve Washingtonu dohodlo. Světlo a stíny Merzových sto dní v čele vlády.</description>
+      <guid isPermaLink="false">5d68fa7a-0283-348a-af59-6c64ba30dfb1</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a1560597-0f3d-4d81-8497-410c1cc40f92.mp3" length="37434861" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Aug 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
