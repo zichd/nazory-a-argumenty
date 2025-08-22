@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 21 Aug 2025 11:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 11:24:11 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
-      <description>Na Aljašce Evropané nebudou, ale půjde tam o jejich budoucnost. Může za zájem o bitcoinovou kauzu okurková sezóna, jak nám tvrdí Eva Decroix? Netanjahu vsadil na dobytí Gaza-City. Programová shoda až dojemná.</description>
-      <guid isPermaLink="false">8f035044-e7e9-3b85-a762-f4b899321078</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/01bdc079-38ba-4fa4-b4da-b6b745dfa4fc.mp3" length="38008557" type="audio/mpeg"/>
-      <pubDate>Tue, 12 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1584</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Ani stovky miliard neodstraní dopravní chudobu. Bude se po sněmovních volbách překotně měnit Ústava? Medvěděv a Fico jsou Putinova surová, hlásná dvojka. Snad se k nim po volbách česká vláda nepřidá. Tak princip, nebo peníze?</description>
-      <guid isPermaLink="false">4ec9ed84-4370-3421-b584-355be3925b33</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a8499b6e-e145-401e-88de-f91d603f5b97.mp3" length="37861677" type="audio/mpeg"/>
-      <pubDate>Wed, 13 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1578</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
       <description>Nasazení federálních složek ve Washingtonu je past na demokraty. Předaljašské tanečky Zmrzlinové stroje – klíč k ekonomické obnově Polska? ANO a kauza málem mrtvého psa.</description>
@@ -91,9 +75,17 @@
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Soudní spory o údajně nepřiznaných koalicích mohou mít závažné dopady na volby. 21. srpen 1968. Ve volbách se hraje i o tajné služby. Vládní strany před minulými volbami slibovaly deagrofertizaci, ale „skutek utek“. Teď s ní přicházejí...</description>
       <guid isPermaLink="false">e037cdea-5e5a-3ea1-aee0-f5bf1a1900ac</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8d1ff40f-c37a-4a47-a84d-fd9038cb8dfb.mp3" length="37237869" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8025f90e-a446-4022-8834-ffd92e0e5079.mp3" length="37794861" type="audio/mpeg"/>
       <pubDate>Thu, 21 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
+      <itunes:duration>1575</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Lze se poučit z dějin? Izrael ztrácí Ameriku. A možná nebude z míru na Ukrajině vůbec nic. Izrael ztrácí Ameriku. Zámožní Rusové investují do počínštění svých dětí.</description>
+      <guid isPermaLink="false">175c2398-6f53-36b6-aa23-eb696baed7d5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6c99ac1c-a6f5-4069-ae26-426498f106e4.mp3" length="37295469" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1554</itunes:duration>
     </item>
   </channel>
 </rss>
