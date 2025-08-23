@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 22 Aug 2025 11:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 11:22:30 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -83,9 +83,17 @@
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Lze se poučit z dějin? Izrael ztrácí Ameriku. A možná nebude z míru na Ukrajině vůbec nic. Izrael ztrácí Ameriku. Zámožní Rusové investují do počínštění svých dětí.</description>
       <guid isPermaLink="false">175c2398-6f53-36b6-aa23-eb696baed7d5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6c99ac1c-a6f5-4069-ae26-426498f106e4.mp3" length="37295469" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2eeaf1b2-9a09-43c2-9a01-c83b60a99313.mp3" length="37851885" type="audio/mpeg"/>
       <pubDate>Fri, 22 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
+      <itunes:duration>1577</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <guid isPermaLink="false">b084dc7c-b259-3c00-88d5-fff8f0b9301a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6fb81187-0306-4a37-a991-11399b5f93d2.mp3" length="36716589" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Aug 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1530</itunes:duration>
     </item>
   </channel>
 </rss>
