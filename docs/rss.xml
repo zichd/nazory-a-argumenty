@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 24 Aug 2025 11:22:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 11:25:36 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Kamilou Pešekovou</title>
-      <description>Putinův „deal“ je z 18. století. Kreml zakázal Rusům volat přes WhatsApp a Telegram. Ještě nejsme tam, kde bychom mohli být. Válka o to, kdo vyhrál válku. Ať to dopadne, jak chce, Česko bylo na té správné straně. Američtí prezidenti a Nobelova cena míru.</description>
-      <guid isPermaLink="false">6ae09620-4a8b-313f-9f86-4d0a502d82de</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/eff7bbdf-8c79-4c30-8387-b67c345a41ea.mp3" length="38014317" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1584</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Blažek s Decroix nejlepšími píáristy opozice; Neúspěšné odvolávání ministra Šaška je také dokladem povrchnosti slovenské opozice; Krachy na solárním trhu ukazují, že se trh konsoliduje</description>
-      <guid isPermaLink="false">72f05d73-f06a-32d1-a4f6-78f6d0cd4a8d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/05c7ca8c-afd9-4517-ac84-95b4a72f15c7.mp3" length="35505837" type="audio/mpeg"/>
-      <pubDate>Sat, 16 Aug 2025 11:20:00 +0000</pubDate>
-      <itunes:duration>1479</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Na Aljašce vyhrál spíš Putin než Trump, z hlediska Evropy se nic zásadního nezměnilo; Politický testament Petra Fialy; Jaké recepty najdeme v ekonomických programech politických stran; ÚS se zastal otce jedné z obětí střelby na Filosofické fakultě. Vztah k obětem se mění pomalu; Proč ČSSD ztrácí půdu pod nohama</description>
@@ -88,12 +72,20 @@
       <itunes:duration>1553</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Janem Fingerlandem</title>
+      <description>Prozápadní politické strany potvrzují vlastní bezradnost; Stačilo kolem výročí okupace úplně rozparáděné; Kdo může za prázdné pláže v Itálii? Polsko je druhá evropská liga. Protože Visegrád prostě není; Cezannově roku v Provence vévodí obraz z pražské Národní galerie</description>
       <guid isPermaLink="false">a23a45d9-5ac3-36b7-8311-2fec0cac1f08</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/136bcac7-008b-47a1-b272-933fd8a86e27.mp3" length="36694701" type="audio/mpeg"/>
-      <pubDate>Sun, 24 Aug 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1529</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b3594606-8ebc-47ac-8796-1e78b557c7fc.mp3" length="37251693" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Aug 2025 11:19:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Slovenská vláda se snaží krotit státní dluh. Kde je možné hledat inspiraci? Minimální mzda? Doporučení, kterým se neřídí ani stát. Útoky na Nord Stream znovu na scéně. Na Rusko je třeba tlačit, ne o tom mluvit.</description>
+      <guid isPermaLink="false">a5e077a6-bf4b-3b6d-94dc-32de4e3b6a5a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/32b26182-6c7e-4e9a-bded-74f4f700f557.mp3" length="37427949" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
