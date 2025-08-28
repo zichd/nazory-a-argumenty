@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 27 Aug 2025 11:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 11:23:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Jaké sliby dávají strany a hnutí učitelům před volbami? Nekonkrétní. Dostupné bydlení zůstává hitem, na který se může zaměřit další vláda. Další Gorbačov hned tak nepřijde. Devítiměsíční občanské nepokoje v Srbsku... a nic.</description>
-      <guid isPermaLink="false">f23c6283-a9c5-3df4-89ad-0242517af861</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a20d91b0-b167-44ba-8e19-84f545e52fea.mp3" length="38105901" type="audio/mpeg"/>
-      <pubDate>Mon, 18 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1588</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Zápas o preferenční hlasy bude letos nelítostný. To složitější Trumpa teprve čeká. Pouhé symboly válku neukončí. Evropa může stavět na tom, co se ve Washingtonu dohodlo. Světlo a stíny Merzových sto dní v čele vlády.</description>
@@ -91,9 +83,17 @@
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Výstraha z Německa: Končí sláva evropského průmyslu? Konec snu o volném trhu. Antibabiš u piva. Pokud bude Babiš vládnout, bez extrémní pravice nebo extrémní levice se neobejde. Umělá inteligence jako společník do nepohody.</description>
       <guid isPermaLink="false">938eb0db-c77f-38d8-99de-968e4333162b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e85a6dfb-4584-405f-81a1-602223fe3e23.mp3" length="37207341" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ca1f5ba5-dbc8-440d-b0c1-966dddc5a6bf.mp3" length="37764333" type="audio/mpeg"/>
       <pubDate>Wed, 27 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1550</itunes:duration>
+      <itunes:duration>1573</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
+      <description>Trump chce poslat federální bezpečnostní složky do dalších měst. Změní se po volbách režim? Proč je obnovení vojenské služby v Německu přelomovou událostí. Sýrie kráčí k demokracii oklikou. Jak je na tom ruská ekonomika?</description>
+      <guid isPermaLink="false">828a549f-a4b2-39f8-ac11-d9b1facf66d8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e376beac-de5f-4b48-ad25-95201539b94c.mp3" length="37421037" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
