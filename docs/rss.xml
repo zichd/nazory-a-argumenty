@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 28 Aug 2025 11:23:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 11:23:27 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Zápas o preferenční hlasy bude letos nelítostný. To složitější Trumpa teprve čeká. Pouhé symboly válku neukončí. Evropa může stavět na tom, co se ve Washingtonu dohodlo. Světlo a stíny Merzových sto dní v čele vlády.</description>
-      <guid isPermaLink="false">5d68fa7a-0283-348a-af59-6c64ba30dfb1</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d3633089-386e-4765-bfc2-d877d62db1c7.mp3" length="37991853" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1583</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Patricií Polanskou</title>
-      <description>Prosperujeme, jenže na dluh. Stranický optimismus z vylosovaných čísel. Tento způsob komunikace o bitcoinech zdá se mi pro vládu poněkud nešťastným. Kdo ve Washingtonu vyhrál? Svět podle Petera Thiela.</description>
-      <guid isPermaLink="false">b362fceb-cf88-3f85-a33d-81a9703015be</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4bd14563-b2d8-4f49-a6a6-8bf2d1ec30bc.mp3" length="37800621" type="audio/mpeg"/>
-      <pubDate>Wed, 20 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1575</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Soudní spory o údajně nepřiznaných koalicích mohou mít závažné dopady na volby. 21. srpen 1968. Ve volbách se hraje i o tajné služby. Vládní strany před minulými volbami slibovaly deagrofertizaci, ale „skutek utek“. Teď s ní přicházejí...</description>
@@ -91,8 +75,16 @@
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
       <description>Trump chce poslat federální bezpečnostní složky do dalších měst. Změní se po volbách režim? Proč je obnovení vojenské služby v Německu přelomovou událostí. Sýrie kráčí k demokracii oklikou. Jak je na tom ruská ekonomika?</description>
       <guid isPermaLink="false">828a549f-a4b2-39f8-ac11-d9b1facf66d8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e376beac-de5f-4b48-ad25-95201539b94c.mp3" length="37421037" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/244c4863-21a6-4117-bcfb-58fd60bb357b.mp3" length="37977453" type="audio/mpeg"/>
       <pubDate>Thu, 28 Aug 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1582</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Ukrajina mezi obranou a obnovou. Ruský exil o vyhlídkách na válku v Evropě. Proč je vládní zmocněnec Kotlár nebezpečný pro celé Slovensko? Polský prezident Nawrocki není a nebude spojencem Ukrajiny. Je to totiž nacionalista.</description>
+      <guid isPermaLink="false">01008807-4236-33f4-bde2-93a2067499e8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d5fa4672-8053-4d25-89c4-740ed842e526.mp3" length="37423917" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Aug 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
