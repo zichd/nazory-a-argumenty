@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 30 Aug 2025 11:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 11:21:43 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Soudní spory o údajně nepřiznaných koalicích mohou mít závažné dopady na volby. 21. srpen 1968. Ve volbách se hraje i o tajné služby. Vládní strany před minulými volbami slibovaly deagrofertizaci, ale „skutek utek“. Teď s ní přicházejí...</description>
-      <guid isPermaLink="false">e037cdea-5e5a-3ea1-aee0-f5bf1a1900ac</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8025f90e-a446-4022-8834-ffd92e0e5079.mp3" length="37794861" type="audio/mpeg"/>
-      <pubDate>Thu, 21 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1575</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Lze se poučit z dějin? Izrael ztrácí Ameriku. A možná nebude z míru na Ukrajině vůbec nic. Izrael ztrácí Ameriku. Zámožní Rusové investují do počínštění svých dětí.</description>
@@ -88,12 +80,20 @@
       <itunes:duration>1583</itunes:duration>
     </item>
     <item>
+      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
+      <description>Vyslání vojáků na poválečnou Ukrajinu? Ani kvůli volbám by neměl Fiala před touto otázkou unikat do předčasnosti; Velký vlastenecký výlet odhalil nečekané souvislosti. A jsou děsivější než jakákoli původní představa; Spolubydlení samo o sobě problém není. Drahé ceny za bydlení (nejen) pro mladé naopak ano; Trump chce trestat kvůli pálení vlajky, které ještě nedávno konzervativci v USA hájili</description>
+      <guid isPermaLink="false">851d94ee-4e6f-3fce-bf60-546be3f79ed6</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3ba0b22b-763f-4e5b-9ac9-953d85eca222.mp3" length="36786285" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Aug 2025 11:13:00 +0000</pubDate>
+      <itunes:duration>1533</itunes:duration>
+    </item>
+    <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">851d94ee-4e6f-3fce-bf60-546be3f79ed6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f27e1cb3-178f-4514-8b70-b90bf7e2460d.mp3" length="36229293" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Aug 2025 10:33:00 +0000</pubDate>
-      <itunes:duration>1510</itunes:duration>
+      <guid isPermaLink="false">b4008ac3-162d-3ddf-b256-5377286c6e14</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3f48308e-7be4-4379-9006-dd8118d233fe.mp3" length="37346157" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Aug 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
