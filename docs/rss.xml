@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 01 Sep 2025 11:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 11:24:10 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Janem Fingerlandem</title>
-      <description>Prozápadní politické strany potvrzují vlastní bezradnost; Stačilo kolem výročí okupace úplně rozparáděné; Kdo může za prázdné pláže v Itálii? Polsko je druhá evropská liga. Protože Visegrád prostě není; Cezannově roku v Provence vévodí obraz z pražské Národní galerie</description>
-      <guid isPermaLink="false">a23a45d9-5ac3-36b7-8311-2fec0cac1f08</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/136bcac7-008b-47a1-b272-933fd8a86e27.mp3" length="36694701" type="audio/mpeg"/>
-      <pubDate>Sun, 24 Aug 2025 11:19:00 +0000</pubDate>
-      <itunes:duration>1529</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Slovenská vláda se snaží krotit státní dluh. Kde je možné hledat inspiraci? Minimální mzda? Doporučení, kterým se neřídí ani stát. Útoky na Nord Stream znovu na scéně. Na Rusko je třeba tlačit, ne o tom mluvit.</description>
@@ -83,9 +75,17 @@
       <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
       <description>Začíná nový školní rok a končí ministr, který neplnil vládní sliby. Skutečně ceny bytů rostou bez omezení a kupci stojí frontu na cokoli? Vražda bývalého předsedy ukrajinského parlamentu. Kde jsou dnes elity?</description>
       <guid isPermaLink="false">9dc1b58e-e53e-3da2-8cdc-d0fe618fc06a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c3196698-5aba-45b6-9e6b-8302bb93d345.mp3" length="37425069" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5bae461a-7c73-4895-a3a4-2e4f245ef34b.mp3" length="37476333" type="audio/mpeg"/>
       <pubDate>Mon, 01 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">ea8eda69-de44-3bc3-ac9e-a79f170ec1cf</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dcccad53-8ade-4b50-8e8e-c0e862657f11.mp3" length="37239021" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Sep 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
