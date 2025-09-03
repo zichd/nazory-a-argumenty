@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 02 Sep 2025 11:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 11:23:10 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -80,12 +80,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Hartman.</description>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Vyhrát volby bude nejspíš snazší než sestavit příští vládu. Si Ťin-pching a Módí jsou teď „kamarádi“? Zvyšování minimálky nově sice bez překvapení, ale s přetrvávajícími problémy. Žijeme v patriarchátu. Průměrná mzda mužů je skoro o 10 tisíc vyšší než žen.</description>
       <guid isPermaLink="false">ea8eda69-de44-3bc3-ac9e-a79f170ec1cf</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dcccad53-8ade-4b50-8e8e-c0e862657f11.mp3" length="37239021" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Sep 2025 10:34:00 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Investujeme do bezpečnosti. Proč ale na dluh? Babiš není prvním a patrně nebude ani posledním napadeným politikem. Kidults čili fenomén věčného dětství. Nůžky se rozevírají. Pastevec Inalaj.</description>
+      <guid isPermaLink="false">9e15fcff-8b83-3e5a-8d39-b61806ef83cf</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7ab2c24f-e996-414d-94cd-fb00c64af396.mp3" length="37418157" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Sep 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
