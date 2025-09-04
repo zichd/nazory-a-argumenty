@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 03 Sep 2025 11:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 11:23:23 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Slovenská vláda se snaží krotit státní dluh. Kde je možné hledat inspiraci? Minimální mzda? Doporučení, kterým se neřídí ani stát. Útoky na Nord Stream znovu na scéně. Na Rusko je třeba tlačit, ne o tom mluvit.</description>
-      <guid isPermaLink="false">a5e077a6-bf4b-3b6d-94dc-32de4e3b6a5a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5faa85b2-5c38-4583-87cd-f6e4e35c244c.mp3" length="37594413" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Aug 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1566</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Korespondenční hlasování volební výsledky naruby neobrátí. Letní únik Pirátů z lopaty hrobníkovy. Tristní česká školní statistika. Odešla Zdena Salivarová.</description>
@@ -94,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7ab2c24f-e996-414d-94cd-fb00c64af396.mp3" length="37418157" type="audio/mpeg"/>
       <pubDate>Wed, 03 Sep 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">cd8d9751-f197-3e93-a2c8-e406220b7092</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8198fe47-f85f-4d6d-89c7-337750f12209.mp3" length="37468845" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Sep 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
