@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 05 Sep 2025 11:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 11:20:24 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -86,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0d4be5dc-b00f-476a-a681-022fb829cbe8.mp3" length="37223469" type="audio/mpeg"/>
       <pubDate>Fri, 05 Sep 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1551</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <guid isPermaLink="false">f55b5f1e-f557-311c-80a2-621b99693ee5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a3ad20cb-71b8-4460-ba29-2df14ca7d294.mp3" length="37267245" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Sep 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1553</itunes:duration>
     </item>
   </channel>
 </rss>
