@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 10 Sep 2025 11:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 11:22:46 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
-      <description>Začíná nový školní rok a končí ministr, který neplnil vládní sliby. Skutečně ceny bytů rostou bez omezení a kupci stojí frontu na cokoli? Vražda bývalého předsedy ukrajinského parlamentu. Kde jsou dnes elity?</description>
-      <guid isPermaLink="false">9dc1b58e-e53e-3da2-8cdc-d0fe618fc06a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5bae461a-7c73-4895-a3a4-2e4f245ef34b.mp3" length="37476333" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Vyhrát volby bude nejspíš snazší než sestavit příští vládu. Si Ťin-pching a Módí jsou teď „kamarádi“? Zvyšování minimálky nově sice bez překvapení, ale s přetrvávajícími problémy. Žijeme v patriarchátu. Průměrná mzda mužů je skoro o 10 tisíc vyšší než žen.</description>
-      <guid isPermaLink="false">ea8eda69-de44-3bc3-ac9e-a79f170ec1cf</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dcccad53-8ade-4b50-8e8e-c0e862657f11.mp3" length="37239021" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Investujeme do bezpečnosti. Proč ale na dluh? Babiš není prvním a patrně nebude ani posledním napadeným politikem. Kidults čili fenomén věčného dětství. Nůžky se rozevírají. Pastevec Inalaj.</description>
@@ -94,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/63b8608c-dfc6-48fe-a1f6-673acb6908a5.mp3" length="37213101" type="audio/mpeg"/>
       <pubDate>Wed, 10 Sep 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1551</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
+      <description>Trumpa zatím brzdí soudy. Rusko-běloruské cvičení Západ ´25 a drony nad Polskem. Předsedkyně Evropské komise: Nastal čas semknout se a jednat. Dáme ještě šanci politice, nebo jen „pořešíme“ problémy lidí?</description>
+      <guid isPermaLink="false">ec3ab38c-6aef-3aa1-8804-19cbd861a504</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/144df9ba-c5b4-4264-a99c-efbb2951406e.mp3" length="37460205" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Sep 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
