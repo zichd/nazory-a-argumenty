@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 12 Sep 2025 11:23:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 11:21:01 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
-      <description>Putin v Číně. Jak Andrej Babiš přichází o spojence. Schvalování dohody s Mercosurem prověří evropskou vůli ke společné záchraně. V Anglii kulturně válčí o vlajku.</description>
-      <guid isPermaLink="false">cd8d9751-f197-3e93-a2c8-e406220b7092</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8198fe47-f85f-4d6d-89c7-337750f12209.mp3" length="37468845" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
       <description>Němá čísla aneb Slib lepšího života víc než růst mezd a HDP. Brusel nemůže donekonečna mlčet k Ficově a Orbánově spolupráci s Putinem. Francie tváří v tvář novému chaosu. Válka na papíře – Anexe Západního břehu versus uznání Palestiny.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Ve zkoušce z protidronové obrany NATO neobstálo. Polský prezident a premiér nadřadili obranu země nad rozpory. Ruské drony na polském nebi před českými volbami. Proč jsem skončil s bývalými spolužáky?</description>
       <guid isPermaLink="false">c6c01611-73bb-3e3c-b736-f16d14f00fe8</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8c130d0a-befd-40bb-a8ce-0269a933e7cf.mp3" length="37461933" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Sep 2025 10:34:00 +0000</pubDate>
+      <pubDate>Fri, 12 Sep 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">17f53b31-1ef4-3568-bfa0-9d7a82e69746</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/afb233ad-98e1-4e88-95f4-2495b8910ec3.mp3" length="37021293" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Sep 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1543</itunes:duration>
     </item>
   </channel>
 </rss>
