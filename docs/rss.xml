@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 14 Sep 2025 11:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 11:23:30 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Koalice ochotných se vzchopila k zásadní debatě, která však nemá zatím žádné dopady. Co dělat, když soudy rozhodují ve stylu královna Koloběžka první. Trump polskému prezidentovi Nawrockému slíbil, že vojáci USA zůstanou v Polsku. To je úspěch. Osamělý byznysový hlas proti Trumpovi. Vyhrát volby bude nejspíš snazší než sestavit příští vládu. Kidults čili fenomén věčného dětství</description>
-      <guid isPermaLink="false">f55b5f1e-f557-311c-80a2-621b99693ee5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a3ad20cb-71b8-4460-ba29-2df14ca7d294.mp3" length="37267245" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Sep 2025 11:15:00 +0000</pubDate>
-      <itunes:duration>1553</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
       <description>Čechům stále nedochází vážnost situace. Kroužky jako luxus. Jak září odhaluje propast mezi rodinami. Už druhá politická kariéra ve psí? V Německu se schyluje k inventuře sociálního státu. Trump vyhrál díky strašení inflací. Teď straší jeho. Rozpálené centrum Prahy bije na poplach</description>
@@ -85,6 +77,14 @@
       <guid isPermaLink="false">b52d311b-0e6c-36f9-a8a7-78fe974f5751</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/adccf12f-3b58-4e0c-9f04-3a799dd65a82.mp3" length="37410093" type="audio/mpeg"/>
       <pubDate>Sun, 14 Sep 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">1ecfdf01-7d48-31c7-a1c8-5e4b6fc876f3</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bf378686-4f98-4f91-a08a-360dc4b29d8b.mp3" length="37419309" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Sep 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
