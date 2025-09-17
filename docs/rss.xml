@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 16 Sep 2025 11:23:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 11:23:33 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
-      <description>Škrtání na platech se může transformovat do úspor, kterých bude stát i obyvatelé dlouho litovat. Ukrajina a demonstrace. Peníze na vzdělávání teď a po volbách. Dá se čekat zlepšení? Tak jak na tom Česko – ohledně chudoby v rámci Evropy – vlastně je?</description>
-      <guid isPermaLink="false">5d815f5f-3fd3-3528-b509-f2e73cf6f629</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/72afc482-e5ff-42b0-a1bb-0b432eaf1a08.mp3" length="37473453" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Ve Sněmovně mohou posílit i liberálně orientované strany. Volby jsou za dveřmi a vymítači inkluze táhnou na barikády. Je strašlivá vina Ruska, že zbraně jako protipěchotní miny a kazetovou munici potřebujeme. SPD a zálusk na ministerstva.</description>
@@ -80,11 +72,19 @@
       <itunes:duration>1559</itunes:duration>
     </item>
     <item>
-      <title>Drony v Polsku a česká předvolební kampaň</title>
-      <description>Atentát na Charlieho Kirka. Evropská unie a klimatické cíle. To jsou některá témata, která uslyšíte v pořadu Názory a argumenty. Moderuje Kamila Pešeková.</description>
+      <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
+      <description>Předvolební karikování mezinárodního dění se nám může vymstít. Temné časy v USA. Konečná vs. Okamura. Aneb kdo je ořechovější? Evropa se hádá o klimatické cíle.</description>
       <guid isPermaLink="false">d5265641-3d3a-34f7-b2bc-cd42d7879091</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/720c25f4-fa8c-4c27-831b-240fc787e528.mp3" length="37456749" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Sep 2025 10:34:00 +0000</pubDate>
+      <pubDate>Tue, 16 Sep 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">05656675-646f-3e38-8df7-f13ee6c55d22</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/79b82355-4384-4251-bbd5-d849f669555c.mp3" length="37472301" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Sep 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
