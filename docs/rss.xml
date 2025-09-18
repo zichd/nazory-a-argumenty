@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 17 Sep 2025 11:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 11:23:14 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Ve Sněmovně mohou posílit i liberálně orientované strany. Volby jsou za dveřmi a vymítači inkluze táhnou na barikády. Je strašlivá vina Ruska, že zbraně jako protipěchotní miny a kazetovou munici potřebujeme. SPD a zálusk na ministerstva.</description>
-      <guid isPermaLink="false">d1bdc43f-422d-3ace-9478-1a345e28014a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/01edeb95-a01d-4baf-a25b-87f5504e0e12.mp3" length="37306413" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Případ Motol. Jedna dobrá zpráva nestačí. Poslední zasedání Sněmovny. Francie má nového premiéra Sébastiena Lecornu. Velcí kluci a svoboda slova. Volby v Norsku.</description>
@@ -80,11 +72,19 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Ondřej Konrád.</description>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>80 let pro každého. Babišova touha po samostatném většinovém vládnutí se nenaplní. Miliardy robotů jsou na dohled. Skoro. Záhada londýnské demonstrace. Nawrocki žádal v Berlíně o reparace. Ale měl by je žádat spíš po Moskvě.</description>
       <guid isPermaLink="false">05656675-646f-3e38-8df7-f13ee6c55d22</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/79b82355-4384-4251-bbd5-d849f669555c.mp3" length="37472301" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Sep 2025 10:34:00 +0000</pubDate>
+      <pubDate>Wed, 17 Sep 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">a17e7cb7-8cce-3da0-95ab-854ec4e86f43</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/89602446-53d8-4c2c-9a78-77d5aa5b9db4.mp3" length="37459629" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Sep 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
