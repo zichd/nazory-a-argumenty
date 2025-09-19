@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 18 Sep 2025 11:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 11:23:52 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Případ Motol. Jedna dobrá zpráva nestačí. Poslední zasedání Sněmovny. Francie má nového premiéra Sébastiena Lecornu. Velcí kluci a svoboda slova. Volby v Norsku.</description>
-      <guid isPermaLink="false">9b5bbd02-9e87-37cb-b668-7a0d1e338149</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/63b8608c-dfc6-48fe-a1f6-673acb6908a5.mp3" length="37213101" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
       <description>Trumpa zatím brzdí soudy. Rusko-běloruské cvičení Západ ´25 a drony nad Polskem. Předsedkyně Evropské komise: Nastal čas semknout se a jednat.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Jan Fingerland.</description>
+      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
+      <description>USA jsou ve studené občanské válce. Příměří v nedohlednu. Koalice neví, jak hrát s dobrou kartou. Podle Draghiho se ani po roce Evropa nikam neposunula. Roztrháním úmluvy proti mučení Putin žehná brutalitě a nelidskosti ruského systému.</description>
       <guid isPermaLink="false">a17e7cb7-8cce-3da0-95ab-854ec4e86f43</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/89602446-53d8-4c2c-9a78-77d5aa5b9db4.mp3" length="37459629" type="audio/mpeg"/>
-      <pubDate>Thu, 18 Sep 2025 10:34:00 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">9a13919f-81e4-3f05-8171-ae4b0b2674ec</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c49c5c33-2878-4056-9ce1-cdee72bc64bb.mp3" length="37446381" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Sep 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
