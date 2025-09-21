@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 20 Sep 2025 11:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 11:21:08 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Ve zkoušce z protidronové obrany NATO neobstálo. Polský prezident a premiér nadřadili obranu země nad rozpory. Ruské drony na polském nebi před českými volbami. Proč jsem skončil s bývalými spolužáky?</description>
-      <guid isPermaLink="false">c6c01611-73bb-3e3c-b736-f16d14f00fe8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8c130d0a-befd-40bb-a8ce-0269a933e7cf.mp3" length="37461933" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
       <description>Řekněte co chcete a my vám to slíbíme! V těchto volbách vyhraje populitika. Dáme ještě šanci politice, nebo jen pořešíme problémy lidí? Aplikace Max dál utahuje šrouby. Tropický Trump za mřížemi. Od angažovanosti k pravdě. Ve Sněmovně mohou posílit i liberálně orientované strany</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1560</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
+      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
+      <description>Studentské volby ukázaly, že se česká společnost nenávratně štěpí už na středních školách; Když mladé lapají, hezky jim zpívají. Nabídky levného bydlení najdete v programech hnutí a stran; Propad preferencí SPOLU ve Středočeském kraji ukazuje, že vládě přestávají věřit i její nejvěrnější; Týnský chrám se pro mši za Charlie Kirka skvěle hodil</description>
       <guid isPermaLink="false">082227f1-99db-38af-9f0f-b853f274ed53</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/45fcf14c-42c2-48cf-a5f3-84a53dc6ff0d.mp3" length="37374957" type="audio/mpeg"/>
-      <pubDate>Sat, 20 Sep 2025 10:33:00 +0000</pubDate>
+      <pubDate>Sat, 20 Sep 2025 11:20:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <guid isPermaLink="false">99cb852e-164e-3899-9be6-7670931e0e2c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e88ef44b-cc59-4783-9eab-b4560962506a.mp3" length="37355373" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Sep 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
