@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 24 Sep 2025 11:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 11:24:11 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
-      <description>Předvolební karikování mezinárodního dění se nám může vymstít. Temné časy v USA. Konečná vs. Okamura. Aneb kdo je ořechovější? Evropa se hádá o klimatické cíle.</description>
-      <guid isPermaLink="false">d5265641-3d3a-34f7-b2bc-cd42d7879091</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/720c25f4-fa8c-4c27-831b-240fc787e528.mp3" length="37456749" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>80 let pro každého. Babišova touha po samostatném většinovém vládnutí se nenaplní. Miliardy robotů jsou na dohled. Skoro. Záhada londýnské demonstrace. Nawrocki žádal v Berlíně o reparace. Ale měl by je žádat spíš po Moskvě.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1555</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Ondřej Konrád.</description>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>EU se postupně přiklání k zavedení sankcí proti Izraeli. Nevíte, co letos udělá volební systém? Volte, koho chcete, nikdo se to nedozví. Česko drží Netanjahua. To jsou jen takové řeči.</description>
       <guid isPermaLink="false">a5aedf87-f673-3603-afa2-f5ba1a3e1b2e</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/938db457-7811-48df-836b-d9ff042ee235.mp3" length="37469421" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Sep 2025 10:34:00 +0000</pubDate>
+      <pubDate>Wed, 24 Sep 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">b7a303d7-cea4-3fc9-8357-595c2e4837b0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/66078fb1-c988-4615-b48d-40ebc198d57e.mp3" length="37335213" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Sep 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
