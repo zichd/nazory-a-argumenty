@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 25 Sep 2025 11:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 11:23:29 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>80 let pro každého. Babišova touha po samostatném většinovém vládnutí se nenaplní. Miliardy robotů jsou na dohled. Skoro. Záhada londýnské demonstrace. Nawrocki žádal v Berlíně o reparace. Ale měl by je žádat spíš po Moskvě.</description>
-      <guid isPermaLink="false">05656675-646f-3e38-8df7-f13ee6c55d22</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/79b82355-4384-4251-bbd5-d849f669555c.mp3" length="37472301" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
       <description>USA jsou ve studené občanské válce. Příměří v nedohlednu. Koalice neví, jak hrát s dobrou kartou. Podle Draghiho se ani po roce Evropa nikam neposunula. Roztrháním úmluvy proti mučení Putin žehná brutalitě a nelidskosti ruského systému.</description>
@@ -80,11 +72,19 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Hartman.</description>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
+      <description>Trumpovo tažení proti opozici i kritikům eroduje americkou demokracii. Volby a stranický masakr. Kamala Harrisová a její brnění. Výhra ANO pod hrozbou Pyrrhovou. Prezident Macron uznal Stát Palestina.</description>
       <guid isPermaLink="false">b7a303d7-cea4-3fc9-8357-595c2e4837b0</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/66078fb1-c988-4615-b48d-40ebc198d57e.mp3" length="37335213" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Sep 2025 10:34:00 +0000</pubDate>
+      <pubDate>Thu, 25 Sep 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">ab6e7b2c-bb86-34bf-9dd8-2dfb04092d08</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3cc5f14f-3868-4518-9f1f-8323e9b1a9ab.mp3" length="37345581" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Sep 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
