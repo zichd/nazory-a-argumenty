@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 27 Sep 2025 11:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 11:20:48 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Demokracie nad propastí. Další fáze kampaně ANO. Část dětí v Rusku chodí do „stalinských škol“. Amerika a drogový boss Maduro.</description>
-      <guid isPermaLink="false">9a13919f-81e4-3f05-8171-ae4b0b2674ec</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c49c5c33-2878-4056-9ce1-cdee72bc64bb.mp3" length="37446381" type="audio/mpeg"/>
-      <pubDate>Fri, 19 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
       <description>Studentské volby ukázaly, že se česká společnost nenávratně štěpí už na středních školách; Když mladé lapají, hezky jim zpívají. Nabídky levného bydlení najdete v programech hnutí a stran; Propad preferencí SPOLU ve Středočeském kraji ukazuje, že vládě přestávají věřit i její nejvěrnější; Týnský chrám se pro mši za Charlie Kirka skvěle hodil</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0c18646f-5fe6-44c6-9b7d-61694f3a8143.mp3" length="37566189" type="audio/mpeg"/>
       <pubDate>Sat, 27 Sep 2025 11:02:00 +0000</pubDate>
       <itunes:duration>1565</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <guid isPermaLink="false">9951c97d-af0e-3c8c-91aa-6e65f00ab269</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d6765013-de23-4a2b-af93-17a7cd9a7ed0.mp3" length="37593261" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Sep 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1566</itunes:duration>
     </item>
   </channel>
 </rss>
