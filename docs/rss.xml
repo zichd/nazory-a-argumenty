@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 30 Sep 2025 11:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 11:24:17 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
-      <description>Slováci půjdou o třech svátcích do práce, ale státní rozpočet to nezachrání. Jeden úřad ovládne všechno? Stavební špunt leží jinde. Odchod jednoho z nejvěrnějších. EU usiluje o sblížení s Indií, ta jí to však neusnadňuje.</description>
-      <guid isPermaLink="false">fc4e7ee1-dd0d-3f96-a460-aaf704454d52</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/43e769f2-8357-4fc8-b09f-dce3f19cedbb.mp3" length="37392813" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
       <description>Starostové sklízejí, co v předchozích měsících a letech zaseli. Uznávání samostatné Palestiny? Slovenské opozici končí první poločas zápasu, zatím ale předvedla spíš pasivní hru. Trump chce Bagrám.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Hartman.</description>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Kdo si v karnevalu vášní uchová chladnou hlavu, předejde povolební kocovině. Jak se bránit ruským dronům? Bývalý francouzský prezident Sarkozy ve vězení. Po Charliem Kirkovi Andrej Hlinka. Stačilo! chce zavádět nadstandardy ve zdravotnictví.</description>
       <guid isPermaLink="false">f983cf07-fd15-3d33-a09a-830b5907ba89</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/afdee355-bd38-425a-811d-d7fbc19fb27d.mp3" length="37458477" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Sep 2025 10:34:00 +0000</pubDate>
+      <pubDate>Tue, 30 Sep 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">cf9fcbc2-c1c9-3285-95d4-d5ed99ff0c6c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d434cf26-a064-49f3-8236-1e216c4e98d9.mp3" length="37448109" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Oct 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
