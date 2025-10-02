@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 01 Oct 2025 11:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 11:22:25 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
-      <description>Starostové sklízejí, co v předchozích měsících a letech zaseli. Uznávání samostatné Palestiny? Slovenské opozici končí první poločas zápasu, zatím ale předvedla spíš pasivní hru. Trump chce Bagrám.</description>
-      <guid isPermaLink="false">c6c9e8c9-3e3d-31bb-9b51-4b5f42895a6f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/751ac64d-95b4-463c-8806-7ccd83d8e215.mp3" length="37311597" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>EU se postupně přiklání k zavedení sankcí proti Izraeli. Nevíte, co letos udělá volební systém? Volte, koho chcete, nikdo se to nedozví. Česko drží Netanjahua. To jsou jen takové řeči.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Jan Fingerland.</description>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Vláda schválila rozpočet, který nebude platit. TikTok masivně ovlivňuje české sněmovní volby. Projev prezidenta Pavla. Šéfovi se do práce mluvit nebude. Trump může neúspěch jednání s Ruskem hodit na Evropu.</description>
       <guid isPermaLink="false">cf9fcbc2-c1c9-3285-95d4-d5ed99ff0c6c</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d434cf26-a064-49f3-8236-1e216c4e98d9.mp3" length="37448109" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Oct 2025 10:34:00 +0000</pubDate>
+      <pubDate>Wed, 01 Oct 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">f5e49a05-6a9b-3f56-b3f0-88ca5a2971a0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8cb81899-c4db-4818-8d85-5f1dd8da6a16.mp3" length="37296621" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Oct 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1554</itunes:duration>
     </item>
   </channel>
 </rss>
