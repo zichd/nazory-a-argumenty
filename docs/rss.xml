@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 04 Oct 2025 11:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 11:20:40 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Postrádá EU pud sebezáchovy? Potrava pro děla na ruský způsob. Podzim reforem anebo podzim jeho vlády? Kancléř Merz se pohybuje po tenké stezce. Program Stačilo! prozrazuje, jak moc komunistům církve dál leží v žaludku.</description>
-      <guid isPermaLink="false">ab6e7b2c-bb86-34bf-9dd8-2dfb04092d08</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3cc5f14f-3868-4518-9f1f-8323e9b1a9ab.mp3" length="37345581" type="audio/mpeg"/>
-      <pubDate>Fri, 26 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Babiš by sestřeloval ruské stíhačky, pokud by znovu narušily vzdušný prostor zemí NATO; Fico svou kulturní válku možná vyhrál, dlouhodobě prohraje celé Slovensko; Moldavsko před klíčovými volbami; Demokratická strana se odcizuje Američanům</description>
-      <guid isPermaLink="false">daccd79c-d3e0-3c19-b223-b86df7f905da</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0c18646f-5fe6-44c6-9b7d-61694f3a8143.mp3" length="37566189" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Sep 2025 11:02:00 +0000</pubDate>
-      <itunes:duration>1565</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Mrazivá směšnost komunisticko-espéďácké demonstrace; Trumpův učedník testuje integritu státních úředníků; Štít demokracie nebo Štít demagogie?; Královna Ruska se postavila proti Putinovi; Symbol úspěchu v problémech; Kamala Harrisová a její brnění; Los Emil nám připomněl, že tu s námi žijí i velká zvířata</description>
@@ -80,12 +64,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Hartman.</description>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Hartmanem</title>
+      <description>Evropská obrana? Zatím jen nesourodá hromada nápadů. Trumpova přednáška pro ministerstvo války proti politickým oponentům. Ruská hybridní válka ve Francii. Cena za palmový olej. Elon Musk ztrácí lidi. Šéfovi se do práce mluvit nebude</description>
       <guid isPermaLink="false">fa2ba436-e242-3c28-8ca0-b06c645a0999</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1ca2db64-9cdb-4712-8c9d-2d6026180abb.mp3" length="36413613" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Oct 2025 10:33:00 +0000</pubDate>
+      <pubDate>Sat, 04 Oct 2025 11:15:00 +0000</pubDate>
       <itunes:duration>1517</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <guid isPermaLink="false">cecbebc9-cc28-34aa-a9f8-10970d95112c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c584782a-ba47-4a7e-b511-2a401d0486d5.mp3" length="37312173" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Oct 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
