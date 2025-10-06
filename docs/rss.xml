@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 05 Oct 2025 11:20:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 11:23:39 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Mrazivá směšnost komunisticko-espéďácké demonstrace; Trumpův učedník testuje integritu státních úředníků; Štít demokracie nebo Štít demagogie?; Královna Ruska se postavila proti Putinovi; Symbol úspěchu v problémech; Kamala Harrisová a její brnění; Los Emil nám připomněl, že tu s námi žijí i velká zvířata</description>
-      <guid isPermaLink="false">9951c97d-af0e-3c8c-91aa-6e65f00ab269</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d6765013-de23-4a2b-af93-17a7cd9a7ed0.mp3" length="37593261" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Sep 2025 11:20:00 +0000</pubDate>
-      <itunes:duration>1566</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
       <description>V novele slovenské ústavy nejde o rodinu, muže a ženu, ale o moc. Moldavsko a jeho volba. České partaje se k EU staví vesměs kriticky až negativně. Bude střední třída obětí nových povolenek?</description>
@@ -72,12 +64,20 @@
       <itunes:duration>1517</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro Android a iOS nebo na webu mujRozhlas.cz.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Hartmanem</title>
+      <description>Volby 2025 - Češi si zvolili slovenského spasitele. S Motoristy se v nejvyšší politice opět zjevuje duch Václava Klause. Proč to nakonec nestačilo. Babišovo vítězství v českých volbách vyvolává v Evropě obavy. Rusko provokuje. Protože chce. A může. Za Ivanem Klímou</description>
       <guid isPermaLink="false">cecbebc9-cc28-34aa-a9f8-10970d95112c</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c584782a-ba47-4a7e-b511-2a401d0486d5.mp3" length="37312173" type="audio/mpeg"/>
       <pubDate>Sun, 05 Oct 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">46fd81a8-927c-30cf-8946-f1fe83b81029</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c2894d1f-df38-47a5-b368-da58cd23c775.mp3" length="36893421" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Oct 2025 10:50:00 +0000</pubDate>
+      <itunes:duration>1537</itunes:duration>
     </item>
   </channel>
 </rss>
