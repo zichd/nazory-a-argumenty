@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 06 Oct 2025 11:23:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 11:23:42 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -72,12 +72,20 @@
       <itunes:duration>1555</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Kamila Pešeková.</description>
+      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
+      <description>Vládě hnutí ANO chybí na splnění předvolebních slibů desítky miliard. Kandidovalo Spolu spolu, nebo zvlášť? Gruzínský orloj. Už za rok se může ve východním Německu dostat k moci AfD. Pro Česko by to byl průšvih.</description>
       <guid isPermaLink="false">46fd81a8-927c-30cf-8946-f1fe83b81029</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c2894d1f-df38-47a5-b368-da58cd23c775.mp3" length="36893421" type="audio/mpeg"/>
-      <pubDate>Mon, 06 Oct 2025 10:50:00 +0000</pubDate>
-      <itunes:duration>1537</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/008e373e52a38a32d47026c465309ceb.mp3" length="37449216" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Oct 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">a6546ae3-d8af-39a4-b23e-7dd3f41bb1d2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5f3c19e9-1661-40e4-bd13-5ead8f982be7.mp3" length="37353645" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Oct 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
