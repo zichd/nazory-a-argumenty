@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 07 Oct 2025 11:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 11:23:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
-      <description>V novele slovenské ústavy nejde o rodinu, muže a ženu, ale o moc. Moldavsko a jeho volba. České partaje se k EU staví vesměs kriticky až negativně. Bude střední třída obětí nových povolenek?</description>
-      <guid isPermaLink="false">cd720a73-5f4f-3263-a21f-854fc7a30b8b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7a6dcff5-9549-4626-ab59-85cccb2d1032.mp3" length="37463085" type="audio/mpeg"/>
-      <pubDate>Mon, 29 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Kdo si v karnevalu vášní uchová chladnou hlavu, předejde povolební kocovině. Jak se bránit ruským dronům? Bývalý francouzský prezident Sarkozy ve vězení. Po Charliem Kirkovi Andrej Hlinka. Stačilo! chce zavádět nadstandardy ve zdravotnictví.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1560</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Jan Fingerland.</description>
+      <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
+      <description>Babiše čeká divoká jízda. A nás taky. Zapeklitá prohra a odcházení v ODS. Pirátská ženská revoluce. Od „nerdů“ a „ajťáků“ ke straně, kde se k moci dostávají ženy. Maláčová a Zaorálek.</description>
       <guid isPermaLink="false">a6546ae3-d8af-39a4-b23e-7dd3f41bb1d2</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5f3c19e9-1661-40e4-bd13-5ead8f982be7.mp3" length="37353645" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Oct 2025 10:34:00 +0000</pubDate>
+      <pubDate>Tue, 07 Oct 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Inflace ustupuje. Pokud nezasáhne nová vláda. Co potřebuje Babiš k tomu, aby se stal premiérem? Otloukánek dolar. Evropa potřebuje dronovou zeď.</description>
+      <guid isPermaLink="false">071ac722-330b-3269-957d-3579b44ce712</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/16ea6c27-a345-4068-af07-0c700f79eea7.mp3" length="37009197" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Oct 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1542</itunes:duration>
     </item>
   </channel>
 </rss>
