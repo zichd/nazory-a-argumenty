@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 08 Oct 2025 11:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 11:24:35 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Kdo si v karnevalu vášní uchová chladnou hlavu, předejde povolební kocovině. Jak se bránit ruským dronům? Bývalý francouzský prezident Sarkozy ve vězení. Po Charliem Kirkovi Andrej Hlinka. Stačilo! chce zavádět nadstandardy ve zdravotnictví.</description>
-      <guid isPermaLink="false">f983cf07-fd15-3d33-a09a-830b5907ba89</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/afdee355-bd38-425a-811d-d7fbc19fb27d.mp3" length="37458477" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Sep 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Vláda schválila rozpočet, který nebude platit. TikTok masivně ovlivňuje české sněmovní volby. Projev prezidenta Pavla. Šéfovi se do práce mluvit nebude. Trump může neúspěch jednání s Ruskem hodit na Evropu.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/16ea6c27-a345-4068-af07-0c700f79eea7.mp3" length="37009197" type="audio/mpeg"/>
       <pubDate>Wed, 08 Oct 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1542</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
+      <description>Případná koalice ANO, SPD a Motoristů bude značně nestabilní. Babišovy trny na cestě k většinovému vládnutí. Co s ruskými drony, mudruje Německo i Bělorusko. Tak přece jen mír v Gaze? Jak vytyčit hranice mezi obranou proti lži a represí</description>
+      <guid isPermaLink="false">71051759-d9af-30d8-92b7-ce8641a0e124</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ed920433-276a-486f-afd8-61d7b1fd38ad.mp3" length="37233261" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Oct 2025 11:15:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
