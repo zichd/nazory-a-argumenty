@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 10 Oct 2025 11:24:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 11:21:09 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
-      <description>Evropští lídři v Kodani narazili na Orbánovu zradu a nepřišli zatím na to, jak ji obejít. Povinností prezidenta je hlídat hranice politického extrému. Jackpot už občané České republiky vyhráli. USA fungují v nouzovém fiskálním provozu, hrozí ekonomický chaos. Olympijská paradigmata.</description>
-      <guid isPermaLink="false">f5e49a05-6a9b-3f56-b3f0-88ca5a2971a0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8cb81899-c4db-4818-8d85-5f1dd8da6a16.mp3" length="37296621" type="audio/mpeg"/>
-      <pubDate>Thu, 02 Oct 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
       <description>Ani válka, ani mír. Právo veta jako noční můra Evropské unie. Britové se bojí malého Velkého bratra. Bohorodička porodila v patnácti a ty bys měla taky. Co s tím sklem</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1551</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Dvě tváře Andreje Babiše. Hlasování o nedůvěře komisi neuspělo, dál však rozkolísalo důvěru v EU. Sociolog Gudkov: Rusko se pohybuje směrem k Severní Koreji. Dva malé syrské krůčky vpřed. Kolečka</description>
       <guid isPermaLink="false">de40ff02-f20c-3cd5-abf6-e01993b8f7b4</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/274615b2-a0c4-4ce7-8840-dbbc1ab3ec41.mp3" length="37380141" type="audio/mpeg"/>
       <pubDate>Fri, 10 Oct 2025 10:34:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">20ffd248-76ee-3bdd-af33-a3c176ae10b4</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a0f97d9b-d2f2-433d-b9f6-f49bf2521f41.mp3" length="36770157" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Oct 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1532</itunes:duration>
     </item>
   </channel>
 </rss>
