@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 11 Oct 2025 11:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 11:21:40 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
-      <description>Ani válka, ani mír. Právo veta jako noční můra Evropské unie. Britové se bojí malého Velkého bratra. Bohorodička porodila v patnácti a ty bys měla taky. Co s tím sklem</description>
-      <guid isPermaLink="false">9566572</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/0e108982de76206e9f9641fb35925fc0.mp3" length="37454976" type="audio/mpeg"/>
-      <pubDate>Fri, 03 Oct 2025 16:30:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Petrem Hartmanem</title>
       <description>Evropská obrana? Zatím jen nesourodá hromada nápadů. Trumpova přednáška pro ministerstvo války proti politickým oponentům. Ruská hybridní válka ve Francii. Cena za palmový olej. Elon Musk ztrácí lidi. Šéfovi se do práce mluvit nebude</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1557</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Babišova freestyle jízda mezi imunitou, zelenou krví a ohrožováním obrany země; Ve Sněmovně usedne rekordní počet žen. Ale co bude dál?; Je Babiš proevropský, nebo protievropský? Marek Benda zvolen předsedou poslanců ODS? Strana zjevně nepochopila, co se ve volbách stalo; Proč vítězí populisté</description>
       <guid isPermaLink="false">20ffd248-76ee-3bdd-af33-a3c176ae10b4</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a0f97d9b-d2f2-433d-b9f6-f49bf2521f41.mp3" length="36770157" type="audio/mpeg"/>
-      <pubDate>Sat, 11 Oct 2025 10:33:00 +0000</pubDate>
+      <pubDate>Sat, 11 Oct 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1532</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">149d4236-1794-3d91-9222-a5aa8f067d4d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3416b227-d309-452d-821d-ca10439b4dc1.mp3" length="37386477" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Oct 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
