@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 12 Oct 2025 11:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 11:24:55 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Hartmanem</title>
-      <description>Evropská obrana? Zatím jen nesourodá hromada nápadů. Trumpova přednáška pro ministerstvo války proti politickým oponentům. Ruská hybridní válka ve Francii. Cena za palmový olej. Elon Musk ztrácí lidi. Šéfovi se do práce mluvit nebude</description>
-      <guid isPermaLink="false">fa2ba436-e242-3c28-8ca0-b06c645a0999</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1ca2db64-9cdb-4712-8c9d-2d6026180abb.mp3" length="36413613" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Oct 2025 11:15:00 +0000</pubDate>
-      <itunes:duration>1517</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Hartmanem</title>
       <description>Volby 2025 - Češi si zvolili slovenského spasitele. S Motoristy se v nejvyšší politice opět zjevuje duch Václava Klause. Proč to nakonec nestačilo. Babišovo vítězství v českých volbách vyvolává v Evropě obavy. Rusko provokuje. Protože chce. A může. Za Ivanem Klímou</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1532</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Kam spěchá Andrej Babiš; Hořící Turkovo křeslo; Mladé okysličení v parlamentním akváriu; Německé problémy s armádou; Česká účast na Expo v Ósace je jako tisíce letadel s japonskými turisty; Nakupuj, ušetříš</description>
       <guid isPermaLink="false">149d4236-1794-3d91-9222-a5aa8f067d4d</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3416b227-d309-452d-821d-ca10439b4dc1.mp3" length="37386477" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Oct 2025 10:34:00 +0000</pubDate>
+      <pubDate>Sun, 12 Oct 2025 11:12:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Hnutí Hamás na základě dohody propustilo zbývající izraelská rukojmí</title>
+      <description>Proč chce hnutí ANO po Fialově vládě, aby znovu poslala do sněmovny návrh státního rozpočtu. Podle Putina probíhá ve světě další vlna jaderného zbrojení. Německý program na podporu elektromobility. To jsou vybraná témata pondělních Názorů a argumentů. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">94b0a2eb-75e5-37ca-bcef-d3fda8f6f90b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4534153b-acf6-476a-a6f5-2a4d81810cfb.mp3" length="37468845" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Oct 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
