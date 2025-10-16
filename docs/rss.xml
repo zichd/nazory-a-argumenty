@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 15 Oct 2025 11:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 11:25:21 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
-      <description>Babiše čeká divoká jízda. A nás taky. Zapeklitá prohra a odcházení v ODS. Pirátská ženská revoluce. Od „nerdů“ a „ajťáků“ ke straně, kde se k moci dostávají ženy. Maláčová a Zaorálek.</description>
-      <guid isPermaLink="false">a6546ae3-d8af-39a4-b23e-7dd3f41bb1d2</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5f3c19e9-1661-40e4-bd13-5ead8f982be7.mp3" length="37353645" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Oct 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Inflace ustupuje. Pokud nezasáhne nová vláda. Co potřebuje Babiš k tomu, aby se stal premiérem? Otloukánek dolar. Evropa potřebuje dronovou zeď.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1560</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Ondřej Konrád.</description>
+      <title>Poslechněte si všechny komentáře s Ondřejem Konrádem</title>
+      <description>Návrh státního rozpočtu padá pod stůl aneb dva biliony, o kterých se nemluvíí. Pro sestavení vlády potřebuje Andrej Babiš (ANO) „ukecat“ Petra Macinku (AUTO). Evropská unie obtížně vymýšlí, jak za zmrazené ruské peníze dozbrojit Ukrajinu. A jaká je budoucnost umělé inteligence v souboji dobra se zlem? Těmito tématy se ve středu zabývají komentátoři, jejich příspěvky vás provede Ondřej Konrád.</description>
       <guid isPermaLink="false">a95c1b39-9ab6-3f4c-b4b0-234cf7284dfb</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c0b83410-9ea2-4e56-8e67-7f4454ed4157.mp3" length="37056429" type="audio/mpeg"/>
-      <pubDate>Wed, 15 Oct 2025 10:34:00 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 11:42:00 +0000</pubDate>
       <itunes:duration>1544</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">66b76453-ed80-3423-888a-8c13fa8575d5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4cabecee-973f-4e08-96a3-543691b34c22.mp3" length="37459629" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Oct 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
