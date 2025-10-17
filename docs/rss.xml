@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 16 Oct 2025 11:25:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 11:24:02 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Inflace ustupuje. Pokud nezasáhne nová vláda. Co potřebuje Babiš k tomu, aby se stal premiérem? Otloukánek dolar. Evropa potřebuje dronovou zeď.</description>
-      <guid isPermaLink="false">071ac722-330b-3269-957d-3579b44ce712</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/16ea6c27-a345-4068-af07-0c700f79eea7.mp3" length="37009197" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Oct 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1542</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Případná koalice ANO, SPD a Motoristů bude značně nestabilní. Babišovy trny na cestě k většinovému vládnutí. Co s ruskými drony, mudruje Německo i Bělorusko. Tak přece jen mír v Gaze? Jak vytyčit hranice mezi obranou proti lži a represí</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1544</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Kamila Pešeková.</description>
+      <title>Poslechněte si všechny komentáře s Kamilou Pešekovou</title>
+      <description>Prezident Petr Pavel se zatím při vyjednávání o budoucí vládě Andreje Babiše (ANO) drží Ústavy, přesto ho mnozí kritizují. Přitom nejde jen o skandály Filipa Turka (za AUTO) a státní rozpočet. Jaké cíle má Rusko v Evropě podle německé rozvědky? A na jakého krále čeká Gaza? Nelegální trh s tabákem podle Jindřicha Vobořila roste a stát přichází o miliardy. O tom všem uslyšíte v Názorech a argumentech, které moderuje Kamila Pešeková.</description>
       <guid isPermaLink="false">66b76453-ed80-3423-888a-8c13fa8575d5</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4cabecee-973f-4e08-96a3-543691b34c22.mp3" length="37459629" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Oct 2025 10:34:00 +0000</pubDate>
+      <pubDate>Thu, 16 Oct 2025 11:30:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>O kuriozitách české politiky. Čeští zbrojaři mezi sebou bojují o velké muniční zakázky. Evropa vyděšeně zírá, jak se Francie řítí do propasti. Jaké šance má demokracie v Rusku? A glosa Evy Turnové Tichá pošta. To jsou témata pátečních komentářů, kterými provází Petr Schwarz.</description>
+      <guid isPermaLink="false">b86fa5ee-cab6-3f52-a4bd-35633ae51e92</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c3d0776c-e75c-4377-b6cc-e013d1097658.mp3" length="37403181" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Oct 2025 11:20:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
