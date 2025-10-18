@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 17 Oct 2025 11:24:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 11:22:04 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Případná koalice ANO, SPD a Motoristů bude značně nestabilní. Babišovy trny na cestě k většinovému vládnutí. Co s ruskými drony, mudruje Německo i Bělorusko. Tak přece jen mír v Gaze? Jak vytyčit hranice mezi obranou proti lži a represí</description>
-      <guid isPermaLink="false">71051759-d9af-30d8-92b7-ce8641a0e124</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ed920433-276a-486f-afd8-61d7b1fd38ad.mp3" length="37233261" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Oct 2025 11:15:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Dvě tváře Andreje Babiše. Hlasování o nedůvěře komisi neuspělo, dál však rozkolísalo důvěru v EU. Sociolog Gudkov: Rusko se pohybuje směrem k Severní Koreji. Dva malé syrské krůčky vpřed. Kolečka</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c3d0776c-e75c-4377-b6cc-e013d1097658.mp3" length="37403181" type="audio/mpeg"/>
       <pubDate>Fri, 17 Oct 2025 11:20:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">7cf94a8d-ff73-3e9b-9229-ec8da48a0afb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/de2a2c66-e4ce-498e-87b5-9fc21b45ab82.mp3" length="36057069" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Oct 2025 10:33:00 +0000</pubDate>
+      <itunes:duration>1502</itunes:duration>
     </item>
   </channel>
 </rss>
