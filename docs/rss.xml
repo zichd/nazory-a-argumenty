@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 18 Oct 2025 11:22:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 11:21:37 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Dvě tváře Andreje Babiše. Hlasování o nedůvěře komisi neuspělo, dál však rozkolísalo důvěru v EU. Sociolog Gudkov: Rusko se pohybuje směrem k Severní Koreji. Dva malé syrské krůčky vpřed. Kolečka</description>
-      <guid isPermaLink="false">de40ff02-f20c-3cd5-abf6-e01993b8f7b4</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/274615b2-a0c4-4ce7-8840-dbbc1ab3ec41.mp3" length="37380141" type="audio/mpeg"/>
-      <pubDate>Fri, 10 Oct 2025 10:34:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
       <description>Babišova freestyle jízda mezi imunitou, zelenou krví a ohrožováním obrany země; Ve Sněmovně usedne rekordní počet žen. Ale co bude dál?; Je Babiš proevropský, nebo protievropský? Marek Benda zvolen předsedou poslanců ODS? Strana zjevně nepochopila, co se ve volbách stalo; Proč vítězí populisté</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/de2a2c66-e4ce-498e-87b5-9fc21b45ab82.mp3" length="36057069" type="audio/mpeg"/>
       <pubDate>Sat, 18 Oct 2025 10:33:00 +0000</pubDate>
       <itunes:duration>1502</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">5b7ba662-289a-3578-8a35-ef73edbd0b22</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ce9570e4-89e2-4254-b208-5c36307fb5b2.mp3" length="37369197" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Oct 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
