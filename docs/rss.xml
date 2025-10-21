@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 20 Oct 2025 11:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 11:24:29 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Kam spěchá Andrej Babiš; Hořící Turkovo křeslo; Mladé okysličení v parlamentním akváriu; Německé problémy s armádou; Česká účast na Expo v Ósace je jako tisíce letadel s japonskými turisty; Nakupuj, ušetříš</description>
-      <guid isPermaLink="false">149d4236-1794-3d91-9222-a5aa8f067d4d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3416b227-d309-452d-821d-ca10439b4dc1.mp3" length="37386477" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Oct 2025 11:12:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Hnutí Hamás na základě dohody propustilo zbývající izraelská rukojmí</title>
       <description>Proč chce hnutí ANO po Fialově vládě, aby znovu poslala do sněmovny návrh státního rozpočtu. Podle Putina probíhá ve světě další vlna jaderného zbrojení. Německý program na podporu elektromobility. To jsou vybraná témata pondělních Názorů a argumentů. Moderuje Ondřej Konrád.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1557</itunes:duration>
     </item>
     <item>
-      <title>Budoucí pravděpodobný premiér nečekaně zmizel na dovolené</title>
-      <description>Pokračující hádka o státní rozpočet coby smutná podívaná. Měla by budoucí opozice koketovat s podporou Babišovy vlády? Svět je jinde, politici ustrnuli, anebo nová lepší EET? To jsou některá témata, o nichž bude řeč v pondělním vydání publicistické relace ČRo Plus. Moderuje Ondřej Konrád.</description>
+      <title>Poslechněte si všechny komentáře s Ondřejem Konrádem</title>
+      <description>Budoucí pravděpodobný premiér Andrej Babiš (ANO) si nečekaně vzal dovolenou, co z toho plyne? A měla by budoucí opozice koketovat s podporou Babišovy vlády? Pokračuje hádka o státní rozpočet a je to smutná podívaná. Možná se vrátí elektronická evidence tržeb, jenže svět je za roky od jejího zrušení jinde. Ustrnuli politici? I o tom se mluví v Názorech a argumentech s Ondřejem Konrádem.</description>
       <guid isPermaLink="false">ba2c4df9-181b-3cf7-9ea2-dc67e2978f2a</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f054c4cf-db4c-496b-923c-cd5bf438cebc.mp3" length="37442925" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Oct 2025 10:34:00 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2025 11:18:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">f0f08032-5f43-363c-99b1-99284eb114c8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a6a1bbe7-dca0-4f6f-90ad-db30d2d750ee.mp3" length="37563885" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Oct 2025 10:34:00 +0000</pubDate>
+      <itunes:duration>1565</itunes:duration>
     </item>
   </channel>
 </rss>
