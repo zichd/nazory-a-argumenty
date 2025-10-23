@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 22 Oct 2025 11:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 11:25:38 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Měl by šéf ANO Andrej Babiš ještě zvážit sázku na Tomia Okamuru a jeho hnutí SPD? A jak by měl naložit s Filipem Turkem (za Motoristy)? Dosluující vláda trucuje a nechce znovu přdložit do Sněmovny návrh rozpočtu, zřejmě jí chybí velkorysost. To jsou témata komentářů, kterými provází Petr Hartman. Nechybí ani glosa Ivy Pekárkové s názvem Babička a čechratka.</description>
-      <guid isPermaLink="false">b5643978-f42c-3a8d-a317-02376885e8a9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/019504c5-de40-4ca9-820e-a8e3d741db63.mp3" length="37441773" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Oct 2025 11:19:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny komentáře s Ondřejem Konrádem</title>
       <description>Návrh státního rozpočtu padá pod stůl aneb dva biliony, o kterých se nemluvíí. Pro sestavení vlády potřebuje Andrej Babiš (ANO) „ukecat“ Petra Macinku (AUTO). Evropská unie obtížně vymýšlí, jak za zmrazené ruské peníze dozbrojit Ukrajinu. A jaká je budoucnost umělé inteligence v souboji dobra se zlem? Těmito tématy se ve středu zabývají komentátoři, jejich příspěvky vás provede Ondřej Konrád.</description>
@@ -80,12 +72,20 @@
       <itunes:duration>1565</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Jan Fingerland.</description>
+      <title>Poslechněte si všechny komentáře s Janem Fingerlandem</title>
+      <description>Je státní rozpočet opravdu před krachem? Evropské srovnání ukazuje, že patří k těm nejlepším v Unii. Proč je hnutí ANO proti tomu, aby Piráti umístili své poslance do vedení Sněmovny? Prezident Venezuely Nicolás Maduro je v hledáčku americké CIA a pozornost Donalda Trumpa se upírá k vzácným kovům. Čím je výjimečný nástup Nicolase Sarkozyho do vězení? A zamyšlení nad pietou, na kterou jsme zamysleli. Průvodcem Názorů a argumentů je Jan Fingerland.</description>
       <guid isPermaLink="false">f51af8ac-5c4f-3c5b-8008-db510e0b2382</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8d111896-1663-4c90-8b80-9537a40f6108.mp3" length="37448685" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Oct 2025 10:34:00 +0000</pubDate>
+      <pubDate>Wed, 22 Oct 2025 11:11:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny komentáře s Petrem Hartmanem</title>
+      <description>Vznikající česká vláda chce měnit Evropskou unii. Není ale jasné jak, když její zástupci nemají v europarlamentu skoro žádný vliv. Změny jsou přesto na obzoru: europarlament naléhá, aby se Unie reformovala, než otevře brány novým členům. Německo se loučí se spalovacím motorem a Francie sleduje, jak do vězení nastupuje její exprezident. A ještě jedno domácí téma, zatímco Motoristé a SPD se vydali cestou sociální demokracie, původní levice v Česku se potýká s problémy.</description>
+      <guid isPermaLink="false">f17a0723-f50f-3ee1-a0d1-6b7d5fe3f521</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7be14c71-8446-4632-be8a-4122b7e58cc8.mp3" length="37381869" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Oct 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
