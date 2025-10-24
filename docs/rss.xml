@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 23 Oct 2025 11:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 11:25:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny komentáře s Ondřejem Konrádem</title>
-      <description>Návrh státního rozpočtu padá pod stůl aneb dva biliony, o kterých se nemluvíí. Pro sestavení vlády potřebuje Andrej Babiš (ANO) „ukecat“ Petra Macinku (AUTO). Evropská unie obtížně vymýšlí, jak za zmrazené ruské peníze dozbrojit Ukrajinu. A jaká je budoucnost umělé inteligence v souboji dobra se zlem? Těmito tématy se ve středu zabývají komentátoři, jejich příspěvky vás provede Ondřej Konrád.</description>
-      <guid isPermaLink="false">a95c1b39-9ab6-3f4c-b4b0-234cf7284dfb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c0b83410-9ea2-4e56-8e67-7f4454ed4157.mp3" length="37056429" type="audio/mpeg"/>
-      <pubDate>Wed, 15 Oct 2025 11:42:00 +0000</pubDate>
-      <itunes:duration>1544</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny komentáře s Kamilou Pešekovou</title>
-      <description>Prezident Petr Pavel se zatím při vyjednávání o budoucí vládě Andreje Babiše (ANO) drží Ústavy, přesto ho mnozí kritizují. Přitom nejde jen o skandály Filipa Turka (za AUTO) a státní rozpočet. Jaké cíle má Rusko v Evropě podle německé rozvědky? A na jakého krále čeká Gaza? Nelegální trh s tabákem podle Jindřicha Vobořila roste a stát přichází o miliardy. O tom všem uslyšíte v Názorech a argumentech, které moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">66b76453-ed80-3423-888a-8c13fa8575d5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4cabecee-973f-4e08-96a3-543691b34c22.mp3" length="37459629" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Oct 2025 11:30:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>O kuriozitách české politiky. Čeští zbrojaři mezi sebou bojují o velké muniční zakázky. Evropa vyděšeně zírá, jak se Francie řítí do propasti. Jaké šance má demokracie v Rusku? A glosa Evy Turnové Tichá pošta. To jsou témata pátečních komentářů, kterými provází Petr Schwarz.</description>
@@ -86,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7be14c71-8446-4632-be8a-4122b7e58cc8.mp3" length="37381869" type="audio/mpeg"/>
       <pubDate>Thu, 23 Oct 2025 11:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
+      <description>Jsou pro nás důležitější emisní povolenky ETS2, nebo nedostatek čipů na případnou dronovou zeď? Na čem se neshodli unijní lídři? Proč by se nad sebou měl Západ zamyslet? Loučí se Němci se spalovacími motory, nebo ne? Podrobíme se Rusům? A nakonec glosa Evy Turnové. To jsou páteční Názory a argumenty Ondřeje Konráda.</description>
+      <guid isPermaLink="false">2d26e9f6-9d56-3518-8686-e60b9debcc4a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d19a7947-8952-4cb5-8f6f-f4f61514d4cf.mp3" length="37334637" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Oct 2025 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
