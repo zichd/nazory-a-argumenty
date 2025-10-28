@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 27 Oct 2025 11:25:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 11:24:30 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -70,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8f0f74a1-a8a7-4869-bc91-5356fed17653.mp3" length="36774765" type="audio/mpeg"/>
       <pubDate>Sun, 26 Oct 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1532</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
+      <description>I jednání o inkluzi ve školství napovídá, jak bude vypadat vláda Andreje Babiše. Kdo má hlad po funkcích? Centrální banky obnovují své zlaté poklady. Proč jsou Trumpovy sankce dočasné a jak je to s uměním a umělou inteligencí? Pondělní Názory a argumenty moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">b6121718-168e-37bb-906f-59eafca71e92</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d18e1f5a-e665-4224-bf1e-03748689785f.mp3" length="37428525" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Oct 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
