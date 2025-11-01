@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 31 Oct 2025 11:24:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 11:22:02 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny komentáře s Petrem Hartmanem</title>
-      <description>Vznikající česká vláda chce měnit Evropskou unii. Není ale jasné jak, když její zástupci nemají v europarlamentu skoro žádný vliv. Změny jsou přesto na obzoru: europarlament naléhá, aby se Unie reformovala, než otevře brány novým členům. Německo se loučí se spalovacím motorem a Francie sleduje, jak do vězení nastupuje její exprezident. A ještě jedno domácí téma, zatímco Motoristé a SPD se vydali cestou sociální demokracie, původní levice v Česku se potýká s problémy.</description>
-      <guid isPermaLink="false">f17a0723-f50f-3ee1-a0d1-6b7d5fe3f521</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7be14c71-8446-4632-be8a-4122b7e58cc8.mp3" length="37381869" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Oct 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
       <description>Jsou pro nás důležitější emisní povolenky ETS2, nebo nedostatek čipů na případnou dronovou zeď? Na čem se neshodli unijní lídři? Proč by se nad sebou měl Západ zamyslet? Loučí se Němci se spalovacími motory, nebo ne? Podrobíme se Rusům? A nakonec glosa Evy Turnové. To jsou páteční Názory a argumenty Ondřeje Konráda.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bdb4be3a-9666-43b7-9f06-2ac4faeab65d.mp3" length="37416429" type="audio/mpeg"/>
       <pubDate>Thu, 30 Oct 2025 12:15:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">feb65d78-83fb-3acf-83bf-aeed2340f8d8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/21a75fd5-42b0-4b8c-b1f7-77692ad89dd7.mp3" length="38075373" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Oct 2025 11:34:00 +0000</pubDate>
+      <itunes:duration>1586</itunes:duration>
     </item>
   </channel>
 </rss>
