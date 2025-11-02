@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 01 Nov 2025 11:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 11:21:50 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
-      <description>Jsou pro nás důležitější emisní povolenky ETS2, nebo nedostatek čipů na případnou dronovou zeď? Na čem se neshodli unijní lídři? Proč by se nad sebou měl Západ zamyslet? Loučí se Němci se spalovacími motory, nebo ne? Podrobíme se Rusům? A nakonec glosa Evy Turnové. To jsou páteční Názory a argumenty Ondřeje Konráda.</description>
-      <guid isPermaLink="false">2d26e9f6-9d56-3518-8686-e60b9debcc4a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d19a7947-8952-4cb5-8f6f-f4f61514d4cf.mp3" length="37334637" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Oct 2025 11:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
       <description>Sněmovna už dlouho nebyla takhle divoká, Pavlův Ústavní soud přichází, Babiš mluví o spálené zemi, ale ekonomiku přebírá ve velmi dobrém, velmi nadějném stavu, Lukašenkův režim lidi i zubry donutil žít za ocelovou zdí</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/21a75fd5-42b0-4b8c-b1f7-77692ad89dd7.mp3" length="38075373" type="audio/mpeg"/>
       <pubDate>Fri, 31 Oct 2025 11:34:00 +0000</pubDate>
       <itunes:duration>1586</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Janem Fingerlandem</title>
+      <description>Babišova úporná tajnosnubnost kolem střetu zájmů nevěstí nic dobrého. Rusové jsou mistři manipulace, využívají ji na sociálních sítích. Nebývalá stabilita, aneb tři roky Giorgie Meloniové v čele italské vlády. Umělá inteligence, internet a měnící se svět.</description>
+      <guid isPermaLink="false">220bf8de-a05b-3b6b-ad85-7aba0b26d857</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/45ec8b9c-51d9-4c1e-a78f-07bb4bbae312.mp3" length="36097389" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Nov 2025 11:33:00 +0000</pubDate>
+      <itunes:duration>1504</itunes:duration>
     </item>
   </channel>
 </rss>
