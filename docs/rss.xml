@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 04 Nov 2025 11:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 11:26:17 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
-      <description>I jednání o inkluzi ve školství napovídá, jak bude vypadat vláda Andreje Babiše. Kdo má hlad po funkcích? Centrální banky obnovují své zlaté poklady. Proč jsou Trumpovy sankce dočasné a jak je to s uměním a umělou inteligencí? Pondělní Názory a argumenty moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">b6121718-168e-37bb-906f-59eafca71e92</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d18e1f5a-e665-4224-bf1e-03748689785f.mp3" length="37428525" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Oct 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Nová koalice umí mluvit o národních zájmech, není ale jisté, jestli jim dostojí i v praxi. Jak je to s českým postojem ke státním svátkům a 28. říjnu? Emisní povolenky obnažují dva přístupy k Evropské unii. Švédský politický jazyk hrubne a Saúdská Arábie má nového Velkého muftího. Iva Pekárková se ve své glose zamýšlí nad odpadky, které se mění v kámen. O tom jsou úterní Názory a argumenty s Petrem Schwarzem.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1fcc0a91-b0da-4cbe-b7b8-e336ced3b925.mp3" length="37440045" type="audio/mpeg"/>
       <pubDate>Mon, 03 Nov 2025 12:01:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Na koho padá odpovědnost za vládu ANO s radikály a Tomia Okamuru v čele Sněmovny? Jaké Trumpovy manýry přinášejí do Česka Motoristé? Proč je Škodovka spolehlivý dodavatel do wolfsburské kasičky? A jsme na konci liberální demokracie? Poslechněte si všechny úterní Názory a argumenty. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">59f787ef-3c78-3e6f-b0ad-8da0f7fa2e7c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1c9dcd7f-6909-42c2-b6c1-9dc94fb70aaf.mp3" length="37081773" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1545</itunes:duration>
     </item>
   </channel>
 </rss>
