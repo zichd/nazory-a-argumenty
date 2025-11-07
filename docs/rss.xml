@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 06 Nov 2025 11:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 11:24:52 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Je šťastný spotřebitel základem prosperity? Co vzkazuje prezident republiky Petr Pavel rodící se vládě? Proč nutně potřebujeme ukrajinské uprchlíky? Uslyšíte taky o sbíječkách v Bílém domě, francouzském velikánovi Robertu Badinterovi a dozvíte se, jak vydrtit konkurenci. To jsou témata středečních Názorů a argumentů, kterými vás provede Ondřej Konrád.</description>
-      <guid isPermaLink="false">e2e2e3d5-79e8-3307-a037-2f48d1ad8c0e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/49e1a9b7-189b-414b-a65f-66c032651b55.mp3" length="37427949" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Oct 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Na vzniku vlády se „maká“, ale snadné to být nemusí. Nizozemsko obrací stránku a vrací se k evropskému středu. Začátek normalizace české společnosti. Plány oživit Visegrádské uskupení jsou nereálné. Podle Deníku N si Babiš sám vybral experty za SPD do vlády. Proč to Okamurovi může vyhovovat?</description>
@@ -77,6 +69,14 @@
       <guid isPermaLink="false">080b3402-0eca-305b-8897-cf0f75b1e979</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/680af53a-fe14-4c1f-99f4-590967894669.mp3" length="37459053" type="audio/mpeg"/>
       <pubDate>Wed, 05 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Donald Trump utrpěl sérii porážek. EU chce snížit emise o 90 procent do roku 2040, Česko se postavilo proti. Rok Trumpa a Putina. Nejde jen o Tomia Okamuru v čele Sněmovny. To jsou témata dnešních Názorů a argumentů. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">be3ea40a-67d6-3054-b065-051d1c47f165</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/25bbe641-878d-4ad0-ac67-7bdafa400610.mp3" length="37462509" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
