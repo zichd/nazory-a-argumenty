@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 07 Nov 2025 11:24:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 11:22:23 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Na vzniku vlády se „maká“, ale snadné to být nemusí. Nizozemsko obrací stránku a vrací se k evropskému středu. Začátek normalizace české společnosti. Plány oživit Visegrádské uskupení jsou nereálné. Podle Deníku N si Babiš sám vybral experty za SPD do vlády. Proč to Okamurovi může vyhovovat?</description>
-      <guid isPermaLink="false">79cf1886-2975-39de-bb17-001239e4aa0c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bdb4be3a-9666-43b7-9f06-2ac4faeab65d.mp3" length="37416429" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Oct 2025 12:15:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Petr Schwarz.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/25bbe641-878d-4ad0-ac67-7bdafa400610.mp3" length="37462509" type="audio/mpeg"/>
       <pubDate>Thu, 06 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Quo vadis, Česko? Jakou politiku představuje nový newyorský starosta Mamdani? Konec důrazu na lidská práva v zahraniční politice nové české vlády. Vítězný psychopat Lenin poprvé na ruských obrazovkách a na konec glosa Evy Turnové. Poslechněte si páteční vydání Názorů a argumentů, moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">5f83ba40-cff6-3ef2-b6f9-9527f26ba240</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d2662e07-aa83-4c63-b4be-bed133d8e44e.mp3" length="37273581" type="audio/mpeg"/>
+      <pubDate>Fri, 07 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1553</itunes:duration>
     </item>
   </channel>
 </rss>
