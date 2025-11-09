@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 08 Nov 2025 11:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 11:22:20 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">feb65d78-83fb-3acf-83bf-aeed2340f8d8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/21a75fd5-42b0-4b8c-b1f7-77692ad89dd7.mp3" length="38075373" type="audio/mpeg"/>
-      <pubDate>Fri, 31 Oct 2025 11:34:00 +0000</pubDate>
-      <itunes:duration>1586</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Janem Fingerlandem</title>
       <description>Babišova úporná tajnosnubnost kolem střetu zájmů nevěstí nic dobrého. Rusové jsou mistři manipulace, využívají ji na sociálních sítích. Nebývalá stabilita, aneb tři roky Giorgie Meloniové v čele italské vlády. Umělá inteligence, internet a měnící se svět.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d2662e07-aa83-4c63-b4be-bed133d8e44e.mp3" length="37273581" type="audio/mpeg"/>
       <pubDate>Fri, 07 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1553</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Když je střet zájmů zároveň středem zájmů; Na Trumpa dopadá shutdown. Prezident se mezitím soustředí na pozlátko; Signálů, že akciový trh se chová podivně, je víc; Šikana Brigitte Macronové; Češi, jste zemí talentů, volá Magdaléna Vášáryová</description>
+      <guid isPermaLink="false">f446716b-43f6-3043-919e-21793bd4c8c2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/01a6dd846de659d0e96a614f3765de23.mp3" length="37372032" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Nov 2025 12:41:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
