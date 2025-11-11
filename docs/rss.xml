@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 10 Nov 2025 11:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 11:26:37 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Janem Fingerlandem</title>
-      <description>Pokušení socialismu. Zkrocená SPD? Stovka na rakouských dálnicích a sto padesátka na těch českých. O čem to vypovídá. Vinobraní na Montmartru. Opakuje kancléř Merz chyby svého předchůdce Olafa Scholze? Programové prohlášení vlády je scénář k večírku na palubě Titaniku.</description>
-      <guid isPermaLink="false">679885b9-577b-361b-96de-b0ab691dfaaa</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9656c485-0df9-4ac2-91da-3524bd789639.mp3" length="37446381" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Nov 2025 11:34:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
       <description>Vláda opsala volební program ANO o vzdělávání a udělala dobře. Dostane Ukrajina střely Tomahawk? Co udělá tandem Babiš a Michl? Kdo dělá Brigitte Macronové ze života peklo? Připomeneme i 50. výročí Havlovy Žebrácké opery a na závěr vás čeká glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b389d575-f8ff-4881-85cf-e352a0050028.mp3" length="36494829" type="audio/mpeg"/>
       <pubDate>Sun, 09 Nov 2025 12:08:00 +0000</pubDate>
       <itunes:duration>1521</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Proč je Robert Fico je hlavním rizikem při obnově vztahů se Slovenskem? Co bude znamenat pád Pokrovsku? Řekneme si taky pár slov k rozpočtu, probereme Kazachstán a abrahámovské dohody a na závěr si poslechněte glosu Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">78b91ad8-4cff-36c0-92ba-987092bfb7b2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8e96f576-3dbf-4b50-8a6c-e2c0b2fcada2.mp3" length="37440045" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
