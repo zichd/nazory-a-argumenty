@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 14 Nov 2025 11:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 11:22:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>Donald Trump utrpěl sérii porážek. EU chce snížit emise o 90 procent do roku 2040, Česko se postavilo proti. Rok Trumpa a Putina. Nejde jen o Tomia Okamuru v čele Sněmovny. To jsou témata dnešních Názorů a argumentů. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">be3ea40a-67d6-3054-b065-051d1c47f165</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/25bbe641-878d-4ad0-ac67-7bdafa400610.mp3" length="37462509" type="audio/mpeg"/>
-      <pubDate>Thu, 06 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Quo vadis, Česko? Jakou politiku představuje nový newyorský starosta Mamdani? Konec důrazu na lidská práva v zahraniční politice nové české vlády. Vítězný psychopat Lenin poprvé na ruských obrazovkách a na konec glosa Evy Turnové. Poslechněte si páteční vydání Názorů a argumentů, moderuje Petr Schwarz.</description>
@@ -70,6 +62,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0802d861-524e-4bef-adbd-c7e1a717681e.mp3" length="37409517" type="audio/mpeg"/>
       <pubDate>Wed, 12 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
+      <description>Trump čelí velkým problémům. Proč se Merz nemůže těšit z klesajících čísel u migrace. Babiš na Hradě. ODS ve stavu hibernace. Shutdown, Trump a demokraté. Ruský ultranacionalismus v symbióze s Kremlem. To jsou témata čtvrtečních Názorů a argumentů. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">9be27183-daf1-3e03-86f0-b27de6d705a7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/bda6e696d18224bff439d65edb15299f.mp3" length="49910016" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Kdo zvítězí v hradní přetahované? Evropská komise vyhrála první bitvu o rozpočet. Citovat Putina je téměř povinné. Uplynulo 10 let od Bataclanu a na závěr glosa Evy Turnové. To jsou témata Názorů a argumentů, které moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">7be541cc-c9f7-30b9-b781-ef17fa1e71a3</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a8e864e1-3d40-4fc1-9f52-da2799e9a970.mp3" length="37453293" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
