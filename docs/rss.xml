@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 18 Nov 2025 11:27:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 11:26:23 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Proč je Robert Fico je hlavním rizikem při obnově vztahů se Slovenskem? Co bude znamenat pád Pokrovsku? Řekneme si taky pár slov k rozpočtu, probereme Kazachstán a abrahámovské dohody a na závěr si poslechněte glosu Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">78b91ad8-4cff-36c0-92ba-987092bfb7b2</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8e96f576-3dbf-4b50-8a6c-e2c0b2fcada2.mp3" length="37440045" type="audio/mpeg"/>
-      <pubDate>Mon, 10 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Atmosféra mezi Pavlem a Babišem houstne. Vučič roční protesty studentů zatím ustál. Babišův nastupující kabinet vyvolává přízrak politických neziskovek. Probereme „zázračné“ nové ruské zbraně a na závěr si poslechněte glosu Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ad1be1c2-cd22-401f-8e3f-40ba952bf525.mp3" length="37352493" type="audio/mpeg"/>
       <pubDate>Mon, 17 Nov 2025 12:15:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
+      <description>U rodící se koalice inspiraci 17. listopadem nehledejme. Je ukrajinská energetika před ruskými útoky opravdu nechráněná? Kdy se v Německu začnou bavit s krajní pravicí? Cesta k mezinárodním silám v Gaze pootevřena a na závěr přijde glosa Ivy Pekárkové. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">9adefa68-8d85-3f60-bd95-f52c907adfe8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9b38afb2-9fa2-46e7-9a35-98f62beb7828.mp3" length="37411821" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
