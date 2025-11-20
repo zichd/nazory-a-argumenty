@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 19 Nov 2025 11:26:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 11:26:15 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Atmosféra mezi Pavlem a Babišem houstne. Vučič roční protesty studentů zatím ustál. Babišův nastupující kabinet vyvolává přízrak politických neziskovek. Probereme „zázračné“ nové ruské zbraně a na závěr si poslechněte glosu Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">fcd49c20-746d-363b-b703-a0472deaf914</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f92b76a3-684c-470f-9de6-c72e939e2bb3.mp3" length="37286829" type="audio/mpeg"/>
-      <pubDate>Tue, 11 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Ukládá se koalice Spolu k zimnímu, nebo věčnému spánku? Rozdíly ve výsledcích dětí bohatých a chudých rodičů se prohlubují. Síkela v Zambii. Motivační bilion pro Muska a když Trump potkal Šaru. To jsou témata středečních Názorů a argumentů. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9b38afb2-9fa2-46e7-9a35-98f62beb7828.mp3" length="37411821" type="audio/mpeg"/>
       <pubDate>Tue, 18 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Kamilou Pešekovou</title>
+      <description>Na Babišovi záleží, zda získá jistotu jmenování premiérem. ODS sbírá síly na lednový sjezd. Čína je klimatický spasitel, když jsou USA ze hry. Černá Hora už pro vstup do EU dost udělala a členství si zaslouží. Rozebereme také revoltu proti Trumpovi a na závěr glosa Ondřeje Kepky. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">5dca66e7-a433-3000-896a-00a92360ccbe</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3c9f8f92-6fe7-4fe9-980c-e45b4812b5b1.mp3" length="37449261" type="audio/mpeg"/>
+      <pubDate>Wed, 19 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
