@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 20 Nov 2025 11:26:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 11:25:24 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Ukládá se koalice Spolu k zimnímu, nebo věčnému spánku? Rozdíly ve výsledcích dětí bohatých a chudých rodičů se prohlubují. Síkela v Zambii. Motivační bilion pro Muska a když Trump potkal Šaru. To jsou témata středečních Názorů a argumentů. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">86691184-682a-3aad-98df-99c6d2840de6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0802d861-524e-4bef-adbd-c7e1a717681e.mp3" length="37409517" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
       <description>Trump čelí velkým problémům. Proč se Merz nemůže těšit z klesajících čísel u migrace. Babiš na Hradě. ODS ve stavu hibernace. Shutdown, Trump a demokraté. Ruský ultranacionalismus v symbióze s Kremlem. To jsou témata čtvrtečních Názorů a argumentů. Moderuje Jan Fingerland.</description>
@@ -77,6 +69,14 @@
       <guid isPermaLink="false">5dca66e7-a433-3000-896a-00a92360ccbe</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3c9f8f92-6fe7-4fe9-980c-e45b4812b5b1.mp3" length="37449261" type="audio/mpeg"/>
       <pubDate>Wed, 19 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
+      <description>Průtahy se vznikem vlády může hnutí ANO ukončit okamžitě. Sledujeme souboj prezidenta Petra Pavla s Andrejem Babišem o jeho střet zájmů. Trumpův mírový plán pro Ukrajinu. Bez EU a Ukrajiny. Proč kritické novinařině možná zvoní hrana? Co vyjednal ukrajinský prezident nejen v Turecku? A na závěr rozebereme antisemitismus ve Francii. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">3e28cb86-ee3c-3d34-9f65-af40f8ae4137</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d737bf8b-5612-4280-ae66-b84c7abfe0c6.mp3" length="37433709" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
