@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 21 Nov 2025 11:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 11:22:26 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
-      <description>Trump čelí velkým problémům. Proč se Merz nemůže těšit z klesajících čísel u migrace. Babiš na Hradě. ODS ve stavu hibernace. Shutdown, Trump a demokraté. Ruský ultranacionalismus v symbióze s Kremlem. To jsou témata čtvrtečních Názorů a argumentů. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">9be27183-daf1-3e03-86f0-b27de6d705a7</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/bda6e696d18224bff439d65edb15299f.mp3" length="49910016" type="audio/mpeg"/>
-      <pubDate>Thu, 13 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Kdo zvítězí v hradní přetahované? Evropská komise vyhrála první bitvu o rozpočet. Citovat Putina je téměř povinné. Uplynulo 10 let od Bataclanu a na závěr glosa Evy Turnové. To jsou témata Názorů a argumentů, které moderuje Petr Schwarz.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d737bf8b-5612-4280-ae66-b84c7abfe0c6.mp3" length="37433709" type="audio/mpeg"/>
       <pubDate>Thu, 20 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
+      <description>Česko mezi dvěma světy. Saúdský princ – největší přítel Donalda Trumpa. Spor o důchody je víc než jen zatěžkávací zkouškou pro německou vládu. Jak dobří Rusové zneškodnili zákeřné Židy. Dvě a půl tisíciletí pro Ekrema Imamoğlu a na závěr glosa Evy Turnové. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">00d5e2ff-a3c2-3566-83e1-5568c9085866</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c40dd923-cae2-4e4a-8c97-124759a8191a.mp3" length="37216557" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
