@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 22 Nov 2025 11:22:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 11:23:56 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Kdo zvítězí v hradní přetahované? Evropská komise vyhrála první bitvu o rozpočet. Citovat Putina je téměř povinné. Uplynulo 10 let od Bataclanu a na závěr glosa Evy Turnové. To jsou témata Názorů a argumentů, které moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">7be541cc-c9f7-30b9-b781-ef17fa1e71a3</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a8e864e1-3d40-4fc1-9f52-da2799e9a970.mp3" length="37453293" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
       <description>Korupční skandál: dobrá zpráva? Petr Pavel narušuje ústavní pořádek! Dukův pohřeb jako symbolický konec jedné generace. Křída není zločin. Slovensko protestuje proti premiérovi Ficovi. Motivační bilion pro Muska. Ukládá se koalice Spolu ke spánku zimnímu, nebo věčnému?</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c40dd923-cae2-4e4a-8c97-124759a8191a.mp3" length="37216557" type="audio/mpeg"/>
       <pubDate>Fri, 21 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1551</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
+      <description>Turek, nebo smrt? Jak může dopadnout boj Motoristů o Filipa Turka coby ministra zahraničí; Němcům chybí 80 tisíc vojáků. Česku jich chybí 37 500. Kdy pochopíme, že jsme v ohrožení?; Filip Turek a dědictví 17. listopadu 1939; Trump ohrožuje armádu i občany</description>
+      <guid isPermaLink="false">bfbf88ce-831e-3ad6-8c7c-190bb0ff0f83</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5c83bb87-0bac-4e9f-b3d4-abd71a8b88c7.mp3" length="37071405" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Nov 2025 12:12:00 +0000</pubDate>
+      <itunes:duration>1545</itunes:duration>
     </item>
   </channel>
 </rss>
