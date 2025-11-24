@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 23 Nov 2025 11:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 11:27:03 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>Korupční skandál: dobrá zpráva? Petr Pavel narušuje ústavní pořádek! Dukův pohřeb jako symbolický konec jedné generace. Křída není zločin. Slovensko protestuje proti premiérovi Ficovi. Motivační bilion pro Muska. Ukládá se koalice Spolu ke spánku zimnímu, nebo věčnému?</description>
-      <guid isPermaLink="false">7695669b-eb4a-3083-8073-8134eed433ba</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ed378aea-ee8b-4b00-bb04-389c6ec1704a.mp3" length="37480365" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Nov 2025 11:33:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
       <description>Vůle lidu versus pravidla. Skopeček za rozpočet. Český obranný průmysl roste a podporuje růst ekonomiky. Válku jsme začali brát vážně. Írán na suchu. Režim možná také. Bublina AI. Skoupá evropská solidarita</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5c83bb87-0bac-4e9f-b3d4-abd71a8b88c7.mp3" length="37071405" type="audio/mpeg"/>
       <pubDate>Sat, 22 Nov 2025 12:12:00 +0000</pubDate>
       <itunes:duration>1545</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
+      <description>Trump zase kličkuje; Evropští lídři zpochybnili Trumpův plán pro Ukrajinu; Výhrady i mlčení k Trumpovu plánu; Prezident Pavel jako osamělý bojovník za ústavu a právo; Přijíždí polský opoziční prezident Nawrocki. Pavel se ho může poptat, jaké to je; Netanjahua dohnali osadníci</description>
+      <guid isPermaLink="false">9577904</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/242840163b7787fe48f50d0fdd2db575.mp3" length="37246464" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Nov 2025 12:39:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
