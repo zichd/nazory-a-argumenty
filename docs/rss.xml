@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 25 Nov 2025 11:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 11:27:13 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní sváteční komentáře s Petrem Hartmanem</title>
-      <description>Politická přestřelka kolem rozpočtu skončí vyšším schodkem. Demokratická svoboda jako kritická kultura každodennosti. Stavební zákon znovu a lépe? Sázka na rychlost končí nárazem do zdi. Pro voliče Spolu a STAN zůstává podpora Babišovy vlády tabu. I mezi nimi ale smířlivost probublává. Kolonie Bedřiška. V roli strašáka</description>
-      <guid isPermaLink="false">9c372fb1-35d1-3187-8edf-71b8a6f7d3b4</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ad1be1c2-cd22-401f-8e3f-40ba952bf525.mp3" length="37352493" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Nov 2025 12:15:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
       <description>U rodící se koalice inspiraci 17. listopadem nehledejme. Je ukrajinská energetika před ruskými útoky opravdu nechráněná? Kdy se v Německu začnou bavit s krajní pravicí? Cesta k mezinárodním silám v Gaze pootevřena a na závěr přijde glosa Ivy Pekárkové. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/77615008-a77c-45dd-805b-21ce4b7e4e90.mp3" length="37456173" type="audio/mpeg"/>
       <pubDate>Mon, 24 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Babišova koalice o Stanjurovo kukaččí vejce nestojí. Stačilo! nebude už nikdy jako dřív. Nawrocki v Praze. Rozebereme volby v Iráku a na závěr glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">44e01c41-2562-39b3-a998-5566e4348b5e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/503e6ccd-38e5-4ce3-8b65-e3b2c5cb4326.mp3" length="37427373" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
