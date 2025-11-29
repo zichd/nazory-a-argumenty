@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 28 Nov 2025 11:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 11:24:41 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
-      <description>Průtahy se vznikem vlády může hnutí ANO ukončit okamžitě. Sledujeme souboj prezidenta Petra Pavla s Andrejem Babišem o jeho střet zájmů. Trumpův mírový plán pro Ukrajinu. Bez EU a Ukrajiny. Proč kritické novinařině možná zvoní hrana? Co vyjednal ukrajinský prezident nejen v Turecku? A na závěr rozebereme antisemitismus ve Francii. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">3e28cb86-ee3c-3d34-9f65-af40f8ae4137</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d737bf8b-5612-4280-ae66-b84c7abfe0c6.mp3" length="37433709" type="audio/mpeg"/>
-      <pubDate>Thu, 20 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
       <description>Česko mezi dvěma světy. Saúdský princ – největší přítel Donalda Trumpa. Spor o důchody je víc než jen zatěžkávací zkouškou pro německou vládu. Jak dobří Rusové zneškodnili zákeřné Židy. Dvě a půl tisíciletí pro Ekrema Imamoğlu a na závěr glosa Evy Turnové. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/87287f02-e6f7-4897-a0a1-95f7003447fa.mp3" length="37455021" type="audio/mpeg"/>
       <pubDate>Thu, 27 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Trump vytáhl proti Muslimskému bratrstvu. „Meeting Brno“ boduje. Zvlášť nebezpečný zločinec v Rusku? Ten inteligentní s vlastním názorem. Tísnivý pohled na evropskou levici. Probereme i bitcoin a na závěr glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">588cc44f-fc4d-3412-ad43-9561385b4d06</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6752e094-ea36-4409-bf2a-5c5d39022561.mp3" length="37402029" type="audio/mpeg"/>
+      <pubDate>Fri, 28 Nov 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
