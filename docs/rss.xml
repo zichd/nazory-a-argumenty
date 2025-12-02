@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 01 Dec 2025 11:27:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 11:29:14 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
-      <description>Trump zase kličkuje; Evropští lídři zpochybnili Trumpův plán pro Ukrajinu; Výhrady i mlčení k Trumpovu plánu; Prezident Pavel jako osamělý bojovník za ústavu a právo; Přijíždí polský opoziční prezident Nawrocki. Pavel se ho může poptat, jaké to je; Netanjahua dohnali osadníci</description>
-      <guid isPermaLink="false">9577904</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/242840163b7787fe48f50d0fdd2db575.mp3" length="37246464" type="audio/mpeg"/>
-      <pubDate>Sun, 23 Nov 2025 12:39:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
       <description>Jak taky může vypadat česká ekonomická diplomacie v praxi. Sen o dostupném bydlení. Nejde o Babiše a Pavla, nýbrž další smysl české Ústavy. Máme se bát Ruska? Vytlačením na okraj parlamentu Babiš Piráty nezlomí a na závěr glosa Ondřeje Neffa. Moderuje Jan Fingerland.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cc5ea38f-e1be-4a1a-8103-fe54c806a6ef.mp3" length="37682541" type="audio/mpeg"/>
       <pubDate>Sun, 30 Nov 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1570</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Pokračují jednání o rozpočtu, který vejde do historie. Bohužel. Rozpočet podruhé. Musíme si promluvit o násilí na ženách. Tradice evropské roztříštěnosti. Krajanský sjezd českých Němců v Brně je dojemná událost. A na závěr glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">e96b069a-e7f4-3fb3-9702-e7daccf2681e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9f9a89ed-8dc9-44d9-b136-1186f9472caf.mp3" length="37358829" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
