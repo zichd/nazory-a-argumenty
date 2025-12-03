@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 02 Dec 2025 11:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 11:28:40 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
-      <description>Jak taky může vypadat česká ekonomická diplomacie v praxi. Sen o dostupném bydlení. Nejde o Babiše a Pavla, nýbrž další smysl české Ústavy. Máme se bát Ruska? Vytlačením na okraj parlamentu Babiš Piráty nezlomí a na závěr glosa Ondřeje Neffa. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">d3a4ea5f-c1d7-33f6-81b2-34792b1bbcdd</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/77615008-a77c-45dd-805b-21ce4b7e4e90.mp3" length="37456173" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Babišova koalice o Stanjurovo kukaččí vejce nestojí. Stačilo! nebude už nikdy jako dřív. Nawrocki v Praze. Rozebereme volby v Iráku a na závěr glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9f9a89ed-8dc9-44d9-b136-1186f9472caf.mp3" length="37358829" type="audio/mpeg"/>
       <pubDate>Mon, 01 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Doufat v definitivní rozetnutí Babišova střetu zájmů by bylo pošetilé. Macron chce posílit obranu Francie dobrovolnickou vojenskou službou. Žebříček EU Observeru: z 21 českých europoslanců jsou tři Kremlu velmi naklonění. Proč máme odpor k politice? A na závěr glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">5f51be9c-4010-30a7-89e9-516cd817db31</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f4657486-aa2a-4f5d-b459-4b00ce04ee7e.mp3" length="37331757" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
