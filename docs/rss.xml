@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 03 Dec 2025 11:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 11:29:19 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Babišova koalice o Stanjurovo kukaččí vejce nestojí. Stačilo! nebude už nikdy jako dřív. Nawrocki v Praze. Rozebereme volby v Iráku a na závěr glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">44e01c41-2562-39b3-a998-5566e4348b5e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/503e6ccd-38e5-4ce3-8b65-e3b2c5cb4326.mp3" length="37427373" type="audio/mpeg"/>
-      <pubDate>Tue, 25 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Další střet Řehky s Černochovou. Státní rozpočet potřebuje kotvu. Evropa si vydechla, že odvrátila ruský mír. U Trumpova míru na Ukrajině se můžete spolehnout hlavně na prodlužování lhůt. Nvidia – z miláčka je otloukánek. Světová klimakonference: proti oteplení nebojovat, musíme se přizpůsobit. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f4657486-aa2a-4f5d-b459-4b00ce04ee7e.mp3" length="37331757" type="audio/mpeg"/>
       <pubDate>Tue, 02 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Je libo Ukrajinu na másle, nebo na divoko? Martin Kuba nemůže jít za celostátním úspěchem pouze vyšlapanou jihočeskou cestou. Okamurova demokracie vlastní bubliny. Kryptoměny nahoru dolů. Česko-izraelská vládní komparace. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">2f78c5d3-cedd-36dc-ade3-1b167d950115</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/84ebf597-4d40-4598-b8c0-384261e6e33b.mp3" length="37464237" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
