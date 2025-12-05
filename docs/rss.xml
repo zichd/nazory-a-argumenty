@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 04 Dec 2025 11:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 11:27:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Další střet Řehky s Černochovou. Státní rozpočet potřebuje kotvu. Evropa si vydechla, že odvrátila ruský mír. U Trumpova míru na Ukrajině se můžete spolehnout hlavně na prodlužování lhůt. Nvidia – z miláčka je otloukánek. Světová klimakonference: proti oteplení nebojovat, musíme se přizpůsobit. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">f1d93d92-4904-3868-bd0d-ccda998b3b75</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/923f5a22-0cfc-45b7-8f8f-5e3a61e1eacf.mp3" length="37296045" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Americký Den díkůvzdání v atmosféře rostoucí nejistoty. Pro prezidenta nedostatečná rošáda. Lídři Stačilo! končí. Je to odpověď na klíčovou otázku. Ruská agrese na Ukrajině. Historický summit G20 v Africe: úspěch i díky absenci USA? Moderuje Petr Hartman.</description>
@@ -77,6 +69,14 @@
       <guid isPermaLink="false">2f78c5d3-cedd-36dc-ade3-1b167d950115</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/84ebf597-4d40-4598-b8c0-384261e6e33b.mp3" length="37464237" type="audio/mpeg"/>
       <pubDate>Wed, 03 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Patricií Polanskou</title>
+      <description>Senát USA vyšetřuje Trumpovu vládu kvůli možnému spáchání válečného zločinu. Vyjednávání bez výsledku. Zalužnyj znovu na scéně. Fiala rozséval dobro, Kuba sází brambory. Dorozumívací jazyk není v armádě diskriminací. A na závěr glosa Kristiny Žantovské. Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">4b7a11ac-7bf9-31b1-8af6-58bce02a6c86</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f8375e03-48bd-4d8b-9481-2e0e9c79e965.mp3" length="37453293" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
