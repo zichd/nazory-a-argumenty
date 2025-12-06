@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 05 Dec 2025 11:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 11:24:26 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -78,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f8375e03-48bd-4d8b-9481-2e0e9c79e965.mp3" length="37453293" type="audio/mpeg"/>
       <pubDate>Thu, 04 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Další hanba v bruselské bublině, nebo naopak chvályhodná bdělost? Kauza „Turek ministrem“ se blíží do finále. Jak ovlivňuje stranický dorost německou politiku? Doživotí pro osm lidí, kteří se sami přihlásili, že jsou nevinní. A na závěr glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">44fc01eb-230a-3f24-bd05-d0b3f1fda5a6</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/42b568a7-dbfa-48ac-9991-4eecb8a0da84.mp3" length="37310445" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
