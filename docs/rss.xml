@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 06 Dec 2025 11:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 11:23:57 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Americký Den díkůvzdání v atmosféře rostoucí nejistoty. Pro prezidenta nedostatečná rošáda. Lídři Stačilo! končí. Je to odpověď na klíčovou otázku. Ruská agrese na Ukrajině. Historický summit G20 v Africe: úspěch i díky absenci USA? Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">4313fdc6-8f1e-3b84-b7bc-98abf710c9fb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/87287f02-e6f7-4897-a0a1-95f7003447fa.mp3" length="37455021" type="audio/mpeg"/>
-      <pubDate>Thu, 27 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Trump vytáhl proti Muslimskému bratrstvu. „Meeting Brno“ boduje. Zvlášť nebezpečný zločinec v Rusku? Ten inteligentní s vlastním názorem. Tísnivý pohled na evropskou levici. Probereme i bitcoin a na závěr glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/42b568a7-dbfa-48ac-9991-4eecb8a0da84.mp3" length="37310445" type="audio/mpeg"/>
       <pubDate>Fri, 05 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
+      <description>Proč Grolich nevyrazil s Kubou na lov odpadlíků; Ostřihomský summit V4 ukázal, že Visegrád žije. Na kapačkách; Stihneme to? Stihneme Putina zastavit? Europarlament přijal první program pro evropský obranný průmysl; Theodor Pištěk, nezapomenutelný solitér</description>
+      <guid isPermaLink="false">7b9dfbb2-ce3a-37fa-98ed-3ee5d12a6462</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/34c629e7-a555-4b9c-877c-e214ff3a0904.mp3" length="37358253" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Dec 2025 12:06:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
