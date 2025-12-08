@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 07 Dec 2025 11:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 11:28:40 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Trump vytáhl proti Muslimskému bratrstvu. „Meeting Brno“ boduje. Zvlášť nebezpečný zločinec v Rusku? Ten inteligentní s vlastním názorem. Tísnivý pohled na evropskou levici. Probereme i bitcoin a na závěr glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">588cc44f-fc4d-3412-ad43-9561385b4d06</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6752e094-ea36-4409-bf2a-5c5d39022561.mp3" length="37402029" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Pošle nová vláda muniční iniciativu k čertu? Vítejte zpět v tuzemském rybníčku. Tísnivý pohled na evropskou levici. Demokracie, střední věk a čekání na zázračné „potom“. Panelstory, verze 2025. Nejde o Babiše a Pavla, nýbrž další smysl české Ústavy. Státní rozpočet potřebuje kotvu</description>
-      <guid isPermaLink="false">c56b346a-e1ab-311d-a1e3-92f530eddd31</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/101340cb-28ea-45de-b6af-a887c05746ce.mp3" length="36377901" type="audio/mpeg"/>
-      <pubDate>Sat, 29 Nov 2025 11:33:00 +0000</pubDate>
-      <itunes:duration>1516</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Za co lze pochválit Motoristy. Skutečná pravice, nebo béčko Andreje Babiše? Pád Jermaka. Přinese téma Benešových dekretů výhru slovenské opozici? Evropská deregulace a její úskalí. Mírový plán jako cesta k válce</description>
@@ -86,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/34c629e7-a555-4b9c-877c-e214ff3a0904.mp3" length="37358253" type="audio/mpeg"/>
       <pubDate>Sat, 06 Dec 2025 12:06:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
+      <description>Státnický krok nebo další finta? Neunáhlil se prezident?; Jak to dopadne s ministerstvy pro Motoristy a co bude s Turkem; Od státní krize dělí Německo verdikt ústavního soudu a 18 tisícin procenta; Papež se otestoval Orientem; Vstupte do odboje. Proti drogám; Toyen svobodná i neslušná</description>
+      <guid isPermaLink="false">7f84f975-5d3b-3b49-a6ff-9641258aea5f</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1dca63bb-2c43-4842-8c3c-19344124053b.mp3" length="37402029" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Dec 2025 12:16:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
