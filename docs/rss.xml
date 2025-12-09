@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 08 Dec 2025 11:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 11:28:42 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Za co lze pochválit Motoristy. Skutečná pravice, nebo béčko Andreje Babiše? Pád Jermaka. Přinese téma Benešových dekretů výhru slovenské opozici? Evropská deregulace a její úskalí. Mírový plán jako cesta k válce</description>
-      <guid isPermaLink="false">5aca4d50-1ba8-39eb-8edf-851258ce3fe9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cc5ea38f-e1be-4a1a-8103-fe54c806a6ef.mp3" length="37682541" type="audio/mpeg"/>
-      <pubDate>Sun, 30 Nov 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1570</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Pokračují jednání o rozpočtu, který vejde do historie. Bohužel. Rozpočet podruhé. Musíme si promluvit o násilí na ženách. Tradice evropské roztříštěnosti. Krajanský sjezd českých Němců v Brně je dojemná událost. A na závěr glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1dca63bb-2c43-4842-8c3c-19344124053b.mp3" length="37402029" type="audio/mpeg"/>
       <pubDate>Sun, 07 Dec 2025 12:16:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Trumpovy Spojené státy si přejí podřízenou a rozdrobenou Evropu. Okamurovi na cestě do Bratislavy nešlo o české národní zájmy. Uplynul rok od pádu Asadova režimu. Jak to bylo s Jermakem. Na závěr glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">a473a4f3-4443-3e2b-a852-a1d3098cc6c8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ad611f9c-df63-4f98-8fea-ef80f4dd330d.mp3" length="37168749" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1549</itunes:duration>
     </item>
   </channel>
 </rss>
