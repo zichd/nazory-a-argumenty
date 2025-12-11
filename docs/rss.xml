@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 10 Dec 2025 11:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 11:29:20 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Doufat v definitivní rozetnutí Babišova střetu zájmů by bylo pošetilé. Macron chce posílit obranu Francie dobrovolnickou vojenskou službou. Žebříček EU Observeru: z 21 českých europoslanců jsou tři Kremlu velmi naklonění. Proč máme odpor k politice? A na závěr glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">5f51be9c-4010-30a7-89e9-516cd817db31</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f4657486-aa2a-4f5d-b459-4b00ce04ee7e.mp3" length="37331757" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Je libo Ukrajinu na másle, nebo na divoko? Martin Kuba nemůže jít za celostátním úspěchem pouze vyšlapanou jihočeskou cestou. Okamurova demokracie vlastní bubliny. Kryptoměny nahoru dolů. Česko-izraelská vládní komparace. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1487251a-6334-4978-8b9b-20b24326628c.mp3" length="37328301" type="audio/mpeg"/>
       <pubDate>Tue, 09 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Odsunutí řešení kauzy Turek pomohlo Babišovi na cestu do Bruselu. Nízké daně nelákají, ale ty vysoké odrazují. ECB odmítá ručit za „reparační půjčku“ Ukrajině. Evropa si plete provaz, na kterém ji Rusko oběsí. Netflix, Warner Bros. a ti druzí. Postaví se slovenský prezident proti zrušení Úřadu na ochranu oznamovatelů? Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">59193633-ba0c-3880-9787-1153e40c8821</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/042b54bc-7c6f-486b-9fcb-2f06876df7cc.mp3" length="37482093" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
