@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 12 Dec 2025 11:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 11:24:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -78,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7ee42840-8a18-4f35-9c89-4243babac478.mp3" length="37406061" type="audio/mpeg"/>
       <pubDate>Thu, 11 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Demonstrace proti úzkosti a žalu. Neviditelná říše Spojených arabských emirátů. Překvapivá a pozitivní zahraniční premiéra Andreje Babiše v Bruselu. Nikdo nic neví. Proč máme odpor k politice? A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">e8493040-1053-3a68-ab4e-36dfdbc04a46</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/eea20959-74cd-44ee-b32a-7f2138cf5952.mp3" length="37432557" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
