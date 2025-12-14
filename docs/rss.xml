@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 13 Dec 2025 11:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 11:25:21 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Patricií Polanskou</title>
-      <description>Senát USA vyšetřuje Trumpovu vládu kvůli možnému spáchání válečného zločinu. Vyjednávání bez výsledku. Zalužnyj znovu na scéně. Fiala rozséval dobro, Kuba sází brambory. Dorozumívací jazyk není v armádě diskriminací. A na závěr glosa Kristiny Žantovské. Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">4b7a11ac-7bf9-31b1-8af6-58bce02a6c86</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f8375e03-48bd-4d8b-9481-2e0e9c79e965.mp3" length="37453293" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Další hanba v bruselské bublině, nebo naopak chvályhodná bdělost? Kauza „Turek ministrem“ se blíží do finále. Jak ovlivňuje stranický dorost německou politiku? Doživotí pro osm lidí, kteří se sami přihlásili, že jsou nevinní. A na závěr glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/eea20959-74cd-44ee-b32a-7f2138cf5952.mp3" length="37432557" type="audio/mpeg"/>
       <pubDate>Fri, 12 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Proč Pavel při střetu s Babišem schytal kritiku od svých příznivců. Co dělat, když vás uráží spojenec. Zkouška silové diplomacie. Femicida je v Itálii samostatný trestný čin. Kdy bude v Česku? Mediální obchod dekády: řešení špatné a ještě horší. Jak ovlivňuje stranický dorost německou politiku</description>
+      <guid isPermaLink="false">63a26557-58f8-37fb-83d6-29fdcd006333</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f381ed2c-feed-4ca0-8375-37a803920372.mp3" length="38004525" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1583</itunes:duration>
     </item>
   </channel>
 </rss>
