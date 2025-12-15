@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 14 Dec 2025 11:25:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 11:30:15 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Další hanba v bruselské bublině, nebo naopak chvályhodná bdělost? Kauza „Turek ministrem“ se blíží do finále. Jak ovlivňuje stranický dorost německou politiku? Doživotí pro osm lidí, kteří se sami přihlásili, že jsou nevinní. A na závěr glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">44fc01eb-230a-3f24-bd05-d0b3f1fda5a6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/42b568a7-dbfa-48ac-9991-4eecb8a0da84.mp3" length="37310445" type="audio/mpeg"/>
-      <pubDate>Fri, 05 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
-      <description>Proč Grolich nevyrazil s Kubou na lov odpadlíků; Ostřihomský summit V4 ukázal, že Visegrád žije. Na kapačkách; Stihneme to? Stihneme Putina zastavit? Europarlament přijal první program pro evropský obranný průmysl; Theodor Pištěk, nezapomenutelný solitér</description>
-      <guid isPermaLink="false">7b9dfbb2-ce3a-37fa-98ed-3ee5d12a6462</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/34c629e7-a555-4b9c-877c-e214ff3a0904.mp3" length="37358253" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Dec 2025 12:06:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
       <description>Státnický krok nebo další finta? Neunáhlil se prezident?; Jak to dopadne s ministerstvy pro Motoristy a co bude s Turkem; Od státní krize dělí Německo verdikt ústavního soudu a 18 tisícin procenta; Papež se otestoval Orientem; Vstupte do odboje. Proti drogám; Toyen svobodná i neslušná</description>
@@ -86,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f381ed2c-feed-4ca0-8375-37a803920372.mp3" length="38004525" type="audio/mpeg"/>
       <pubDate>Sat, 13 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1583</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Naše bezpečnostní situace se zásadně mění. Rokování levice a co z toho. Slovenský parlament aneb Strkanice, alkohol a mafiánský zákon. Ti hoši si s námi jen pohrávají. Ve Francii vyšla kniha vězeňských zápisků odsouzeného prezidenta Sarkozyho. Nízké daně nelákají, ale ty vysoké odrazují</description>
+      <guid isPermaLink="false">5440d363-7ac7-33fd-9812-65f3d6056d71</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0dc110d9-92c2-4f0f-b692-f878cb76428d.mp3" length="36856557" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1536</itunes:duration>
     </item>
   </channel>
 </rss>
