@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 17 Dec 2025 11:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 11:28:34 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Trumpovy Spojené státy si přejí podřízenou a rozdrobenou Evropu. Okamurovi na cestě do Bratislavy nešlo o české národní zájmy. Uplynul rok od pádu Asadova režimu. Jak to bylo s Jermakem. Na závěr glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">a473a4f3-4443-3e2b-a852-a1d3098cc6c8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ad611f9c-df63-4f98-8fea-ef80f4dd330d.mp3" length="37168749" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1549</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Petr Pavel i Andrej Babiš v povolebních jednáních obstáli. Macron se marně snažil přemluvit Čínu, aby přinutila Putina k příměří. Stále více zemí se ptá, jak chránit děti a mladé dospívající před tlakem sociálních sítí. Podíváme se i na to, jak ovlivňuje stranický dorost německou politiku. A na závěr glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ac9c1ae8-726c-4787-a720-9052757eb164.mp3" length="37460781" type="audio/mpeg"/>
       <pubDate>Tue, 16 Dec 2025 11:34:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Turek s Macinkou vyvolali zmatek. EU se musí dohodnout na pomoci Ukrajině, nemá na vybranou. Jak se nakupuje o vánocích. Jak je to s šestou nejlepší ekonomiku světa. Jak poznáme populismus</description>
+      <guid isPermaLink="false">31d397cd-15bf-366e-96e1-d54f29619637</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/44739156-ed3d-41f1-a7ea-953018054972.mp3" length="37220013" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Dec 2025 11:34:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
