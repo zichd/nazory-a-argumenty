@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 20 Dec 2025 11:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 11:25:28 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
-      <description>Babiš je premiérem, ale čeká ho trnitá cesta. Babiš a Pavel, začátek plodného vztahu. Evropsko-ukrajinský mírový plán. Evropa reaguje na Trumpovy urážky umírněně; je to slabost, nebo záměr? Česká ekonomika zrcadlem The Economist. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">84ffb465-2eb7-3bab-ad70-707bd8e0bd0f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7ee42840-8a18-4f35-9c89-4243babac478.mp3" length="37406061" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Demonstrace proti úzkosti a žalu. Neviditelná říše Spojených arabských emirátů. Překvapivá a pozitivní zahraniční premiéra Andreje Babiše v Bruselu. Nikdo nic neví. Proč máme odpor k politice? A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1b18c17d-987c-4162-ab95-8819545807a2.mp3" length="37455021" type="audio/mpeg"/>
       <pubDate>Fri, 19 Dec 2025 11:34:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Particií Polanskou</title>
+      <description>Vyvaruje se ministr Zůna populistické slepoty Babiše a Okamury? Amerika odplouvá od Evropy, postupně se k ní otáčí zády. Odešel Norman Podhoretz. I jeho doba. České Vánoce okouzlují i ve Francii</description>
+      <guid isPermaLink="false">dfcf67a0-6e95-3a35-b08c-0450a9f9c8e6</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/53c0691f-3d92-48b9-9b1b-ceace0b3fe8b.mp3" length="37410093" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
