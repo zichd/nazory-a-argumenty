@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 22 Dec 2025 11:28:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 11:29:09 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Proč Pavel při střetu s Babišem schytal kritiku od svých příznivců. Co dělat, když vás uráží spojenec. Zkouška silové diplomacie. Femicida je v Itálii samostatný trestný čin. Kdy bude v Česku? Mediální obchod dekády: řešení špatné a ještě horší. Jak ovlivňuje stranický dorost německou politiku</description>
-      <guid isPermaLink="false">63a26557-58f8-37fb-83d6-29fdcd006333</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f381ed2c-feed-4ca0-8375-37a803920372.mp3" length="38004525" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1583</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
       <description>Naše bezpečnostní situace se zásadně mění. Rokování levice a co z toho. Slovenský parlament aneb Strkanice, alkohol a mafiánský zákon. Ti hoši si s námi jen pohrávají. Ve Francii vyšla kniha vězeňských zápisků odsouzeného prezidenta Sarkozyho. Nízké daně nelákají, ale ty vysoké odrazují</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4cc03c8b-7fc1-405d-afc3-7489b206ddcd.mp3" length="37260333" type="audio/mpeg"/>
       <pubDate>Sun, 21 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Petrem Hartmanem</title>
+      <description>Ministryně financí mluví o vyšším rozpočtovém schodku, než povoluje zákon. Tiché víno, svatý grál české politiky. Život v nájmu jako jedna z cest k chudobě. O ekonomické stabilitě domácností výrazně rozhodují náklady na bydlení. Jak číst Putinovy odpovědi na dotazy. Když polský prezident odmítl jet do Kyjeva, přijel Zelenskyj do Varšavy. Ložisák k Vánocům</description>
+      <guid isPermaLink="false">0ba0fb88-5317-38c8-a371-42290d0c61bf</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/11154e4c-dd92-4d40-b5e7-2e73905497fe.mp3" length="36252333" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1510</itunes:duration>
     </item>
   </channel>
 </rss>
