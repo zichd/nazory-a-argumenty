@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 23 Dec 2025 11:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 11:27:57 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Naše bezpečnostní situace se zásadně mění. Rokování levice a co z toho. Slovenský parlament aneb Strkanice, alkohol a mafiánský zákon. Ti hoši si s námi jen pohrávají. Ve Francii vyšla kniha vězeňských zápisků odsouzeného prezidenta Sarkozyho. Nízké daně nelákají, ale ty vysoké odrazují</description>
-      <guid isPermaLink="false">5440d363-7ac7-33fd-9812-65f3d6056d71</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0dc110d9-92c2-4f0f-b692-f878cb76428d.mp3" length="36856557" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1536</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Ministr školství už první úkol zvládl, těžší ho čekají vzápětí. Fialova zpráva o stavu republiky a co dál. Australské Židy zabilo zevšedňování nenávisti. Proč Lukašenko propustil další politické vězně. Výlet na vánoční trhy</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/11154e4c-dd92-4d40-b5e7-2e73905497fe.mp3" length="36252333" type="audio/mpeg"/>
       <pubDate>Mon, 22 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1510</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
+      <description>Politici si systemizaci pletou s personálními a ideologickými čistkami. Mahmúd Abbás jmenoval nástupce. Evropa má za sebou rok tápání, jaký se nesmí opakovat. I takové byly Vánoce. Chodit po vodě jako Ježíš Kristus</description>
+      <guid isPermaLink="false">9d36bfa9-de6f-3747-bd72-f9a88a17a63c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/eb0d2af7-e7a5-4cfa-ac76-f78a41abc202.mp3" length="36775341" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Dec 2025 11:34:00 +0000</pubDate>
+      <itunes:duration>1532</itunes:duration>
     </item>
   </channel>
 </rss>
