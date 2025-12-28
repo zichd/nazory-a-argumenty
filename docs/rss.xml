@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 27 Dec 2025 11:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 11:26:11 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Ministr školství už první úkol zvládl, těžší ho čekají vzápětí. Fialova zpráva o stavu republiky a co dál. Australské Židy zabilo zevšedňování nenávisti. Proč Lukašenko propustil další politické vězně. Výlet na vánoční trhy</description>
-      <guid isPermaLink="false">df902c61-c22d-384e-85e1-f127160fdfba</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d4ef9d57-e350-4ce3-b1c2-bfc32bb6c51e.mp3" length="37400301" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Dec 2025 11:34:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Babiš se do Strakovy akademie vrací netrpělivější a s kontroverzními partnery. Z Mazyru do Mosadu. Destrukce víry v čísla čili dá se ještě věřit ekonomům? Uspořádat teď na Ukrajině prezidentské volby vypadá jako jakési Trumpem plánované šílenství. O Vánocích jsou nebezpeční</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/eb0d2af7-e7a5-4cfa-ac76-f78a41abc202.mp3" length="36775341" type="audio/mpeg"/>
       <pubDate>Tue, 23 Dec 2025 11:34:00 +0000</pubDate>
       <itunes:duration>1532</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Trumpův Bílý dům se topí v epsteinovském chaosu. Vlastním přičiněním. Česko je dál nejlepší ve Visegrádu. Polsko totiž jede na doping obřího dluhu. AI v roce 2025. Dárek. Život v nájmu jako jedna z cest k chudobě. O ekonomické stabilitě domácností výrazně rozhodují náklady na bydlení. Politici si systemizaci pletou s personálními a ideologickými čistkami</description>
+      <guid isPermaLink="false">ab4bd4cc-33c6-3b5c-94a0-76a0b5b16f0a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/95f7dbb4-a927-4ddd-b86b-8a07f38463f6.mp3" length="35486829" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1479</itunes:duration>
     </item>
   </channel>
 </rss>
