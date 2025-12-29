@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 28 Dec 2025 11:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 11:28:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Babiš se do Strakovy akademie vrací netrpělivější a s kontroverzními partnery. Z Mazyru do Mosadu. Destrukce víry v čísla čili dá se ještě věřit ekonomům? Uspořádat teď na Ukrajině prezidentské volby vypadá jako jakési Trumpem plánované šílenství. O Vánocích jsou nebezpeční</description>
-      <guid isPermaLink="false">befac02f-cfb0-3d8c-8762-777584507fa8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ac9c1ae8-726c-4787-a720-9052757eb164.mp3" length="37460781" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Dec 2025 11:34:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Turek s Macinkou vyvolali zmatek. EU se musí dohodnout na pomoci Ukrajině, nemá na vybranou. Jak se nakupuje o vánocích. Jak je to s šestou nejlepší ekonomiku světa. Jak poznáme populismus</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/95f7dbb4-a927-4ddd-b86b-8a07f38463f6.mp3" length="35486829" type="audio/mpeg"/>
       <pubDate>Sat, 27 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1479</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Těžké časy pro ekologii. Vrátíme vám, co vám Fialova vláda vzala? U předčasných penzí se žádná změna nekoná. Rok Trumpa: bezskrupulóznost místo jednání v rukavičkách. Pomoc Ukrajině a Mercosur. Odzbrojení slov</description>
+      <guid isPermaLink="false">54971bb0-67a0-308c-ad8c-1180768133c0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0572e123-1f0c-473a-b0ed-fec746b2ca9c.mp3" length="36697005" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Dec 2025 11:34:00 +0000</pubDate>
+      <itunes:duration>1529</itunes:duration>
     </item>
   </channel>
 </rss>
