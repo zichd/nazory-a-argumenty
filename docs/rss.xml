@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 29 Dec 2025 11:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 11:29:36 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
-      <description>Turek s Macinkou vyvolali zmatek. EU se musí dohodnout na pomoci Ukrajině, nemá na vybranou. Jak se nakupuje o vánocích. Jak je to s šestou nejlepší ekonomiku světa. Jak poznáme populismus</description>
-      <guid isPermaLink="false">31d397cd-15bf-366e-96e1-d54f29619637</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/44739156-ed3d-41f1-a7ea-953018054972.mp3" length="37220013" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Dec 2025 11:34:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Vládní odmítnutí emisních povolenek a migračního paktu je planý populismus. Trump, Babiš a F-35. Babišovy ženy a jeden muž. Hynek Kmoníček. Petr Macinka pomohl oživit studentské klimatické hnutí. Jen u jedné demonstrace to neskončí. Kondice ruského rozpočtu</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0572e123-1f0c-473a-b0ed-fec746b2ca9c.mp3" length="36697005" type="audio/mpeg"/>
       <pubDate>Sun, 28 Dec 2025 11:34:00 +0000</pubDate>
       <itunes:duration>1529</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
+      <description>Slovensko v roce 2025: vzdálilo se demokracii, Evropské unii i Česku. Rok 2026: Lepší, rychlejší, bohatší. Mírové dohody a Zelenskyj v USA. Zemřela Brigitte Bardotová. Silvestr s papouškem</description>
+      <guid isPermaLink="false">64551465-3ed5-3e60-9e53-f5ea3aff7d32</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b98f5d77-c7cb-4144-8b10-b1bb5dd17674.mp3" length="36276525" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Dec 2025 11:34:00 +0000</pubDate>
+      <itunes:duration>1511</itunes:duration>
     </item>
   </channel>
 </rss>
