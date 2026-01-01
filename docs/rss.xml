@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 31 Dec 2025 11:28:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 11:28:09 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
-      <description>EU zachrání Ukrajinu bez Maďarska, Slovenska i Česka. Bruselské čekání na zázrak. Trump je pro Evropu požehnáním. Kdo repatriuje vězně ze severní Sýrie? Heslokleslo</description>
-      <guid isPermaLink="false">43a04b92-f5c8-3836-8b77-e6b1468a2976</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1b18c17d-987c-4162-ab95-8819545807a2.mp3" length="37455021" type="audio/mpeg"/>
-      <pubDate>Fri, 19 Dec 2025 11:34:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Particií Polanskou</title>
-      <description>Vyvaruje se ministr Zůna populistické slepoty Babiše a Okamury? Amerika odplouvá od Evropy, postupně se k ní otáčí zády. Odešel Norman Podhoretz. I jeho doba. České Vánoce okouzlují i ve Francii</description>
-      <guid isPermaLink="false">dfcf67a0-6e95-3a35-b08c-0450a9f9c8e6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/53c0691f-3d92-48b9-9b1b-ceace0b3fe8b.mp3" length="37410093" type="audio/mpeg"/>
-      <pubDate>Sat, 20 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
       <description>Nastoupili Češi cestu do ruské náruče? Babiš a Okamura v odlišných pozicích . V Trumpově Bílém domě je čím dál více prasklin. Jak kroky Babišovy vlády nahrávají Rusku</description>
@@ -110,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/848e8d04-f5c4-4e3d-87b5-6a0120d7f033.mp3" length="35695341" type="audio/mpeg"/>
       <pubDate>Tue, 30 Dec 2025 11:34:00 +0000</pubDate>
       <itunes:duration>1487</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Petrem Schwarzem</title>
+      <description>Prezident zvládl nejtěžší úkol rok 2025, kterým bylo jmenování vlády. Přežila se liberální „klauzule věčnosti“? Elon Musk a jeho prométheovský sen. Německo v roce 2025 aneb Ani nová vláda nedokázala opustit staré koleje. Křivá linka</description>
+      <guid isPermaLink="false">6992ef72-d3e4-3854-a7eb-2642c64a3693</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f19a6d23-a469-4c70-bfa2-59cd78d2961a.mp3" length="37467117" type="audio/mpeg"/>
+      <pubDate>Wed, 31 Dec 2025 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
