@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 01 Jan 2026 11:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 11:28:06 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
-      <description>Nastoupili Češi cestu do ruské náruče? Babiš a Okamura v odlišných pozicích . V Trumpově Bílém domě je čím dál více prasklin. Jak kroky Babišovy vlády nahrávají Rusku</description>
-      <guid isPermaLink="false">f390eb02-eef9-36ba-a694-92fb28c61b5e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4cc03c8b-7fc1-405d-afc3-7489b206ddcd.mp3" length="37260333" type="audio/mpeg"/>
-      <pubDate>Sun, 21 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Petrem Hartmanem</title>
       <description>Ministryně financí mluví o vyšším rozpočtovém schodku, než povoluje zákon. Tiché víno, svatý grál české politiky. Život v nájmu jako jedna z cest k chudobě. O ekonomické stabilitě domácností výrazně rozhodují náklady na bydlení. Jak číst Putinovy odpovědi na dotazy. Když polský prezident odmítl jet do Kyjeva, přijel Zelenskyj do Varšavy. Ložisák k Vánocům</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f19a6d23-a469-4c70-bfa2-59cd78d2961a.mp3" length="37467117" type="audio/mpeg"/>
       <pubDate>Wed, 31 Dec 2025 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Vládní poslanci chtějí zrušit služební zákon. Byl by to další naschvál Evropské unii. Bude to těžký rok pro nás pro všechny, nejen pro Babiše, který bude muset přehodnotit své postoje. Prezidentovo prosté ne a Ferdyš Zůna naruby. Rusko model 2025, a co nás čeká. Oteplování klimatu má i ekonomické pozadí</description>
+      <guid isPermaLink="false">ca76e456-8266-3eff-92fb-e12bd72075e5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2a08c5c3-7c76-4ff4-b2fb-669730daf9c4.mp3" length="35669997" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1486</itunes:duration>
     </item>
   </channel>
 </rss>
