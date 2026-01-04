@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 03 Jan 2026 11:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 11:26:17 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Petrem Hartmanem</title>
-      <description>Ministryně financí mluví o vyšším rozpočtovém schodku, než povoluje zákon. Tiché víno, svatý grál české politiky. Život v nájmu jako jedna z cest k chudobě. O ekonomické stabilitě domácností výrazně rozhodují náklady na bydlení. Jak číst Putinovy odpovědi na dotazy. Když polský prezident odmítl jet do Kyjeva, přijel Zelenskyj do Varšavy. Ložisák k Vánocům</description>
-      <guid isPermaLink="false">0ba0fb88-5317-38c8-a371-42290d0c61bf</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/11154e4c-dd92-4d40-b5e7-2e73905497fe.mp3" length="36252333" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1510</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
       <description>Politici si systemizaci pletou s personálními a ideologickými čistkami. Mahmúd Abbás jmenoval nástupce. Evropa má za sebou rok tápání, jaký se nesmí opakovat. I takové byly Vánoce. Chodit po vodě jako Ježíš Kristus</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/64cf747e-f95b-4be4-8e95-b59af320fbaa.mp3" length="37081197" type="audio/mpeg"/>
       <pubDate>Fri, 02 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1545</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Rok 2026 by mohl Evropské unii přinést změnu k lepšímu, ale jisté to není, Rakousko v roce 2025 hledalo cestu z politické i ekonomické krize, Máme za sebou rok změn. Ale ne vždy k lepšímu, Rok 2026: Lepší, rychlejší, bohatší. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">8d5cac65-3460-325a-bc29-0289cdd408f5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fbbc3e24-4ed3-46aa-aca1-7cc9de5b1897.mp3" length="34850925" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1452</itunes:duration>
     </item>
   </channel>
 </rss>
