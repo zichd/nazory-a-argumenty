@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 04 Jan 2026 11:26:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 11:31:02 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
-      <description>Politici si systemizaci pletou s personálními a ideologickými čistkami. Mahmúd Abbás jmenoval nástupce. Evropa má za sebou rok tápání, jaký se nesmí opakovat. I takové byly Vánoce. Chodit po vodě jako Ježíš Kristus</description>
-      <guid isPermaLink="false">9d36bfa9-de6f-3747-bd72-f9a88a17a63c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/eb0d2af7-e7a5-4cfa-ac76-f78a41abc202.mp3" length="36775341" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Dec 2025 11:34:00 +0000</pubDate>
-      <itunes:duration>1532</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si sváteční diskusi u kulatého stolu s Petrem Schwarzem</title>
-      <description>Štědrý den a vánoční svátky, jejich smysl a prožívání v dnešním světě, úloha a postavení křesťanství, současná společnost a její vztah k duchovním záležitostem. Diskutují filozof Daniel Kroupa, katolický kněz Pavel Pola a spisovatel Aleš Palán. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">03307f46-75c2-34b3-bec0-b487d63d71ff</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/e97451bf12a4d40052b86d1c45de0998.mp3" length="69796224" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>2908</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si sváteční diskusi u kulatého stolu s Ondřejem Konrádem</title>
       <description>Bilance roku 2025 v zahraniční politice: nástup Donalda Trumpa do Bílého domu, izraelsko-palestinský konflikt a další významné události v zahraniční politice. Diskutují Tomáš Klvaňa, Jefim Fištejn, Jan Fingerland. Moderuje Ondřej Konrád.</description>
@@ -110,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fbbc3e24-4ed3-46aa-aca1-7cc9de5b1897.mp3" length="34850925" type="audio/mpeg"/>
       <pubDate>Sat, 03 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1452</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Janem Fingerlandem</title>
+      <description>Samí politici, žádní státníci, Bulharsko to už má s eurem černé na bílém. My Češi si s korunou stále lžeme do kapsy, Okamura a plané gesto opozice, Na konec mezinárodního práva doplatí Venezuela, ale i Tchaj-wan</description>
+      <guid isPermaLink="false">1f5535e9-d9d9-30cf-a176-235d0069cc1e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a93886ca-02ff-47bd-b3d6-596f3ebfbfed.mp3" length="36999981" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1542</itunes:duration>
     </item>
   </channel>
 </rss>
