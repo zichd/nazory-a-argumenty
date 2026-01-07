@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 06 Jan 2026 11:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 11:31:01 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Těžké časy pro ekologii. Vrátíme vám, co vám Fialova vláda vzala? U předčasných penzí se žádná změna nekoná. Rok Trumpa: bezskrupulóznost místo jednání v rukavičkách. Pomoc Ukrajině a Mercosur. Odzbrojení slov</description>
-      <guid isPermaLink="false">54971bb0-67a0-308c-ad8c-1180768133c0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0572e123-1f0c-473a-b0ed-fec746b2ca9c.mp3" length="36697005" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Dec 2025 11:34:00 +0000</pubDate>
-      <itunes:duration>1529</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
       <description>Slovensko v roce 2025: vzdálilo se demokracii, Evropské unii i Česku. Rok 2026: Lepší, rychlejší, bohatší. Mírové dohody a Zelenskyj v USA. Zemřela Brigitte Bardotová. Silvestr s papouškem</description>
@@ -85,6 +77,14 @@
       <guid isPermaLink="false">31f636e3-2fcf-3be0-9720-65cb61fb65fb</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/66d626dd-7f0e-4952-aebb-f52872ef1584.mp3" length="37368045" type="audio/mpeg"/>
       <pubDate>Mon, 05 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Turek ministrem nebude, protože Babiš za něj odmítá krvácet. Okamura a nová doba. Blízký východ a Venezuela. Byla střední Evropa skutečně unesena? A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">f2a7256b-418b-3d76-b58e-6d5ed2896604</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4af157d0-c80d-460b-8e23-bd237349fd30.mp3" length="37370925" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
