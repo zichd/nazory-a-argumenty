@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 07 Jan 2026 11:31:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 11:31:07 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
-      <description>Slovensko v roce 2025: vzdálilo se demokracii, Evropské unii i Česku. Rok 2026: Lepší, rychlejší, bohatší. Mírové dohody a Zelenskyj v USA. Zemřela Brigitte Bardotová. Silvestr s papouškem</description>
-      <guid isPermaLink="false">64551465-3ed5-3e60-9e53-f5ea3aff7d32</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b98f5d77-c7cb-4144-8b10-b1bb5dd17674.mp3" length="36276525" type="audio/mpeg"/>
-      <pubDate>Mon, 29 Dec 2025 11:34:00 +0000</pubDate>
-      <itunes:duration>1511</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Petrem Schwarzem</title>
       <description>Máme za sebou rok změn. Ale ne vždy k lepšímu. Paradoxy války. Budování státu: Somaliland, Palestina, Tchaj-wan. Tajemství moci nových diktátorů. Taky jste otroverti?</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4af157d0-c80d-460b-8e23-bd237349fd30.mp3" length="37370925" type="audio/mpeg"/>
       <pubDate>Tue, 06 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Účet Schillerové pro Stanjuru – 50 miliard. Grónsko ve sféře Trumpova vlivu. Andrej Babiš na Hrad kandidovat nechce. Technologické firmy chystají obří úpisy. Výsledky jednání koalice ochotných. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">939e375e-b0ee-3eee-b14a-e0fbc2250fd5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/594dbfa0-621b-4f43-9a97-243b70379db8.mp3" length="37452141" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
