@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 08 Jan 2026 11:31:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 11:30:03 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Petrem Schwarzem</title>
-      <description>Máme za sebou rok změn. Ale ne vždy k lepšímu. Paradoxy války. Budování státu: Somaliland, Palestina, Tchaj-wan. Tajemství moci nových diktátorů. Taky jste otroverti?</description>
-      <guid isPermaLink="false">507f9fb0-198a-31ba-8cda-e1c6849f785e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/848e8d04-f5c4-4e3d-87b5-6a0120d7f033.mp3" length="35695341" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Dec 2025 11:34:00 +0000</pubDate>
-      <itunes:duration>1487</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Petrem Schwarzem</title>
       <description>Prezident zvládl nejtěžší úkol rok 2025, kterým bylo jmenování vlády. Přežila se liberální „klauzule věčnosti“? Elon Musk a jeho prométheovský sen. Německo v roce 2025 aneb Ani nová vláda nedokázala opustit staré koleje. Křivá linka</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/594dbfa0-621b-4f43-9a97-243b70379db8.mp3" length="37452141" type="audio/mpeg"/>
       <pubDate>Wed, 07 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
+      <description>SPD sabotuje Babišovu zahraniční politiku a oslabuje vládu. Opozice Babišovi Okamuru ze srdce přeje. Zelenského nová vláda. Dilema německé krajní pravice. Babišův SynBiol do fondu nepůjde. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">12fa7eeb-c302-3c41-a77c-165c6360989f</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/60919cb7-d023-42e8-ac7c-a60e2a4eee70.mp3" length="37465965" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
