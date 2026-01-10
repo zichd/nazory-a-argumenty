@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 09 Jan 2026 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 11:26:22 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Petrem Schwarzem</title>
-      <description>Prezident zvládl nejtěžší úkol rok 2025, kterým bylo jmenování vlády. Přežila se liberální „klauzule věčnosti“? Elon Musk a jeho prométheovský sen. Německo v roce 2025 aneb Ani nová vláda nedokázala opustit staré koleje. Křivá linka</description>
-      <guid isPermaLink="false">6992ef72-d3e4-3854-a7eb-2642c64a3693</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f19a6d23-a469-4c70-bfa2-59cd78d2961a.mp3" length="37467117" type="audio/mpeg"/>
-      <pubDate>Wed, 31 Dec 2025 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Vládní poslanci chtějí zrušit služební zákon. Byl by to další naschvál Evropské unii. Bude to těžký rok pro nás pro všechny, nejen pro Babiše, který bude muset přehodnotit své postoje. Prezidentovo prosté ne a Ferdyš Zůna naruby. Rusko model 2025, a co nás čeká. Oteplování klimatu má i ekonomické pozadí</description>
@@ -85,6 +77,14 @@
       <guid isPermaLink="false">12fa7eeb-c302-3c41-a77c-165c6360989f</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/60919cb7-d023-42e8-ac7c-a60e2a4eee70.mp3" length="37465965" type="audio/mpeg"/>
       <pubDate>Thu, 08 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Orwell nechá pozdravovat. Válečná zóna Minneapolis. Ta pravá tragédie rozpočtu 2025. Kdo je tu parazit? Státní správa pod politickou palbou. Bůh a Děda Mráz slouží v Rusku režimu. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">e1c659a8-e5d7-3355-9f32-bdf199b44c0c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/202b0b44-bf8b-49be-a61c-42719b4a14a5.mp3" length="37459053" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
