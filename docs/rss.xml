@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 10 Jan 2026 11:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 11:26:30 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>Vládní poslanci chtějí zrušit služební zákon. Byl by to další naschvál Evropské unii. Bude to těžký rok pro nás pro všechny, nejen pro Babiše, který bude muset přehodnotit své postoje. Prezidentovo prosté ne a Ferdyš Zůna naruby. Rusko model 2025, a co nás čeká. Oteplování klimatu má i ekonomické pozadí</description>
-      <guid isPermaLink="false">ca76e456-8266-3eff-92fb-e12bd72075e5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2a08c5c3-7c76-4ff4-b2fb-669730daf9c4.mp3" length="35669997" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1486</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Co nás čeká a nemine? Co jsme se dozvěděli z novoročních projevů. Íránci se bouří. Trump v roce 2025 více mínil než měnil. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/202b0b44-bf8b-49be-a61c-42719b4a14a5.mp3" length="37459053" type="audio/mpeg"/>
       <pubDate>Fri, 09 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
+      <description>Petr Pavel se chová přesně jako Zeman! Nebo že by ne? Babišova návštěva v Fica ukázala, že česko-slovenské vztahy jsou mimořádné. Ale nevyrovnané. Jak je to s postupem ruské armády. Strašit Babišem „demokratické“ strany umí. Řešit, jak zabránit destrukci Česka, se jim ale očividně nechce. Macron chce vyslat po uzavření míru na Ukrajinu francouzské jednotky. Brigitte Bardotová zemřela a celá Francie na herečku vzpomíná.</description>
+      <guid isPermaLink="false">29862217-8b25-340b-bcbd-56b3b75e8c2a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/42adc57d-2044-49dc-98f4-426848affa4f.mp3" length="37438893" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Jan 2026 12:15:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
