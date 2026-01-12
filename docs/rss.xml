@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 11 Jan 2026 11:26:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 11:31:25 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Co nás čeká a nemine? Co jsme se dozvěděli z novoročních projevů. Íránci se bouří. Trump v roce 2025 více mínil než měnil. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">8ebe0a1e-b529-31c7-b3d0-8a5a1253084a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/64cf747e-f95b-4be4-8e95-b59af320fbaa.mp3" length="37081197" type="audio/mpeg"/>
-      <pubDate>Fri, 02 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1545</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Rok 2026 by mohl Evropské unii přinést změnu k lepšímu, ale jisté to není, Rakousko v roce 2025 hledalo cestu z politické i ekonomické krize, Máme za sebou rok změn. Ale ne vždy k lepšímu, Rok 2026: Lepší, rychlejší, bohatší. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">8d5cac65-3460-325a-bc29-0289cdd408f5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fbbc3e24-4ed3-46aa-aca1-7cc9de5b1897.mp3" length="34850925" type="audio/mpeg"/>
-      <pubDate>Sat, 03 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1452</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Janem Fingerlandem</title>
       <description>Samí politici, žádní státníci, Bulharsko to už má s eurem černé na bílém. My Češi si s korunou stále lžeme do kapsy, Okamura a plané gesto opozice, Na konec mezinárodního práva doplatí Venezuela, ale i Tchaj-wan</description>
@@ -86,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/42adc57d-2044-49dc-98f4-426848affa4f.mp3" length="37438893" type="audio/mpeg"/>
       <pubDate>Sat, 10 Jan 2026 12:15:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
+      <description>Macinkova bleskově překvapivá mise. EU schválila dohodu se sdružením Mercosur a ukázala tak svou emancipaci a sílu. Babišova dvojí tvář pro doma i v zahraničí. Král kontra emír, aneb Studená válka v Arábii. Klíčový politik přechodné vlády Jiří Dienstbier</description>
+      <guid isPermaLink="false">35bf6f29-20f2-3a12-bf3a-9ca1dafbf95e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/129cbb09-1ad4-4279-99f0-36b944913981.mp3" length="36234477" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Jan 2026 12:15:00 +0000</pubDate>
+      <itunes:duration>1510</itunes:duration>
     </item>
   </channel>
 </rss>
