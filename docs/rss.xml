@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 13 Jan 2026 11:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 11:32:29 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
-      <description>Prezident Pavel oslovil společnost. Jakou odezvu může čekat? Trump dal floridské klice hlavu Madura. Změnu venezuelského režimu zatím ne. Rusko a Venezuela. Nejnovější představy ministryně financí o rozpočtovém schodku. Úvaha ohněstrojná. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">31f636e3-2fcf-3be0-9720-65cb61fb65fb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/66d626dd-7f0e-4952-aebb-f52872ef1584.mp3" length="37368045" type="audio/mpeg"/>
-      <pubDate>Mon, 05 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Turek ministrem nebude, protože Babiš za něj odmítá krvácet. Okamura a nová doba. Blízký východ a Venezuela. Byla střední Evropa skutečně unesena? A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4065460f-65a2-4ebb-b168-84998d272095.mp3" length="37209645" type="audio/mpeg"/>
       <pubDate>Mon, 12 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1550</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Vratký koaliční experiment přidělá vrásky i Babišovi. Německý prezident Steinmeier řekl, že USA pod Trumpem mění svět v „doupě lupičů“. Konečně to někdo řekl nahlas. Jakou roli přisuzují Trump a spol. Rakousku a co to udělá s jeho neutralitou? Strašidelné české penzijní fondy a na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">4f7ca659-a189-361e-b9ef-40ce8e799a9a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6b57cb24-71cf-4bed-967c-ccf051d90493.mp3" length="37243053" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
