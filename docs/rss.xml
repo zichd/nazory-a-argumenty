@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 14 Jan 2026 11:32:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:31:19 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Turek ministrem nebude, protože Babiš za něj odmítá krvácet. Okamura a nová doba. Blízký východ a Venezuela. Byla střední Evropa skutečně unesena? A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">f2a7256b-418b-3d76-b58e-6d5ed2896604</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4af157d0-c80d-460b-8e23-bd237349fd30.mp3" length="37370925" type="audio/mpeg"/>
-      <pubDate>Tue, 06 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Účet Schillerové pro Stanjuru – 50 miliard. Grónsko ve sféře Trumpova vlivu. Andrej Babiš na Hrad kandidovat nechce. Technologické firmy chystají obří úpisy. Výsledky jednání koalice ochotných. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6b57cb24-71cf-4bed-967c-ccf051d90493.mp3" length="37243053" type="audio/mpeg"/>
       <pubDate>Tue, 13 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Hádanky sněmovny. Rok prosperity? Vítejte v nejistých časech. Trump čelí revoltě na Kapitolu kvůli válce i centrální bance. Spor o FED. Proč se zajímat o zdraví Kadyrova. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">d0f04f6a-c9ac-30fb-aae8-68786b0ff844</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c66fd5c7-e191-4e49-b37b-b92a4ce7476d.mp3" length="37401453" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
