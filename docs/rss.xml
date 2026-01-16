@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 15 Jan 2026 11:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 11:30:09 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Účet Schillerové pro Stanjuru – 50 miliard. Grónsko ve sféře Trumpova vlivu. Andrej Babiš na Hrad kandidovat nechce. Technologické firmy chystají obří úpisy. Výsledky jednání koalice ochotných. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">939e375e-b0ee-3eee-b14a-e0fbc2250fd5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/594dbfa0-621b-4f43-9a97-243b70379db8.mp3" length="37452141" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>SPD sabotuje Babišovu zahraniční politiku a oslabuje vládu. Opozice Babišovi Okamuru ze srdce přeje. Zelenského nová vláda. Dilema německé krajní pravice. Babišův SynBiol do fondu nepůjde. Moderuje Petr Hartman.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c66fd5c7-e191-4e49-b37b-b92a4ce7476d.mp3" length="37401453" type="audio/mpeg"/>
       <pubDate>Wed, 14 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Místo ministrů máme Švejky. Česká politika je v bodě zlomu. Ohlušující ticho v západní debatě o Íránu. Orbán ukázal polské vládě prostředníček. Proč Putin mlčí k Trumpovým eskapádám? Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">5eafc88f-2d38-310f-abb3-af793317c17f</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/04d97dbb-9d60-49bc-9707-f293516b2208.mp3" length="37458477" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
