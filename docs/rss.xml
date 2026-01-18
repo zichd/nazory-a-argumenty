@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 17 Jan 2026 11:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 11:25:38 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Orwell nechá pozdravovat. Válečná zóna Minneapolis. Ta pravá tragédie rozpočtu 2025. Kdo je tu parazit? Státní správa pod politickou palbou. Bůh a Děda Mráz slouží v Rusku režimu. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">e1c659a8-e5d7-3355-9f32-bdf199b44c0c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/202b0b44-bf8b-49be-a61c-42719b4a14a5.mp3" length="37459053" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
       <description>Petr Pavel se chová přesně jako Zeman! Nebo že by ne? Babišova návštěva v Fica ukázala, že česko-slovenské vztahy jsou mimořádné. Ale nevyrovnané. Jak je to s postupem ruské armády. Strašit Babišem „demokratické“ strany umí. Řešit, jak zabránit destrukci Česka, se jim ale očividně nechce. Macron chce vyslat po uzavření míru na Ukrajinu francouzské jednotky. Brigitte Bardotová zemřela a celá Francie na herečku vzpomíná.</description>
@@ -75,9 +67,17 @@
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Trump a Babiš jsou z jednoho těsta. Premiér a zmocněnec. Rusko hraje ve válce roli nacistického Německa. Několikero požehnání smlouvy s Mercosurem. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
       <guid isPermaLink="false">f3940d80-9e30-3c68-a05a-9b66d445e76b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4cb56f1d-1ecd-40ec-b24b-fc0c3201fd66.mp3" length="37250541" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/b88c888b7a3eba186846e4a25a120311.mp3" length="37190592" type="audio/mpeg"/>
       <pubDate>Fri, 16 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
+      <itunes:duration>1550</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Moskva a Teherán mají ke spojenectví daleko; Nobelovka pro Trumpa; Trumpova touha po Grónsku postrádá jakýkoli smysl; Dopis, který prezident nikdy neměl napsat; Péče o seniory je velký úkol vlády Andreje Babiše i dalších vlád. Nezadržitelně stárneme; Digitálně sníh neodhrabeš</description>
+      <guid isPermaLink="false">d471f1ac-2e0e-36b9-938d-47320f969b24</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/518406d0-9706-4fba-82d1-34f977eb847e.mp3" length="36404397" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Jan 2026 12:23:00 +0000</pubDate>
+      <itunes:duration>1517</itunes:duration>
     </item>
   </channel>
 </rss>
