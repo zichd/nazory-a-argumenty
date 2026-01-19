@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 18 Jan 2026 11:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 11:33:15 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
-      <description>Petr Pavel se chová přesně jako Zeman! Nebo že by ne? Babišova návštěva v Fica ukázala, že česko-slovenské vztahy jsou mimořádné. Ale nevyrovnané. Jak je to s postupem ruské armády. Strašit Babišem „demokratické“ strany umí. Řešit, jak zabránit destrukci Česka, se jim ale očividně nechce. Macron chce vyslat po uzavření míru na Ukrajinu francouzské jednotky. Brigitte Bardotová zemřela a celá Francie na herečku vzpomíná.</description>
-      <guid isPermaLink="false">29862217-8b25-340b-bcbd-56b3b75e8c2a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/42adc57d-2044-49dc-98f4-426848affa4f.mp3" length="37438893" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jan 2026 12:15:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
       <description>Macinkova bleskově překvapivá mise. EU schválila dohodu se sdružením Mercosur a ukázala tak svou emancipaci a sílu. Babišova dvojí tvář pro doma i v zahraničí. Král kontra emír, aneb Studená válka v Arábii. Klíčový politik přechodné vlády Jiří Dienstbier</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/518406d0-9706-4fba-82d1-34f977eb847e.mp3" length="36404397" type="audio/mpeg"/>
       <pubDate>Sat, 17 Jan 2026 12:23:00 +0000</pubDate>
       <itunes:duration>1517</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Dovede Martin Kupka ODS zpět do Strakovky?; Hledáme marně premiéra do těžkých časů; Mzdy konečně rostou. Dočkají se letos české domácnosti větší ekonomické stabilizace?; Zásadní není, co bude s Grónskem, ale zda a jak to pak Evropa zvládne bez USA; Odvolací soud může pro Le Penovou znamenat její konec; Hrozba splněných snů</description>
+      <guid isPermaLink="false">52b0e5a7-dbb9-3cdb-b5e3-0db9ed5a30b4</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/94f59e9c-2293-408a-9dc8-8b547ce43715.mp3" length="37034541" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 12:09:00 +0000</pubDate>
+      <itunes:duration>1543</itunes:duration>
     </item>
   </channel>
 </rss>
