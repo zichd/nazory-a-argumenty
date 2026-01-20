@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 19 Jan 2026 11:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 11:34:00 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
-      <description>Macinkova bleskově překvapivá mise. EU schválila dohodu se sdružením Mercosur a ukázala tak svou emancipaci a sílu. Babišova dvojí tvář pro doma i v zahraničí. Král kontra emír, aneb Studená válka v Arábii. Klíčový politik přechodné vlády Jiří Dienstbier</description>
-      <guid isPermaLink="false">35bf6f29-20f2-3a12-bf3a-9ca1dafbf95e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/129cbb09-1ad4-4279-99f0-36b944913981.mp3" length="36234477" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Jan 2026 12:15:00 +0000</pubDate>
-      <itunes:duration>1510</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Patricií Polanskou</title>
       <description>Premiér slíbil zrušení vyhlášky o stravování ve školách, ale slib by neměl splnit. Babiš rozhodl: gigafactory v Lutyni nebude. Trumpova doktrína a garance pro Ukrajinu. Volba občanských demokratů? Uměřená korekce nebo trhnutí kormidlem. A na konec glosa Ondřeje Neffa. Moderuje Patricie Polanská.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/94f59e9c-2293-408a-9dc8-8b547ce43715.mp3" length="37034541" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 12:09:00 +0000</pubDate>
       <itunes:duration>1543</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Zavření pracovního trhu z dílny SPD by výrazně poškodilo ekonomiku. Syrští Kurdové prohráli bitvu. Fico u Trumpa. Obchodní válka se vrací. Trhy krvácí a EU hledá odpověď. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">6dcc003e-fd8b-39d9-b04a-eca3a2dda74d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/35b7eb9a-9957-49e9-96f7-063fdad7f83a.mp3" length="37450989" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
