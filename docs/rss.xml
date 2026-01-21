@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 20 Jan 2026 11:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 11:34:25 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Patricií Polanskou</title>
-      <description>Premiér slíbil zrušení vyhlášky o stravování ve školách, ale slib by neměl splnit. Babiš rozhodl: gigafactory v Lutyni nebude. Trumpova doktrína a garance pro Ukrajinu. Volba občanských demokratů? Uměřená korekce nebo trhnutí kormidlem. A na konec glosa Ondřeje Neffa. Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">3566142a-9362-3058-b0d2-cb7a4b1a5d62</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4065460f-65a2-4ebb-b168-84998d272095.mp3" length="37209645" type="audio/mpeg"/>
-      <pubDate>Mon, 12 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1550</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Vratký koaliční experiment přidělá vrásky i Babišovi. Německý prezident Steinmeier řekl, že USA pod Trumpem mění svět v „doupě lupičů“. Konečně to někdo řekl nahlas. Jakou roli přisuzují Trump a spol. Rakousku a co to udělá s jeho neutralitou? Strašidelné české penzijní fondy a na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/35b7eb9a-9957-49e9-96f7-063fdad7f83a.mp3" length="37450989" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Zkraje volebního období není výchozí pozice Pirátů vůbec špatná. CSG vstoupí na burzu. Stane se Strnad králem zdejších miliardářů? Devadesátimiliardový úvěr pro Ukrajinu na základě „zesílené spolupráce“ je příslibem pro budoucnost. Nový ukrajinský ministr obrany proti korupci. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">f90d108a-45f2-325e-a335-51e61fef4e73</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/788c86ae-71ee-4534-8c8d-363eb622bb8d.mp3" length="37423341" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
