@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 21 Jan 2026 11:34:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 11:33:32 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Vratký koaliční experiment přidělá vrásky i Babišovi. Německý prezident Steinmeier řekl, že USA pod Trumpem mění svět v „doupě lupičů“. Konečně to někdo řekl nahlas. Jakou roli přisuzují Trump a spol. Rakousku a co to udělá s jeho neutralitou? Strašidelné české penzijní fondy a na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">4f7ca659-a189-361e-b9ef-40ce8e799a9a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6b57cb24-71cf-4bed-967c-ccf051d90493.mp3" length="37243053" type="audio/mpeg"/>
-      <pubDate>Tue, 13 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Hádanky sněmovny. Rok prosperity? Vítejte v nejistých časech. Trump čelí revoltě na Kapitolu kvůli válce i centrální bance. Spor o FED. Proč se zajímat o zdraví Kadyrova. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/788c86ae-71ee-4534-8c8d-363eb622bb8d.mp3" length="37423341" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Kvetoucí byznys se zbraněmi a smutek Havlovců. Premiér a předseda Sněmovny se před spravedlností schovají za imunitu. Motoristická vůle k moci zatím není moc v zájmu státu. Davos. Chámeneí děsí, i svým pádem. Raději „projíst“, než platit poplatky. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">5192f4c5-b937-3f6b-a309-b48c93d15c96</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2cd0c638-ff24-4606-b318-6f5c2e794467.mp3" length="37401453" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
