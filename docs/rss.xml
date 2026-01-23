@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 22 Jan 2026 11:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 11:32:08 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Hádanky sněmovny. Rok prosperity? Vítejte v nejistých časech. Trump čelí revoltě na Kapitolu kvůli válce i centrální bance. Spor o FED. Proč se zajímat o zdraví Kadyrova. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">d0f04f6a-c9ac-30fb-aae8-68786b0ff844</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c66fd5c7-e191-4e49-b37b-b92a4ce7476d.mp3" length="37401453" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Místo ministrů máme Švejky. Česká politika je v bodě zlomu. Ohlušující ticho v západní debatě o Íránu. Orbán ukázal polské vládě prostředníček. Proč Putin mlčí k Trumpovým eskapádám? Moderuje Kamila Pešeková.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2cd0c638-ff24-4606-b318-6f5c2e794467.mp3" length="37401453" type="audio/mpeg"/>
       <pubDate>Wed, 21 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Blížící se hlasování o vydání Babiše a Okamury k trestnímu stíhání je plně v režii vládní koalice. Prezident Pavel překresluje politickou mapu. Proměny vztahu USA a Ruska v nové Trumpově éře. Poslední let Alexeje Navalného. Deportační válka pokračuje. USA se hádají o protestu v kostele. Spoření na důchod? Raději peníze „projíst“, než platit poplatky. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">8e5cf82c-7dc6-3324-9b5a-6bd10c6848da</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9cbe7834-a91f-470d-b2b3-69324dea9318.mp3" length="37458477" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
