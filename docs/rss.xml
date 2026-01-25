@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 24 Jan 2026 11:27:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 11:27:28 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Trump a Babiš jsou z jednoho těsta. Premiér a zmocněnec. Rusko hraje ve válce roli nacistického Německa. Několikero požehnání smlouvy s Mercosurem. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">f3940d80-9e30-3c68-a05a-9b66d445e76b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/b88c888b7a3eba186846e4a25a120311.mp3" length="37190592" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1550</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Moskva a Teherán mají ke spojenectví daleko; Nobelovka pro Trumpa; Trumpova touha po Grónsku postrádá jakýkoli smysl; Dopis, který prezident nikdy neměl napsat; Péče o seniory je velký úkol vlády Andreje Babiše i dalších vlád. Nezadržitelně stárneme; Digitálně sníh neodhrabeš</description>
-      <guid isPermaLink="false">d471f1ac-2e0e-36b9-938d-47320f969b24</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/518406d0-9706-4fba-82d1-34f977eb847e.mp3" length="36404397" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Jan 2026 12:23:00 +0000</pubDate>
-      <itunes:duration>1517</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Dovede Martin Kupka ODS zpět do Strakovky?; Hledáme marně premiéra do těžkých časů; Mzdy konečně rostou. Dočkají se letos české domácnosti větší ekonomické stabilizace?; Zásadní není, co bude s Grónskem, ale zda a jak to pak Evropa zvládne bez USA; Odvolací soud může pro Le Penovou znamenat její konec; Hrozba splněných snů</description>
@@ -78,6 +62,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8f656081-71a0-428e-8000-74fa17402447.mp3" length="37448109" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Hledání pravicové podstaty ODS, Vládní koalice kašle na utrpení Ukrajiny, Grónsko se už léta připravuje na obranu, Proč si maďarský opoziční lídr pohrává s Benešovými dekrety, Babišovo vzkříšení summitů Praha – Bratislava je poklonou Ficově autoritářství, Kanadský premiér Carney nepřichází se strategií pro malé státy</description>
+      <guid isPermaLink="false">89a002c3-a8c3-3f85-8419-dd21fb260045</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/81f0aec5-3eed-4ecc-aa46-09f3d248f12f.mp3" length="37389357" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
