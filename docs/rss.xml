@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 26 Jan 2026 11:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 11:33:41 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Dovede Martin Kupka ODS zpět do Strakovky?; Hledáme marně premiéra do těžkých časů; Mzdy konečně rostou. Dočkají se letos české domácnosti větší ekonomické stabilizace?; Zásadní není, co bude s Grónskem, ale zda a jak to pak Evropa zvládne bez USA; Odvolací soud může pro Le Penovou znamenat její konec; Hrozba splněných snů</description>
-      <guid isPermaLink="false">52b0e5a7-dbb9-3cdb-b5e3-0db9ed5a30b4</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/94f59e9c-2293-408a-9dc8-8b547ce43715.mp3" length="37034541" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Jan 2026 12:09:00 +0000</pubDate>
-      <itunes:duration>1543</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Zavření pracovního trhu z dílny SPD by výrazně poškodilo ekonomiku. Syrští Kurdové prohráli bitvu. Fico u Trumpa. Obchodní válka se vrací. Trhy krvácí a EU hledá odpověď. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/66ff8a9a-b94b-46a2-861f-f1e6ef680c11.mp3" length="36374445" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1516</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Kanadský premiér v Davosu naznačil cestu i pro země, jako je Česko. Další střelba v Minneapolis. Jednání o Ukrajině v Abú Zabí – imitace diplomacie, nebo konstruktivní rozhovory? Rozpočet 2026. Exploze výdajů, nebo ukázka reality? Otravná nemovitostní písnička a na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">f86fe6f0-3b03-370c-89eb-c9a4f53b81e9</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d72e4958-dc95-4e16-b07f-61f54cc15613.mp3" length="37362285" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
