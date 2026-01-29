@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 28 Jan 2026 11:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 11:44:19 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Zkraje volebního období není výchozí pozice Pirátů vůbec špatná. CSG vstoupí na burzu. Stane se Strnad králem zdejších miliardářů? Devadesátimiliardový úvěr pro Ukrajinu na základě „zesílené spolupráce“ je příslibem pro budoucnost. Nový ukrajinský ministr obrany proti korupci. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">f90d108a-45f2-325e-a335-51e61fef4e73</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/788c86ae-71ee-4534-8c8d-363eb622bb8d.mp3" length="37423341" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Kvetoucí byznys se zbraněmi a smutek Havlovců. Premiér a předseda Sněmovny se před spravedlností schovají za imunitu. Motoristická vůle k moci zatím není moc v zájmu státu. Davos. Chámeneí děsí, i svým pádem. Raději „projíst“, než platit poplatky. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3d76e087-cb4c-4651-b76d-bb9fc8779eae.mp3" length="37441197" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Proč vlastně chceme tak velký deficit? Případ Macinka. EU a Indie uzavřely „matku všech dohod“, Trumpovi natruc a navzdory. Zajímavé dění na predikčních trzích. Česká Platforma pro sociální bydlení slaví mezinárodní úspěchy, vláda se však snaží její práci podkopat. Souboj o Čeburaška. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">17c25266-0aab-3868-b036-696bc46161eb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ed7e7329-1aad-4b6a-954f-e7694c56c42c.mp3" length="37460781" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
