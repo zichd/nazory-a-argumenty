@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 30 Jan 2026 11:38:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 11:31:53 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>Blížící se hlasování o vydání Babiše a Okamury k trestnímu stíhání je plně v režii vládní koalice. Prezident Pavel překresluje politickou mapu. Proměny vztahu USA a Ruska v nové Trumpově éře. Poslední let Alexeje Navalného. Deportační válka pokračuje. USA se hádají o protestu v kostele. Spoření na důchod? Raději peníze „projíst“, než platit poplatky. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">8e5cf82c-7dc6-3324-9b5a-6bd10c6848da</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9cbe7834-a91f-470d-b2b3-69324dea9318.mp3" length="37458477" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Ruské rakety nad Grónskem? Zdrženlivost nadbytečná i na místě. Rusko velebí tvrdou carovu ruku více než dříve. Evropa se pokouší vypadat jednotně vůči Trumpovi, ale není přesvědčivá. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5cf1da38-bada-47a3-8eb2-fb2d1621e769.mp3" length="37463661" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jan 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Rubio, nebo Vance? Boj o budoucnost republikánů začal. Kam s Turkem? Kdo v Rusku ničí památku na svobodu. Mercosur testuje schopnost Evropy jednat. Nepít je v Česku stále nenormální. Ještě, že je tu aspoň „suchý únor“ A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">a9ad253f-7ab0-34ce-9d88-7c8494123349</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6dc06354-68a3-4430-9a67-fb35c9a40a5d.mp3" length="37351917" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Jan 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
