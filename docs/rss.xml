@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 01 Feb 2026 11:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 11:47:30 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Grónsko není po letošním Davoském fóru už tak vzdálené, Izrael už nechce záviset na Americe, Jistota, nebo osud? Portugalsko před volbou prezidenta, Babišův konkurs na prezidenta</description>
-      <guid isPermaLink="false">b7371878-e796-322d-88a7-d6174996c2ae</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/66ff8a9a-b94b-46a2-861f-f1e6ef680c11.mp3" length="36374445" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1516</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Kanadský premiér v Davosu naznačil cestu i pro země, jako je Česko. Další střelba v Minneapolis. Jednání o Ukrajině v Abú Zabí – imitace diplomacie, nebo konstruktivní rozhovory? Rozpočet 2026. Exploze výdajů, nebo ukázka reality? Otravná nemovitostní písnička a na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -70,6 +62,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c543011b-1198-4237-bb93-731fe9ada552.mp3" length="36710253" type="audio/mpeg"/>
       <pubDate>Sat, 31 Jan 2026 11:33:00 +0000</pubDate>
       <itunes:duration>1530</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Na demonstracích opravdu nejde jen o Turka. Jakou má naše opozice vlastně strategii? Francouzská krajní pravice se distancuje od Trumpa – chce vyhrát volby. Skutečnost a její obraz. Rakouští Svobodní spustili vlastenecké rádio, jeho hudba ale moc vlastenecká není. Byla střední Evropa skutečně unesena?</description>
+      <guid isPermaLink="false">fd046af2-58dd-36b1-b831-6a9269f914a8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2b69a16c-f997-4b93-b920-cb416f04cb34.mp3" length="37334061" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Feb 2026 11:34:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
