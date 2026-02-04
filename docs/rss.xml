@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 03 Feb 2026 11:47:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 11:45:34 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Kanadský premiér v Davosu naznačil cestu i pro země, jako je Česko. Další střelba v Minneapolis. Jednání o Ukrajině v Abú Zabí – imitace diplomacie, nebo konstruktivní rozhovory? Rozpočet 2026. Exploze výdajů, nebo ukázka reality? Otravná nemovitostní písnička a na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">f86fe6f0-3b03-370c-89eb-c9a4f53b81e9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d72e4958-dc95-4e16-b07f-61f54cc15613.mp3" length="37362285" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Přístup ústavních činitelů k zahraniční politice připomíná rozladěný orchestr. Čistka v čínské armádě. Mercosur Evropskému parlamentu navzdory. Fantom Benešových dekretů nad Dunajem a na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0420dded-6534-49d0-846d-898b0c338afe.mp3" length="37445805" type="audio/mpeg"/>
       <pubDate>Mon, 02 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Na jakou kartu Petr Pavel vsadí dva roky před dalšími prezidentskými volbami? O čem svědčí diplomatická krize mezi Itálií a Švýcarskem. Kdo se stane novým šéfem americké centrální banky. „Tohle Kuba nemůže zvládnout,“ říká Trump a hodlá zvýšit cla. Radost i rizika smlouvy o volném obchodu s Indií. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">2bdd3e15-481a-32b0-af35-cc031f9b382c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/09d1f6b8-3e8d-4985-86b3-c8f7e4e70f5b.mp3" length="37426221" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
