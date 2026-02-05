@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 04 Feb 2026 11:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 11:47:36 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Přístup ústavních činitelů k zahraniční politice připomíná rozladěný orchestr. Čistka v čínské armádě. Mercosur Evropskému parlamentu navzdory. Fantom Benešových dekretů nad Dunajem a na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">83d8e9da-dd4b-38ec-8fd6-f6b55499ac00</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3d76e087-cb4c-4651-b76d-bb9fc8779eae.mp3" length="37441197" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Proč vlastně chceme tak velký deficit? Případ Macinka. EU a Indie uzavřely „matku všech dohod“, Trumpovi natruc a navzdory. Zajímavé dění na predikčních trzích. Česká Platforma pro sociální bydlení slaví mezinárodní úspěchy, vláda se však snaží její práci podkopat. Souboj o Čeburaška. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/09d1f6b8-3e8d-4985-86b3-c8f7e4e70f5b.mp3" length="37426221" type="audio/mpeg"/>
       <pubDate>Tue, 03 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Zdravotnictví: Zrušte, co ještě funguje. Nové hnutí se zatím může pochlubit pouze jihočeským hejtmanem Kubou. Když Musk kupuje Muska. Škrty v rozvojové spolupráci: Úspora, nebo krok k méně stabilnímu světu? Trump se zase bojí příštích voleb. Připravuje si půdu na to, aby je rozporoval. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">b26ffd5c-37b9-3fdb-8811-77e46fd327ad</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f36f6063-ba10-47c9-abcc-07b7e585d05e.mp3" length="37382445" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
