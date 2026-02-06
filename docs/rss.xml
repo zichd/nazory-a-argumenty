@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 05 Feb 2026 11:47:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 11:46:42 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Proč vlastně chceme tak velký deficit? Případ Macinka. EU a Indie uzavřely „matku všech dohod“, Trumpovi natruc a navzdory. Zajímavé dění na predikčních trzích. Česká Platforma pro sociální bydlení slaví mezinárodní úspěchy, vláda se však snaží její práci podkopat. Souboj o Čeburaška. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">17c25266-0aab-3868-b036-696bc46161eb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ed7e7329-1aad-4b6a-954f-e7694c56c42c.mp3" length="37460781" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
       <description>Ve sporu šéfa Motoristů a prezidenta nejde jen o Turka. Vládou šířené ústavní napětí pomáhá prezidentovi, ne Babišovu kabinetu. Je zákon o rozpočtové odpovědnosti jen politická deklarace? Evropa se bez USA neobejde, vzkazuje Rutte. Česká Platforma pro sociální bydlení slaví mezinárodní úspěchy, vláda se však snaží její práci podkopat. Potřebuje Evropa novou obrannou alianci? Nové NATO? Moderuje Jan Fingerland.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f36f6063-ba10-47c9-abcc-07b7e585d05e.mp3" length="37382445" type="audio/mpeg"/>
       <pubDate>Wed, 04 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
+      <description>Trump se pokouší ovlivnit volby. Demonstranti versus voliči současné koalice. Jednání v Abú Zabí II. Když převládnou imperiální nálady. Trump, Epstein, Lajčák. Malé Slovensko ve víru velké politiky. Francie chce zakázat užívání sociálních sítí dětem pod 15 let. Co naše vláda? Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">e92a8558-41d1-3e32-9315-b306ff20e57d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f5f046bb-ce19-4e12-9e36-646ef9f70676.mp3" length="30892653" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1287</itunes:duration>
     </item>
   </channel>
 </rss>
