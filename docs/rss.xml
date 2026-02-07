@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 06 Feb 2026 11:46:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 11:32:54 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
-      <description>Ve sporu šéfa Motoristů a prezidenta nejde jen o Turka. Vládou šířené ústavní napětí pomáhá prezidentovi, ne Babišovu kabinetu. Je zákon o rozpočtové odpovědnosti jen politická deklarace? Evropa se bez USA neobejde, vzkazuje Rutte. Česká Platforma pro sociální bydlení slaví mezinárodní úspěchy, vláda se však snaží její práci podkopat. Potřebuje Evropa novou obrannou alianci? Nové NATO? Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">4ba4c75c-5f9a-38fc-abd6-f62f6268c587</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5cf1da38-bada-47a3-8eb2-fb2d1621e769.mp3" length="37463661" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Rubio, nebo Vance? Boj o budoucnost republikánů začal. Kam s Turkem? Kdo v Rusku ničí památku na svobodu. Mercosur testuje schopnost Evropy jednat. Nepít je v Česku stále nenormální. Ještě, že je tu aspoň „suchý únor“ A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -75,9 +67,17 @@
       <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
       <description>Trump se pokouší ovlivnit volby. Demonstranti versus voliči současné koalice. Jednání v Abú Zabí II. Když převládnou imperiální nálady. Trump, Epstein, Lajčák. Malé Slovensko ve víru velké politiky. Francie chce zakázat užívání sociálních sítí dětem pod 15 let. Co naše vláda? Moderuje Jan Fingerland.</description>
       <guid isPermaLink="false">e92a8558-41d1-3e32-9315-b306ff20e57d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f5f046bb-ce19-4e12-9e36-646ef9f70676.mp3" length="30892653" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/d4b28498dcfccc1e1e422c05c0376868.mp3" length="37329984" type="audio/mpeg"/>
       <pubDate>Thu, 05 Feb 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1287</itunes:duration>
+      <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Dostat Pavla z Hradu. I letos by politici za středoškolské přijímačky zasloužili defenestraci. Počet obětí sexuálního násilí v církvi je jen špička ledovce. Konec kurdského snu. Rusko v kostce, tam, kde to znám. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">4768e900-ad0d-308a-a56e-536263d65dd0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/163939b1-8de0-41cc-9bf0-a0e1b98d045e.mp3" length="37455021" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
