@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 07 Feb 2026 11:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 11:34:03 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Rubio, nebo Vance? Boj o budoucnost republikánů začal. Kam s Turkem? Kdo v Rusku ničí památku na svobodu. Mercosur testuje schopnost Evropy jednat. Nepít je v Česku stále nenormální. Ještě, že je tu aspoň „suchý únor“ A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">a9ad253f-7ab0-34ce-9d88-7c8494123349</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6dc06354-68a3-4430-9a67-fb35c9a40a5d.mp3" length="37351917" type="audio/mpeg"/>
-      <pubDate>Fri, 30 Jan 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>Když jsou na obou stranách stolu špioni. Může Grolich zachránit lidovce? Stanjura předstíral, Schillerová už ani nepředstírá. Evropská komise nabádá k boji proti ilegální migraci i k otevření náruče kvalifikovaným migrantům. Nepít je v Česku stále nenormální. Ještě, že je tu aspoň „suchý únor“. Padesát let deníku La Repubblica ve stínu nejistoty</description>
-      <guid isPermaLink="false">67acc407-b723-3856-a873-1192368149aa</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c543011b-1198-4237-bb93-731fe9ada552.mp3" length="36710253" type="audio/mpeg"/>
-      <pubDate>Sat, 31 Jan 2026 11:33:00 +0000</pubDate>
-      <itunes:duration>1530</itunes:duration>
-    </item>
     <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Na demonstracích opravdu nejde jen o Turka. Jakou má naše opozice vlastně strategii? Francouzská krajní pravice se distancuje od Trumpa – chce vyhrát volby. Skutečnost a její obraz. Rakouští Svobodní spustili vlastenecké rádio, jeho hudba ale moc vlastenecká není. Byla střední Evropa skutečně unesena?</description>
@@ -78,6 +62,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/163939b1-8de0-41cc-9bf0-a0e1b98d045e.mp3" length="37455021" type="audio/mpeg"/>
       <pubDate>Fri, 06 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
+      <description>EU musí zdokonalit svůj vnitřní trh. A jít ještě dál. Abú Zabí: opatrný optimismus. Ochranu vlastnictví Babišova vláda klidně prolomí, má pro ni menší hodnotu než svoboda slova. Trollení v české politice si nemůžeme dovolit. Zakavkazsko mění pány. Rusy nahrazují Američané. Aby se dětem ve Francii vedlo dobře</description>
+      <guid isPermaLink="false">37c42e2d-15aa-393f-87d7-d626a7776ff3</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9d8d1bef-3274-4682-a5d3-7504b372aec3.mp3" length="35876781" type="audio/mpeg"/>
+      <pubDate>Sat, 07 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1495</itunes:duration>
     </item>
   </channel>
 </rss>
