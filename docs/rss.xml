@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 12 Feb 2026 11:52:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 11:44:10 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
-      <description>Trump se pokouší ovlivnit volby. Demonstranti versus voliči současné koalice. Jednání v Abú Zabí II. Když převládnou imperiální nálady. Trump, Epstein, Lajčák. Malé Slovensko ve víru velké politiky. Francie chce zakázat užívání sociálních sítí dětem pod 15 let. Co naše vláda? Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">e92a8558-41d1-3e32-9315-b306ff20e57d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/d4b28498dcfccc1e1e422c05c0376868.mp3" length="37329984" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Feb 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Dostat Pavla z Hradu. I letos by politici za středoškolské přijímačky zasloužili defenestraci. Počet obětí sexuálního násilí v církvi je jen špička ledovce. Konec kurdského snu. Rusko v kostce, tam, kde to znám. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -70,6 +62,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0438e623-0d9a-4f84-99e0-dbc6aeff8bd7.mp3" length="37285677" type="audio/mpeg"/>
       <pubDate>Wed, 11 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1554</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Česko se drží prázdných spojeneckých skořápek, jiná spojenectví mu unikají. Babiš ve Vídni. Řízková diplomacie slavila úspěch. Riskujeme ostudu v NATO, pokud na obranu nedáme ani 2 procenta HDP. Mnichovská bezpečnostní sešlost. Konec váhavosti. Přichází čas rozhodnutí. Klempířovo kulturně-politické prázdno. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">e0a1bbce-60f7-359c-8e10-8d4ce3244e19</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9829a894-a3ed-47e6-88e6-091eb3dfc33b.mp3" length="37450413" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
