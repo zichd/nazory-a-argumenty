@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 13 Feb 2026 11:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 11:33:52 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Dostat Pavla z Hradu. I letos by politici za středoškolské přijímačky zasloužili defenestraci. Počet obětí sexuálního násilí v církvi je jen špička ledovce. Konec kurdského snu. Rusko v kostce, tam, kde to znám. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">4768e900-ad0d-308a-a56e-536263d65dd0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/163939b1-8de0-41cc-9bf0-a0e1b98d045e.mp3" length="37455021" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Feb 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
       <description>EU musí zdokonalit svůj vnitřní trh. A jít ještě dál. Abú Zabí: opatrný optimismus. Ochranu vlastnictví Babišova vláda klidně prolomí, má pro ni menší hodnotu než svoboda slova. Trollení v české politice si nemůžeme dovolit. Zakavkazsko mění pány. Rusy nahrazují Američané. Aby se dětem ve Francii vedlo dobře</description>
@@ -70,6 +62,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9829a894-a3ed-47e6-88e6-091eb3dfc33b.mp3" length="37450413" type="audio/mpeg"/>
       <pubDate>Thu, 12 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Ústavní soud se nebojí paragrafu o neoprávněné činnosti pro cizí moc. Podvojný ministr v akci. Další Kaddáfí je mrtev. Pookřeje Libye? Výsadek ruských protiputinovců v Evropě podpořil Ukrajinu. Raději Slavkov než Visegrád. K Rakousku bychom se měli snažit být co nejblíž. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">aa735820-fde5-3cbb-aafe-37d1ee039a43</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/839f019d-a7cd-492a-a337-79506f989977.mp3" length="37221165" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
