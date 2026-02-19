@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 18 Feb 2026 11:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 11:50:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Aby měla opozice proti Babišovi šanci, musí se změnit. Japonsko hlasovalo pro ráznost. Když převládnou imperiální nálady. Olympiáda v Miláně a Cortině – sport, politika a bezpečnost. Snahy zakázat dětem přístup na sociální sítě se šíří. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">d469ea8d-1238-37dc-a8bd-ccf32af37429</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1081e242-fa5f-494b-a1e4-50fc01848062.mp3" length="37400877" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Feb 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Patricií Polanskou</title>
       <description>Pro politiky není každá rada dobrá. Babiš táhne na Senát, opozice ho potřebuje ubránit. AI sbližuje byznys a stát. Jestli je to dobře, je otázka. Matt Field: Během své kariéry diplomata si nepamatuji tak dlouhé období plné otřesů a výzev. Ruská stopa v Epsteinově skandálu. Moderuje Patricie Polanská.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d20d30f8-0b06-4b9c-979c-4a42c9517902.mp3" length="37484397" type="audio/mpeg"/>
       <pubDate>Tue, 17 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Vládní většina ve sněmovně ochrání Babiše s Okamurou před trestním stíháním, Koho nahradí AI, Zelený kapitalismus na ministerstvu ochrany průmyslu, Péter Magyar budí velká očekávání. Je otázkou, jestli je může naplnit</description>
+      <guid isPermaLink="false">eb9f19e8-4686-374c-8385-2fe7a38ef5fe</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3b42f10f-4608-44c8-b43b-a105e26d36fc.mp3" length="37191789" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1550</itunes:duration>
     </item>
   </channel>
 </rss>
