@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 22 Feb 2026 11:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 11:51:09 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Dnes není čas na provinční vlastenčení; Ještě jednou, a dost; Geoekonomika aneb když se suroviny stávají mocenskou zbraní; Putin a Chámenejí, učenliví studenti kontrarevoluce; Nekecáme, makáme? Ani náhodou. Babiš zatím jen hasí problémy svých koaličních partnerů; Grolich chce skomírajícím lidovcům naordinovat šokovou terapii</description>
-      <guid isPermaLink="false">285e63d9-6e25-3225-84dd-e887ca72a6cc</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e8224b64-8d1d-4c8c-a693-0d4f0f184753.mp3" length="37385901" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Feb 2026 12:20:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
       <description>Ani Babišova vláda nezruší nemravnou daňovou výjimku pro tiché víno, Na Epsteina zapomeňte a kupujte akcie, zní z Bílého domu, Kdy začnou protesty proti AI, Plesové generace, Evropa si musí uvědomit, že je silná. A že musí být silnější</description>
@@ -70,6 +62,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a02b4e1a-8dec-410d-88b2-a730ae886fb2.mp3" length="37406061" type="audio/mpeg"/>
       <pubDate>Sat, 21 Feb 2026 12:06:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Martin Kuba jede. Kam až dojede?; Co mají Donald Trump a Andrej Babiš společného?; Solidární čeští paralympionici; Unesené Alávitky zůstávají mimo zorné pole; Německá AfD má skandály jako všechny ostatní strany, jejím voličům to nevadí; Medinskyj se vrací: co to znamená pro mírové rozhovory</description>
+      <guid isPermaLink="false">d03a83f2-f0cc-3a5d-8bbe-950922ce5af3</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4e25ea5d-672c-4462-a97e-90e792573452.mp3" length="36045549" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Feb 2026 12:20:00 +0000</pubDate>
+      <itunes:duration>1502</itunes:duration>
     </item>
   </channel>
 </rss>
