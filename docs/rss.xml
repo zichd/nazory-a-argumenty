@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 24 Feb 2026 11:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 11:50:29 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -70,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e2d22c27-b997-4822-beec-220dccb76ea0.mp3" length="37442925" type="audio/mpeg"/>
       <pubDate>Mon, 23 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Motoristé mají čtvrtého ministra. Pomůže jim vyniknout, nebo se znemožnit? Válková hájí Babiše tak urputně, že bez mrknutí oka zpochybní celou českou soudní soustavu. Koho zvolí Paříž? Podivná zdvojená příchylnost. A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">bd193cff-61e9-38f3-9e3b-ec1b81197aae</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c62f1e54-9cb3-4c69-9874-599ca6e94fa6.mp3" length="37409517" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
