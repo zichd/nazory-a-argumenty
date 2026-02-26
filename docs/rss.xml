@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 25 Feb 2026 11:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 11:51:42 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Zásadní motoristická otočka, Změna jednacího řádu Sněmovny pomůže, sama o sobě ale nestačí, Mnichov nepřinesl obrat ve vztazích mezi USA a Evropou, ale kýžené uklidnění, Neposlouchejte předem</description>
-      <guid isPermaLink="false">9397f950-8e46-33d3-8116-b6b7beb37f7d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d20d30f8-0b06-4b9c-979c-4a42c9517902.mp3" length="37484397" type="audio/mpeg"/>
-      <pubDate>Tue, 17 Feb 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Vládní většina ve sněmovně ochrání Babiše s Okamurou před trestním stíháním, Koho nahradí AI, Zelený kapitalismus na ministerstvu ochrany průmyslu, Péter Magyar budí velká očekávání. Je otázkou, jestli je může naplnit</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c62f1e54-9cb3-4c69-9874-599ca6e94fa6.mp3" length="37409517" type="audio/mpeg"/>
       <pubDate>Tue, 24 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Proč odvolali Kabátka. Blíží se Řehkův konec ve vedení armády. EU by měla rychle a dobře odpovědět na ukrajinskou přihlášku. Trumpova zpráva o stavu Unie. Thielovo Sauronovo oko. A na konec glosa Ondřeje Neffa. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">ad4f7ea7-8a9c-37db-8990-346c2616c406</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5faf1179-173c-4926-956c-ec58ccf2841c.mp3" length="37466541" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
