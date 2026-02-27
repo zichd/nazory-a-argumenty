@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 26 Feb 2026 11:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 11:44:47 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Vládní většina ve sněmovně ochrání Babiše s Okamurou před trestním stíháním, Koho nahradí AI, Zelený kapitalismus na ministerstvu ochrany průmyslu, Péter Magyar budí velká očekávání. Je otázkou, jestli je může naplnit</description>
-      <guid isPermaLink="false">eb9f19e8-4686-374c-8385-2fe7a38ef5fe</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3b42f10f-4608-44c8-b43b-a105e26d36fc.mp3" length="37191789" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Feb 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1550</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>V čem se mýlil Macinka na Mnichovské bezpečnostní konferenci. Andrej Babiš si otestoval sílu svých protihráčů. Zrychlení odpisů na plakátech moc nefunguje. Nová fakta ke smrti Navalného. Případ Quentina Deranqua. Mnoho cest k evropské konkurenceschopnosti. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">b19e8958-2d08-32ef-8a07-f250d87e0418</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7be57bff-1c9f-454d-aa48-684f8002e293.mp3" length="37457325" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Feb 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Německá AfD má skandály jako všechny ostatní strany, jejím voličům to nevadí, Evropa je ve válce už teď. Jen si to nechce připustit, Rusové nemívají vodu ani teplo i bez války, Proč Babiš nepošle k vodě Macinku ani Okamuru, KoMaRo ČePo 2026</description>
@@ -77,6 +61,14 @@
       <guid isPermaLink="false">ad4f7ea7-8a9c-37db-8990-346c2616c406</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5faf1179-173c-4926-956c-ec58ccf2841c.mp3" length="37466541" type="audio/mpeg"/>
       <pubDate>Wed, 25 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Vláda je kompletní. Kdo ale vlastně vládne? Začíná neomezená vláda hnutí ANO. Češi a čtyři roky války na Ukrajině. Amerika a Írán, bouře před tichem? Návrat zdravého rozumu v automobilovém průmyslu? Zelenského odvážné snění o míru. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">ac509a90-9b8b-3cf3-85fb-361aad35e740</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f2ac488a-91e9-46a3-b608-942e149c1833.mp3" length="37460781" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
