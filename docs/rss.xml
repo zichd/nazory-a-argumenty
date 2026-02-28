@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 27 Feb 2026 11:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 11:29:54 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -70,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f2ac488a-91e9-46a3-b608-942e149c1833.mp3" length="37460781" type="audio/mpeg"/>
       <pubDate>Thu, 26 Feb 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Evropa v kleštích. Chorvati chtěli nedodáním ruské ropy Slovensku a Maďarsku potěšit USA. Princ Andrew: nehoda, nebo náhoda? Faux pas amerických velvyslanců ve státech Evropy. Po 70 letech od odhalení Stalinových zločinů rostou v Rusku jeho nové sochy. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">9df61a3f-aff8-39fd-a107-59224b7a11f7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c6d1d93d-6a96-4f04-a6ab-fb974f76a7b0.mp3" length="37358253" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Feb 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
