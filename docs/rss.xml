@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 01 Mar 2026 11:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 11:40:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Trumpova cla dostala ránu. Uvidíme, jestli opravdu chce být „hodný chlapec“; Nemilé zprávy pro Donalda Trumpa; Propojení EET s paušální daní je chyba; Válku slovenského premiéra Fica s generálním prokurátorem Žilinkou odnese právní stát; Má smysl, aby Minář svolal na Letnou demonstraci? Jistě. Občan má povinnost hájit demokracii; Gordický uzel současné politiky</description>
-      <guid isPermaLink="false">707ec689-e4ee-3289-85cf-20da9141175d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a02b4e1a-8dec-410d-88b2-a730ae886fb2.mp3" length="37406061" type="audio/mpeg"/>
-      <pubDate>Sat, 21 Feb 2026 12:06:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
       <description>Martin Kuba jede. Kam až dojede?; Co mají Donald Trump a Andrej Babiš společného?; Solidární čeští paralympionici; Unesené Alávitky zůstávají mimo zorné pole; Německá AfD má skandály jako všechny ostatní strany, jejím voličům to nevadí; Medinskyj se vrací: co to znamená pro mírové rozhovory</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b92e2167-1eff-4f0d-8ef3-3866d2330bc5.mp3" length="34656813" type="audio/mpeg"/>
       <pubDate>Sat, 28 Feb 2026 12:21:00 +0000</pubDate>
       <itunes:duration>1444</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Babiš mezi Trumpem, svými sliby a SPD; Evropská obrana se rodí v bolestech, úspěšný výsledek není jistý; Narkomafie už není, co bývala. Je daleko horší; Faux pas amerických velvyslanců ve státech Evropy; V mezinárodní soutěži bodovala i kampaň proti obtěžování v MHD; Tajemství spisovatele Arnošta Lustiga</description>
+      <guid isPermaLink="false">6d29f59b-663f-3af9-ac22-289b35125c5c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/db169498-5454-47af-bff2-bd7a0a39f083.mp3" length="37369773" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Mar 2026 12:09:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
