@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 02 Mar 2026 11:40:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 11:45:47 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Martin Kuba jede. Kam až dojede?; Co mají Donald Trump a Andrej Babiš společného?; Solidární čeští paralympionici; Unesené Alávitky zůstávají mimo zorné pole; Německá AfD má skandály jako všechny ostatní strany, jejím voličům to nevadí; Medinskyj se vrací: co to znamená pro mírové rozhovory</description>
-      <guid isPermaLink="false">d03a83f2-f0cc-3a5d-8bbe-950922ce5af3</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4e25ea5d-672c-4462-a97e-90e792573452.mp3" length="36045549" type="audio/mpeg"/>
-      <pubDate>Sun, 22 Feb 2026 12:20:00 +0000</pubDate>
-      <itunes:duration>1502</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Proč by měli ministři Babišovy vlády jezdit spíš do Varšavy než do Bratislavy. Válka mezi Slovenskem, Maďarskem a Ukrajinou. Trump narazil u Nejvyššího soudu. Pozdě, ale přece. Boj o české porodnictví nekončí. Kancléř Merz přepnul do merkelovsky uhlazeného režimu.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/db169498-5454-47af-bff2-bd7a0a39f083.mp3" length="37369773" type="audio/mpeg"/>
       <pubDate>Sun, 01 Mar 2026 12:09:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Rusko může vývoji v Íránu jen bezmocně přihlížet a moralizovat. Cenu ropy ovlivní pojistky a zájem Číny. Dlouhodobé uzavření plavební cesty otřese trhy. Ministr Plaga odložil velkou změnu ve vzdělávání, zatím to není chyba. Stane se Maďarsko po příštích volbách evropštějším? A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">ed48a0d7-bd8b-3eb2-a4a6-c5f042d6a206</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5a43a806-c4a5-4a4e-b58c-7161913d20a8.mp3" length="37173357" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1549</itunes:duration>
     </item>
   </channel>
 </rss>
