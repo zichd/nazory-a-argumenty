@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 08 Mar 2026 11:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 11:46:50 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>Válka mezi Spojenými státy a Íránem začala; Zahřívací kolo boje o Hrad začalo. Prezident by měl jasně říct, jestli do něj půjde; Docházejí Kremlu vojáci?; Donald chce tančit</description>
-      <guid isPermaLink="false">40f42eca-fcf5-3be4-a11b-9f6790dafacd</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b92e2167-1eff-4f0d-8ef3-3866d2330bc5.mp3" length="34656813" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Feb 2026 12:21:00 +0000</pubDate>
-      <itunes:duration>1444</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
       <description>Babiš mezi Trumpem, svými sliby a SPD; Evropská obrana se rodí v bolestech, úspěšný výsledek není jistý; Narkomafie už není, co bývala. Je daleko horší; Faux pas amerických velvyslanců ve státech Evropy; V mezinárodní soutěži bodovala i kampaň proti obtěžování v MHD; Tajemství spisovatele Arnošta Lustiga</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0aa57153-b1b1-4bdf-b673-9d9148f237c0.mp3" length="36495405" type="audio/mpeg"/>
       <pubDate>Sat, 07 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1521</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Náš postoj k americko-izraelskému útoku na Irán je dost zmatený, Dvourychlostní Evropa se rozjíždí. Zatím bez Česka, Když chybí velkorysost – I arogantnímu Macinkovi se může někdy zatleskat, Proč nebude mít zachránce Vídně ve městě sochu, Za leskem velkého Louvru</description>
+      <guid isPermaLink="false">7adc03e6-804d-391c-bb4b-727d8139956e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e69169ba-e474-46f7-8f87-ad745aef4eb3.mp3" length="37321965" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
