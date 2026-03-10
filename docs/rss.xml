@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 09 Mar 2026 11:46:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 11:45:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Babiš mezi Trumpem, svými sliby a SPD; Evropská obrana se rodí v bolestech, úspěšný výsledek není jistý; Narkomafie už není, co bývala. Je daleko horší; Faux pas amerických velvyslanců ve státech Evropy; V mezinárodní soutěži bodovala i kampaň proti obtěžování v MHD; Tajemství spisovatele Arnošta Lustiga</description>
-      <guid isPermaLink="false">6d29f59b-663f-3af9-ac22-289b35125c5c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/db169498-5454-47af-bff2-bd7a0a39f083.mp3" length="37369773" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Mar 2026 12:09:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Rusko může vývoji v Íránu jen bezmocně přihlížet a moralizovat. Cenu ropy ovlivní pojistky a zájem Číny. Dlouhodobé uzavření plavební cesty otřese trhy. Ministr Plaga odložil velkou změnu ve vzdělávání, zatím to není chyba. Stane se Maďarsko po příštích volbách evropštějším? A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e69169ba-e474-46f7-8f87-ad745aef4eb3.mp3" length="37321965" type="audio/mpeg"/>
       <pubDate>Sun, 08 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
+      <description>S výdaji na obranu zažije Česko ještě řadu nepříjemností. Ukrajinsko-slovensko-maďarský konflikt pokračuje. Povinnost zveřejňování platů ve firmách. Americký rytíř s obrysy monstra. Maďarské volby ve stínu tanků. A na konec glosa Ondřeje Neffa. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">b3106dc4-c811-38c2-8b57-ff03df5db777</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/469ab0e4-50fb-40fd-8d9a-3a2d795d7b90.mp3" length="37479213" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
