@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 12 Mar 2026 11:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 11:43:59 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
-      <description>Prezident ve Sněmovně varoval před stagnací výdajů na obranu. Projev prezidenta ve Sněmovně: doprovodné jevy. Zase se střílí v Perském zálivu. Co k tomu řeknou u benzínové pumpy? A co na to ruská ropa? Trump útokem na Írán ztrácí skalní spojence. Berlinale zmítané politikou (a filmem). Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">ddc4a978-85f3-3c9d-922d-c2e065976afb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/dcd39c4066d0800fd96b03f94a8c3916.mp3" length="37447488" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>USA versus Írán: Evropa nehraje žádnou roli. Dopad útoku na Írán na válku na Ukrajině. Petr Pavel, rok třetí, rok zlomový. Evropská unie na maďarském rozcestí. Přežívání není kulturní politika. Moderuje Kamila Pešeková.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9fb17976-e380-4c23-94aa-a73639cdc354.mp3" length="37156077" type="audio/mpeg"/>
       <pubDate>Wed, 11 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1548</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Chovat se v NATO jako černý pasažér se České republice vymstí. Poslankyně Šichtařová skončila. Podle Babiše jsou mobily „strašlivě škodlivé pro děti“, ale zakazovat se nebudou. Stínová vláda ODS není recept na úspěch. Největší vývozci zbraní. Trumpova venezuelská banka aneb jak revolucionáři „svrhli“ revoluci. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">d9385886-8a9e-3a1d-891d-6321f615716a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0fae63bf-b66f-4197-abff-7b8126d77224.mp3" length="37479213" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
