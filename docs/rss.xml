@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 13 Mar 2026 11:43:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 11:35:44 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>USA versus Írán: Evropa nehraje žádnou roli. Dopad útoku na Írán na válku na Ukrajině. Petr Pavel, rok třetí, rok zlomový. Evropská unie na maďarském rozcestí. Přežívání není kulturní politika. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">9598c7e8-487c-307e-841b-5823850bac27</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a940f0fc-02ca-4a4e-83f4-6154a2f4b05c.mp3" length="37459629" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Kamilou Pešekovou</title>
       <description>Imunní Babiš. Princové Persie – Chámeneí a Pahlaví. Proč Írán útočí na země, které na něj přímo neútočí? Jak rozsáhlý bude bojkot zahájení paralympiády. Gorbačov? Ne, raději Stalina. A na konec glosa Evy Turnové. Moderuje Kamila Pešeková.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0fae63bf-b66f-4197-abff-7b8126d77224.mp3" length="37479213" type="audio/mpeg"/>
       <pubDate>Thu, 12 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
+      <description>Jádro opět v kurzu? Ano, ale… Horko v Hormuzském průlivu. Měsíc do voleb v Maďarsku. Nevolnictví bylo v Rusku zrušeno před 165 lety, mentalita přežívá. A na konec glosa Evy Turnové. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">a782bc67-90c0-3c34-98ae-b163421e4944</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/06cd862f-bcd3-438d-8a56-ee1e56741656.mp3" length="37461933" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
