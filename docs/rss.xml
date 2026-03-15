@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 14 Mar 2026 11:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 11:36:07 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Kamilou Pešekovou</title>
-      <description>Imunní Babiš. Princové Persie – Chámeneí a Pahlaví. Proč Írán útočí na země, které na něj přímo neútočí? Jak rozsáhlý bude bojkot zahájení paralympiády. Gorbačov? Ne, raději Stalina. A na konec glosa Evy Turnové. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">f7028f69-bbf0-325a-94c3-f4d77f0e7ea3</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/df4918db-0647-4e12-a25c-5242ca6f2d4a.mp3" length="37469421" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
       <description>Válka na Blízkém východě by mohla prověřit nový migrační pakt Evropské unie, Memento - aneb stát nedokázal pomoci tisícům Čechům v Perském zálivu, Donald Trump se sice zbavil ministryně zodpovědné za deportace, ale ne jejích postupů</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/06cd862f-bcd3-438d-8a56-ee1e56741656.mp3" length="37461933" type="audio/mpeg"/>
       <pubDate>Fri, 13 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
+      <description>Čína si nad Íránem myje ruce a drbe hlavu; Orbán a Fico blokují 20. sankční balík EU. Bojují proti Ukrajině; O čem vypovídá kauza Václava Moravce; My Voice, My Choice udělala další krok v oblasti reprodukčních práv, v Česku posiluje hlas fundamentalistů</description>
+      <guid isPermaLink="false">4c175d91-6d23-3b1b-8033-50c3e97d2f93</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0b683165-4380-45f2-aaae-cc0628260851.mp3" length="36536877" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Mar 2026 12:05:00 +0000</pubDate>
+      <itunes:duration>1522</itunes:duration>
     </item>
   </channel>
 </rss>
