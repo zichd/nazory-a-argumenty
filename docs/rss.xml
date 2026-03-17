@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 16 Mar 2026 11:55:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 11:52:45 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Náš postoj k americko-izraelskému útoku na Irán je dost zmatený, Dvourychlostní Evropa se rozjíždí. Zatím bez Česka, Když chybí velkorysost – I arogantnímu Macinkovi se může někdy zatleskat, Proč nebude mít zachránce Vídně ve městě sochu, Za leskem velkého Louvru</description>
-      <guid isPermaLink="false">7adc03e6-804d-391c-bb4b-727d8139956e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e69169ba-e474-46f7-8f87-ad745aef4eb3.mp3" length="37321965" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
       <description>S výdaji na obranu zažije Česko ještě řadu nepříjemností. Ukrajinsko-slovensko-maďarský konflikt pokračuje. Povinnost zveřejňování platů ve firmách. Americký rytíř s obrysy monstra. Maďarské volby ve stínu tanků. A na konec glosa Ondřeje Neffa. Moderuje Jan Fingerland.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/77cfcc38-1311-4b07-b239-677579bdfc68.mp3" length="37259181" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2026 12:39:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
+      <description>Připravovaný zákon o neziskových organizacích je ještě horší než na Slovensku. Za tajemstvím vládního rozpočtování. Jak a kdy ukončí Trump válku v Íránu. Polský prezident odmítl financovat obranu z gigantické evropské půjčky. A na konec glosa Ondřeje Neffa. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">39c0a77d-aece-3a02-9ead-2a80c6548a21</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bfa37e4d-76eb-4819-9a99-218259059ff3.mp3" length="37304109" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1554</itunes:duration>
     </item>
   </channel>
 </rss>
