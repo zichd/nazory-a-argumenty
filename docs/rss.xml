@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 18 Mar 2026 11:55:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 11:48:10 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Patricií Polanskou</title>
-      <description>ODS soupeří se Starosty o místo v čele opozičního pelotonu. Kdo je Modžtaba Chámeneí? Bádensko-Württembersko zezelenalo. Jaká je role intelektuála v roce 2026? A na konec glosa Ivy Pekárkové. Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">cd8be585-41fa-3187-9931-fef75a7d8726</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/852e82c6-a6b9-4020-83b5-0406fb71eed8.mp3" length="37074861" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1545</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Poprask kolem cen benzínu. Petr Pavel si i po třech letech na Hradě udržuje velkou šanci na znovuzvolení. Politická koule AfD se stává lavinou už i na západě Německa. Dilema chilského prezidenta: aby se vlk nažral a koza zůstala celá. A na konec glosa Ondřeje Kepky. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c52ce1ce-0d01-4644-869a-1f9279972030.mp3" length="37487277" type="audio/mpeg"/>
       <pubDate>Tue, 17 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Prezident Pavel opět probíral s premiérem Babišem nízké výdaje na obranu. Ropovodem Družba a nikdy jinak. Kultura jako Popelka? Proč si autoritáři tak často brousí zuby na umělce, umělkyně a kulturní instituce. Kubánští komunisté jsou připraveni. Na kapitalismus. Jaderný obrat Ursuly von der Leyenové. A na konec glosa Ivy Pekárkové. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">af19c146-cfab-3e96-931d-7d2fd32ba112</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fad8f129-261b-4a1d-955d-13bfe33e0dbf.mp3" length="37449837" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
