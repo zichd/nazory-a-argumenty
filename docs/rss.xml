@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 19 Mar 2026 11:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 11:43:57 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Poprask kolem cen benzínu. Petr Pavel si i po třech letech na Hradě udržuje velkou šanci na znovuzvolení. Politická koule AfD se stává lavinou už i na západě Německa. Dilema chilského prezidenta: aby se vlk nažral a koza zůstala celá. A na konec glosa Ondřeje Kepky. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">84d62971-e328-3950-bc21-a758a773a34f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9fb17976-e380-4c23-94aa-a73639cdc354.mp3" length="37156077" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1548</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Chovat se v NATO jako černý pasažér se České republice vymstí. Poslankyně Šichtařová skončila. Podle Babiše jsou mobily „strašlivě škodlivé pro děti“, ale zakazovat se nebudou. Stínová vláda ODS není recept na úspěch. Největší vývozci zbraní. Trumpova venezuelská banka aneb jak revolucionáři „svrhli“ revoluci. Moderuje Kamila Pešeková.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fad8f129-261b-4a1d-955d-13bfe33e0dbf.mp3" length="37449837" type="audio/mpeg"/>
       <pubDate>Wed, 18 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
+      <description>Trumpovy hrozby vystoupením USA z NATO nelze brát na lehkou váhu. Jak Moskva vydělá na íránské válce. Povinnost ozvat se, dokud je čas. Soudci proti politikům: Itálie rozhoduje o justici v referendu. Co je digitální totalita</description>
+      <guid isPermaLink="false">78acb07b-0b06-36db-a946-eb8baa783786</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cc22df43-1958-41ba-af1d-16f767996a0f.mp3" length="37482093" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Mar 2026 11:34:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
