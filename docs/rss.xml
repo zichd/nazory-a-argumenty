@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 20 Mar 2026 11:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 11:33:49 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>Chovat se v NATO jako černý pasažér se České republice vymstí. Poslankyně Šichtařová skončila. Podle Babiše jsou mobily „strašlivě škodlivé pro děti“, ale zakazovat se nebudou. Stínová vláda ODS není recept na úspěch. Největší vývozci zbraní. Trumpova venezuelská banka aneb jak revolucionáři „svrhli“ revoluci. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">d9385886-8a9e-3a1d-891d-6321f615716a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0fae63bf-b66f-4197-abff-7b8126d77224.mp3" length="37479213" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
       <description>Jádro opět v kurzu? Ano, ale… Horko v Hormuzském průlivu. Měsíc do voleb v Maďarsku. Nevolnictví bylo v Rusku zrušeno před 165 lety, mentalita přežívá. A na konec glosa Evy Turnové. Moderuje Ondřej Konrád.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cc22df43-1958-41ba-af1d-16f767996a0f.mp3" length="37482093" type="audio/mpeg"/>
       <pubDate>Thu, 19 Mar 2026 11:34:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Premiérovo satori, nebo změna korektního vztahu? Když je svět na houpačce, musí být občanská společnost na nohou. Lídrům zemí EU se nepovedlo přesvědčit Orbána, aby umožnil finanční pomoc Ukrajině. Bojíte se o ropu? Bojte se o vodu. Putin že je válečný zločinec? Šup s tebou do blázince! Abychom to nepřepískli</description>
+      <guid isPermaLink="false">047c7ec4-8d7b-3a75-bd8f-42ae40971c75</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/87f9f139-86ea-4824-a467-772044cd54c7.mp3" length="37432557" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Mar 2026 11:34:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
