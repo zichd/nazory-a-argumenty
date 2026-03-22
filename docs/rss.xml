@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 21 Mar 2026 11:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 11:34:48 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
-      <description>Jádro opět v kurzu? Ano, ale… Horko v Hormuzském průlivu. Měsíc do voleb v Maďarsku. Nevolnictví bylo v Rusku zrušeno před 165 lety, mentalita přežívá. A na konec glosa Evy Turnové. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">a782bc67-90c0-3c34-98ae-b163421e4944</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/06cd862f-bcd3-438d-8a56-ee1e56741656.mp3" length="37461933" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
       <description>Čína si nad Íránem myje ruce a drbe hlavu; Orbán a Fico blokují 20. sankční balík EU. Bojují proti Ukrajině; O čem vypovídá kauza Václava Moravce; My Voice, My Choice udělala další krok v oblasti reprodukčních práv, v Česku posiluje hlas fundamentalistů</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/87f9f139-86ea-4824-a467-772044cd54c7.mp3" length="37432557" type="audio/mpeg"/>
       <pubDate>Fri, 20 Mar 2026 11:34:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
+      <description>Přežije Netanjahu svůj úspěch? Babiš už ohlásil vítězství nad emisními povolenkami. Má k němu ale hodně daleko. Česko by mělo být v čele podpory 28. režimu. Podivné tance žalobců nad bitcoinovou kauzou. Rozpočet až příliš vypovídající o tom, kam Česko směřuje: k setrvalým schodkům a horším službám státu. Kubánští komunisté jsou připraveni. Na kapitalismus</description>
+      <guid isPermaLink="false">ed4015b0-51d5-3b90-9b12-5f3a80c08d3e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aa132f18-ea16-444e-b92e-bbeb3c880c32.mp3" length="37385325" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
