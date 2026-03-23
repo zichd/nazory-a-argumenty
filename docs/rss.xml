@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 22 Mar 2026 11:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 11:52:14 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>Čína si nad Íránem myje ruce a drbe hlavu; Orbán a Fico blokují 20. sankční balík EU. Bojují proti Ukrajině; O čem vypovídá kauza Václava Moravce; My Voice, My Choice udělala další krok v oblasti reprodukčních práv, v Česku posiluje hlas fundamentalistů</description>
-      <guid isPermaLink="false">4c175d91-6d23-3b1b-8033-50c3e97d2f93</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0b683165-4380-45f2-aaae-cc0628260851.mp3" length="36536877" type="audio/mpeg"/>
-      <pubDate>Sat, 14 Mar 2026 12:05:00 +0000</pubDate>
-      <itunes:duration>1522</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
       <description>Kdepak USA. Rajchlův návrh zákona proti neziskovkám nás táhne za Ural; Bez radikálních změn rozpočet na rok 2027 nelze sestavit; Privatizaci ministerstva životního prostředí bychom se měli bránit; Orbán drží pod krkem Evropu i Ukrajinu, Trump pomáhá Rusku a EU neví, co s tím; Ubírá se slovenská ekonomika řeckou cestou?; Čeští lvi a etika</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aa132f18-ea16-444e-b92e-bbeb3c880c32.mp3" length="37385325" type="audio/mpeg"/>
       <pubDate>Sat, 21 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
+      <description>Po letech zas plná Letná. Klíčová výzva z Letné. Sofiina volba prezidenta Pavla. Pozdní prozření Z-bloggerů. Další americká zeď: chilský prezident se inspiroval na severu. Colt míří na amsterodamskou burzu</description>
+      <guid isPermaLink="false">74e91296-73d3-3cf9-811b-d43b76ecc2a7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bc244e8c-d340-41a0-9662-686895117b4b.mp3" length="37449837" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
