@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 24 Mar 2026 11:54:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 11:53:17 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
-      <description>Připravovaný zákon o neziskových organizacích je ještě horší než na Slovensku. Za tajemstvím vládního rozpočtování. Jak a kdy ukončí Trump válku v Íránu. Polský prezident odmítl financovat obranu z gigantické evropské půjčky. A na konec glosa Ondřeje Neffa. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">39c0a77d-aece-3a02-9ead-2a80c6548a21</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bfa37e4d-76eb-4819-9a99-218259059ff3.mp3" length="37304109" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Hrátky s Ústavou jsou jen přiznáním politické neschopnosti. Žijeme v paradoxu. Bojíme se války, ale nechceme platit obranu. Roztříštěná vláda nad Íránem. Pan Nikdo proti Putinovi. Hledání společného v silnějším řevu Českých lvů. Moderuje Petr Schwarz.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f2518d2f-4fd6-41a1-8e7c-7dc70688fecc.mp3" length="37427949" type="audio/mpeg"/>
       <pubDate>Mon, 23 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Babiš už opět lační po voličích partnerů. Tentokrát na to ale může doplatit. Trump chce přestávku. Nebo konec. Výsledky a dopady francouzských komunálních voleb. Robert Plaga odkládá reformu školství. Učitelé jí nerozumí, nemohou podle ní učit... A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">1217ae22-ab79-371f-a0ca-a11a22a7d953</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4fa4a3ae-e2aa-480e-ad43-5ed6ca9e2814.mp3" length="37372653" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
