@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:57:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 11:52:44 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Prezident Pavel opět probíral s premiérem Babišem nízké výdaje na obranu. Ropovodem Družba a nikdy jinak. Kultura jako Popelka? Proč si autoritáři tak často brousí zuby na umělce, umělkyně a kulturní instituce. Kubánští komunisté jsou připraveni. Na kapitalismus. Jaderný obrat Ursuly von der Leyenové. A na konec glosa Ivy Pekárkové. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">af19c146-cfab-3e96-931d-7d2fd32ba112</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fad8f129-261b-4a1d-955d-13bfe33e0dbf.mp3" length="37449837" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Trumpovy hrozby vystoupením USA z NATO nelze brát na lehkou váhu. Jak Moskva vydělá na íránské válce. Povinnost ozvat se, dokud je čas. Soudci proti politikům: Itálie rozhoduje o justici v referendu. Co je digitální totalita</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/10837f9c-1d4a-45dd-8bf4-d499ab817ca0.mp3" length="37476333" type="audio/mpeg"/>
       <pubDate>Wed, 25 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Patricií Polanskou</title>
+      <description>Po sto dnech vládnutí vzbuzuje Babišova vláda obavy a rozpaky. Proč má Andrej Babiš radost z demonstrace na Letné. Proč nemůže Orbán mlčet ke skandálu svého ministra zahraničí. Škoda odchází z čínského trhu. Trumpův ministr války vynadal Íránu, že příliš zbrojí. Sám prosí o stovky miliard. Věčný rebel a disident Jan Beneš</description>
+      <guid isPermaLink="false">377e9ac2-1442-30dc-933c-703c95e5e5b2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/447a70ee-c8f6-492a-8e16-20a1d1d63e9c.mp3" length="37115181" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1546</itunes:duration>
     </item>
   </channel>
 </rss>
