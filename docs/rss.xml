@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 27 Mar 2026 11:52:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 11:38:18 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Trumpovy hrozby vystoupením USA z NATO nelze brát na lehkou váhu. Jak Moskva vydělá na íránské válce. Povinnost ozvat se, dokud je čas. Soudci proti politikům: Itálie rozhoduje o justici v referendu. Co je digitální totalita</description>
-      <guid isPermaLink="false">78acb07b-0b06-36db-a946-eb8baa783786</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cc22df43-1958-41ba-af1d-16f767996a0f.mp3" length="37482093" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Mar 2026 11:34:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Premiérovo satori, nebo změna korektního vztahu? Když je svět na houpačce, musí být občanská společnost na nohou. Lídrům zemí EU se nepovedlo přesvědčit Orbána, aby umožnil finanční pomoc Ukrajině. Bojíte se o ropu? Bojte se o vodu. Putin že je válečný zločinec? Šup s tebou do blázince! Abychom to nepřepískli</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/447a70ee-c8f6-492a-8e16-20a1d1d63e9c.mp3" length="37115181" type="audio/mpeg"/>
       <pubDate>Thu, 26 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1546</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Unijní paradoxy. Kdo chce Prahu? Dánové potrestali premiérku za úspěch. Internet a dobytek jako ruské černé labutě? Rusko stojí za náporem migrantů. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">311c6c56-9255-341a-af0e-3094536fca65</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bc38c2f3-505e-4251-88aa-ae803c02978e.mp3" length="37259757" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Mar 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
