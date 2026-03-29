@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 28 Mar 2026 11:38:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 11:40:20 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Premiérovo satori, nebo změna korektního vztahu? Když je svět na houpačce, musí být občanská společnost na nohou. Lídrům zemí EU se nepovedlo přesvědčit Orbána, aby umožnil finanční pomoc Ukrajině. Bojíte se o ropu? Bojte se o vodu. Putin že je válečný zločinec? Šup s tebou do blázince! Abychom to nepřepískli</description>
-      <guid isPermaLink="false">047c7ec4-8d7b-3a75-bd8f-42ae40971c75</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/87f9f139-86ea-4824-a467-772044cd54c7.mp3" length="37432557" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Mar 2026 11:34:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
-      <description>Přežije Netanjahu svůj úspěch? Babiš už ohlásil vítězství nad emisními povolenkami. Má k němu ale hodně daleko. Česko by mělo být v čele podpory 28. režimu. Podivné tance žalobců nad bitcoinovou kauzou. Rozpočet až příliš vypovídající o tom, kam Česko směřuje: k setrvalým schodkům a horším službám státu. Kubánští komunisté jsou připraveni. Na kapitalismus</description>
-      <guid isPermaLink="false">ed4015b0-51d5-3b90-9b12-5f3a80c08d3e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aa132f18-ea16-444e-b92e-bbeb3c880c32.mp3" length="37385325" type="audio/mpeg"/>
-      <pubDate>Sat, 21 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
       <description>Po letech zas plná Letná. Klíčová výzva z Letné. Sofiina volba prezidenta Pavla. Pozdní prozření Z-bloggerů. Další americká zeď: chilský prezident se inspiroval na severu. Colt míří na amsterodamskou burzu</description>
@@ -78,6 +62,30 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bc38c2f3-505e-4251-88aa-ae803c02978e.mp3" length="37259757" type="audio/mpeg"/>
       <pubDate>Fri, 27 Mar 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Vláda chce omezit zákon o podpoře bydlení. Podle opozice na něj v rozpočtu chybí peníze; Ramadán na Trafalgaru aneb Spor o islám a veřejný prostor; Od hrdiny k odpadlíkovi. Joe Kent proti Trumpově válce; Poučení ze Zálivu</description>
+      <guid isPermaLink="false">ec9be076-47e5-35a0-9b78-42d44ab8975b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f249eb45-6eff-4217-b66e-c08fe8e05c90.mp3" length="35028909" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Mar 2026 12:35:00 +0000</pubDate>
+      <itunes:duration>1459</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">8b281e01-6a20-3e4a-8394-20b182d58a26</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/99bad5eb-bd10-4ca2-a829-9103c5d318f3.mp3" length="35857773" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Mar 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1494</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Sejdeme se na Pumpě. Jak se svorně odkopali Andrej Babiš i Petr Fiala; Jak naložit s občanskou nespokojeností; Chimérická česko-slovenská zimní olympiáda; 50 let od převratu: Argentina se ohlíží do minulosti, aby přehodnotila současnost; Umělá inteligence a vedení války; Vila Karla Čapka</description>
+      <guid isPermaLink="false">9605916</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/486e9330701e2f35c87b0765f126d9cf.mp3" length="35515584" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Mar 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>1480</itunes:duration>
     </item>
   </channel>
 </rss>
