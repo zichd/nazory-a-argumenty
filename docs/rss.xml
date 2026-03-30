@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 29 Mar 2026 11:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 12:02:58 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
-      <description>Po letech zas plná Letná. Klíčová výzva z Letné. Sofiina volba prezidenta Pavla. Pozdní prozření Z-bloggerů. Další americká zeď: chilský prezident se inspiroval na severu. Colt míří na amsterodamskou burzu</description>
-      <guid isPermaLink="false">74e91296-73d3-3cf9-811b-d43b76ecc2a7</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bc244e8c-d340-41a0-9662-686895117b4b.mp3" length="37449837" type="audio/mpeg"/>
-      <pubDate>Sun, 22 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
       <description>Až rozpočet na rok 2027 ukáže, co Babišova vláda plánuje a dokáže. Všechny barvy zlata. Kremelské vidle v mírových jednáních. Po volbách v Porýní-Falci. Babiš nepochodil se zrušením povolenek, lídři EU se věnovali podružnostem. A na konec glosa Ondřeje Neffa. Moderuje Petr Schwarz.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/486e9330701e2f35c87b0765f126d9cf.mp3" length="35515584" type="audio/mpeg"/>
       <pubDate>Sun, 29 Mar 2026 11:00:00 +0000</pubDate>
       <itunes:duration>1480</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Členové NATO zvyšují výdaje na obranu, jen Česko se snaží uhnout. Jak to bude se zákonem o sociálním bydlení. Ruské pouliční protesty kvůli omezení internetu, které se (ne)konaly. Polská pravice podpořila Orbána. Vzpomněla si, jak společně demontovali demokracii. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">c8dc0032-92d1-3b14-845b-2dbe4fec9f55</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/72fe0c75-6cb1-4e35-9a9c-4d3edd30265e.mp3" length="37444077" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Mar 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
