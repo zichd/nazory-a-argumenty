@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 30 Mar 2026 12:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 11:57:38 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -86,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/72fe0c75-6cb1-4e35-9a9c-4d3edd30265e.mp3" length="37444077" type="audio/mpeg"/>
       <pubDate>Mon, 30 Mar 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Řádná péče o stát? Nic pro české politiky. Situaci zachraňuje Pákistán. Proč on? Konec levných surovin? Afrika mění pravidla hry. Činorodost Petra Fialy děsí občanské demokraty. A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">647b1d3b-17fe-374a-9e60-a78715917264</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/609727bc-6294-44a5-885f-d94122c3e381.mp3" length="37402605" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Mar 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
