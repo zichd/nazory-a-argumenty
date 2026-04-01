@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 31 Mar 2026 11:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 11:59:11 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
-      <description>Až rozpočet na rok 2027 ukáže, co Babišova vláda plánuje a dokáže. Všechny barvy zlata. Kremelské vidle v mírových jednáních. Po volbách v Porýní-Falci. Babiš nepochodil se zrušením povolenek, lídři EU se věnovali podružnostem. A na konec glosa Ondřeje Neffa. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">acd589aa-2555-3cbb-8eb9-57b0cd5b5db4</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f2518d2f-4fd6-41a1-8e7c-7dc70688fecc.mp3" length="37427949" type="audio/mpeg"/>
-      <pubDate>Mon, 23 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Babiš už opět lační po voličích partnerů. Tentokrát na to ale může doplatit. Trump chce přestávku. Nebo konec. Výsledky a dopady francouzských komunálních voleb. Robert Plaga odkládá reformu školství. Učitelé jí nerozumí, nemohou podle ní učit... A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -94,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/609727bc-6294-44a5-885f-d94122c3e381.mp3" length="37402605" type="audio/mpeg"/>
       <pubDate>Tue, 31 Mar 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Zastropovat, či nezastropovat? Hamletovská otázka dneška. Našel Hrad s vládou u jmenování velvyslanců kompromis? Švarcsystém na vzestupu. I díky AI. Co vlastně ví Putin. Trump zvažuje zavést v NATO model „pay-to-play“. Nezaplatíš 5 procent HDP na obranu a jsi mimo. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">438a795e-2be2-3203-80db-b58ca737c092</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/756d8ae0-b80f-4b8e-ab22-823ba2a1dee9.mp3" length="37461357" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
