@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 01 Apr 2026 11:59:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:55:22 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Babiš už opět lační po voličích partnerů. Tentokrát na to ale může doplatit. Trump chce přestávku. Nebo konec. Výsledky a dopady francouzských komunálních voleb. Robert Plaga odkládá reformu školství. Učitelé jí nerozumí, nemohou podle ní učit... A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">1217ae22-ab79-371f-a0ca-a11a22a7d953</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4fa4a3ae-e2aa-480e-ad43-5ed6ca9e2814.mp3" length="37372653" type="audio/mpeg"/>
-      <pubDate>Tue, 24 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Vláda ruší stavební úřady. Má vůbec alternativu? Andrej Babiš přístup vůči koaličním partnerům zatím nezměnil. Jaké bude politické dospívání Petra Pavla? Jak to bude s cenami energií. Švýcaři sice v referendu ubránili veřejnoprávní televizi a rozhlas, ten se ale přesto výrazným škrtům nevyhne. Trumpova radost ze smrti „nejčestnějšího“ Američana. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">088f15fe-3255-3bf8-80b0-9dff6169e215</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/10837f9c-1d4a-45dd-8bf4-d499ab817ca0.mp3" length="37476333" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Patricií Polanskou</title>
       <description>Po sto dnech vládnutí vzbuzuje Babišova vláda obavy a rozpaky. Proč má Andrej Babiš radost z demonstrace na Letné. Proč nemůže Orbán mlčet ke skandálu svého ministra zahraničí. Škoda odchází z čínského trhu. Trumpův ministr války vynadal Íránu, že příliš zbrojí. Sám prosí o stovky miliard. Věčný rebel a disident Jan Beneš</description>
@@ -94,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/756d8ae0-b80f-4b8e-ab22-823ba2a1dee9.mp3" length="37461357" type="audio/mpeg"/>
       <pubDate>Wed, 01 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
+      <description>Návrhy na změny Ústavy a pravomocí prezidenta jsou jen politické divadlo. Co je hlavním pojítkem Andreje Babiše a Roberta Fica. Válka v Íránu se někam chýlí. Jak je to s Donbasem. Komu bude chybět Orbán? Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">39871a1d-ef58-38f5-84bf-ea16b2359258</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d1b38200-702a-4c77-85cb-569d62de8391.mp3" length="37439469" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
