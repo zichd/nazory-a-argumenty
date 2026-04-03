@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 02 Apr 2026 11:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 11:50:27 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -86,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d1b38200-702a-4c77-85cb-569d62de8391.mp3" length="37439469" type="audio/mpeg"/>
       <pubDate>Thu, 02 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Tak co my s tím? Trump, Pavel a Macinkovo špičkování. Americká válka v Íránu Evropu ekonomicky poškozuje, politicky však může mít i dobré důsledky. Útok v Pardubicích. Jsme ochotni omlouvat násilí, když se to hodí? AI jako kamufláž? Velký pátek ve Valdicích</description>
+      <guid isPermaLink="false">b054f2af-251b-361b-b922-d1d9466396dd</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b1b5e6df-f05b-4678-948e-f98404c9b65f.mp3" length="37347885" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
