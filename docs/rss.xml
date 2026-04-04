@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 03 Apr 2026 11:50:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 11:39:34 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Patricií Polanskou</title>
-      <description>Po sto dnech vládnutí vzbuzuje Babišova vláda obavy a rozpaky. Proč má Andrej Babiš radost z demonstrace na Letné. Proč nemůže Orbán mlčet ke skandálu svého ministra zahraničí. Škoda odchází z čínského trhu. Trumpův ministr války vynadal Íránu, že příliš zbrojí. Sám prosí o stovky miliard. Věčný rebel a disident Jan Beneš</description>
-      <guid isPermaLink="false">377e9ac2-1442-30dc-933c-703c95e5e5b2</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/447a70ee-c8f6-492a-8e16-20a1d1d63e9c.mp3" length="37115181" type="audio/mpeg"/>
-      <pubDate>Thu, 26 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1546</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Unijní paradoxy. Kdo chce Prahu? Dánové potrestali premiérku za úspěch. Internet a dobytek jako ruské černé labutě? Rusko stojí za náporem migrantů. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -94,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b1b5e6df-f05b-4678-948e-f98404c9b65f.mp3" length="37347885" type="audio/mpeg"/>
       <pubDate>Fri, 03 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Velikonoce jsou svátky oběti, ukřižovaného Ježíše. Máme myslet na mrtvé na Ukrajině, v Gaze, v Íránu. Slováci chtěli z Benešových dekretů udělat téma jednání vlád. Dobře, že neuspěli. Co je kultura a proč na ní chce vláda šetřit. Místo Z je X. Pomoc s bydlením? Nakonec nezbyde nikdo, kdo by o ni mohl požádat. Řádná péče o stát? Nic pro české politiky</description>
+      <guid isPermaLink="false">099f137c-e639-3112-9b94-fe474f72251d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3883f40a-791f-4f89-875b-8d6fd64a1915.mp3" length="36776493" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1532</itunes:duration>
     </item>
   </channel>
 </rss>
