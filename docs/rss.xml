@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 04 Apr 2026 11:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 11:42:03 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Unijní paradoxy. Kdo chce Prahu? Dánové potrestali premiérku za úspěch. Internet a dobytek jako ruské černé labutě? Rusko stojí za náporem migrantů. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">311c6c56-9255-341a-af0e-3094536fca65</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bc38c2f3-505e-4251-88aa-ae803c02978e.mp3" length="37259757" type="audio/mpeg"/>
-      <pubDate>Fri, 27 Mar 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
       <description>Vláda chce omezit zákon o podpoře bydlení. Podle opozice na něj v rozpočtu chybí peníze; Ramadán na Trafalgaru aneb Spor o islám a veřejný prostor; Od hrdiny k odpadlíkovi. Joe Kent proti Trumpově válce; Poučení ze Zálivu</description>
@@ -94,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3883f40a-791f-4f89-875b-8d6fd64a1915.mp3" length="36776493" type="audio/mpeg"/>
       <pubDate>Sat, 04 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1532</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>(Ne)křesťanská úvaha o Velikonočním skoku po pomlázce. Arogantní kozel v zahradnictví. Jak se ze Syřanů v Německu může stát Merzova noční můra. Referendum jako politická past. Válka v Íránu se někam chýlí. Všichni budeme podnikatelé</description>
+      <guid isPermaLink="false">1f22a3a1-263f-3864-9d69-25215c3bd0ff</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a95745c7-489c-4c85-b1da-a01ab9b2ec3a.mp3" length="37253421" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Apr 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
