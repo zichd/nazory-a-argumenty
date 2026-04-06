@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 05 Apr 2026 11:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:56:03 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Vláda chce omezit zákon o podpoře bydlení. Podle opozice na něj v rozpočtu chybí peníze; Ramadán na Trafalgaru aneb Spor o islám a veřejný prostor; Od hrdiny k odpadlíkovi. Joe Kent proti Trumpově válce; Poučení ze Zálivu</description>
-      <guid isPermaLink="false">ec9be076-47e5-35a0-9b78-42d44ab8975b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f249eb45-6eff-4217-b66e-c08fe8e05c90.mp3" length="35028909" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Mar 2026 12:35:00 +0000</pubDate>
-      <itunes:duration>1459</itunes:duration>
-    </item>
     <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Petr Schwarz.</description>
@@ -94,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a95745c7-489c-4c85-b1da-a01ab9b2ec3a.mp3" length="37253421" type="audio/mpeg"/>
       <pubDate>Sun, 05 Apr 2026 10:34:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
+      <description>Ministryně spravedlnosti podlézala Trumpovi, co jen mohla. Nestačilo to a vyhodil ji. Záchrana amerického letce. Pokud maďarská opozice vyhraje volby, orbánovský systém tak rychle zbořit nedokáže. Návrat k nízké inflaci a snižování úrokových sazeb se vzdaluje, vládní opatření zaberou jen na chvíli. Lidové zvyky velikonoční. Země je kulatá</description>
+      <guid isPermaLink="false">d7ac249c-6875-3d6c-8d17-f813f8680f4e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/33a96413-6a9a-400a-9cd9-40120c62ac74.mp3" length="35874477" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Apr 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1495</itunes:duration>
     </item>
   </channel>
 </rss>
