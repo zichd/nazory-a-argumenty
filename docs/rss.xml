@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:56:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 11:59:56 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">8b281e01-6a20-3e4a-8394-20b182d58a26</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/99bad5eb-bd10-4ca2-a829-9103c5d318f3.mp3" length="35857773" type="audio/mpeg"/>
-      <pubDate>Sun, 29 Mar 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1494</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Sejdeme se na Pumpě. Jak se svorně odkopali Andrej Babiš i Petr Fiala; Jak naložit s občanskou nespokojeností; Chimérická česko-slovenská zimní olympiáda; 50 let od převratu: Argentina se ohlíží do minulosti, aby přehodnotila současnost; Umělá inteligence a vedení války; Vila Karla Čapka</description>
-      <guid isPermaLink="false">9605916</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/486e9330701e2f35c87b0765f126d9cf.mp3" length="35515584" type="audio/mpeg"/>
-      <pubDate>Sun, 29 Mar 2026 11:00:00 +0000</pubDate>
-      <itunes:duration>1480</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Členové NATO zvyšují výdaje na obranu, jen Česko se snaží uhnout. Jak to bude se zákonem o sociálním bydlení. Ruské pouliční protesty kvůli omezení internetu, které se (ne)konaly. Polská pravice podpořila Orbána. Vzpomněla si, jak společně demontovali demokracii. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -94,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/33a96413-6a9a-400a-9cd9-40120c62ac74.mp3" length="35874477" type="audio/mpeg"/>
       <pubDate>Mon, 06 Apr 2026 10:34:00 +0000</pubDate>
       <itunes:duration>1495</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
+      <description>Domýšlí koalice, jaké mohou mít její naschvály vůči prezidentovi následky? EU doufá v Orbánovu porážku, nemá ale plán B. Dopady války v Íránu na Kavkaz. Konec levné globalizace. A na konec glosa Ivy Pekárkové. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">643c81ad-717b-364f-b424-7bcd0e30b639</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2d81e689-1262-4b5a-ac9a-a765be4761d0.mp3" length="37149165" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1548</itunes:duration>
     </item>
   </channel>
 </rss>
