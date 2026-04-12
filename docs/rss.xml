@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 11 Apr 2026 11:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 11:46:45 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Tak co my s tím? Trump, Pavel a Macinkovo špičkování. Americká válka v Íránu Evropu ekonomicky poškozuje, politicky však může mít i dobré důsledky. Útok v Pardubicích. Jsme ochotni omlouvat násilí, když se to hodí? AI jako kamufláž? Velký pátek ve Valdicích</description>
-      <guid isPermaLink="false">b054f2af-251b-361b-b922-d1d9466396dd</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b1b5e6df-f05b-4678-948e-f98404c9b65f.mp3" length="37347885" type="audio/mpeg"/>
-      <pubDate>Fri, 03 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
       <description>Velikonoce jsou svátky oběti, ukřižovaného Ježíše. Máme myslet na mrtvé na Ukrajině, v Gaze, v Íránu. Slováci chtěli z Benešových dekretů udělat téma jednání vlád. Dobře, že neuspěli. Co je kultura a proč na ní chce vláda šetřit. Místo Z je X. Pomoc s bydlením? Nakonec nezbyde nikdo, kdo by o ni mohl požádat. Řádná péče o stát? Nic pro české politiky</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a51a9757-1678-4fc3-bfc1-85fe0d4a621e.mp3" length="36179181" type="audio/mpeg"/>
       <pubDate>Sat, 11 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1507</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
+      <description>Co nám vzkázal Andrej Babiš z dovolené. Výlet okolo Měsíce a zpět. Dokážeme si vůbec vládnout? Vzestup a pád Tárika Ramadána. Výběrový trest smrti. Vyžírkové?</description>
+      <guid isPermaLink="false">a5b50aa0-ca5f-3d52-9a43-d2f8d3275224</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/773b8749-cff8-4881-a95d-b146938a43b9.mp3" length="36300717" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1512</itunes:duration>
     </item>
   </channel>
 </rss>
