@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 12 Apr 2026 11:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:08:42 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Velikonoce jsou svátky oběti, ukřižovaného Ježíše. Máme myslet na mrtvé na Ukrajině, v Gaze, v Íránu. Slováci chtěli z Benešových dekretů udělat téma jednání vlád. Dobře, že neuspěli. Co je kultura a proč na ní chce vláda šetřit. Místo Z je X. Pomoc s bydlením? Nakonec nezbyde nikdo, kdo by o ni mohl požádat. Řádná péče o stát? Nic pro české politiky</description>
-      <guid isPermaLink="false">099f137c-e639-3112-9b94-fe474f72251d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3883f40a-791f-4f89-875b-8d6fd64a1915.mp3" length="36776493" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1532</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>(Ne)křesťanská úvaha o Velikonočním skoku po pomlázce. Arogantní kozel v zahradnictví. Jak se ze Syřanů v Německu může stát Merzova noční můra. Referendum jako politická past. Válka v Íránu se někam chýlí. Všichni budeme podnikatelé</description>
-      <guid isPermaLink="false">1f22a3a1-263f-3864-9d69-25215c3bd0ff</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a95745c7-489c-4c85-b1da-a01ab9b2ec3a.mp3" length="37253421" type="audio/mpeg"/>
-      <pubDate>Sun, 05 Apr 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
       <description>Ministryně spravedlnosti podlézala Trumpovi, co jen mohla. Nestačilo to a vyhodil ji. Záchrana amerického letce. Pokud maďarská opozice vyhraje volby, orbánovský systém tak rychle zbořit nedokáže. Návrat k nízké inflaci a snižování úrokových sazeb se vzdaluje, vládní opatření zaberou jen na chvíli. Lidové zvyky velikonoční. Země je kulatá</description>
@@ -81,11 +65,19 @@
     </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
-      <description>Co nám vzkázal Andrej Babiš z dovolené. Výlet okolo Měsíce a zpět. Dokážeme si vůbec vládnout? Vzestup a pád Tárika Ramadána. Výběrový trest smrti. Vyžírkové?</description>
+      <description>Co nám vzkázal Andrej Babiš z dovolené. Výlet okolo Měsíce a zpět. Dokážeme si vůbec vládnout? Vzestup a pád Tárika Ramadána. Výběrový trest smrti. Vyžírkové</description>
       <guid isPermaLink="false">a5b50aa0-ca5f-3d52-9a43-d2f8d3275224</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/773b8749-cff8-4881-a95d-b146938a43b9.mp3" length="36300717" type="audio/mpeg"/>
       <pubDate>Sun, 12 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1512</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Pohádky o odzbrojení Česko v nebezpečném světě nezachrání. Teď musí Magyar ukázat, co umí. Jinak se Fidesz za čtyři roky vrátí. Světové velmoci v maďarských volbách. Zastropuje vláda věk odchodu do důchodu? A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">537b664e-b125-35b3-a687-7ead2c082d39</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8dedf27a-f0fc-44a1-8470-33c9a71b9238.mp3" length="37044909" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1543</itunes:duration>
     </item>
   </channel>
 </rss>
