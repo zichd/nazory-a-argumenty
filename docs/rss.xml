@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 13 Apr 2026 12:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 12:06:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -78,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8dedf27a-f0fc-44a1-8470-33c9a71b9238.mp3" length="37044909" type="audio/mpeg"/>
       <pubDate>Mon, 13 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1543</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Zůstane Česko na maďarské cestě i po Orbánově pádu? Trumpovo čarování v Hormuzském průlivu. Trh končí, ekonomiku uřídí viditelná ruka vlády. Zelenskyj navrhuje obranný svaz pro Evropu. Zahrnuje Ukrajinu, Británii, Turecko a Norsko. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">3e6c5093-1f45-333a-95b9-cceb268336b3</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/36bf33c6-28a0-4257-83f3-e80b6d91ae8c.mp3" length="37194093" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1550</itunes:duration>
     </item>
   </channel>
 </rss>
