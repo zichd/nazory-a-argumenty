@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 14 Apr 2026 12:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 12:03:27 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
-      <description>Ministryně spravedlnosti podlézala Trumpovi, co jen mohla. Nestačilo to a vyhodil ji. Záchrana amerického letce. Pokud maďarská opozice vyhraje volby, orbánovský systém tak rychle zbořit nedokáže. Návrat k nízké inflaci a snižování úrokových sazeb se vzdaluje, vládní opatření zaberou jen na chvíli. Lidové zvyky velikonoční. Země je kulatá</description>
-      <guid isPermaLink="false">d7ac249c-6875-3d6c-8d17-f813f8680f4e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/33a96413-6a9a-400a-9cd9-40120c62ac74.mp3" length="35874477" type="audio/mpeg"/>
-      <pubDate>Mon, 06 Apr 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1495</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
       <description>Domýšlí koalice, jaké mohou mít její naschvály vůči prezidentovi následky? EU doufá v Orbánovu porážku, nemá ale plán B. Dopady války v Íránu na Kavkaz. Konec levné globalizace. A na konec glosa Ivy Pekárkové. Moderuje Kamila Pešeková.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/36bf33c6-28a0-4257-83f3-e80b6d91ae8c.mp3" length="37194093" type="audio/mpeg"/>
       <pubDate>Tue, 14 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1550</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>„Neministr“ Turek komplikuje Babišovi život. Po volbách rozpočet. Druhá velká zkouška Pétera Magyara. První jednání Libanon – Izrael. Blokádou proti blokádě. Odpovědnost, nebo hra? Možná obojí. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">5723c572-68d7-3732-9f12-684619d03498</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/91275a41-8792-4d6f-9ff3-99e6ac53d02d.mp3" length="37294893" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1554</itunes:duration>
     </item>
   </channel>
 </rss>
