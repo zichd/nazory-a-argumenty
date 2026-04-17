@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 16 Apr 2026 12:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 12:01:25 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Mír s ručením omezeným. Marná snaha vlády o výrazně levnější benzin a naftu. Česko nízkým cenám nevěří. Soukromé úvěry jako tikající bomba. Papež: Zvykáme si na násilí, kapitulujeme před ním a stáváme se lhostejní ke smrti tisíců lidí. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">55eff844-13c0-3d5b-a871-abe6b55103b3</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/adb0f67a-9ff5-4e70-b6ee-47f4ccbce0ea.mp3" length="37460205" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Trump vyhrál? Vážně? Jak Rusko reaguje na příměří. Prezident Pavel hodlá jet na summit NATO. Severoatlantická aliance Trumpa přežije, ale změní se. Země, kde stojí za to mít děti. Je takovou Česko? Nafta s chutí pelyňku. Moderuje Petr Hartman.</description>
@@ -85,6 +77,14 @@
       <guid isPermaLink="false">17ae6041-fdb0-3949-a2eb-a5520b3785f4</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4ac4a592-c525-4767-87cb-872f6e885683.mp3" length="37497069" type="audio/mpeg"/>
       <pubDate>Thu, 16 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Už zas ty dekrety… Rutte v Praze asi trochu varující. Putin začíná utíkat před parním válcem. Proč bychom měli chtít, aby byl drink spiking samostatný trestný čin. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">4a756660-68fb-33fc-ab0f-54b1b6510b9d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1beed53b-4291-45cd-a351-21cb6d54e93b.mp3" length="37494765" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
