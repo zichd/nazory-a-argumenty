@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 17 Apr 2026 12:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 11:46:57 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Trump vyhrál? Vážně? Jak Rusko reaguje na příměří. Prezident Pavel hodlá jet na summit NATO. Severoatlantická aliance Trumpa přežije, ale změní se. Země, kde stojí za to mít děti. Je takovou Česko? Nafta s chutí pelyňku. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">e4660d40-398c-35aa-af08-bcca3208582b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/36e94883-bba2-4b29-9ddc-cc6698e8db45.mp3" length="37471149" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Trump vyvolal na Blízkém východě rozpaky. Když AI děsí i tvůrce. ETS2 jako strašák pro nízkopříjmové? Populisté a krajní pravice téma povolenek zneužívají, spravedlivé řešení přitom existuje. Spisovatel Bykov: Rusko nemá nic kromě sadismu. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1beed53b-4291-45cd-a351-21cb6d54e93b.mp3" length="37494765" type="audio/mpeg"/>
       <pubDate>Fri, 17 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">2d4aa711-9fe5-3a37-a821-bbb30818378e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dbb0891c-6711-44fa-ba3a-43c679f3bdaa.mp3" length="37562157" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Apr 2026 10:33:00 +0000</pubDate>
+      <itunes:duration>1565</itunes:duration>
     </item>
   </channel>
 </rss>
