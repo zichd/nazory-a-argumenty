@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 20 Apr 2026 12:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:07:52 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
-      <description>Co nám vzkázal Andrej Babiš z dovolené. Výlet okolo Měsíce a zpět. Dokážeme si vůbec vládnout? Vzestup a pád Tárika Ramadána. Výběrový trest smrti. Vyžírkové</description>
-      <guid isPermaLink="false">a5b50aa0-ca5f-3d52-9a43-d2f8d3275224</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/773b8749-cff8-4881-a95d-b146938a43b9.mp3" length="36300717" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1512</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Pohádky o odzbrojení Česko v nebezpečném světě nezachrání. Teď musí Magyar ukázat, co umí. Jinak se Fidesz za čtyři roky vrátí. Světové velmoci v maďarských volbách. Zastropuje vláda věk odchodu do důchodu? A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/124b0f78-3b20-4068-b0e3-e629837dede7.mp3" length="37337517" type="audio/mpeg"/>
       <pubDate>Mon, 20 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
+      <description>Chytit druhý dech se zatím opozici nedaří. Přinese změnu aspoň sjezd lidovců? Jak je to s Tchaj-wanem a Čínou. Sporu mezi Ficem a Magyarem o Benešovy dekrety by se Česko mělo vyhnout velkým obloukem. Odblokuje Putinova klesající popularita zablokovaný internet? Premiér Babiš by neměl odmítat prezidenta na summitu NATO. A na konec glosa Ivy Pekárkové. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">6b66029c-ef9d-3fcf-b403-a09c6118731b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4c4f2085-3b9a-4341-bd7f-1bc6b1429fd4.mp3" length="37420461" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
