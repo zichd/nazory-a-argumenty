@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 21 Apr 2026 12:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 12:07:32 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Pohádky o odzbrojení Česko v nebezpečném světě nezachrání. Teď musí Magyar ukázat, co umí. Jinak se Fidesz za čtyři roky vrátí. Světové velmoci v maďarských volbách. Zastropuje vláda věk odchodu do důchodu? A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">537b664e-b125-35b3-a687-7ead2c082d39</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8dedf27a-f0fc-44a1-8470-33c9a71b9238.mp3" length="37044909" type="audio/mpeg"/>
-      <pubDate>Mon, 13 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1543</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Zůstane Česko na maďarské cestě i po Orbánově pádu? Trumpovo čarování v Hormuzském průlivu. Trh končí, ekonomiku uřídí viditelná ruka vlády. Zelenskyj navrhuje obranný svaz pro Evropu. Zahrnuje Ukrajinu, Británii, Turecko a Norsko. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4c4f2085-3b9a-4341-bd7f-1bc6b1429fd4.mp3" length="37420461" type="audio/mpeg"/>
       <pubDate>Tue, 21 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Na šikmé ploše. Pracujeme nejvíc v Evropě. Co se (ne)stalo v Islámábádu. Nový šéf Fedu. Volba radních České televize jako důvod pro obstrukce. Babišův výsměch opozici. Co si z něj vzít? Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">a30a9b8d-2c65-31f2-b36b-38874a900210</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/110ed111-cffd-4b27-9549-82de5d4c9d41.mp3" length="37470573" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
