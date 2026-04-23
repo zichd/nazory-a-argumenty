@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 22 Apr 2026 12:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 12:06:49 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Zůstane Česko na maďarské cestě i po Orbánově pádu? Trumpovo čarování v Hormuzském průlivu. Trh končí, ekonomiku uřídí viditelná ruka vlády. Zelenskyj navrhuje obranný svaz pro Evropu. Zahrnuje Ukrajinu, Británii, Turecko a Norsko. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">3e6c5093-1f45-333a-95b9-cceb268336b3</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/36bf33c6-28a0-4257-83f3-e80b6d91ae8c.mp3" length="37194093" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1550</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>„Neministr“ Turek komplikuje Babišovi život. Po volbách rozpočet. Druhá velká zkouška Pétera Magyara. První jednání Libanon – Izrael. Blokádou proti blokádě. Odpovědnost, nebo hra? Možná obojí. Moderuje Ondřej Konrád.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/110ed111-cffd-4b27-9549-82de5d4c9d41.mp3" length="37470573" type="audio/mpeg"/>
       <pubDate>Wed, 22 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Evropská politika Babišovy vlády může vyjít Českou republiku draho. Grolich myslí na lidovce i Česko. O zemi, která marně hledá svoji kotvu. Ropovod Družba znovu v provozu? Střídání v čele Applu. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">3661d29a-642d-3250-8128-9f202484e3fb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c5078900-3127-4880-9414-07d6cecc8ff1.mp3" length="37477485" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
