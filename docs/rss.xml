@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 23 Apr 2026 12:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 12:02:59 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>„Neministr“ Turek komplikuje Babišovi život. Po volbách rozpočet. Druhá velká zkouška Pétera Magyara. První jednání Libanon – Izrael. Blokádou proti blokádě. Odpovědnost, nebo hra? Možná obojí. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">5723c572-68d7-3732-9f12-684619d03498</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/91275a41-8792-4d6f-9ff3-99e6ac53d02d.mp3" length="37294893" type="audio/mpeg"/>
-      <pubDate>Wed, 15 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Porážka Orbána bude mít dalekosáhlé důsledky. Magyarovy plány s Ukrajinou. Kuba a Netolický spor o účast na summitu NATO neřeší. Giorgia Meloniová a riskantní sázka na Trumpa. Proč je stále zavřen Hormuzský průliv? Moderuje Kamila Pešeková.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c5078900-3127-4880-9414-07d6cecc8ff1.mp3" length="37477485" type="audio/mpeg"/>
       <pubDate>Thu, 23 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Patricií Polanskou</title>
+      <description>Je Andrej Babiš na koaliční partnery slabý, nebo ví přesně, co dělá? Írán, kobry kolem prázdného trůnu. Co je „ruský Tchaj-wan“? Babiš je „motivovanej“ posílit českou obranu. Chce se zapojit do Macronovy evropské jaderné iniciativy. A na konec glosa Evy Turnové. Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">66a06c59-2c6d-3c68-b514-7ca7e8d0d8d6</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d4301f2f-5d70-4ba4-99bc-3c56ac4bdbde.mp3" length="37259181" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
