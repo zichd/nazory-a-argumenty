@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 25 Apr 2026 11:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 11:52:20 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Už zas ty dekrety… Rutte v Praze asi trochu varující. Putin začíná utíkat před parním válcem. Proč bychom měli chtít, aby byl drink spiking samostatný trestný čin. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">4a756660-68fb-33fc-ab0f-54b1b6510b9d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1beed53b-4291-45cd-a351-21cb6d54e93b.mp3" length="37494765" type="audio/mpeg"/>
-      <pubDate>Fri, 17 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
       <description>Zelenskyj podepsal s Merzem dohodu o strategickém partnerství. Buduje německou obranu. My nebudujeme nic, Jak se z ministryně, co tancovala s Putinem, stala ruská propagandistka, Nový trend, nové stadiony, Jak vyprázdněná slova vyprázdňují instituce</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4c1b2353-6789-492e-98a8-af7fa430db12.mp3" length="36425709" type="audio/mpeg"/>
       <pubDate>Sat, 25 Apr 2026 11:13:00 +0000</pubDate>
       <itunes:duration>1518</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
+      <description>Stále neuzavřený černobylský účet; Skomírající lidovci si zvolili diktátora; Orbán skončil, orbánismus žije dál. Třeba i v Česku; Je tu nová liberální linka Varšava-Budapešť, jde mimo nás; Černá Hora plní domácí úkoly ke členství. Problém rozšíření je ale uvnitř Evropské unie; Brazilský prezident volá po zákazu online sázek</description>
+      <guid isPermaLink="false">3d4f756e-d3d2-3853-bc2b-7603eba77a35</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c44d66ea-2a6d-46e8-b4fe-8073815cfd38.mp3" length="37452141" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 11:25:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
