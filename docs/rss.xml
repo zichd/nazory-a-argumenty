@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:22:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 12:55:56 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -78,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ea0a9a9c-6130-42ec-b8de-3c48d6f82f51.mp3" length="37449261" type="audio/mpeg"/>
       <pubDate>Mon, 27 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Hra na schovávanou nekončí. Nově chce Babiš do obranných výdajů zahrnout nemocnici. První palestinské volby po generaci. První jména nové maďarské vlády. Zrodil se nový Orbán? A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">aee1cda4-485d-3700-a3cf-9f574b1c8a5a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f9e3cf7c-d106-4da8-981f-a5e41c18c39d.mp3" length="37474605" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
