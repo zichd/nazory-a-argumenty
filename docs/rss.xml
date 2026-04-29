@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:55:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 12:22:19 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Je nejvyšší čas úplně změnit přijímačky na střední školy. Vnitrostranická rebelie proti Viktoru Orbánovi se zatím nekoná. Bělorusko se chce podle Zelenského zapojit do války. Nejde jen o ropu. Vrací se rok 2022, kdy ceny potravin stouply skoro o 30 procent? A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">3b8857b9-e623-33f2-98d9-728ce652cf30</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/124b0f78-3b20-4068-b0e3-e629837dede7.mp3" length="37337517" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
       <description>Chytit druhý dech se zatím opozici nedaří. Přinese změnu aspoň sjezd lidovců? Jak je to s Tchaj-wanem a Čínou. Sporu mezi Ficem a Magyarem o Benešovy dekrety by se Česko mělo vyhnout velkým obloukem. Odblokuje Putinova klesající popularita zablokovaný internet? Premiér Babiš by neměl odmítat prezidenta na summitu NATO. A na konec glosa Ivy Pekárkové. Moderuje Jan Fingerland.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f9e3cf7c-d106-4da8-981f-a5e41c18c39d.mp3" length="37474605" type="audio/mpeg"/>
       <pubDate>Tue, 28 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Smím prosit? Proč Hampl odmítá rozpočtový valčík. Den české, nebo československé vlajky? Epická bitva mezi Elonem Muskem a Samem Altmanem. Ne všichni muži, ale vždycky muži. Musíme si promluvit (nejen) o online násilí na ženách. Proč se chováme jako Trójané ke Kassandře? Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">ae98a56b-7d62-3f75-9ac2-422be175b32c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3fbdfa97-3943-4135-99d4-7353eb9209cc.mp3" length="37236717" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
