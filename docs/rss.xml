@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 29 Apr 2026 12:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 12:22:22 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
-      <description>Chytit druhý dech se zatím opozici nedaří. Přinese změnu aspoň sjezd lidovců? Jak je to s Tchaj-wanem a Čínou. Sporu mezi Ficem a Magyarem o Benešovy dekrety by se Česko mělo vyhnout velkým obloukem. Odblokuje Putinova klesající popularita zablokovaný internet? Premiér Babiš by neměl odmítat prezidenta na summitu NATO. A na konec glosa Ivy Pekárkové. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">6b66029c-ef9d-3fcf-b403-a09c6118731b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4c4f2085-3b9a-4341-bd7f-1bc6b1429fd4.mp3" length="37420461" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Na šikmé ploše. Pracujeme nejvíc v Evropě. Co se (ne)stalo v Islámábádu. Nový šéf Fedu. Volba radních České televize jako důvod pro obstrukce. Babišův výsměch opozici. Co si z něj vzít? Moderuje Ondřej Konrád.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3fbdfa97-3943-4135-99d4-7353eb9209cc.mp3" length="37236717" type="audio/mpeg"/>
       <pubDate>Wed, 29 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1551</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
+      <description>Plníme závazky v NATO? Podle staré metodiky snad ano, podle nové ne. Motoristé jako černá díra na vládní kritiku. Lidovce čekají na možné cestě vzhůru velké výzvy. Moskevská přehlídka bude, ale bez zbraní. Rozšíření francouzského jaderného deštníku na Polsko. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">6c0bdb0d-a5ab-34d5-91ea-ee209d40a78a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/14eb3125-e359-47db-be2b-104602c8aa00.mp3" length="37429101" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Apr 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
