@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 30 Apr 2026 12:22:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 12:04:23 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Na šikmé ploše. Pracujeme nejvíc v Evropě. Co se (ne)stalo v Islámábádu. Nový šéf Fedu. Volba radních České televize jako důvod pro obstrukce. Babišův výsměch opozici. Co si z něj vzít? Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">a30a9b8d-2c65-31f2-b36b-38874a900210</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/110ed111-cffd-4b27-9549-82de5d4c9d41.mp3" length="37470573" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Evropská politika Babišovy vlády může vyjít Českou republiku draho. Grolich myslí na lidovce i Česko. O zemi, která marně hledá svoji kotvu. Ropovod Družba znovu v provozu? Střídání v čele Applu. Moderuje Kamila Pešeková.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/14eb3125-e359-47db-be2b-104602c8aa00.mp3" length="37429101" type="audio/mpeg"/>
       <pubDate>Thu, 30 Apr 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
+      <description>Evropanství po Česku. Emiráty míchají kartami. Tuapse, Perm, přehlídka, to je koudel u Putinova zadku. Je První máj opravdu fackovacím panákem? Rozbít zeď. Hra na schovávanou nekončí. Nově chce Babiš do obranných výdajů zahrnout nemocnici</description>
+      <guid isPermaLink="false">f5b3ad70-0a55-381f-b4d7-2e33d4f7f44b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/08310d34-02f1-4ce0-8b13-96d11a23ff3f.mp3" length="37554093" type="audio/mpeg"/>
+      <pubDate>Fri, 01 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1565</itunes:duration>
     </item>
   </channel>
 </rss>
