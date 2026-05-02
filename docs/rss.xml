@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 01 May 2026 12:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 11:56:00 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>Evropská politika Babišovy vlády může vyjít Českou republiku draho. Grolich myslí na lidovce i Česko. O zemi, která marně hledá svoji kotvu. Ropovod Družba znovu v provozu? Střídání v čele Applu. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">3661d29a-642d-3250-8128-9f202484e3fb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c5078900-3127-4880-9414-07d6cecc8ff1.mp3" length="37477485" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Patricií Polanskou</title>
       <description>Je Andrej Babiš na koaliční partnery slabý, nebo ví přesně, co dělá? Írán, kobry kolem prázdného trůnu. Co je „ruský Tchaj-wan“? Babiš je „motivovanej“ posílit českou obranu. Chce se zapojit do Macronovy evropské jaderné iniciativy. A na konec glosa Evy Turnové. Moderuje Patricie Polanská.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/08310d34-02f1-4ce0-8b13-96d11a23ff3f.mp3" length="37554093" type="audio/mpeg"/>
       <pubDate>Fri, 01 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1565</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Evropský odklon od appeasmentu čili podlézt, ale narovnat se! Napětí kolem sněmu Sudetských Němců v Čechách narůstá. Odchod Emirátů, začátek konce OPEC? Elon Musk a Sam Altman jdou prát špinavé prádlo. Smím prosit? Proč Hampl odmítá rozpočtový valčík. Jaká debata o hodnotách a pragmatismu v politice má dnes smysl</description>
+      <guid isPermaLink="false">bbd68fbe-a41c-334e-b6e4-20071942cbf6</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bc249543-ab9a-4adc-bf36-e90717e0c6b1.mp3" length="35658477" type="audio/mpeg"/>
+      <pubDate>Sat, 02 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1486</itunes:duration>
     </item>
   </channel>
 </rss>
