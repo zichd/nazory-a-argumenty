@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 03 May 2026 11:55:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 12:53:18 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Patricií Polanskou</title>
-      <description>Je Andrej Babiš na koaliční partnery slabý, nebo ví přesně, co dělá? Írán, kobry kolem prázdného trůnu. Co je „ruský Tchaj-wan“? Babiš je „motivovanej“ posílit českou obranu. Chce se zapojit do Macronovy evropské jaderné iniciativy. A na konec glosa Evy Turnové. Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">66a06c59-2c6d-3c68-b514-7ca7e8d0d8d6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d4301f2f-5d70-4ba4-99bc-3c56ac4bdbde.mp3" length="37259181" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>Skomírající lidovce má zachránit Jan Grolich; Nový pražský arcibiskup má před sebou nesnadný úkol; Vývoj války nemůže otočit ani jedna strana. Ale... ; Paprsky a stíny</description>
-      <guid isPermaLink="false">40f770d6-b449-399b-8055-adf2e9821ad2</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4c1b2353-6789-492e-98a8-af7fa430db12.mp3" length="36425709" type="audio/mpeg"/>
-      <pubDate>Sat, 25 Apr 2026 11:13:00 +0000</pubDate>
-      <itunes:duration>1518</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
       <description>Stále neuzavřený černobylský účet; Skomírající lidovci si zvolili diktátora; Orbán skončil, orbánismus žije dál. Třeba i v Česku; Je tu nová liberální linka Varšava-Budapešť, jde mimo nás; Černá Hora plní domácí úkoly ke členství. Problém rozšíření je ale uvnitř Evropské unie; Brazilský prezident volá po zákazu online sázek</description>
@@ -94,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2098f710-1efa-406f-b511-29eff2f773ef.mp3" length="37679085" type="audio/mpeg"/>
       <pubDate>Sun, 03 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1570</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
+      <description>Ministryně Alena Schillerová připravuje dluhovou spirálu. Bude mobilizace. Nebo nebude. Sečteno, podtrženo. Péter Magyar je především Maďar. V jeho sporu s Ficem musí být Česko ve střehu. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">ed9adeb3-32a4-32e3-99d1-f3d3af803dfb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5f50c644-460a-430d-bdc7-69df91df190b.mp3" length="37468845" type="audio/mpeg"/>
+      <pubDate>Mon, 04 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
