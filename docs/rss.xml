@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 07 May 2026 13:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:16:47 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Hra na schovávanou nekončí. Nově chce Babiš do obranných výdajů zahrnout nemocnici. První palestinské volby po generaci. První jména nové maďarské vlády. Zrodil se nový Orbán? A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">aee1cda4-485d-3700-a3cf-9f574b1c8a5a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f9e3cf7c-d106-4da8-981f-a5e41c18c39d.mp3" length="37474605" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Smím prosit? Proč Hampl odmítá rozpočtový valčík. Den české, nebo československé vlajky? Epická bitva mezi Elonem Muskem a Samem Altmanem. Ne všichni muži, ale vždycky muži. Musíme si promluvit (nejen) o online násilí na ženách. Proč se chováme jako Trójané ke Kassandře? Moderuje Jan Fingerland.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3fb6da15-af2e-43cc-9c52-74f602223864.mp3" length="37440621" type="audio/mpeg"/>
       <pubDate>Wed, 06 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Májové paradoxy. Papež Lev XIV., rok první. Ruský vládce a rozmnožovatel v jedné osobě. Článek 42 (7) nestačí, aby EU byla připravena na válku. To si pište! Babiš nechal v kauze Čapí hnízdo Nagyovou samotnou</description>
+      <guid isPermaLink="false">c8b7ecbf-1e67-316b-8032-68146dcb1509</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/487539b0-4c4e-4f1e-b2c1-b0c6760bbafd.mp3" length="36183213" type="audio/mpeg"/>
+      <pubDate>Fri, 08 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1508</itunes:duration>
     </item>
   </channel>
 </rss>
