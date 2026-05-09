@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 08 May 2026 12:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 11:58:20 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
-      <description>Smím prosit? Proč Hampl odmítá rozpočtový valčík. Den české, nebo československé vlajky? Epická bitva mezi Elonem Muskem a Samem Altmanem. Ne všichni muži, ale vždycky muži. Musíme si promluvit (nejen) o online násilí na ženách. Proč se chováme jako Trójané ke Kassandře? Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">ae98a56b-7d62-3f75-9ac2-422be175b32c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3fbdfa97-3943-4135-99d4-7353eb9209cc.mp3" length="37236717" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Plníme závazky v NATO? Podle staré metodiky snad ano, podle nové ne. Motoristé jako černá díra na vládní kritiku. Lidovce čekají na možné cestě vzhůru velké výzvy. Moskevská přehlídka bude, ale bez zbraní. Rozšíření francouzského jaderného deštníku na Polsko. Moderuje Petr Hartman.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/487539b0-4c4e-4f1e-b2c1-b0c6760bbafd.mp3" length="36183213" type="audio/mpeg"/>
       <pubDate>Fri, 08 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1508</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Kam nás vede válka mezi premiérem a prezidentem; Den vítězství; Evropa a mír: nic z toho není samozřejmé; Jakub Landovský se jako vládní zmocněnec pro NATO jeví jako dobrá volba, lepší než jiné...</description>
+      <guid isPermaLink="false">e8731571-042e-3bd8-871d-5f0c4df41ccb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/81c7b207-1265-4af0-851b-1196bdb010a4.mp3" length="37120365" type="audio/mpeg"/>
+      <pubDate>Sat, 09 May 2026 11:08:00 +0000</pubDate>
+      <itunes:duration>1547</itunes:duration>
     </item>
   </channel>
 </rss>
