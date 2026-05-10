@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 09 May 2026 11:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 12:00:10 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Plníme závazky v NATO? Podle staré metodiky snad ano, podle nové ne. Motoristé jako černá díra na vládní kritiku. Lidovce čekají na možné cestě vzhůru velké výzvy. Moskevská přehlídka bude, ale bez zbraní. Rozšíření francouzského jaderného deštníku na Polsko. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">6c0bdb0d-a5ab-34d5-91ea-ee209d40a78a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/14eb3125-e359-47db-be2b-104602c8aa00.mp3" length="37429101" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Apr 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
       <description>Evropanství po Česku. Emiráty míchají kartami. Tuapse, Perm, přehlídka, to je koudel u Putinova zadku. Je První máj opravdu fackovacím panákem? Rozbít zeď. Hra na schovávanou nekončí. Nově chce Babiš do obranných výdajů zahrnout nemocnici</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/81c7b207-1265-4af0-851b-1196bdb010a4.mp3" length="37120365" type="audio/mpeg"/>
       <pubDate>Sat, 09 May 2026 11:08:00 +0000</pubDate>
       <itunes:duration>1547</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">b84aae89-1e3c-3446-8d5a-d02d432cb95d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/05368d24-f402-48ac-a43f-854b711faa83.mp3" length="36982701" type="audio/mpeg"/>
+      <pubDate>Sun, 10 May 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1541</itunes:duration>
     </item>
   </channel>
 </rss>
