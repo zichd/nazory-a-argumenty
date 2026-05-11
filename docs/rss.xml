@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 10 May 2026 12:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 13:50:01 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Ondřejem Konrádem</title>
-      <description>Evropanství po Česku. Emiráty míchají kartami. Tuapse, Perm, přehlídka, to je koudel u Putinova zadku. Je První máj opravdu fackovacím panákem? Rozbít zeď. Hra na schovávanou nekončí. Nově chce Babiš do obranných výdajů zahrnout nemocnici</description>
-      <guid isPermaLink="false">f5b3ad70-0a55-381f-b4d7-2e33d4f7f44b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/08310d34-02f1-4ce0-8b13-96d11a23ff3f.mp3" length="37554093" type="audio/mpeg"/>
-      <pubDate>Fri, 01 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1565</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Evropský odklon od appeasmentu čili podlézt, ale narovnat se! Napětí kolem sněmu Sudetských Němců v Čechách narůstá. Odchod Emirátů, začátek konce OPEC? Elon Musk a Sam Altman jdou prát špinavé prádlo. Smím prosit? Proč Hampl odmítá rozpočtový valčík. Jaká debata o hodnotách a pragmatismu v politice má dnes smysl</description>
-      <guid isPermaLink="false">bbd68fbe-a41c-334e-b6e4-20071942cbf6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bc249543-ab9a-4adc-bf36-e90717e0c6b1.mp3" length="35658477" type="audio/mpeg"/>
-      <pubDate>Sat, 02 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1486</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>I Češi už objevili kouzlo silných a charismatických vůdců. Ministryně Zuzana Mrázová jako perfektní studijní materiál. Maduro padl, narkobyznys zůstává: proč se ve Venezuele nic zásadního nezměnilo. Longevity vlak na kolejích. Den české nebo československé vlajky? Malé velké volby v Palestině</description>
@@ -80,12 +64,20 @@
       <itunes:duration>1547</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Učebnicový příklad populismu; Hlavním a nejtěžším úkolem premiéra Magyara je nastolit v Maďarsku spravedlnost; Zcela bezdůvodný pardon Bělorusku; CSG jako na houpačce; Vykřesá Vladimír Špidla z popela novou sociální demokracii?; Návštěva u sousedů s českými zákusky</description>
       <guid isPermaLink="false">b84aae89-1e3c-3446-8d5a-d02d432cb95d</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/05368d24-f402-48ac-a43f-854b711faa83.mp3" length="36982701" type="audio/mpeg"/>
-      <pubDate>Sun, 10 May 2026 10:34:00 +0000</pubDate>
+      <pubDate>Sun, 10 May 2026 11:13:00 +0000</pubDate>
       <itunes:duration>1541</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Kde by premiér Andrej Babiš rozhodně neměl mít zpoždění. Vítězem války v Íránu jsou výrobci potrubí. Co nás čeká ve stáří aneb Zapomeňte na důchody. Co se (ne)stalo na přehlídce v Moskvě. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">48df6357-9f33-35c1-80ad-8fc3a893d701</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/41e27c80-226e-4f66-9c2b-fdb9d14294da.mp3" length="37360557" type="audio/mpeg"/>
+      <pubDate>Mon, 11 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
