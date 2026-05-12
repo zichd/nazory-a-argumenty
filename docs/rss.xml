@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 11 May 2026 13:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 13:14:08 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>I Češi už objevili kouzlo silných a charismatických vůdců. Ministryně Zuzana Mrázová jako perfektní studijní materiál. Maduro padl, narkobyznys zůstává: proč se ve Venezuele nic zásadního nezměnilo. Longevity vlak na kolejích. Den české nebo československé vlajky? Malé velké volby v Palestině</description>
-      <guid isPermaLink="false">4ff717b5-b393-378a-883c-db2f58d8161e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2098f710-1efa-406f-b511-29eff2f773ef.mp3" length="37679085" type="audio/mpeg"/>
-      <pubDate>Sun, 03 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1570</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
       <description>Ministryně Alena Schillerová připravuje dluhovou spirálu. Bude mobilizace. Nebo nebude. Sečteno, podtrženo. Péter Magyar je především Maďar. V jeho sporu s Ficem musí být Česko ve střehu. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/41e27c80-226e-4f66-9c2b-fdb9d14294da.mp3" length="37360557" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Ústavní soud není od toho, aby politikům vyhrával jejich bitvy. Včerejší strach. Izraelci mluví o novém Eichmannově procesu. Fico v Moskvě. Kaczyńskému se drolí strana PiS i celá pravice. A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">25f4d98a-7341-3b89-8b06-53274ac512b8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e2a07d19-c486-438c-b716-60aff7196602.mp3" length="37469421" type="audio/mpeg"/>
+      <pubDate>Tue, 12 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
