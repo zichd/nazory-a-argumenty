@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 14 May 2026 13:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:02:03 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
-      <description>Nejpřísnější, jak to jen může být. Babiš nechal v kauze Čapí hnízdo Nagyovou samotnou. Kancléř Merz rok poté. Trump jako hipík. Klidně. Liberální demokracie obvykle umírá tiše. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">d153c956-bd5a-3bf3-be12-4f45ce89c4c1</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3fb6da15-af2e-43cc-9c52-74f602223864.mp3" length="37440621" type="audio/mpeg"/>
-      <pubDate>Wed, 06 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Májové paradoxy. Papež Lev XIV., rok první. Ruský vládce a rozmnožovatel v jedné osobě. Článek 42 (7) nestačí, aby EU byla připravena na válku. To si pište! Babiš nechal v kauze Čapí hnízdo Nagyovou samotnou</description>
@@ -78,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fcd6f464-0566-460b-b190-6a6238f579a6.mp3" length="37304685" type="audio/mpeg"/>
       <pubDate>Thu, 14 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1554</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Benešovy dekrety poškozují Českou republiku. Lovecká sezóna Martina Kuby začíná. Dva odchody ruských postav z lepších časů. Nápad se Schröderem coby zprostředkovatelem míru má rozdělit Německo. Stánky</description>
+      <guid isPermaLink="false">4cffe935-1684-38d7-9c77-0b7384a32736</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fcaaebb6-3f9b-4842-a638-4bd53436dfbe.mp3" length="37437741" type="audio/mpeg"/>
+      <pubDate>Fri, 15 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
