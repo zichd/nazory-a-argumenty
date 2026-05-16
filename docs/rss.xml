@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 15 May 2026 13:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 12:01:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -78,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fcaaebb6-3f9b-4842-a638-4bd53436dfbe.mp3" length="37437741" type="audio/mpeg"/>
       <pubDate>Fri, 15 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
+      <description>Trump ztrácí trpělivost s Kubou, ostrov už měl dávno padnout; Kdo rozhoduje o blokaci internetu v Rusku?; Jeroným Tejc chystá „paragraf Babiš“. Ten má šéfovi ANO pomoci vyklouznout z kauzy Čapí hnízdo; Změna nálad v Sillicon Valley</description>
+      <guid isPermaLink="false">20a44b3b-c8dd-3238-91c9-d4aadb2a2b80</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/977f4a88-fa22-43fb-abc9-527d339d0b4a.mp3" length="36980973" type="audio/mpeg"/>
+      <pubDate>Sat, 16 May 2026 11:09:00 +0000</pubDate>
+      <itunes:duration>1541</itunes:duration>
     </item>
   </channel>
 </rss>
