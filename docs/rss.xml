@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 17 May 2026 12:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 14:36:56 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Kam nás vede válka mezi premiérem a prezidentem; Den vítězství; Evropa a mír: nic z toho není samozřejmé; Jakub Landovský se jako vládní zmocněnec pro NATO jeví jako dobrá volba, lepší než jiné...</description>
-      <guid isPermaLink="false">e8731571-042e-3bd8-871d-5f0c4df41ccb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/81c7b207-1265-4af0-851b-1196bdb010a4.mp3" length="37120365" type="audio/mpeg"/>
-      <pubDate>Sat, 09 May 2026 11:08:00 +0000</pubDate>
-      <itunes:duration>1547</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Učebnicový příklad populismu; Hlavním a nejtěžším úkolem premiéra Magyara je nastolit v Maďarsku spravedlnost; Zcela bezdůvodný pardon Bělorusku; CSG jako na houpačce; Vykřesá Vladimír Špidla z popela novou sociální demokracii?; Návštěva u sousedů s českými zákusky</description>
-      <guid isPermaLink="false">b84aae89-1e3c-3446-8d5a-d02d432cb95d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/05368d24-f402-48ac-a43f-854b711faa83.mp3" length="36982701" type="audio/mpeg"/>
-      <pubDate>Sun, 10 May 2026 11:13:00 +0000</pubDate>
-      <itunes:duration>1541</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Kde by premiér Andrej Babiš rozhodně neměl mít zpoždění. Vítězem války v Íránu jsou výrobci potrubí. Co nás čeká ve stáří aneb Zapomeňte na důchody. Co se (ne)stalo na přehlídce v Moskvě. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -86,6 +70,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5d92aa05-9e40-4db8-bfd0-8936fbbbfadc.mp3" length="35162541" type="audio/mpeg"/>
       <pubDate>Sun, 17 May 2026 11:06:00 +0000</pubDate>
       <itunes:duration>1465</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
+      <description>Platí i pro Slovensko zásada Babišovy vlády dělat jen pragmatickou zahraniční politiku? Snyder v Praze. Tanec čísel. Statečná žena Nina Litvinovová. Čínské automobilky útočí. A na konec glosa Ondřeje Neffa. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">9185a8bb-f4b9-3bd4-bf16-6269fd104412</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4155b4b0-2176-4cea-a10c-970c999c7968.mp3" length="37473453" type="audio/mpeg"/>
+      <pubDate>Mon, 18 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
