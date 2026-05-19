@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 18 May 2026 14:36:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 14:05:07 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -78,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4155b4b0-2176-4cea-a10c-970c999c7968.mp3" length="37473453" type="audio/mpeg"/>
       <pubDate>Mon, 18 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Na lepší známku než trojku Pavel při dnešním rozdělení společnosti pomýšlet nemohl. Američtí muslimové v šoku po útoku v San Diegu. Čínské automobilky útočí. Francouzští spisovatelé se postavili krajně pravicovému miliardáři. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">962d4c0a-6a87-3799-87e0-d968648d1474</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/94d22aad-e716-4384-9892-e37490bdb787.mp3" length="37340397" type="audio/mpeg"/>
+      <pubDate>Tue, 19 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
