@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 19 May 2026 14:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 13:44:44 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Kde by premiér Andrej Babiš rozhodně neměl mít zpoždění. Vítězem války v Íránu jsou výrobci potrubí. Co nás čeká ve stáří aneb Zapomeňte na důchody. Co se (ne)stalo na přehlídce v Moskvě. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">48df6357-9f33-35c1-80ad-8fc3a893d701</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/41e27c80-226e-4f66-9c2b-fdb9d14294da.mp3" length="37360557" type="audio/mpeg"/>
-      <pubDate>Mon, 11 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Ústavní soud není od toho, aby politikům vyhrával jejich bitvy. Včerejší strach. Izraelci mluví o novém Eichmannově procesu. Fico v Moskvě. Kaczyńskému se drolí strana PiS i celá pravice. A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/94d22aad-e716-4384-9892-e37490bdb787.mp3" length="37340397" type="audio/mpeg"/>
       <pubDate>Tue, 19 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Vyšší rodičovský příspěvek. Není to málo? Ministr Zůna – sám voják v politickém poli. Evropa stojí před volbou stát se hráčem, nebo být jen hřištěm. Jak skončil soud Musk versus Open AI. Gerhard Schröder jako Putinovo šidítko. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">789a1156-51e1-35fe-9728-6702fb4cefc9</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d0864d55-3c5d-4fb5-a0c4-edabd540158d.mp3" length="37467117" type="audio/mpeg"/>
+      <pubDate>Wed, 20 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
