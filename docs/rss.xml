@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 20 May 2026 13:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 14:16:37 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Ústavní soud není od toho, aby politikům vyhrával jejich bitvy. Včerejší strach. Izraelci mluví o novém Eichmannově procesu. Fico v Moskvě. Kaczyńskému se drolí strana PiS i celá pravice. A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">25f4d98a-7341-3b89-8b06-53274ac512b8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e2a07d19-c486-438c-b716-60aff7196602.mp3" length="37469421" type="audio/mpeg"/>
-      <pubDate>Tue, 12 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Před zhroucením? Důchody jsou stabilní jako nikdy. Co věští čísla americké inflace. Pokrytectví kolem nedohraného fotbalového derby v Edenu. Sudetští Němci: pekelná karta české politiky. Americké strany radši překreslují volební okrsky, než aby přesvědčovaly voliče</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d0864d55-3c5d-4fb5-a0c4-edabd540158d.mp3" length="37467117" type="audio/mpeg"/>
       <pubDate>Wed, 20 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Majestát Říše středu. Putin v Číně. Levice v USA řeší, jak naložit s někdejšími Trumpovými spojenci, nynějšími kritiky. Premiérova flotila vládních zmocněnců. Proč Babiš kličkuje v otázce zákona o veřejnoprávních médiích. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">e28818c5-f061-3aa4-9100-275517ce6425</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/538a496dfa430a1b41c9e114beb87483.mp3" length="36860544" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1536</itunes:duration>
     </item>
   </channel>
 </rss>
