@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 21 May 2026 14:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:36:26 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
-      <description>Před zhroucením? Důchody jsou stabilní jako nikdy. Co věští čísla americké inflace. Pokrytectví kolem nedohraného fotbalového derby v Edenu. Sudetští Němci: pekelná karta české politiky. Americké strany radši překreslují volební okrsky, než aby přesvědčovaly voliče</description>
-      <guid isPermaLink="false">9a29c092-a72c-316e-ac50-be0a14a0c146</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1cc2a23c-dce6-46c0-8097-dc1e7bead1f8.mp3" length="37467117" type="audio/mpeg"/>
-      <pubDate>Wed, 13 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Sněmovna a rozpočtová pravidla. Jak Česko přichází o spojence. Koalice nedrží pohromadě a Babiš marně hledá lepidlo. Žádná dohoda o Donbasu podle Trumpa není. Poptávka po vyrovnání s minulostí. V Sýrii</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/538a496dfa430a1b41c9e114beb87483.mp3" length="36860544" type="audio/mpeg"/>
       <pubDate>Thu, 21 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1536</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Armáda podle Babiše. Hon na větrníky české ekonomice nepomůže. Chodorkovskij vytyčil úkoly ruského exilu. Jiřina Šiklová, socioložka s vervou. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">350bc287-bae3-3d3f-a1a6-cac851aa604c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ccecb010-91b8-4fae-a1b0-2839cb1d43e3.mp3" length="37431981" type="audio/mpeg"/>
+      <pubDate>Fri, 22 May 2026 11:07:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
