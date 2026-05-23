@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 22 May 2026 13:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 12:06:00 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -86,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ccecb010-91b8-4fae-a1b0-2839cb1d43e3.mp3" length="37431981" type="audio/mpeg"/>
       <pubDate>Fri, 22 May 2026 11:07:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Po Vítězství, Polsko-maďarské sblížení a Praha je zatím ze hry, Pomalé přemýšlení v rychlých Cannes, Udělá vláda něco pro vyšší mzdy?</description>
+      <guid isPermaLink="false">2d942396-9de3-3099-915a-b8b2869dfd56</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c504c9b8-694a-4f54-81c8-8aefe6d9ee16.mp3" length="36561645" type="audio/mpeg"/>
+      <pubDate>Sat, 23 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1523</itunes:duration>
     </item>
   </channel>
 </rss>
