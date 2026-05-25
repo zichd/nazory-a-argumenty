@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 24 May 2026 12:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 14:16:03 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Benešovy dekrety poškozují Českou republiku. Lovecká sezóna Martina Kuby začíná. Dva odchody ruských postav z lepších časů. Nápad se Schröderem coby zprostředkovatelem míru má rozdělit Německo. Stánky</description>
-      <guid isPermaLink="false">4cffe935-1684-38d7-9c77-0b7384a32736</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fcaaebb6-3f9b-4842-a638-4bd53436dfbe.mp3" length="37437741" type="audio/mpeg"/>
-      <pubDate>Fri, 15 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
-      <description>Trump ztrácí trpělivost s Kubou, ostrov už měl dávno padnout; Kdo rozhoduje o blokaci internetu v Rusku?; Jeroným Tejc chystá „paragraf Babiš“. Ten má šéfovi ANO pomoci vyklouznout z kauzy Čapí hnízdo; Změna nálad v Sillicon Valley</description>
-      <guid isPermaLink="false">20a44b3b-c8dd-3238-91c9-d4aadb2a2b80</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/977f4a88-fa22-43fb-abc9-527d339d0b4a.mp3" length="36980973" type="audio/mpeg"/>
-      <pubDate>Sat, 16 May 2026 11:09:00 +0000</pubDate>
-      <itunes:duration>1541</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
       <description>Vláda už popírá nejen vlastní sliby, ale i význam slov; Vládní koalice si rozdělila úkoly i stát; Macron v Keni aneb Jak Francie přichází o Afriku; Příští víkend se v Brně koná velký krajanský festival. Zkusme ho už nezkazit; Veřejný prostor a politická kultura</description>
@@ -94,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/630bf860-2447-4e74-a6cc-e7b5e93fc2c7.mp3" length="36362349" type="audio/mpeg"/>
       <pubDate>Sun, 24 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1515</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
+      <description>Z draze zaplacené ukrajinské zkušenosti se Česko nijak neučí. USA vzdávají jednání o míru na Ukrajině. Testy se nemusejí líbit učitelům ani rodičům, měly by ale pomoci dětem. Visegrád bez Prahy a Bratislavy. Magyar a Tusk dali Fica a Babiše na vedlejší kolej. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">1865640d-b137-3133-8f95-6a7931288ed7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e3d3ed8f-9bff-4f40-a0cb-1d30d3742e2c.mp3" length="37337517" type="audio/mpeg"/>
+      <pubDate>Mon, 25 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
