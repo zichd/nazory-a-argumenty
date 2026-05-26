@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 25 May 2026 14:16:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:09:10 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
-      <description>Vláda už popírá nejen vlastní sliby, ale i význam slov; Vládní koalice si rozdělila úkoly i stát; Macron v Keni aneb Jak Francie přichází o Afriku; Příští víkend se v Brně koná velký krajanský festival. Zkusme ho už nezkazit; Veřejný prostor a politická kultura</description>
-      <guid isPermaLink="false">6c69580c-765b-36ac-aa62-86f6af63591a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5d92aa05-9e40-4db8-bfd0-8936fbbbfadc.mp3" length="35162541" type="audio/mpeg"/>
-      <pubDate>Sun, 17 May 2026 11:06:00 +0000</pubDate>
-      <itunes:duration>1465</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
       <description>Platí i pro Slovensko zásada Babišovy vlády dělat jen pragmatickou zahraniční politiku? Snyder v Praze. Tanec čísel. Statečná žena Nina Litvinovová. Čínské automobilky útočí. A na konec glosa Ondřeje Neffa. Moderuje Petr Schwarz.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e3d3ed8f-9bff-4f40-a0cb-1d30d3742e2c.mp3" length="37337517" type="audio/mpeg"/>
       <pubDate>Mon, 25 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>V přístupu k Ukrajincům vláda tancuje, jak Okamura píská. Když opozice pracuje pro vládu – turecký případ. Baxovo zlověstné varování nad trhlinami doby. Space X. Nejočekávanější burzovní premiéra všech dob. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">420c934d-0028-3d13-9d9a-e09e8e9478bd</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/65a9765f-1a55-46ca-8d6f-5c029e03704c.mp3" length="36945837" type="audio/mpeg"/>
+      <pubDate>Tue, 26 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1539</itunes:duration>
     </item>
   </channel>
 </rss>
