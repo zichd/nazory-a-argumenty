@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 26 May 2026 14:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 14:32:20 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
-      <description>Platí i pro Slovensko zásada Babišovy vlády dělat jen pragmatickou zahraniční politiku? Snyder v Praze. Tanec čísel. Statečná žena Nina Litvinovová. Čínské automobilky útočí. A na konec glosa Ondřeje Neffa. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">9185a8bb-f4b9-3bd4-bf16-6269fd104412</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4155b4b0-2176-4cea-a10c-970c999c7968.mp3" length="37473453" type="audio/mpeg"/>
-      <pubDate>Mon, 18 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Na lepší známku než trojku Pavel při dnešním rozdělení společnosti pomýšlet nemohl. Američtí muslimové v šoku po útoku v San Diegu. Čínské automobilky útočí. Francouzští spisovatelé se postavili krajně pravicovému miliardáři. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/65a9765f-1a55-46ca-8d6f-5c029e03704c.mp3" length="36945837" type="audio/mpeg"/>
       <pubDate>Tue, 26 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1539</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Quo vadis, státní rozpočtová politiko? Evropská komise nesdílí Babišův názor ohledně vyřešení jeho konfliktu zájmů. Kam vystřelí SpaceX? Jak Andrej Babiš a Tünde Bartha započali rozklad českých adiktologických služeb. Kancléř Merz ztratil trpělivost. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">0331baf0-800e-3edd-9156-075a91763d34</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2d277836-a479-4a74-84a4-0b4a42320fab.mp3" length="37218861" type="audio/mpeg"/>
+      <pubDate>Wed, 27 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
