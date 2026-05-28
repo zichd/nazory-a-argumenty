@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 27 May 2026 14:32:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 14:44:19 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Na lepší známku než trojku Pavel při dnešním rozdělení společnosti pomýšlet nemohl. Američtí muslimové v šoku po útoku v San Diegu. Čínské automobilky útočí. Francouzští spisovatelé se postavili krajně pravicovému miliardáři. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">962d4c0a-6a87-3799-87e0-d968648d1474</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/94d22aad-e716-4384-9892-e37490bdb787.mp3" length="37340397" type="audio/mpeg"/>
-      <pubDate>Tue, 19 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Vyšší rodičovský příspěvek. Není to málo? Ministr Zůna – sám voják v politickém poli. Evropa stojí před volbou stát se hráčem, nebo být jen hřištěm. Jak skončil soud Musk versus Open AI. Gerhard Schröder jako Putinovo šidítko. Moderuje Ondřej Konrád.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2d277836-a479-4a74-84a4-0b4a42320fab.mp3" length="37218861" type="audio/mpeg"/>
       <pubDate>Wed, 27 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1551</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
+      <description>Nový šéf armády do nejistých časů. Prezident, Ústavní soud ani Ústava demokracii nezaručí. Macinka odmítl setkání Pavla se Söderem. Místo míru pěstuje rozeštvávající zahraniční politiku. Ruské výhrůžky Arménii. Umělá inteligence pod papežským drobnohledem. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">56c1db62-752f-33d4-84d9-b04b03008740</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/824796c9-3626-4be3-aba0-7c90180c504a.mp3" length="37241901" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
