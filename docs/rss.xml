@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 28 May 2026 14:44:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 14:13:41 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Vyšší rodičovský příspěvek. Není to málo? Ministr Zůna – sám voják v politickém poli. Evropa stojí před volbou stát se hráčem, nebo být jen hřištěm. Jak skončil soud Musk versus Open AI. Gerhard Schröder jako Putinovo šidítko. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">789a1156-51e1-35fe-9728-6702fb4cefc9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d0864d55-3c5d-4fb5-a0c4-edabd540158d.mp3" length="37467117" type="audio/mpeg"/>
-      <pubDate>Wed, 20 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Majestát Říše středu. Putin v Číně. Levice v USA řeší, jak naložit s někdejšími Trumpovými spojenci, nynějšími kritiky. Premiérova flotila vládních zmocněnců. Proč Babiš kličkuje v otázce zákona o veřejnoprávních médiích. Moderuje Kamila Pešeková.</description>
@@ -86,6 +78,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/824796c9-3626-4be3-aba0-7c90180c504a.mp3" length="37241901" type="audio/mpeg"/>
       <pubDate>Thu, 28 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Janem Fingerlandem</title>
+      <description>Máme šanci vypořádat se sami se sebou. Alena Schillerová chce omotat advokáty kolem nenechavých prstů státu. Nepodařená premiéra Ferrari. Záhadný text o užitečnosti ruských krachů. A na konec glosa Evy Turnové. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">18ea12a6-32af-3b2d-a902-d9cd32f3e2f7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0ea42703-1d5c-4dd4-8fce-c1f7735df8f3.mp3" length="37300077" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1554</itunes:duration>
     </item>
   </channel>
 </rss>
