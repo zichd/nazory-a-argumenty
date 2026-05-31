@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 30 May 2026 12:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 12:18:15 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>Majestát Říše středu. Putin v Číně. Levice v USA řeší, jak naložit s někdejšími Trumpovými spojenci, nynějšími kritiky. Premiérova flotila vládních zmocněnců. Proč Babiš kličkuje v otázce zákona o veřejnoprávních médiích. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">e28818c5-f061-3aa4-9100-275517ce6425</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/538a496dfa430a1b41c9e114beb87483.mp3" length="36860544" type="audio/mpeg"/>
-      <pubDate>Thu, 21 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1536</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Armáda podle Babiše. Hon na větrníky české ekonomice nepomůže. Chodorkovskij vytyčil úkoly ruského exilu. Jiřina Šiklová, socioložka s vervou. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -94,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2f51e324-c796-4af1-a09f-c7da3cf8cddc.mp3" length="36792621" type="audio/mpeg"/>
       <pubDate>Sat, 30 May 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1533</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
+      <description>Mnozí Argentinci si musejí půjčovat na jídlo, prezident Milei ztrácí body, Jak porazit populisty?, Zlomové volby z jara 96, Nepohodlná pravda, Zlatý Fjord pod palmou a pod palbou</description>
+      <guid isPermaLink="false">d356cfd6-52b0-3117-81f2-de31fbd9197a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cee3d477-500e-45c1-9788-f49089114b2c.mp3" length="37389933" type="audio/mpeg"/>
+      <pubDate>Sun, 31 May 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
