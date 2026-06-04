@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 03 Jun 2026 15:52:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:08:30 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -102,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7ea22ce0-f61a-47e5-893b-c266fb63cdee.mp3" length="38169261" type="audio/mpeg"/>
       <pubDate>Wed, 03 Jun 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1590</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
+      <description>Trump jde od porážky k porážce, republikáni mají obavy z voleb do Kongresu. Babiš neví, co si počít s packaly ve vládě. Jak razantní jsou ukrajinské odvetné údery? Jak a kam porosteme s českým Trumpem? Francouzské prázdniny. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">3a163dfe-356c-3a8c-b89b-43402b76c21a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/53f173fa-1aac-48ee-ad90-979f0fa8a71e.mp3" length="38203821" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jun 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1592</itunes:duration>
     </item>
   </channel>
 </rss>
