@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 06 Jun 2026 12:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 12:48:08 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
-      <description>Z draze zaplacené ukrajinské zkušenosti se Česko nijak neučí. USA vzdávají jednání o míru na Ukrajině. Testy se nemusejí líbit učitelům ani rodičům, měly by ale pomoci dětem. Visegrád bez Prahy a Bratislavy. Magyar a Tusk dali Fica a Babiše na vedlejší kolej. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">1865640d-b137-3133-8f95-6a7931288ed7</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/351a4444-c3e3-42da-8729-fb6c3ff0da6f.mp3" length="38068461" type="audio/mpeg"/>
-      <pubDate>Mon, 25 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1586</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>V přístupu k Ukrajincům vláda tancuje, jak Okamura píská. Když opozice pracuje pro vládu – turecký případ. Baxovo zlověstné varování nad trhlinami doby. Space X. Nejočekávanější burzovní premiéra všech dob. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">420c934d-0028-3d13-9d9a-e09e8e9478bd</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/81a29120-ea93-46ed-ad04-defa8b79042a.mp3" length="37676781" type="audio/mpeg"/>
-      <pubDate>Tue, 26 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1570</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Quo vadis, státní rozpočtová politiko? Evropská komise nesdílí Babišův názor ohledně vyřešení jeho konfliktu zájmů. Kam vystřelí SpaceX? Jak Andrej Babiš a Tünde Bartha započali rozklad českých adiktologických služeb. Kancléř Merz ztratil trpělivost. Moderuje Ondřej Konrád.</description>
@@ -112,12 +96,20 @@
       <itunes:duration>1588</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Babiš v novém boji s Bruselem o agrofertí dotace může ztratit poslední zábrany, Magyar dosáhl v Zakarpatsku svého a přestal blokovat Ukrajinu v EU, Proměna Ukrajiny z žáka na učitele evropské obrany, Reportéři bez hranic varují: svoboda tisku ve světě je čím dál víc ohrožena. Šíří se autoritářství</description>
       <guid isPermaLink="false">792bdaf3-1dc6-3067-aee3-cc059d836ed9</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bf88b62a-0b04-4770-89de-b4f2e398a00f.mp3" length="38205549" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Jun 2026 10:33:00 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1592</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Nenávist k jiným začíná odmítáním solidarity, Jak jednat s lidmi, kterým nedůvěřujete, Proč Babiš a spol. rozbíjí to, co dobře funguje, Občas americký Kongres hlasuje o válce, občas to jen předstírá, Zemřela Marjane Satrapiová, velvyslankyně Persie ve světě, Grolichovy podzimní testy</description>
+      <guid isPermaLink="false">d98295b5-1266-31cc-b59a-dbb567f02d99</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7a70635b-40d2-4fe2-a21f-188e26dfb52b.mp3" length="36925101" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Jun 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1539</itunes:duration>
     </item>
   </channel>
 </rss>
