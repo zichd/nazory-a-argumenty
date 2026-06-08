@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 07 Jun 2026 12:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 14:51:17 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Quo vadis, státní rozpočtová politiko? Evropská komise nesdílí Babišův názor ohledně vyřešení jeho konfliktu zájmů. Kam vystřelí SpaceX? Jak Andrej Babiš a Tünde Bartha započali rozklad českých adiktologických služeb. Kancléř Merz ztratil trpělivost. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">0331baf0-800e-3edd-9156-075a91763d34</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6241ff3b-d565-46d3-b685-d53a260f2850.mp3" length="37949805" type="audio/mpeg"/>
-      <pubDate>Wed, 27 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1581</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Schwarzem</title>
-      <description>Nový šéf armády do nejistých časů. Prezident, Ústavní soud ani Ústava demokracii nezaručí. Macinka odmítl setkání Pavla se Söderem. Místo míru pěstuje rozeštvávající zahraniční politiku. Ruské výhrůžky Arménii. Umělá inteligence pod papežským drobnohledem. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">56c1db62-752f-33d4-84d9-b04b03008740</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/486baa6f-c9a0-413e-8246-7ffb6094e491.mp3" length="37972845" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1582</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Janem Fingerlandem</title>
       <description>Máme šanci vypořádat se sami se sebou. Alena Schillerová chce omotat advokáty kolem nenechavých prstů státu. Nepodařená premiéra Ferrari. Záhadný text o užitečnosti ruských krachů. A na konec glosa Evy Turnové. Moderuje Jan Fingerland.</description>
@@ -107,9 +91,17 @@
       <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
       <description>Nenávist k jiným začíná odmítáním solidarity, Jak jednat s lidmi, kterým nedůvěřujete, Proč Babiš a spol. rozbíjí to, co dobře funguje, Občas americký Kongres hlasuje o válce, občas to jen předstírá, Zemřela Marjane Satrapiová, velvyslankyně Persie ve světě, Grolichovy podzimní testy</description>
       <guid isPermaLink="false">d98295b5-1266-31cc-b59a-dbb567f02d99</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7a70635b-40d2-4fe2-a21f-188e26dfb52b.mp3" length="36925101" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e49af8a2-753b-4000-a8f6-daecd0564242.mp3" length="37656045" type="audio/mpeg"/>
       <pubDate>Sun, 07 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1539</itunes:duration>
+      <itunes:duration>1569</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Návrh státního rozpočtu uvidí veřejnost až v srpnu, jako za minulé vlády. Volby v Arménii ukázaly, že Rusko ztrácí cenné pozice. Lepší „penzijko“ čeká souboj o poplatky. Jak dopadne ve Sněmovně? Maďarský premiér se zbavuje Orbánových lidí. Prezident ale odejít nehodlá. Co tam vlastně dělají</description>
+      <guid isPermaLink="false">af209380-80a5-323d-8b0e-32c257e0bf5a</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4fc8f1af-aab4-4055-a6a0-8d39e6d59215.mp3" length="38014317" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jun 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1584</itunes:duration>
     </item>
   </channel>
 </rss>
