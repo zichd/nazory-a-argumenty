@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 10 Jun 2026 14:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 14:51:08 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
-      <description>Jak porazit populisty?, Zlomové volby z jara 96, Nepohodlná pravda, Zlatý Fjord pod palmou a pod palbou</description>
-      <guid isPermaLink="false">d356cfd6-52b0-3117-81f2-de31fbd9197a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2e13af25-02dd-47a2-8a54-bdc6510a40f2.mp3" length="38120877" type="audio/mpeg"/>
-      <pubDate>Sun, 31 May 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1588</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
       <description>Ne, velké zadlužení státu na investice nepřinese kýžený růst HDP. Co znamená růst počtu podnikatelů? Jak to bude dál s reakcí na pád dronu na dům v Rumunsku? Mnozí Argentinci si musejí půjčovat na jídlo, prezident Milei ztrácí body. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1bf595cd-cf96-4158-a1b3-13be1df095dc.mp3" length="38168685" type="audio/mpeg"/>
       <pubDate>Wed, 10 Jun 2026 10:34:00 +0000</pubDate>
       <itunes:duration>1590</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
+      <description>Konec války mezi USA a Íránem se vzdaluje. Smrt v Belfastu. Ve sporu o summit jde o prezidentskou volbu. Bulharsko skončilo s podporou Ukrajiny. Zkratky nefungují. Ani v podnikání</description>
+      <guid isPermaLink="false">591582e9-fc91-3014-bd2c-2002abc9c212</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/09cd0228-98e8-47bd-9119-d062897a5bd9.mp3" length="38131821" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jun 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1589</itunes:duration>
     </item>
   </channel>
 </rss>
