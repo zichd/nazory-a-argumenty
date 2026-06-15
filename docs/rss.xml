@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 14 Jun 2026 13:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:22:26 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Nic než koruna. Svatý grál nedůvěřivého národa. Okamurův boj za celostátní referendum pokračuje. Vědomí umělé inteligence. Vídeňské státní školy aneb Srážka s multikulturní realitou. Předčasné horko ve Francii. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">cafda38d-be4a-3a15-85c5-edca6c1760aa</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7ea22ce0-f61a-47e5-893b-c266fb63cdee.mp3" length="38169261" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1590</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
-      <description>Trump jde od porážky k porážce, republikáni mají obavy z voleb do Kongresu. Babiš neví, co si počít s packaly ve vládě. Jak razantní jsou ukrajinské odvetné údery? Jak a kam porosteme s českým Trumpem? Francouzské prázdniny. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">3a163dfe-356c-3a8c-b89b-43402b76c21a</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/53f173fa-1aac-48ee-ad90-979f0fa8a71e.mp3" length="38203821" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1592</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Konec Knihovny Václava Havla. Co měl Miloš Vystrčil v batohu. Británie bojuje s rasistickým antirasismem. Hlas z exilu: Rusko i bez Putina nejspíše zůstane zlem. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -110,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/74ee492f-e4db-4a41-8a49-c0604bc1892b.mp3" length="38202093" type="audio/mpeg"/>
       <pubDate>Sun, 14 Jun 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1592</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Plíživá proměna státu. Příprava státního rozpočtu je v plném proudu, splnění pravidel nezaručuje takřka nic. Summit NATO v Ankaře se pokusí jinak nastavit vztahy USA a Evropy. Ukrajina a Moldavsko začínají jednat o vstupu do EU. Zvuk romantické struny</description>
+      <guid isPermaLink="false">be5858b2-44ba-3304-b77c-05715e6f3644</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5cb7f4a9-3c61-4f49-934d-a8fa4682dd19.mp3" length="37974573" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jun 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1582</itunes:duration>
     </item>
   </channel>
 </rss>
