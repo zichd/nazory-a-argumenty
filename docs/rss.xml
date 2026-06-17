@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 16 Jun 2026 16:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 14:28:15 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Babiš v novém boji s Bruselem o agrofertí dotace může ztratit poslední zábrany, Magyar dosáhl v Zakarpatsku svého a přestal blokovat Ukrajinu v EU, Proměna Ukrajiny z žáka na učitele evropské obrany, Reportéři bez hranic varují: svoboda tisku ve světě je čím dál víc ohrožena. Šíří se autoritářství</description>
-      <guid isPermaLink="false">792bdaf3-1dc6-3067-aee3-cc059d836ed9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b8f39936-6b78-49cb-8f10-f78803ad8021.mp3" length="37474605" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
       <description>Nenávist k jiným začíná odmítáním solidarity, Jak jednat s lidmi, kterým nedůvěřujete, Proč Babiš a spol. rozbíjí to, co dobře funguje, Občas americký Kongres hlasuje o válce, občas to jen předstírá, Zemřela Marjane Satrapiová, velvyslankyně Persie ve světě, Grolichovy podzimní testy</description>
@@ -102,6 +94,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/1aabe1a59590eeec916ca6c96f0231df.mp3" length="37207296" type="audio/mpeg"/>
       <pubDate>Tue, 16 Jun 2026 10:33:00 +0000</pubDate>
       <itunes:duration>1550</itunes:duration>
+    </item>
+    <item>
+      <title>Americká vesmírná společnost SpaceX vstoupila na burzu</title>
+      <description>Protidrogová politika bude patřit pod ministerstvo zdravotnictví. Minulost opět rozděluje Poláky a Ukrajince.Těmto a dalším tématům se věnují komentátoři v dnešním vydání pořadu Názory a argumenty. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">b2091dfa-8ced-3eb4-8929-1109744b95ef</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4fdaad47-70a5-4c4f-8d71-f185aa48bf75.mp3" length="37224621" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 16:33:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>„Sliby chyby“ by pro Babišovu vládu někdy nebyly na škodu. Nová realita. Benzín může být brzy za 35 korun. Írán vyhrál. Kdo tedy prohrál? Černá můra Francouzů ohledně prezidentských voleb. Americká AI. Nic než národ</description>
+      <guid isPermaLink="false">3f3c3f3e-b57f-3b34-9a1b-f9665f9f8d8c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/544681a3-b8b2-45d4-a9ba-9444ac6a33b7.mp3" length="37220589" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
