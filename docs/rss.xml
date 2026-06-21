@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 20 Jun 2026 12:57:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 13:16:56 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>SPD se hodí role oběti justiční cenzury i vládního kverulanta. Spor o Ankaru na pokračování. (Ne)klid zbraní mezi Íránem, Izraelem a USA. Migrační pakt začne platit už 12. června. Evropská humanita se však ocitá v troskách. Chvála pražské dopravy</description>
-      <guid isPermaLink="false">2390169a-f6cf-39f7-9774-f9a32a4f4733</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8288e5e0-b704-4d2e-b1e0-fdde558de984.mp3" length="37222893" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Jun 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
-      <description>Dvacet miliard kouzelníkům s čísly. Spor o prezidentské pravomoci by se mohl z vlády přesunout k Ústavnímu soudu. Čí taktika je úspěšnější. Česká kulturní centra v existenčním ohrožení. Úsvit nelidských korporací</description>
-      <guid isPermaLink="false">8cc37ad4-5b1b-3d96-bf4f-2cd59f4f474c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/924a10ae-ae78-4e08-b93f-db5e17f5a1e8.mp3" length="37437741" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Jun 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
       <description>Konec války mezi USA a Íránem se vzdaluje. Smrt v Belfastu. Ve sporu o summit jde o prezidentskou volbu. Bulharsko skončilo s podporou Ukrajiny. Zkratky nefungují. Ani v podnikání</description>
@@ -118,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/faed879a-fad8-442b-a2fb-acc743844d4f.mp3" length="36491373" type="audio/mpeg"/>
       <pubDate>Sat, 20 Jun 2026 11:08:00 +0000</pubDate>
       <itunes:duration>1520</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
+      <description>Prohraje v Praze v barvách ANO šplhoun Prokop nebo králík z klobouku?; Česko hříčné loni i letos; Motoristé testují, co všechno jim ještě projde; Čtyřicet let od aféry, která změnila Rakousko; Oživlý Maradona v TV: Komu patří po smrti naše identita?</description>
+      <guid isPermaLink="false">4d6c561f-9ea8-3c9a-b1e5-b798cb6cbcff</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0bd75839-ed33-400a-ac95-55156fbd7d57.mp3" length="35789229" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 11:13:00 +0000</pubDate>
+      <itunes:duration>1491</itunes:duration>
     </item>
   </channel>
 </rss>
