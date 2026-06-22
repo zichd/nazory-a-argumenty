@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 21 Jun 2026 13:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:58:41 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
-      <description>Konec války mezi USA a Íránem se vzdaluje. Smrt v Belfastu. Ve sporu o summit jde o prezidentskou volbu. Bulharsko skončilo s podporou Ukrajiny. Zkratky nefungují. Ani v podnikání</description>
-      <guid isPermaLink="false">591582e9-fc91-3014-bd2c-2002abc9c212</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1e1cfdb5-ddfc-4b98-8c22-511f906f732d.mp3" length="37400877" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Mraky nad Českem. Houknu na Merze čili podivná Babišova zahraniční politika. Proč nemůže Putin jen tak ukončit válku na Ukrajině. Tábory pro neúspěšné běžence. Sirât</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0bd75839-ed33-400a-ac95-55156fbd7d57.mp3" length="35789229" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jun 2026 11:13:00 +0000</pubDate>
       <itunes:duration>1491</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní kometáře s Kamilou Pešekovou</title>
+      <description>Jak se v Česku poučit z dvaceti let slovenských vlád Roberta Fica. Bez kvalitního celoživotního vzdělávání a dohody se zaměstnavateli nedává smysl prodlužovat věk odchodu do důchodu. Jak blízko, nebo daleko je k míru? Za pět kapek vody. Kvapně chystané zákony, jako je ten stavební, potěší spíš lobbisty než občany. Americká AI. Nic než národ</description>
+      <guid isPermaLink="false">a6eecae9-3b95-3399-b435-502e49e7f194</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/accdc7fc-ab30-4d36-a59c-eac3dfd8a44e.mp3" length="37438893" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jun 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
