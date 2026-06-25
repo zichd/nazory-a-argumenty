@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 24 Jun 2026 13:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 13:24:02 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>„Pohlídáme Babiše!“ Vlastně ne, pohlídáme Babišovi byznys! ODS o euru někdy příště. Epsteinovská kauza nikam nezmizela. Teď škodí i viceprezidentu Vancovi. Maroko na nové čínské stezce do Evropy. Jde o góly? Ale kdepak, jako vždy o peníze... O co se zasloužil Edvard Beneš</description>
-      <guid isPermaLink="false">f8fe2334-f719-3787-aef2-e0cfc4d11a2c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/28cf64b8-a1d0-43f9-a550-e44892b283da.mp3" length="37471149" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Plíživá proměna státu. Příprava státního rozpočtu je v plném proudu, splnění pravidel nezaručuje takřka nic. Summit NATO v Ankaře se pokusí jinak nastavit vztahy USA a Evropy. Ukrajina a Moldavsko začínají jednat o vstupu do EU. Zvuk romantické struny</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/74d5fabc-eaa9-4198-a949-834e23d035f2.mp3" length="37244205" type="audio/mpeg"/>
       <pubDate>Wed, 24 Jun 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
+      <description>Proč mají Trump i Putin obří problém s trpaslíky. Vláda mlží okolo dopadů změn ve financování veřejnoprávních médií. Nepotopitelný Krym pod vodou. Babišova lhostejná zóna. Neradno vyčnívat i v Evropě. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">6cfdb78b-91a0-3719-841b-2cd7256be39b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5997ebc0-91a8-4cbd-889d-6b0e7ba20b1f.mp3" length="36695853" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Jun 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1529</itunes:duration>
     </item>
   </channel>
 </rss>
