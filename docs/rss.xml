@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 26 Jun 2026 13:18:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 12:15:43 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Plíživá proměna státu. Příprava státního rozpočtu je v plném proudu, splnění pravidel nezaručuje takřka nic. Summit NATO v Ankaře se pokusí jinak nastavit vztahy USA a Evropy. Ukrajina a Moldavsko začínají jednat o vstupu do EU. Zvuk romantické struny</description>
-      <guid isPermaLink="false">be5858b2-44ba-3304-b77c-05715e6f3644</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/35ebf7b5-7763-4e1c-8f7b-c6136b736cc3.mp3" length="37243629" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
       <description>Kvapně chystané zákony, jako je ten stavební, potěší spíš lobbisty než občany. Babiš mění státní politiku závislostí. Volí cestu represe. Vesmír zaměstnaneckých akcií. Společná krvavá minulost opět rozeštvává Poláky a Ukrajince. Za práva cyklistů a svobodu těla</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ed42c2c5-c86e-4685-8059-2c72a0695667.mp3" length="36838125" type="audio/mpeg"/>
       <pubDate>Fri, 26 Jun 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1535</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
+      <description>Běloruský tanec mezi vejci; Dagmar Pecková chce do Senátu. O místo se popere s Davidem Smoljakem; Caporalato: italské otroctví 21. století; Krize demokracie podle Jacquese Rupnika</description>
+      <guid isPermaLink="false">91d5f2c6-8203-3f37-b945-e8bae8ac8d70</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9537dc59-5b88-44a4-ab5e-34c4ff92f1bb.mp3" length="35966061" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Jun 2026 11:11:00 +0000</pubDate>
+      <itunes:duration>1499</itunes:duration>
     </item>
   </channel>
 </rss>
