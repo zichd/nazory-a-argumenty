@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 28 Jun 2026 12:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 14:52:00 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Americká vesmírná společnost SpaceX vstoupila na burzu</title>
-      <description>Protidrogová politika bude patřit pod ministerstvo zdravotnictví. Minulost opět rozděluje Poláky a Ukrajince.Těmto a dalším tématům se věnují komentátoři v dnešním vydání pořadu Názory a argumenty. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">b2091dfa-8ced-3eb4-8929-1109744b95ef</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4fdaad47-70a5-4c4f-8d71-f185aa48bf75.mp3" length="37224621" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Jun 2026 16:33:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>„Sliby chyby“ by pro Babišovu vládu někdy nebyly na škodu. Nová realita. Benzín může být brzy za 35 korun. Írán vyhrál. Kdo tedy prohrál? Černá můra Francouzů ohledně prezidentských voleb. Americká AI. Nic než národ</description>
-      <guid isPermaLink="false">3f3c3f3e-b57f-3b34-9a1b-f9665f9f8d8c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/544681a3-b8b2-45d4-a9ba-9444ac6a33b7.mp3" length="37220589" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Babišova vláda zatím především oslabuje instituce státu a liberální demokracie. Palestinci budou po 20 letech volit prezidenta. Víc než škraloup lídra ANO v Praze. Zásah do ukrajinského srdce. Fiasko spravedlnosti ve Francii</description>
@@ -118,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/43b7bbd2-3fea-4921-b86c-c47c5bf8a117.mp3" length="36220653" type="audio/mpeg"/>
       <pubDate>Sun, 28 Jun 2026 11:05:00 +0000</pubDate>
       <itunes:duration>1509</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Předseda Motoristů útočí na Ústavní soud, protože strana nic jiného nemá. Umělá inteligence zatím jako zkušenější kolega selhává, firmy tiše redukují svoje plány na náhradu zaměstnanců stroji. Ostrý vzkaz Putinovi od ruské armády. Mezi Polskem a Ukrajinou to jiskří. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">9daacd91-2949-3142-b6f0-998ee5919cbd</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5e5b0b81-569b-41e1-9bb6-c0091a417ad1.mp3" length="37266093" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Jun 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1553</itunes:duration>
     </item>
   </channel>
 </rss>
