@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 29 Jun 2026 14:52:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:14:26 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
-      <description>Babišova vláda zatím především oslabuje instituce státu a liberální demokracie. Palestinci budou po 20 letech volit prezidenta. Víc než škraloup lídra ANO v Praze. Zásah do ukrajinského srdce. Fiasko spravedlnosti ve Francii</description>
-      <guid isPermaLink="false">bfe56226-e372-364a-b576-54cbd9c7c569</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1a61b2a4-5d50-4958-a9c6-3066a7fc6658.mp3" length="37445805" type="audio/mpeg"/>
-      <pubDate>Thu, 18 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Summit v Bruselu. Fronta na peníze z EET. Ani na zaplacení televize a rozhlasu to nebude stačit. Trump nechtěl slevu zadarmo. Ruské caparty učí, že musí umřít za vlast. Exit</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5e5b0b81-569b-41e1-9bb6-c0091a417ad1.mp3" length="37266093" type="audio/mpeg"/>
       <pubDate>Mon, 29 Jun 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1553</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Ankara v dalším stádiu. STAN jako tahoun opozice a protiváha Babišovy koalice? To musí ještě hodně přidat. Ministryně Mrázová varuje – změna zákona o střetu zájmů by mohla Babišovi uškodit v Bruselu. Silný protest proti zestátnění ČEZu. Klimatizace jako politický argument, jako kapitulace. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">db7290cc-9f90-31f2-80b8-66e5735bf082</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3db264b6-a18b-4016-aa61-d255ae666ae6.mp3" length="37346157" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Jun 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
