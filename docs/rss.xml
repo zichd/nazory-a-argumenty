@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 30 Jun 2026 13:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 13:39:25 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Summit v Bruselu. Fronta na peníze z EET. Ani na zaplacení televize a rozhlasu to nebude stačit. Trump nechtěl slevu zadarmo. Ruské caparty učí, že musí umřít za vlast. Exit</description>
-      <guid isPermaLink="false">eba06d01-d9c8-3caf-8dd5-0de7cfc13a15</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/628b33f0-7c53-418b-9a10-16ba9b1a52ea.mp3" length="37172781" type="audio/mpeg"/>
-      <pubDate>Fri, 19 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1549</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
       <description>Vítězství není blízko; Babišova koalice volá po lvím metálu pro Zemana. Zdravému rozumu navzdory; Jak bude Česko vzpomínat na Táťánu Malou? Jako na někoho, kdo výrazně pomohl rozkladu lidskoprávní politiky u nás; Itálie – země, kde Big Mac ještě nevyhrál</description>
@@ -105,11 +97,19 @@
     </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Ankara v dalším stádiu. STAN jako tahoun opozice a protiváha Babišovy koalice? To musí ještě hodně přidat. Ministryně Mrázová varuje – změna zákona o střetu zájmů by mohla Babišovi uškodit v Bruselu. Silný protest proti zestátnění ČEZu. Klimatizace jako politický argument, jako kapitulace. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <description>Ankara v dalším stádiu. STAN jako tahoun opozice a protiváha Babišovy koalice? To musí ještě hodně přidat. Ministryně Mrázová varuje – změna zákona o střetu zájmů by mohla Babišovi uškodit v Bruselu. Klimatizace jako politický argument, jako kapitulace. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
       <guid isPermaLink="false">db7290cc-9f90-31f2-80b8-66e5735bf082</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3db264b6-a18b-4016-aa61-d255ae666ae6.mp3" length="37346157" type="audio/mpeg"/>
       <pubDate>Tue, 30 Jun 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Podle Macinky spor o summit NATO vyřeší úředníci. Irský závod s časem o miliardy pro Evropu. Silný protest proti zestátnění ČEZu. Koho volit? Stačí, když zajistí byty. Vypustit bažinu korupce? Trump ji jen přelakoval a přikrmil. Bitcoin pustili do salónu. A doplatil na to. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">3686a4f9-a52e-3989-9468-17d9ccb5a402</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/68c7e31a-3677-4391-977d-d795a4435edf.mp3" length="37303533" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1554</itunes:duration>
     </item>
   </channel>
 </rss>
