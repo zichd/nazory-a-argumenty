@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 01 Jul 2026 13:39:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:04:22 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>Vítězství není blízko; Babišova koalice volá po lvím metálu pro Zemana. Zdravému rozumu navzdory; Jak bude Česko vzpomínat na Táťánu Malou? Jako na někoho, kdo výrazně pomohl rozkladu lidskoprávní politiky u nás; Itálie – země, kde Big Mac ještě nevyhrál</description>
-      <guid isPermaLink="false">9b4cec4f-805d-3ec7-a60f-20ad5bdd5c6f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/faed879a-fad8-442b-a2fb-acc743844d4f.mp3" length="36491373" type="audio/mpeg"/>
-      <pubDate>Sat, 20 Jun 2026 11:08:00 +0000</pubDate>
-      <itunes:duration>1520</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
       <description>Prohraje v Praze v barvách ANO šplhoun Prokop nebo králík z klobouku?; Česko hříčné loni i letos; Motoristé testují, co všechno jim ještě projde; Čtyřicet let od aféry, která změnila Rakousko; Oživlý Maradona v TV: Komu patří po smrti naše identita?</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/68c7e31a-3677-4391-977d-d795a4435edf.mp3" length="37303533" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1554</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Čím útočnější budou Motoristé, tím větší šanci má Kuba, Otřesy ve Venezuele prověří Trumpovu „Donroeovu“ doktrínu, O čem svědčí válka mezi vládou a prezidentem, V USA zuří boj o pravidla voleb</description>
+      <guid isPermaLink="false">34c77a4b-2050-3848-af80-d8a6ddaa3e31</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c457dd06-25c1-4a32-8d6b-5564c04ef065.mp3" length="37448109" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
