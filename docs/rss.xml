@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 02 Jul 2026 13:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 13:06:20 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
-      <description>Prohraje v Praze v barvách ANO šplhoun Prokop nebo králík z klobouku?; Česko hříčné loni i letos; Motoristé testují, co všechno jim ještě projde; Čtyřicet let od aféry, která změnila Rakousko; Oživlý Maradona v TV: Komu patří po smrti naše identita?</description>
-      <guid isPermaLink="false">4d6c561f-9ea8-3c9a-b1e5-b798cb6cbcff</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0bd75839-ed33-400a-ac95-55156fbd7d57.mp3" length="35789229" type="audio/mpeg"/>
-      <pubDate>Sun, 21 Jun 2026 11:13:00 +0000</pubDate>
-      <itunes:duration>1491</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní kometáře s Kamilou Pešekovou</title>
       <description>Jak se v Česku poučit z dvaceti let slovenských vlád Roberta Fica. Bez kvalitního celoživotního vzdělávání a dohody se zaměstnavateli nedává smysl prodlužovat věk odchodu do důchodu. Jak blízko, nebo daleko je k míru? Za pět kapek vody. Kvapně chystané zákony, jako je ten stavební, potěší spíš lobbisty než občany. Americká AI. Nic než národ</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c457dd06-25c1-4a32-8d6b-5564c04ef065.mp3" length="37448109" type="audio/mpeg"/>
       <pubDate>Thu, 02 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">9096e6d2-3896-3be3-8e07-36827f287e63</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bf5fca29-d9e2-4a9d-a6b2-6d0b44549a71.mp3" length="37353069" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jul 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
