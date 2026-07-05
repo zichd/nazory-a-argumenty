@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 04 Jul 2026 12:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 12:22:41 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní kometáře s Kamilou Pešekovou</title>
-      <description>Jak se v Česku poučit z dvaceti let slovenských vlád Roberta Fica. Bez kvalitního celoživotního vzdělávání a dohody se zaměstnavateli nedává smysl prodlužovat věk odchodu do důchodu. Jak blízko, nebo daleko je k míru? Za pět kapek vody. Kvapně chystané zákony, jako je ten stavební, potěší spíš lobbisty než občany. Americká AI. Nic než národ</description>
-      <guid isPermaLink="false">a6eecae9-3b95-3399-b435-502e49e7f194</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/accdc7fc-ab30-4d36-a59c-eac3dfd8a44e.mp3" length="37438893" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
-      <description>Ve sporu o veřejnoprávní média se hodí mít připravené a promyšlené následné kroky. Starmer rezignoval. Trump vs. Netanjahu: opravdová hádka, nebo jen další divadýlko? Nový příběh české zahraniční rozvojové politiky. A na konec glosa Ivy Pekárkové. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">d90bd4e6-5b23-3554-996b-a1e7f6a584a8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/34e9e750-0071-4a8b-b141-24b1a7bc833d.mp3" length="37294317" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Spor Hradu s vládou míří k Ústavnímu soudu. Bez většího zadlužení dluh nesnížíte. Sedmá velmoc, čtvrtý stav. Média pod tlakem peněz i reality. Opozice raněná slepotou ve hře o Senát. Proč vadí AfD? Podle slov poznáte je... Moderuje Jan Fingerland.</description>
@@ -118,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/92228395-18bd-4e9f-b8d9-15e20c2be0d9.mp3" length="37299501" type="audio/mpeg"/>
       <pubDate>Sat, 04 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1554</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Proč by měl jet Petr Pavel na summit NATO; Levné bydlení politikům, ne lidem. Jak vypadá bytová politika v rukou hnutí ANO? Jako vrcholné papalášství; Soluňští bratři jako základ státnosti?; Kubánští komunisté spásu hledají v kapitalismu</description>
+      <guid isPermaLink="false">7964d37c-4c71-346b-82bf-f1b42894cce6</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/913164ee-aafc-42eb-a83d-a5c1723847a7.mp3" length="37320237" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
