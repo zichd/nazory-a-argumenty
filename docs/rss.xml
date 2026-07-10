@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 09 Jul 2026 13:52:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 13:18:04 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
-      <description>Kdy nám dojde, že něco není v pořádku?; Extrémní vlny veder zabíjí lidi po Evropě. Vládním politikům nestáli občané Česka ani za adekvátní komunikaci; VW v problémech; Podpis</description>
-      <guid isPermaLink="false">f34ec5ce-ed03-3051-bd7d-ae21d09cb19b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/43b7bbd2-3fea-4921-b86c-c47c5bf8a117.mp3" length="36220653" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Jun 2026 11:05:00 +0000</pubDate>
-      <itunes:duration>1509</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Předseda Motoristů útočí na Ústavní soud, protože strana nic jiného nemá. Umělá inteligence zatím jako zkušenější kolega selhává, firmy tiše redukují svoje plány na náhradu zaměstnanců stroji. Ostrý vzkaz Putinovi od ruské armády. Mezi Polskem a Ukrajinou to jiskří. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -94,6 +86,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3efa4c9e-9ed1-43c0-81f1-927393311197.mp3" length="37376109" type="audio/mpeg"/>
       <pubDate>Wed, 08 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Patricií Polanskou</title>
+      <description>Legrace skončila už dávno. Vzít to na vědomí je ale v Česku dvojnásob obtížné. Summit NATO a Ukrajina. Jak se má NATO na Blízkém východě. Demokratům skandál spolkl kandidáta, teď musí ukázat, že jsou skutečně demokratičtí. A na konec glosa Evy Turnové. Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">d42914df-65e8-33e2-9cd7-cc9458a69873</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/76a71be4-c238-474b-a90f-d92c1b3eebbe.mp3" length="37331181" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
