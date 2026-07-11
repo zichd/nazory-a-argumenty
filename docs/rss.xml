@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 10 Jul 2026 13:18:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 12:01:57 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Předseda Motoristů útočí na Ústavní soud, protože strana nic jiného nemá. Umělá inteligence zatím jako zkušenější kolega selhává, firmy tiše redukují svoje plány na náhradu zaměstnanců stroji. Ostrý vzkaz Putinovi od ruské armády. Mezi Polskem a Ukrajinou to jiskří. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">9daacd91-2949-3142-b6f0-998ee5919cbd</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5e5b0b81-569b-41e1-9bb6-c0091a417ad1.mp3" length="37266093" type="audio/mpeg"/>
-      <pubDate>Mon, 29 Jun 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1553</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Ankara v dalším stádiu. STAN jako tahoun opozice a protiváha Babišovy koalice? To musí ještě hodně přidat. Ministryně Mrázová varuje – změna zákona o střetu zájmů by mohla Babišovi uškodit v Bruselu. Klimatizace jako politický argument, jako kapitulace. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -94,6 +86,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/76a71be4-c238-474b-a90f-d92c1b3eebbe.mp3" length="37331181" type="audio/mpeg"/>
       <pubDate>Fri, 10 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">28900456-795a-3141-93d8-97e61d3fd6a5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5ad2554e-5b55-4d59-8cea-d11f8c6a0f19.mp3" length="37109421" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Jul 2026 10:33:00 +0000</pubDate>
+      <itunes:duration>1546</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Zrušení zákona proti trafikám? Vláda si umetá cestu do státních firem. Trump řídí Venezuelu. V době katastrofy ale od ní dal ruce pryč. Vyšel nový žebříček vysokých škol. Jak si stojí Česko? Mnohé firmy mají problém se splácením dluhopisových emisí.</description>
+      <guid isPermaLink="false">9629623</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/44a1fd98722e1bf6337265d9b72b332a.mp3" length="24727296" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Jul 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>1545</itunes:duration>
     </item>
   </channel>
 </rss>
