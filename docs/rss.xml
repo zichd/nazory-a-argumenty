@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 12 Jul 2026 12:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 13:28:30 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Podle Macinky spor o summit NATO vyřeší úředníci. Irský závod s časem o miliardy pro Evropu. Silný protest proti zestátnění ČEZu. Koho volit? Stačí, když zajistí byty. Vypustit bažinu korupce? Trump ji jen přelakoval a přikrmil. Bitcoin pustili do salónu. A doplatil na to. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">3686a4f9-a52e-3989-9468-17d9ccb5a402</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/68c7e31a-3677-4391-977d-d795a4435edf.mp3" length="37303533" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1554</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Čím útočnější budou Motoristé, tím větší šanci má Kuba, Otřesy ve Venezuele prověří Trumpovu „Donroeovu“ doktrínu, O čem svědčí válka mezi vládou a prezidentem, V USA zuří boj o pravidla voleb</description>
@@ -64,12 +56,28 @@
       <itunes:duration>1558</itunes:duration>
     </item>
     <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Sněmovna změny potřebuje. Ale jen takové, na nichž se koalice shodne s opozicí; Dočkáme se přeci jen souboje Zelenskyj vs. Zalužnyj?; Vážné duševní potíže mladých lidí umělá inteligence nevyřeší. Bez odborné pomoci člověka se neobejdou; Kdo má patent na Ježíše?</description>
+      <guid isPermaLink="false">8cccb80e-cf45-33d4-89e4-c401b029842b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/a3b83b5492cf31e9d07fa0e00255fe16.mp3" length="37457280" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Návrat elektronické evidence tržeb se blíží, Schůze, na které se změní Česko, Svět plný filmových hvězd, Po svém sjezdu se Alternativa pro Německo chystá prolomit zavedené pořádky v zemi, Bitva o Bílý dům</description>
       <guid isPermaLink="false">593b4b4d-8d46-33a0-a190-ada9eae36978</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3efa4c9e-9ed1-43c0-81f1-927393311197.mp3" length="37376109" type="audio/mpeg"/>
       <pubDate>Wed, 08 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
+      <description>Příměří mezi USA a Íránem kolabuje, Opotřebovávací válka ve vzduchu, Poslanci a ministři hnutí ANO by se měli naučit říkat ne, K čemu je sdílená suverenita, Le Penová bude kandidovat na hlavu státu, ač v podmínce</description>
+      <guid isPermaLink="false">a5e53b29-5855-31e1-9718-47f945605bf2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/f7c847d709682f9cf5d4337928492ee3.mp3" length="37453824" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Patricií Polanskou</title>
@@ -110,6 +118,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/fd0b743e25917c047c5558b37e83b3fa.mp3" length="24962304" type="audio/mpeg"/>
       <pubDate>Sun, 12 Jul 2026 11:00:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Odmítáme se vzdát dividendy z míru. Nezaměstnanost se drží dole, zaměstnavatelé ženskou část populace stále přehlížejí. Historická zátěž jménem Volyň. Proč je u nás národ víc než stát. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">b60e5bb2-06b8-3f4b-a807-fcb18e216819</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e100dba6-bd91-4b01-b74e-4a273c06f9dc.mp3" length="37346733" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
