@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 16 Jul 2026 12:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 12:18:52 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Proč by měl jet Petr Pavel na summit NATO; Levné bydlení politikům, ne lidem. Jak vypadá bytová politika v rukou hnutí ANO? Jako vrcholné papalášství; Soluňští bratři jako základ státnosti?; Kubánští komunisté spásu hledají v kapitalismu</description>
-      <guid isPermaLink="false">7964d37c-4c71-346b-82bf-f1b42894cce6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/913164ee-aafc-42eb-a83d-a5c1723847a7.mp3" length="37320237" type="audio/mpeg"/>
-      <pubDate>Sun, 05 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Petrem Schwarzem</title>
       <description>Kolik miliard navíc by měl dostat do rozpočtu ministr školství Robert Plaga; Nabídka bytů prudce vzrostla, ceny i nájemné brzdí; Slovenské referendum je neplatné. Přišli jen ti nejvíc přesvědčení; Soft power jako fialový prášek</description>
@@ -126,6 +118,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/30b906cf-7101-4d03-81d2-8df564f24fd4.mp3" length="37429101" type="audio/mpeg"/>
       <pubDate>Thu, 16 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Ústava v pasti svého textu. ANO našlo v Praze náhradu za Prokopa. Zemřel Trumpův věrný jestřáb, který ho vehnal do války s Íránem. Kterak olympijští hlavouni odměnili Putina za válečné zločiny. Rusko trvá na svém velikášství. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">eadc4091-d427-317e-b32a-af4d6f324834</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/72e97a78-15af-444e-821d-3d43f7a8a5d5.mp3" length="36585261" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1524</itunes:duration>
     </item>
   </channel>
 </rss>
