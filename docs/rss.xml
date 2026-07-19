@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 18 Jul 2026 12:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 12:04:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Sněmovna změny potřebuje. Ale jen takové, na nichž se koalice shodne s opozicí; Dočkáme se přeci jen souboje Zelenskyj vs. Zalužnyj?; Vážné duševní potíže mladých lidí umělá inteligence nevyřeší. Bez odborné pomoci člověka se neobejdou; Kdo má patent na Ježíše?</description>
-      <guid isPermaLink="false">8cccb80e-cf45-33d4-89e4-c401b029842b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/a3b83b5492cf31e9d07fa0e00255fe16.mp3" length="37457280" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Návrat elektronické evidence tržeb se blíží, Schůze, na které se změní Česko, Svět plný filmových hvězd, Po svém sjezdu se Alternativa pro Německo chystá prolomit zavedené pořádky v zemi, Bitva o Bílý dům</description>
@@ -134,6 +126,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/984dc2b723196fee4a03dc4076f38715.mp3" length="24940800" type="audio/mpeg"/>
       <pubDate>Sat, 18 Jul 2026 11:00:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">5cf533c4-7b11-3f39-a7fc-b5f558ba77eb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/db857a8d-d4f2-4fc2-826f-5ae566cafbf0.mp3" length="37466541" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
