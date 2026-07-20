@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 19 Jul 2026 12:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:15:00 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Návrat elektronické evidence tržeb se blíží, Schůze, na které se změní Česko, Svět plný filmových hvězd, Po svém sjezdu se Alternativa pro Německo chystá prolomit zavedené pořádky v zemi, Bitva o Bílý dům</description>
-      <guid isPermaLink="false">593b4b4d-8d46-33a0-a190-ada9eae36978</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3efa4c9e-9ed1-43c0-81f1-927393311197.mp3" length="37376109" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
-      <description>Příměří mezi USA a Íránem kolabuje, Opotřebovávací válka ve vzduchu, Poslanci a ministři hnutí ANO by se měli naučit říkat ne, K čemu je sdílená suverenita, Le Penová bude kandidovat na hlavu státu, ač v podmínce</description>
-      <guid isPermaLink="false">a5e53b29-5855-31e1-9718-47f945605bf2</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/f7c847d709682f9cf5d4337928492ee3.mp3" length="37453824" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Patricií Polanskou</title>
       <description>Legrace skončila už dávno. Vzít to na vědomí je ale v Česku dvojnásob obtížné. Summit NATO a Ukrajina. Jak se má NATO na Blízkém východě. Demokratům skandál spolkl kandidáta, teď musí ukázat, že jsou skutečně demokratičtí. A na konec glosa Evy Turnové. Moderuje Patricie Polanská.</description>
@@ -128,12 +112,28 @@
       <itunes:duration>1559</itunes:duration>
     </item>
     <item>
+      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
+      <description>Proč se Babiš pustil do Pavla? Zemřel konzervativní modernizátor Kataru. Nechoď Česko s Čínou na led, mnohý případ známe, Čína klouzne, ale Česko si nohy zláme.</description>
+      <guid isPermaLink="false">9631155</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/04b804797aa3a2db00191a4e1450efd7.mp3" length="24965376" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 10:33:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Patricie Polanská.</description>
       <guid isPermaLink="false">5cf533c4-7b11-3f39-a7fc-b5f558ba77eb</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/db857a8d-d4f2-4fc2-826f-5ae566cafbf0.mp3" length="37466541" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jul 2026 10:34:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Petrem Hartmanem</title>
+      <description>Proč není Česko v projektu evropské obrany proti balistickým střelám. Revize systému obchodování s emisními povolenkami na stole. Nižší důchody uleví rozpočtu jen na chvíli, stárnoucí populace si svoji daň vybere jinde. Kdo je nový ministr obrany Ukrajiny. A na konec glosa Ondřeje Neffa. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">6d358d20-d61a-3485-8e80-98c1e872fae8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dee2b0b4-a413-4f54-96ec-aa9a135e63fc.mp3" length="37219437" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
