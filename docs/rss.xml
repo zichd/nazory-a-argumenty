@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 22 Jul 2026 12:44:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:46:28 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -126,6 +126,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e5723bd7-17c8-4d4b-8637-e176794247c0.mp3" length="37566765" type="audio/mpeg"/>
       <pubDate>Wed, 22 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1565</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Legální politika v Rusku skončila. Český prezident nemůže být Judit Polgárovou. Dvořákovo značně pozdní vyloučení. Lucas popisuje britskou mentalitu jako slabošskou, neochotnou se bránit. Češi na tom nejsou lépe. Kulturní diplomacie</description>
+      <guid isPermaLink="false">dda6600d-7947-3302-b921-927228d8d8a1</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d99d003e-0c2a-4104-9271-32c7f6612ca5.mp3" length="37381293" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1558</itunes:duration>
     </item>
   </channel>
 </rss>
