@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 25 Jul 2026 12:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 12:13:16 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
-      <description>Babiš je s koalicí spokojený, přesto celé čtyři roky vydržet nemusí. Další změna v Kyjevě. Babiš spustil kampaň Antipavel. Odmítá s prezidentem spolupracovat, nechápe smysl Ústavy. ODS má problém na Praze 1. A na konec glosa Ivy Pekárkové. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">3e0f6ec9-3981-3da3-a474-947b781911a8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bfc95d9f-81ca-4e28-854d-0944844d0234.mp3" length="37440045" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Případ jednotného hlášení. Když boj s byrokracií posiluje úřady. Jakým vozem jezdí konzervativec. Magyar sesazuje orbánovského prezidenta. Na hrubý pytel hrubá záplata. Musíme jednat. Jinak AI zlikviduje střední třídu. Nechte německé automobilky zkrachovat. Moderuje Ondřej Konrád.</description>
@@ -126,6 +118,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e92c8a20-5f36-40b0-9e3f-67dadf1e434c.mp3" length="36054765" type="audio/mpeg"/>
       <pubDate>Sat, 25 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1502</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
+      <description>Kolik mocenských center může existovat v demokratické společnosti? Putin přiznal, že růst ruské ekonomiky je skromný. Mistral odstupuje ze závodu AI. Evropa s ním. Francie přijala zákon o možnosti ukončit svůj život. Ústavní soud nemůže nahradit komunikaci mezi Hradem a vládou. Chvályhodná uměřenost ministra Juchelky</description>
+      <guid isPermaLink="false">7da7d31b-1d64-3e61-b902-d7662c7dda8d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/de7813b9-7199-4ee0-9bf7-e65784f770fd.mp3" length="37347309" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
