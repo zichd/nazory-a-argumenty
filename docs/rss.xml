@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 27 Jul 2026 13:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:59:55 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Patricií Polanskou</title>
-      <description>Trump sčítá porážky, oznámil zásadní projev k národu. Protibalistická dohoda Ukrajina + 9. Andreji Babišovi se splnil sen o jednobarevné vládě. Sýrie má parlament. Záleží na tom? Politici chtějí změnit pravidla umělého oplodnění. To ale víc dětí nepřinese. Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">1cd37c59-a196-358b-9d27-9aae48873733</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/30b906cf-7101-4d03-81d2-8df564f24fd4.mp3" length="37429101" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Ústava v pasti svého textu. ANO našlo v Praze náhradu za Prokopa. Zemřel Trumpův věrný jestřáb, který ho vehnal do války s Íránem. Kterak olympijští hlavouni odměnili Putina za válečné zločiny. Rusko trvá na svém velikášství. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -126,6 +118,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d4f68222-e830-449e-b7d5-70f70db99219.mp3" length="37105965" type="audio/mpeg"/>
       <pubDate>Mon, 27 Jul 2026 10:34:00 +0000</pubDate>
       <itunes:duration>1546</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Máme si zvykat, že je střet zájmů běžná věc? Motoristé - směšní popírači sami sebe. Smrt v Berlíně. Za Milanem Knížákem. Respekt a tolerance v Lošticích</description>
+      <guid isPermaLink="false">f443dd23-244b-3410-ba58-5c09a99e6eb6</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/66c3d10be3c6ba31160e471d15890dda.mp3" length="37244736" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
