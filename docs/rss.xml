@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 29 Jul 2026 13:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 12:51:47 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">a463c1d8-0a75-34d1-af4c-08abf05bb577</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1fa7ab23-038a-44f6-a4f9-376bfaf19abe.mp3" length="37429677" type="audio/mpeg"/>
-      <pubDate>Sat, 18 Jul 2026 10:33:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>Protesty proti demisi ministra Fedorova. Premiérova riskantní cesta rétoriky míru. Zemřel Trumpův věrný jestřáb. Kterak olympijští hlavouni odměnili Putina za válečné zločiny.</description>
-      <guid isPermaLink="false">9631054</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/984dc2b723196fee4a03dc4076f38715.mp3" length="24940800" type="audio/mpeg"/>
-      <pubDate>Sat, 18 Jul 2026 11:00:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
       <description>Proč se Babiš pustil do Pavla? Zemřel konzervativní modernizátor Kataru. Nechoď Česko s Čínou na led, mnohý případ známe, Čína klouzne, ale Česko si nohy zláme.</description>
@@ -126,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/67795a35-9a38-4d00-8464-b46be5e07ef0.mp3" length="37378413" type="audio/mpeg"/>
       <pubDate>Wed, 29 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Petr Macinka nevzdává boj proti prezidentovi. Ve svěráku: Irák mezi Washingtonem a Teheránem. FIFA prodává fotbal. Stát nemá určovat, jestli single žena nebo žena z lesbického páru smí být uměle oplodněna. Jsme jinde. Stále zvučný Milan Uhde. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">ce884b59-be36-3d65-9848-274a74f2846c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ef06c6bf-6f02-4dd2-a766-b8ce82fb5b12.mp3" length="37271277" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1553</itunes:duration>
     </item>
   </channel>
 </rss>
