@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 30 Jul 2026 12:51:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 13:04:06 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
-      <description>Proč se Babiš pustil do Pavla? Zemřel konzervativní modernizátor Kataru. Nechoď Česko s Čínou na led, mnohý případ známe, Čína klouzne, ale Česko si nohy zláme.</description>
-      <guid isPermaLink="false">9631155</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/04b804797aa3a2db00191a4e1450efd7.mp3" length="24965376" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jul 2026 10:33:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">5cf533c4-7b11-3f39-a7fc-b5f558ba77eb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/db857a8d-d4f2-4fc2-826f-5ae566cafbf0.mp3" length="37466541" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jul 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Petrem Hartmanem</title>
       <description>Proč není Česko v projektu evropské obrany proti balistickým střelám. Revize systému obchodování s emisními povolenkami na stole. Nižší důchody uleví rozpočtu jen na chvíli, stárnoucí populace si svoji daň vybere jinde. Kdo je nový ministr obrany Ukrajiny. A na konec glosa Ondřeje Neffa. Moderuje Petr Hartman.</description>
@@ -118,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ef06c6bf-6f02-4dd2-a766-b8ce82fb5b12.mp3" length="37271277" type="audio/mpeg"/>
       <pubDate>Thu, 30 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1553</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Blaho státu. Merz zkusil restart s novými tvářemi ve vládě, ale úplně mu to nevyšlo. Třetí říše, jejich vzor. Hledání práce a podpora v nezaměstnanosti. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">15f249a8-defb-3f61-b039-de4d044d4fef</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5e8035b0-8714-481d-bb88-fb681198a1e5.mp3" length="36784557" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Jul 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1533</itunes:duration>
     </item>
   </channel>
 </rss>
