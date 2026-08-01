@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 31 Jul 2026 13:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 12:10:07 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Petrem Hartmanem</title>
-      <description>Proč není Česko v projektu evropské obrany proti balistickým střelám. Revize systému obchodování s emisními povolenkami na stole. Nižší důchody uleví rozpočtu jen na chvíli, stárnoucí populace si svoji daň vybere jinde. Kdo je nový ministr obrany Ukrajiny. A na konec glosa Ondřeje Neffa. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">6d358d20-d61a-3485-8e80-98c1e872fae8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dee2b0b4-a413-4f54-96ec-aa9a135e63fc.mp3" length="37219437" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Opoziční kandidát proti Pavlovi? Zbytečné plýtváni silami. Labouristé to zkusí s Burnhamem. A on s nimi. Klesající akcie SpaceX nejsou překvapením. Meloniová zakopla o úhelný kámen. O preferenční hlasy voličů. A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
@@ -110,6 +102,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5e8035b0-8714-481d-bb88-fb681198a1e5.mp3" length="36784557" type="audio/mpeg"/>
       <pubDate>Fri, 31 Jul 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1533</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">519269ec-44fc-3578-a4da-c1c94383577c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5fa68735-1af6-42d5-bc97-b04cb7eb8895.mp3" length="37553517" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Aug 2026 10:33:00 +0000</pubDate>
+      <itunes:duration>1565</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
+      <description>MAGA ve vztahu k Ukrajině obrací. Dluhové brzdy a demokracie. Nikdo by se neměl divit, že Trump udělal z USA kasino.</description>
+      <guid isPermaLink="false">9633912</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/b19c98274505836b1432c58da7ec8f80.mp3" length="25023360" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>1564</itunes:duration>
     </item>
   </channel>
 </rss>
