@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 03 Aug 2026 13:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:06:37 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>Legální politika v Rusku skončila. Český prezident nemůže být Judit Polgárovou. Dvořákovo značně pozdní vyloučení. Lucas popisuje britskou mentalitu jako slabošskou, neochotnou se bránit. Češi na tom nejsou lépe. Kulturní diplomacie</description>
-      <guid isPermaLink="false">dda6600d-7947-3302-b921-927228d8d8a1</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d99d003e-0c2a-4104-9271-32c7f6612ca5.mp3" length="37381293" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Ježíšek Babiš. Vláda nezařadila SPD do zprávy o extremismu? Marná snaha o únik před realitou. Orient bude jadernější Slábne v Rusku režim, nebo jen Putin? Pan Důl</description>
@@ -125,6 +117,14 @@
       <guid isPermaLink="false">fe28b8f3-9965-373f-b99d-9750f7889941</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0499b3dd-e760-412d-9090-d4d2ba2e2801.mp3" length="37347309" type="audio/mpeg"/>
       <pubDate>Mon, 03 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Letošní senátní volby budou patřit k těm nejbouřlivějším. Rusko a Severní Korea spolu čím dál víc spolupracují nejen na ničení Ukrajiny. Hrozba pro svět. Dlouhý stín Pavla Blažka nad současnou opozicí. Má Friedrich Merz stát v čele Německa? A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">6393e016-98a1-3ddf-b30d-b4d5ca74c68d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3981f9de-2011-48d8-a709-0f1896b51052.mp3" length="37345005" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
