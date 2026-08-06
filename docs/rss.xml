@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:01:50 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
-      <description>Chat Control a soukromí. Babiš zpochybnil koalici ochotných. Rusové se toho ihned chytili. Právo a spravedlnost vyloučilo expremiéra Morawieckého. V Polsku se ale dějí vážnější věci. Nižší důchody uleví rozpočtu jen na chvíli, stárnoucí populace si svoji daň vybere jinde. Opoziční kandidát proti Pavlovi? Zbytečné plýtváni silami</description>
-      <guid isPermaLink="false">a42c9afe-974f-3071-8b43-f44b405d9b9e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e92c8a20-5f36-40b0-9e3f-67dadf1e434c.mp3" length="36054765" type="audio/mpeg"/>
-      <pubDate>Sat, 25 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1502</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
       <description>Kolik mocenských center může existovat v demokratické společnosti? Putin přiznal, že růst ruské ekonomiky je skromný. Mistral odstupuje ze závodu AI. Evropa s ním. Francie přijala zákon o možnosti ukončit svůj život. Ústavní soud nemůže nahradit komunikaci mezi Hradem a vládou. Chvályhodná uměřenost ministra Juchelky</description>
@@ -126,6 +118,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f18ef549-de54-43dd-b9f6-f074a41a70e6.mp3" length="37107117" type="audio/mpeg"/>
       <pubDate>Wed, 05 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1546</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
+      <description>Vládní koalice mění taktiku směrem k prezidentské volbě. Vlny od Ceuty omývají Evropu. Středoví demokraté prohráli v Michiganu. Podaří se levici úspěch zopakovat na podzim? Strach z mobilizace žene Rusy do zahraničí. Veřejný zájem by měl být důležitější než zisk. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">ab6e83aa-ff80-38ad-871e-80a8be0c8fb7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2ca64e8c-feeb-48cb-9437-62b8ec0696b2.mp3" length="37429101" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
