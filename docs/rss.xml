@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 11:38:59 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Koalice se vrhla na devátou třídu základní školy. Nedává to smysl. Šéf sněmovny Tomio Okamura se podíval do Číny. Což je nejvíc, co jde říci o této zahraniční cestě. Zachrání Drapatyj Ukrajinu před politickou krizí, když Fedorov trucuje? Hysterizace morálního kýče: největší nepřítel lidu a demokracie. Raději nic</description>
-      <guid isPermaLink="false">37ead090-1939-348c-bb5a-8b8ce6ee33e3</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d4f68222-e830-449e-b7d5-70f70db99219.mp3" length="37105965" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Jul 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1546</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Máme si zvykat, že je střet zájmů běžná věc? Motoristé - směšní popírači sami sebe. Smrt v Berlíně. Za Milanem Knížákem. Respekt a tolerance v Lošticích</description>
@@ -126,6 +118,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c4317e2f-f3a8-48a6-aa69-d2e41ac806cb.mp3" length="37513773" type="audio/mpeg"/>
       <pubDate>Fri, 07 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1563</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
+      <description>Rusko sází na rakety, Oheň a solidarita ve Francii, Strach z migrace, zbraň v rukou politiků, Ted Lasso: pozitivní dopink nejen pro manažery</description>
+      <guid isPermaLink="false">eeac2ff3-8804-39ad-b725-f35a2c6f16c5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e39c4bc7-f2e4-4971-8bc3-58b38f5eed42.mp3" length="37469421" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
