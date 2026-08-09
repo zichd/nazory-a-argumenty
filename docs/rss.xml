@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 08 Aug 2026 11:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 11:40:29 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Máme si zvykat, že je střet zájmů běžná věc? Motoristé - směšní popírači sami sebe. Smrt v Berlíně. Za Milanem Knížákem. Respekt a tolerance v Lošticích</description>
-      <guid isPermaLink="false">f443dd23-244b-3410-ba58-5c09a99e6eb6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/66c3d10be3c6ba31160e471d15890dda.mp3" length="37244736" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Bez paniky, prosím. Komu pomohla regulace cen benzinu. Zelenskyj u Trumpa. Nový britský premiér „nabil“ Zelenského kolty před setkáním s Trumpem. AI válka Západu s Čínou. Trump dokazuje, že na peněženky Američanů nikdy nemyslel. A na konec glosa Kristiny Žantovské. Moderuje Jan Fingerland.</description>
@@ -126,6 +118,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e39c4bc7-f2e4-4971-8bc3-58b38f5eed42.mp3" length="37469421" type="audio/mpeg"/>
       <pubDate>Sat, 08 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Čeká nás divoká jízda, Ceuta a migrace, Cimrman jásá – Nejvýraznějšími opozičními politiky jsou ti, kteří v opozici vůbec nejsou,</description>
+      <guid isPermaLink="false">369a5dde-17e7-3f1d-ab9f-733f5fd2c9b7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/992b1f10-f786-4dc3-b2c4-0e945b1802dd.mp3" length="36979245" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1541</itunes:duration>
     </item>
   </channel>
 </rss>
