@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 09 Aug 2026 11:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:56:05 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
-      <description>Bez paniky, prosím. Komu pomohla regulace cen benzinu. Zelenskyj u Trumpa. Nový britský premiér „nabil“ Zelenského kolty před setkáním s Trumpem. AI válka Západu s Čínou. Trump dokazuje, že na peněženky Američanů nikdy nemyslel. A na konec glosa Kristiny Žantovské. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">7e5edfed-13b7-38b3-90d6-6fcda3180b2b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/67795a35-9a38-4d00-8464-b46be5e07ef0.mp3" length="37378413" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Petr Macinka nevzdává boj proti prezidentovi. Ve svěráku: Irák mezi Washingtonem a Teheránem. FIFA prodává fotbal. Stát nemá určovat, jestli single žena nebo žena z lesbického páru smí být uměle oplodněna. Jsme jinde. Stále zvučný Milan Uhde. Moderuje Kamila Pešeková.</description>
@@ -126,6 +118,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/992b1f10-f786-4dc3-b2c4-0e945b1802dd.mp3" length="36979245" type="audio/mpeg"/>
       <pubDate>Sun, 09 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1541</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Členové Babišovy vlády dávají přednost plochozemcům před Billem Gatesem, Rozpoutaly Spojené státy intervencí ve prospěch japonského jenu měnovou válku s eurozónou?, Do ruských voleb zbývá šest neděl; jak se na kandidátky dostala opoziční strana?, Uzdravit těžbou uhlí zraněnou krajinu severních Čech je velký úkol naší doby, Do října ještě čas</description>
+      <guid isPermaLink="false">2288da08-6228-33f2-b812-28b16c0ccedb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/507a7895-cfc0-4be7-9a6e-9329a4576251.mp3" length="37476909" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
