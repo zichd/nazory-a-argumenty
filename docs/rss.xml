@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 11:53:32 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>Petr Macinka nevzdává boj proti prezidentovi. Ve svěráku: Irák mezi Washingtonem a Teheránem. FIFA prodává fotbal. Stát nemá určovat, jestli single žena nebo žena z lesbického páru smí být uměle oplodněna. Jsme jinde. Stále zvučný Milan Uhde. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">ce884b59-be36-3d65-9848-274a74f2846c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ef06c6bf-6f02-4dd2-a766-b8ce82fb5b12.mp3" length="37271277" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Jul 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1553</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Blaho státu. Merz zkusil restart s novými tvářemi ve vládě, ale úplně mu to nevyšlo. Třetí říše, jejich vzor. Hledání práce a podpora v nezaměstnanosti. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -126,6 +118,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/507a7895-cfc0-4be7-9a6e-9329a4576251.mp3" length="37476909" type="audio/mpeg"/>
       <pubDate>Mon, 10 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
+      <description>Velké strany ve velkých městech mění tvář, Jak Američané na Kubě budují staronové monstrum, Babiš: kouzelník s časem, Hurá, bělásek!</description>
+      <guid isPermaLink="false">c2aa0442-4734-3ac1-bfec-f83147b04b88</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c0a4a80c-48a7-4320-9c87-16479984352e.mp3" length="37332333" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
