@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 13 Aug 2026 11:56:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:53:21 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">066da4a3-8f4b-3d22-aca7-a6c1d70fe76f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b6230520-7c83-4a58-87a0-cd152dd6048e.mp3" length="37443501" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Aug 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
-      <description>Jak provádět změny v demokratické společnosti? Jez v Děčíně spojí české Labe s německým Elbe a mořem. Souostroví Rusko podle Tomáše Glance. Bílá Voda u Javorníka nutí k zamyšlení nad pomíjivostí života.</description>
-      <guid isPermaLink="false">9634005</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/84bf5a2f7fda9a65dcb6ce52d0fc6c8c.mp3" length="24950016" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Aug 2026 11:00:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
       <description>Vláda se zavázala, že bude snižovat schodky v dalších letech. Jak to udělá? Rozhodování centrálních bank uvízlo mezi ropným trhem a novými technologiemi. Blíží se ruské volby. A napětí stoupá. O úspěchu Pétera Magyara rozhodne, zda neztratí cit pro problémy běžných lidí. A na konec glosa Ondřeje Neffa. Moderuje Jan Fingerland.</description>
@@ -118,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/45e9a4bf-3249-4464-8851-b2b3ae7ba888.mp3" length="37473453" type="audio/mpeg"/>
       <pubDate>Thu, 13 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">0e070e52-f94b-333a-b013-4e6e4ebde3d0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/134e9ed4-5177-46a7-bc56-c5ffb1325ae5.mp3" length="37310445" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Aug 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
