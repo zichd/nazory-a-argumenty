@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 16 Aug 2026 11:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 11:35:57 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
-      <description>Letošní senátní volby budou patřit k těm nejbouřlivějším. Rusko a Severní Korea spolu čím dál víc spolupracují nejen na ničení Ukrajiny. Hrozba pro svět. Dlouhý stín Pavla Blažka nad současnou opozicí. Má Friedrich Merz stát v čele Německa? A na konec glosa Ivy Pekárkové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">6393e016-98a1-3ddf-b30d-b4d5ca74c68d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3981f9de-2011-48d8-a709-0f1896b51052.mp3" length="37345005" type="audio/mpeg"/>
-      <pubDate>Tue, 04 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Petrem Hartmanem</title>
       <description>Buďte nezaměstnaní! Pozdrav z města Kocourkova. Kandidátky do komunálních voleb odevzdány. Česká centra v nejistotě. Ceuta: Humbuk místo solidarity. Největší kapitálový projekt historie. Moderuje Petr Hartman.</description>
@@ -112,12 +104,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Kamila Pešeková.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
+      <description>Smutek rozpáleného města; Jabloko, jablko sváru; „V létě je vedro, v zimě zima a v noci tma”. Motoristický trolling tvrdě narazil na realitu; Tápaní současné opozice</description>
       <guid isPermaLink="false">695d6980-3a7b-3062-8fa4-2eaa65eea0c2</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dfeed0f8-b8f7-4aad-b8e7-aad40dcdd440.mp3" length="37529325" type="audio/mpeg"/>
-      <pubDate>Sun, 16 Aug 2026 10:34:00 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1564</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">495ff85e-46e4-3d74-9b46-c8b11c2da062</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/64ff4d28-a089-43b0-8585-f9e214aafd6c.mp3" length="37362285" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Aug 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
