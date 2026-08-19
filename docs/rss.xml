@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 18 Aug 2026 11:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:35:53 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
-      <description>Vládní koalice mění taktiku směrem k prezidentské volbě. Vlny od Ceuty omývají Evropu. Středoví demokraté prohráli v Michiganu. Podaří se levici úspěch zopakovat na podzim? Strach z mobilizace žene Rusy do zahraničí. Veřejný zájem by měl být důležitější než zisk. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">ab6e83aa-ff80-38ad-871e-80a8be0c8fb7</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2ca64e8c-feeb-48cb-9437-62b8ec0696b2.mp3" length="37429101" type="audio/mpeg"/>
-      <pubDate>Thu, 06 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Achillova pata jaderné energetiky, Česko: nekulturní země, která nechce propagovat svou kulturu v cizině, Kreml se snaží zasáhnout odpůrce i v cizině, Na okraji pozornosti, Besedy bez Edy</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cad11108-0af0-454e-a693-fcd35bf6b7ea.mp3" length="37396269" type="audio/mpeg"/>
       <pubDate>Tue, 18 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Hypotéky rostou, ceny rostou – jenom bydlet není kde. Blíží se opět zmrazení platů politiků aneb O nažraném vlkovi a celé koze. Trump je překvapený nedostatkem munice. Může si za to sám. Proč AfD ovládla východní Německo? Horké léto Marka Zuckerberga. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">5d936df5-6b05-3a27-8fd0-d3d570b2d7d0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d6e85b81-f36b-4335-9cf1-f867febe965c.mp3" length="36991917" type="audio/mpeg"/>
+      <pubDate>Wed, 19 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1541</itunes:duration>
     </item>
   </channel>
 </rss>
