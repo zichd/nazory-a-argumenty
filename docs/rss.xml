@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:37:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:36:52 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Rusko sází na rakety, Oheň a solidarita ve Francii, Strach z migrace, zbraň v rukou politiků, Ted Lasso: pozitivní dopink nejen pro manažery</description>
-      <guid isPermaLink="false">eeac2ff3-8804-39ad-b725-f35a2c6f16c5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e39c4bc7-f2e4-4971-8bc3-58b38f5eed42.mp3" length="37469421" type="audio/mpeg"/>
-      <pubDate>Sat, 08 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
       <description>Čeká nás divoká jízda, Ceuta a migrace, Cimrman jásá – Nejvýraznějšími opozičními politiky jsou ti, kteří v opozici vůbec nejsou,</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b8dd9298-d379-487d-8a50-2e5a1be031b0.mp3" length="37535085" type="audio/mpeg"/>
       <pubDate>Thu, 20 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1564</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Rok 1968 máme v genech. Krize kolem Kusry. Zemanovo kanadské žertování s prezidenstvím. Navalného dědici fakticky pomáhají Kremlu. V Randálu</description>
+      <guid isPermaLink="false">3dce8ba4-8945-3a9c-9dd4-2c6b768fb89b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3c027995-8947-407a-a5d4-6a46a329e489.mp3" length="37474605" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
