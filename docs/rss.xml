@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 22 Aug 2026 11:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:32:00 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Členové Babišovy vlády dávají přednost plochozemcům před Billem Gatesem, Rozpoutaly Spojené státy intervencí ve prospěch japonského jenu měnovou válku s eurozónou?, Do ruských voleb zbývá šest neděl; jak se na kandidátky dostala opoziční strana?, Uzdravit těžbou uhlí zraněnou krajinu severních Čech je velký úkol naší doby, Do října ještě čas</description>
-      <guid isPermaLink="false">2288da08-6228-33f2-b812-28b16c0ccedb</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/507a7895-cfc0-4be7-9a6e-9329a4576251.mp3" length="37476909" type="audio/mpeg"/>
-      <pubDate>Mon, 10 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
       <description>Velké strany ve velkých městech mění tvář, Jak Američané na Kubě budují staronové monstrum, Hurá, bělásek!, Vladimír Páral: milovník všech rozkoší, Letošní senátní zvláštnosti</description>
@@ -112,12 +104,20 @@
       <itunes:duration>1561</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Ondřej Konrád.</description>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Po Ceutě. O prostořekém bankéři. Nahoře bez. Hypotéky rostou, ceny rostou... Jenom bydlet není kde. Levné potraviny? Jak se to vezme. Proč AfD ovládla východní Německo?</description>
       <guid isPermaLink="false">ec89971a-2b77-3956-914e-be439878e0ce</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b91141af-bc93-413b-ae70-633032d7f36a.mp3" length="36749421" type="audio/mpeg"/>
       <pubDate>Sat, 22 Aug 2026 10:33:00 +0000</pubDate>
       <itunes:duration>1531</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">b1220acd-8b20-3bf5-b174-c8a458305902</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9aaeb259-5164-436d-9f93-a8119c472415.mp3" length="37075437" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Aug 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1545</itunes:duration>
     </item>
   </channel>
 </rss>
