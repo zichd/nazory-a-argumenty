@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 23 Aug 2026 11:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:40:05 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
-      <description>Velké strany ve velkých městech mění tvář, Jak Američané na Kubě budují staronové monstrum, Hurá, bělásek!, Vladimír Páral: milovník všech rozkoší, Letošní senátní zvláštnosti</description>
-      <guid isPermaLink="false">c2aa0442-4734-3ac1-bfec-f83147b04b88</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c0a4a80c-48a7-4320-9c87-16479984352e.mp3" length="37332333" type="audio/mpeg"/>
-      <pubDate>Tue, 11 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Přes všechny krize k novému růstu, Fed? Past vedle pasti, Nepravděpodobné protimigrační spojenectví Melloniové a Frederiksenové, Rektoři varují, pokud nedostanou víc peněz, budou muset odmítnou až deset tisíc studentů, Na co bude „islámské NATO“</description>
@@ -112,12 +104,20 @@
       <itunes:duration>1531</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Ondřej Konrád.</description>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Marketink jako pláštík cynické politiky. Okamura uvádí – uctění památek obětí prostřednictvím jejich zneuctění. Tykač, Telefónica a ČEZ: miliardy v pohybu. Nový maďarský prezident a jeho nezávislost na vládě. Blíží se opět zmrazení platů politiků, aneb o nažraném vlkovi a celé koze. Horké léto Marka Zuckerberga</description>
       <guid isPermaLink="false">b1220acd-8b20-3bf5-b174-c8a458305902</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9aaeb259-5164-436d-9f93-a8119c472415.mp3" length="37075437" type="audio/mpeg"/>
-      <pubDate>Sun, 23 Aug 2026 10:34:00 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1545</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
+      <description>Ministr školství neuspěl v jednání o rozpočtu, což je chyba vlády. Stavební zákon znovu a lépe? Senát zamítl klíčovou novelu a je to dobře. Boje u Slavjansku a Kramatorsku. Plná demokracie, nebo magyarismus místo orbánismu? To se teprve uvidí Co vzít do vesmíru</description>
+      <guid isPermaLink="false">4bc14aaa-afef-318e-bcd8-44a1af08ee7b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/081417f3-445f-4959-8269-769119b787c5.mp3" length="37376109" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
