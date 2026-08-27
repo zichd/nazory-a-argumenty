@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:00:02 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Kouzelné slůvko „azyl“, Plán pro Gazu čeká v předsíni, Kreml si hraje s odpůrci jako kočka s myší, Básnické střevo, Do Senátu na buldozeru</description>
-      <guid isPermaLink="false">0e070e52-f94b-333a-b013-4e6e4ebde3d0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/134e9ed4-5177-46a7-bc56-c5ffb1325ae5.mp3" length="37310445" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1555</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
-      <description>Babiš si všiml sucha. Povolal exministra Brabce, obnovuje koalici proti suchu. Facka Motoristům, Vláda není stát. Ani kultura nepatří ministrovi, Musk se hrátil do hry o AI</description>
-      <guid isPermaLink="false">05be45ff-768a-3927-9c9d-1f24a5f70008</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5b3d363b-f32c-4e10-90fd-053d40e0a81b.mp3" length="37467693" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
       <description>Smutek rozpáleného města; Jabloko, jablko sváru; „V létě je vedro, v zimě zima a v noci tma”. Motoristický trolling tvrdě narazil na realitu; Tápaní současné opozice</description>
@@ -118,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cb9cda8b-43f9-4db2-bf9d-bae381f12f46.mp3" length="36979245" type="audio/mpeg"/>
       <pubDate>Wed, 26 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1541</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Operace Ekonomický vyvrhel je chatrná fasáda na Trumpově íránském vojenském fiasku. Opozice netlačí na pilu ani tam, kde může. Třeba ve školství. 35 let ukrajinské nezávislosti. Americká levice si připsala vítězství i na Trumpově Floridě. Úsvit robotů za dveřmi. Zemřel Karel Barták</description>
+      <guid isPermaLink="false">cf25a6a5-f805-31f4-9fac-f9e96fc1b4f4</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3badcd9e-9d91-496c-9980-91ea19f90efa.mp3" length="37336941" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Aug 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
