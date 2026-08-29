@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:35:26 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Bídná úroveň slovenské tajné služby ohrožuje i bezpečnost Česka. Levné potraviny? Jak se to vezme... Jak si Turek všiml Modernizačního fondu. Ukrajina řeší problémy s vývozem potravin. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">495ff85e-46e4-3d74-9b46-c8b11c2da062</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/64ff4d28-a089-43b0-8585-f9e214aafd6c.mp3" length="37362285" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
       <description>Strany trpí nedostatkem členů, ovšem doplácíme na to všichni. Kdo chce taky do Senátu? Polský premiér Tusk tlačí na vytvoření vládního bloku. Jinak se totiž vrátí k moci pravice. Má se jednat s Hamásem? A na konec glosa Ivy Pekárkové. Moderuje Kamila Pešeková.</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/30b4dc40-cc96-4cf2-9ea8-855bae366481.mp3" length="37418733" type="audio/mpeg"/>
       <pubDate>Fri, 28 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
+      <description>Babišova vláda odolnou společnost nechce, evropské miliardy na ni nehodlá použít. Visegrád se při jednání o unijním rozpočtu dělí na chudé a bohaté. My Češi jsme ti bohatí. Smrt pětileté Hind Radžab začne Izrael vyšetřovat až po dvou a půl letech. Jak chce vláda porušovat základní zákon: Ústavu. Senát krátce před obměnou třetiny křesel ukázal, jak umí potrápit vládu i poslance. Jak si Trump hraje na bankéře</description>
+      <guid isPermaLink="false">d2cf4c52-6f8b-3c5a-b071-d473fe7837a0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/44c2e7a5-0c90-4dde-9851-e8b07b1f204c.mp3" length="37438893" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
