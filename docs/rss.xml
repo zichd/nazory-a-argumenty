@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 29 Aug 2026 15:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:18:42 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
-      <description>Strany trpí nedostatkem členů, ovšem doplácíme na to všichni. Kdo chce taky do Senátu? Polský premiér Tusk tlačí na vytvoření vládního bloku. Jinak se totiž vrátí k moci pravice. Má se jednat s Hamásem? A na konec glosa Ivy Pekárkové. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">8fcdeb0a-3b85-347a-abe2-067a2b449127</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cad11108-0af0-454e-a693-fcd35bf6b7ea.mp3" length="37396269" type="audio/mpeg"/>
-      <pubDate>Tue, 18 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Hypotéky rostou, ceny rostou – jenom bydlet není kde. Blíží se opět zmrazení platů politiků aneb O nažraném vlkovi a celé koze. Trump je překvapený nedostatkem munice. Může si za to sám. Proč AfD ovládla východní Německo? Horké léto Marka Zuckerberga. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">5d936df5-6b05-3a27-8fd0-d3d570b2d7d0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d6e85b81-f36b-4335-9cf1-f867febe965c.mp3" length="36991917" type="audio/mpeg"/>
-      <pubDate>Wed, 19 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1541</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
       <description>Trump dál nebezpečně šíří globální nestabilitu. Exministr obrany Fedorov volá po prezidentských volbách. Šéf ANO umí vybubnovat déšť. Bezpečná pro posádku, riziková pro okolí? Města řeší, co s velkými auty. Oteplování trvá bez ohledu na názor na ně. Moderuje Jan Fingerland.</description>
@@ -110,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/44c2e7a5-0c90-4dde-9851-e8b07b1f204c.mp3" length="37438893" type="audio/mpeg"/>
       <pubDate>Sat, 29 Aug 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
+      <description>Martin Kuba a návrat do starých kolejí. Babišova karma je zdarma. Bohužel nejen pro něj. Ruské šance podle největší banky. Kurdský sen skončil. Začne ten syrský? Německo s politickou stabilitou u konce. Mariusz Szczygieł přestává v Polsku vydávat české autory</description>
+      <guid isPermaLink="false">0d35456b-45f9-36d1-b517-034102d57d75</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4ef67b03-e267-4f0e-9416-aa2df898415e.mp3" length="37196397" type="audio/mpeg"/>
+      <pubDate>Sun, 30 Aug 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1550</itunes:duration>
     </item>
   </channel>
 </rss>
