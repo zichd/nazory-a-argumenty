@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:03:52 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Rok 1968 máme v genech. Krize kolem Kusry. Zemanovo kanadské žertování s prezidenstvím. Navalného dědici fakticky pomáhají Kremlu. V Randálu</description>
-      <guid isPermaLink="false">3dce8ba4-8945-3a9c-9dd4-2c6b768fb89b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3c027995-8947-407a-a5d4-6a46a329e489.mp3" length="37474605" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Po Ceutě. O prostořekém bankéři. Nahoře bez. Hypotéky rostou, ceny rostou... Jenom bydlet není kde. Levné potraviny? Jak se to vezme. Proč AfD ovládla východní Německo?</description>
-      <guid isPermaLink="false">ec89971a-2b77-3956-914e-be439878e0ce</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b91141af-bc93-413b-ae70-633032d7f36a.mp3" length="36749421" type="audio/mpeg"/>
-      <pubDate>Sat, 22 Aug 2026 10:33:00 +0000</pubDate>
-      <itunes:duration>1531</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Marketink jako pláštík cynické politiky. Okamura uvádí – uctění památek obětí prostřednictvím jejich zneuctění. Tykač, Telefónica a ČEZ: miliardy v pohybu. Nový maďarský prezident a jeho nezávislost na vládě. Blíží se opět zmrazení platů politiků, aneb o nažraném vlkovi a celé koze. Horké léto Marka Zuckerberga</description>
@@ -110,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c8d48ef4-2705-4785-bd45-a9a86396a493.mp3" length="37147437" type="audio/mpeg"/>
       <pubDate>Tue, 01 Sep 2026 10:34:00 +0000</pubDate>
       <itunes:duration>1548</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Rozpočet šílenců a populistů? Rozpočtové sliby chyby Motoristů sobě. Trumpova tragikomická obchodní válka s Kanadou. Datacentra jako železnice 21. století. Sport, migrace a italská pravice. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">0a3e27e0-0a29-348c-87a9-1b6ffbac33bb</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/0da91e03-7000-4e6a-84de-f4ca9343be9f.mp3" length="37018989" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1542</itunes:duration>
     </item>
   </channel>
 </rss>
