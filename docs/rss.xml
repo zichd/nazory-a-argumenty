@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:58:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:55:40 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
-      <description>Ministr školství neuspěl v jednání o rozpočtu, což je chyba vlády. Stavební zákon znovu a lépe? Senát zamítl klíčovou novelu a je to dobře. Boje u Slavjansku a Kramatorsku. Plná demokracie, nebo magyarismus místo orbánismu? To se teprve uvidí Co vzít do vesmíru</description>
-      <guid isPermaLink="false">4bc14aaa-afef-318e-bcd8-44a1af08ee7b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/081417f3-445f-4959-8269-769119b787c5.mp3" length="37376109" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Senát krátce před obměnou třetiny křesel ukázal, jak umí potrápit vládu i poslance. Aspoň dvě procenta na obranu bez vytáček. Izraelci pod mořem objevili minulost. Nebo přítomnost? Německo se chce stát dospělé i u tajných služeb. A co mají společného Heda Kovály a africký slum. Poslechněte si všechny úterní komentáře, pořadem provází Petr Hartman.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/fcc613fdabddbef07fb997ed12738518.mp3" length="36948096" type="audio/mpeg"/>
       <pubDate>Thu, 03 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1540</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Patricií Polanskou</title>
+      <description>Motoristé a Babiš. Aby napříště už zpráva o zvyšování minimální mzdy neprošuměla. Rekordmanka Meloniová zatím doma nemá konkurenci. Leninovu kuchařku vystřídala Putinova uklízečka. A nakonec glosa Evy Turnové. Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">eba17157-07c0-3aaa-9bcf-8d4531647176</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/90e36279-a120-426f-b316-0766b1f2d0c4.mp3" length="37328301" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
     </item>
   </channel>
 </rss>
