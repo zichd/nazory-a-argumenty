@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:50:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:07:31 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Nákladné tajnosti ministryně Schillerové. Rozpočtová odpovědnost podle představ Babišovy vlády. Jak se Trump snaží ovlivňovat měnovou politiku. Macron Ukrajině slíbil pomoc proti zabijáckým Iskanderům. Evropa ji měla poskytnout dřív. Skandál pozdního prozření dopaminové závislosti</description>
-      <guid isPermaLink="false">3b40f0b1-77bd-3f0e-a4ab-32d1de06fca1</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cb9cda8b-43f9-4db2-bf9d-bae381f12f46.mp3" length="36979245" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1541</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Operace Ekonomický vyvrhel je chatrná fasáda na Trumpově íránském vojenském fiasku. Opozice netlačí na pilu ani tam, kde může. Třeba ve školství. 35 let ukrajinské nezávislosti. Americká levice si připsala vítězství i na Trumpově Floridě. Úsvit robotů za dveřmi. Zemřel Karel Barták</description>
@@ -102,6 +94,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/80b1ab80-0373-440b-8b62-65fef9ae317d.mp3" length="37253997" type="audio/mpeg"/>
       <pubDate>Sat, 05 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Narazil dluhový populismus Andreje Babiše na českou DNA?</title>
+      <description>O čem svědčí rozsudek osvobozující SPD? Energetické nápoje nejsou nevinná zábava. Za zavřenými kremelskými dveřmi. Islanďané a EU. Nedělní Názory a argumenty moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">40ec847b-d9cd-3e85-b10a-c444fed904d5</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/61b4e8f7-7d5f-429a-9047-66a4579c8e7d.mp3" length="35492589" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Sep 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1479</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Babišův dluhový populismus narazil na českou DNA. O čem svědčí rozsudek osvobozující SPD? Energetické nápoje nejsou nevinná zábava. Za zavřenými kremelskými dveřmi. Island a EU. Startupový zákon šustí papírem.</description>
+      <guid isPermaLink="false">9641242</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/e6fe67fa7e5b711a1a8e24833a07154f.mp3" length="23649408" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Sep 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>1478</itunes:duration>
     </item>
   </channel>
 </rss>
