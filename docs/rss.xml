@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:03:32 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Zakořeněný klientismus ve zprávě BIS. Americká levice jde nahoru. A dolů. Sucho nemusí být zabiják. Smrt jako smysl ruské existence. Hradil</description>
-      <guid isPermaLink="false">03a18f70-a79c-36c3-8ed9-a7361ec06cab</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e6464d21-ffaa-468f-b062-8649a00c9430.mp3" length="37781613" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1574</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
       <description>Babišova vláda odolnou společnost nechce, evropské miliardy na ni nehodlá použít. Visegrád se při jednání o unijním rozpočtu dělí na chudé a bohaté. My Češi jsme ti bohatí. Smrt pětileté Hind Radžab začne Izrael vyšetřovat až po dvou a půl letech. Jak chce vláda porušovat základní zákon: Ústavu. Senát krátce před obměnou třetiny křesel ukázal, jak umí potrápit vládu i poslance. Jak si Trump hraje na bankéře</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/86c778a8-8e2e-4e3f-a013-5d4214023fec.mp3" length="37817901" type="audio/mpeg"/>
       <pubDate>Mon, 07 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1576</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
+      <description>Vláda by neměla hejtmany a primátory peskovat, ale poučit se od nich. O čem Židé mluví, když mluví o AfD. Vláda chce snížit podporu v nezaměstnanosti. Babišův populismus nabývá nepopulární podoby. Ruská dezinformační stopa v Africe. Vede až k Ceutě? A na konec glosa Ivy Pekárkové. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">5c4ec160-7853-390d-8e51-3afee9af1509</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/40b7f066-579b-4ccf-bc8e-5acaef992d35.mp3" length="37725165" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1572</itunes:duration>
     </item>
   </channel>
 </rss>
