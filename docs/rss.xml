@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:05:08 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
-      <description>Babišova vláda odolnou společnost nechce, evropské miliardy na ni nehodlá použít. Visegrád se při jednání o unijním rozpočtu dělí na chudé a bohaté. My Češi jsme ti bohatí. Smrt pětileté Hind Radžab začne Izrael vyšetřovat až po dvou a půl letech. Jak chce vláda porušovat základní zákon: Ústavu. Senát krátce před obměnou třetiny křesel ukázal, jak umí potrápit vládu i poslance. Jak si Trump hraje na bankéře</description>
-      <guid isPermaLink="false">d2cf4c52-6f8b-3c5a-b071-d473fe7837a0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e4251c8d-2204-4d90-8203-2ded9f1f2dd9.mp3" length="37801773" type="audio/mpeg"/>
-      <pubDate>Sat, 29 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1575</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
       <description>Martin Kuba a návrat do starých kolejí. Babišova karma je zdarma. Bohužel nejen pro něj. Ruské šance podle největší banky. Kurdský sen skončil. Začne ten syrský? Německo s politickou stabilitou u konce. Mariusz Szczygieł přestává v Polsku vydávat české autory</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/40b7f066-579b-4ccf-bc8e-5acaef992d35.mp3" length="37725165" type="audio/mpeg"/>
       <pubDate>Tue, 08 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1572</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Kamilou Pešekovou</title>
+      <description>Existenční obavy a reformy kancléře Merze přispěly k vítězství AfD. Získá hnutí ANO i vládu nad Prahou? Aktuální jednání o schodku. Česko – země, která kašle na budoucnost. Jak prezident Trump zlevnil Američanům hamburgery. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">b9fbccf0-ddc9-3ac4-9ab4-b504075ce3d0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aefa1237-db61-43fc-905c-94a45da054d9.mp3" length="37748781" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1573</itunes:duration>
     </item>
   </channel>
 </rss>
