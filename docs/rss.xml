@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:57:31 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
-      <description>Martin Kuba a návrat do starých kolejí. Babišova karma je zdarma. Bohužel nejen pro něj. Ruské šance podle největší banky. Kurdský sen skončil. Začne ten syrský? Německo s politickou stabilitou u konce. Mariusz Szczygieł přestává v Polsku vydávat české autory</description>
-      <guid isPermaLink="false">0d35456b-45f9-36d1-b517-034102d57d75</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d3ec94df-b9aa-43f7-a39b-dd0110bb86fb.mp3" length="37559277" type="audio/mpeg"/>
-      <pubDate>Sun, 30 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1565</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
       <description>Začínající školní rok ovlivní nejen ministr a pedagogové, ale také říjnové volby. Reformy má dělat příští vláda. Vždycky až ta příští. Babiš a Pavel spolu začnou mluvit. Putinův výnos a obrana proti dronům. A na konec glosa Ondřeje Neffa. Moderuje Jan Fingerland.</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aefa1237-db61-43fc-905c-94a45da054d9.mp3" length="37748781" type="audio/mpeg"/>
       <pubDate>Wed, 09 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1573</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
+      <description>Co může reálně změnit Alternativa pro Německo? Na podzim lidé rozhodnou o soupeři Babišova hnutí. Co bude dál na ukrajinské frontě a bude k tomu mít Ukrajina dost Patriotů? Tejc chystá paragraf, který má Babiše zbavit přízraku Čapího hnízda. A na konec glosa Kristiny Žantovské. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">1bbd9fe1-c869-3a69-983c-529693bbbed7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/898029cd-50a7-444a-adbe-83807aa05c60.mp3" length="37541421" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1564</itunes:duration>
     </item>
   </channel>
 </rss>
