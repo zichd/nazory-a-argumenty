@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:58:16 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Janem Fingerlandem</title>
-      <description>Začínající školní rok ovlivní nejen ministr a pedagogové, ale také říjnové volby. Reformy má dělat příští vláda. Vždycky až ta příští. Babiš a Pavel spolu začnou mluvit. Putinův výnos a obrana proti dronům. A na konec glosa Ondřeje Neffa. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">7a78bb71-48a5-39a3-a9e2-6ea32ea7f15c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1a1e45d1-37d9-4827-b725-bc8d543b49f4.mp3" length="37726317" type="audio/mpeg"/>
-      <pubDate>Mon, 31 Aug 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1572</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Kamilou Pešekovou</title>
       <description>Čas váhavých střelců brzy skončí. Islandské referendum o EU je prohrou pro místní vládu i pro unii. Výpalné v hávu daru. V Evropě začínáme postupně vymírat. Tak proč tam bydlí?</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/898029cd-50a7-444a-adbe-83807aa05c60.mp3" length="37541421" type="audio/mpeg"/>
       <pubDate>Thu, 10 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1564</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Osleplý premiér na cestě za prozřením. Čtvrtstoletí od 11. září 2001. Ozvěny pádu „Dvojčat“ v Čechách. Vzbouří se Rusové? A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">8deddc2f-8ce3-3d25-92d9-897529c7a59c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1821920e-97b9-4ef0-a35b-e708517112c0.mp3" length="37754541" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1573</itunes:duration>
     </item>
   </channel>
 </rss>
