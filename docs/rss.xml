@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:56:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:32:02 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Patricií Polanskou</title>
-      <description>Motoristé a Babiš. Aby napříště už zpráva o zvyšování minimální mzdy neprošuměla. Rekordmanka Meloniová zatím doma nemá konkurenci. Leninovu kuchařku vystřídala Putinova uklízečka. A nakonec glosa Evy Turnové. Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">eba17157-07c0-3aaa-9bcf-8d4531647176</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/61eee8db-3a41-40aa-844c-b89041dc9143.mp3" length="37691181" type="audio/mpeg"/>
-      <pubDate>Fri, 04 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1570</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
       <description>Ukrajina – slabé místo Meloniové, Polsko se zadlužuje mnohem rychleji než Česko. Ale aspoň si nelže, Proč válka v Zálivu zůstává hořet na půl plynu, Vlny veder v Evropě zabíjejí desetitisíce lidí a ničí ekonomiku. Popření klimazměny nefunguje</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a82da863-9f9f-40f8-b6cc-55852714302a.mp3" length="37662957" type="audio/mpeg"/>
       <pubDate>Mon, 14 Sep 2026 10:34:00 +0000</pubDate>
       <itunes:duration>1569</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Další volební kampaň, která voliče nemotivuje, ale nudí. Nemluvit s prezidentem je k ničemu. Trump slibuje Američanům vracet tisíce dolarů, které nejsou jeho. Beztak to nesplní. Kdo může mít radost z vítězství AfD? V Polsku i u nás. Josef Sudek, fotograf ticha. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">ada7e2e5-3e4b-381f-b5c9-9bf74a0b0e0b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/62f8c34f-0e96-4295-b254-2733e2c09eee.mp3" length="37843245" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1577</itunes:duration>
     </item>
   </channel>
 </rss>
