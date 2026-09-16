@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:24:16 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Ukrajina – slabé místo Meloniové, Polsko se zadlužuje mnohem rychleji než Česko. Ale aspoň si nelže, Proč válka v Zálivu zůstává hořet na půl plynu, Vlny veder v Evropě zabíjejí desetitisíce lidí a ničí ekonomiku. Popření klimazměny nefunguje</description>
-      <guid isPermaLink="false">28a0f38f-90f2-312a-a3bc-50022ce708b3</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/79988128-3633-4a9d-9b29-f2ab85c5b374.mp3" length="37616877" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1567</itunes:duration>
-    </item>
     <item>
       <title>Narazil dluhový populismus Andreje Babiše na českou DNA?</title>
       <description>O čem svědčí rozsudek osvobozující SPD? Energetické nápoje nejsou nevinná zábava. Za zavřenými kremelskými dveřmi. Islanďané a EU. Nedělní Názory a argumenty moderuje Ondřej Konrád.</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/62f8c34f-0e96-4295-b254-2733e2c09eee.mp3" length="37843245" type="audio/mpeg"/>
       <pubDate>Tue, 15 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1577</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>To by se to půjčovalo, kdyby nebyly úroky. Novela jednacího řádu neznamená konec sněmovních obstrukcí. Napínavě nudné volby aneb Učte se u Švédů. Trump AI brzdit nebude, vyhlazení lidstva se nebojí. Kartágo musí být zničeno aneb Ukrajinský boj s korupcí. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">14d3a012-4199-33db-9f0f-9765bda697ba</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4c1b345f-4fe4-4745-8801-56939d701321.mp3" length="37834029" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1576</itunes:duration>
     </item>
   </channel>
 </rss>
