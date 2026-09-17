@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:24:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:31:15 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Narazil dluhový populismus Andreje Babiše na českou DNA?</title>
-      <description>O čem svědčí rozsudek osvobozující SPD? Energetické nápoje nejsou nevinná zábava. Za zavřenými kremelskými dveřmi. Islanďané a EU. Nedělní Názory a argumenty moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">40ec847b-d9cd-3e85-b10a-c444fed904d5</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/48edb416-a80d-4646-be41-9cfa55ece95f.mp3" length="35855469" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Sep 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1494</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Babišův dluhový populismus narazil na českou DNA. O čem svědčí rozsudek osvobozující SPD? Energetické nápoje nejsou nevinná zábava. Za zavřenými kremelskými dveřmi. Island a EU. Startupový zákon šustí papírem.</description>
-      <guid isPermaLink="false">9641242</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e30f515d-f501-430f-ae69-1aad790e32f3.mp3" length="23891757" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Sep 2026 11:00:00 +0000</pubDate>
-      <itunes:duration>1493</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
       <description>Státní rozpočet není soubor čísel k věření, jak předvádí vláda Andreje Babiše. Snížení schodku o deset či dvacet miliard není cestou ke konsolidaci. Volební tsunami v Sasku-Anhaltsku může otřást i Berlínem. Kushner a Witkoff v Moskvě a Kyjevě. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
@@ -109,6 +93,14 @@
       <guid isPermaLink="false">14d3a012-4199-33db-9f0f-9765bda697ba</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4c1b345f-4fe4-4745-8801-56939d701321.mp3" length="37834029" type="audio/mpeg"/>
       <pubDate>Wed, 16 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1576</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Patricií Polanskou</title>
+      <description>Nejvyšší soud USA odmítl Trumpovy snahy zproblematizovat nadcházející volby. Kde se skrývají ruské peníze. Jak se zbavit Turka aneb Konec Motoristů v Čechách. Zdanit „investiční byty“ pořízené na přilepšení k důchodu? To se voličům ANO nebude líbit. Proces aneb Kafkovská dohra atentátů z 11. září. Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">c3beefb3-781b-3e69-98d9-2533a137aced</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/51a11027-19f8-4fbb-8930-fef016d2a2ea.mp3" length="37822509" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1576</itunes:duration>
     </item>
   </channel>
