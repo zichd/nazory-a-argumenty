@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 14:56:53 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
-      <description>Státní rozpočet není soubor čísel k věření, jak předvádí vláda Andreje Babiše. Snížení schodku o deset či dvacet miliard není cestou ke konsolidaci. Volební tsunami v Sasku-Anhaltsku může otřást i Berlínem. Kushner a Witkoff v Moskvě a Kyjevě. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">01181e78-ef3b-3884-912b-bf51c67097c4</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/86c778a8-8e2e-4e3f-a013-5d4214023fec.mp3" length="37817901" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1576</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
       <description>Vláda by neměla hejtmany a primátory peskovat, ale poučit se od nich. O čem Židé mluví, když mluví o AfD. Vláda chce snížit podporu v nezaměstnanosti. Babišův populismus nabývá nepopulární podoby. Ruská dezinformační stopa v Africe. Vede až k Ceutě? A na konec glosa Ivy Pekárkové. Moderuje Ondřej Konrád.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/51a11027-19f8-4fbb-8930-fef016d2a2ea.mp3" length="37822509" type="audio/mpeg"/>
       <pubDate>Thu, 17 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1576</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Co takhle zmodernizovat Senát? Opozice bude muset znovu sjednotit síly. Dřív, než si myslela. Rusům mají zajistit pokoření Ukrajiny ostatky světců. Před padesáti lety se v Polsku zrodila první organizovaná opozice. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">a333245d-8a0b-3cc7-8dda-e21e90e3f841</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2cffff63-a8c2-477f-93f3-dfe1e587eed4.mp3" length="37266669" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1553</itunes:duration>
     </item>
   </channel>
 </rss>
