@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:56:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 14:21:43 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
-      <description>Vláda by neměla hejtmany a primátory peskovat, ale poučit se od nich. O čem Židé mluví, když mluví o AfD. Vláda chce snížit podporu v nezaměstnanosti. Babišův populismus nabývá nepopulární podoby. Ruská dezinformační stopa v Africe. Vede až k Ceutě? A na konec glosa Ivy Pekárkové. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">5c4ec160-7853-390d-8e51-3afee9af1509</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/40b7f066-579b-4ccf-bc8e-5acaef992d35.mp3" length="37725165" type="audio/mpeg"/>
-      <pubDate>Tue, 08 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1572</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Kamilou Pešekovou</title>
       <description>Existenční obavy a reformy kancléře Merze přispěly k vítězství AfD. Získá hnutí ANO i vládu nad Prahou? Aktuální jednání o schodku. Česko – země, která kašle na budoucnost. Jak prezident Trump zlevnil Američanům hamburgery. Moderuje Kamila Pešeková.</description>
@@ -102,6 +94,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2cffff63-a8c2-477f-93f3-dfe1e587eed4.mp3" length="37266669" type="audio/mpeg"/>
       <pubDate>Fri, 18 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1553</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">5564f0da-bf3e-3ccf-916f-bddf463b9135</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/902ef919-4de3-47d5-933f-4f7a2f3531c8.mp3" length="37684269" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Sep 2026 10:33:00 +0000</pubDate>
+      <itunes:duration>1570</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
+      <description>Proč německým kancléřům tolik zatápí regionální volby? Sledovat ruské volby má svůj smysl. Informovaný volič je mýtus 20. století: vládne citový volič, který neumí zabít sám sebe. Kultura je to jediné, co nás přežije.</description>
+      <guid isPermaLink="false">9644189</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/966fbac7-bff0-498b-87f8-9949846a9da3.mp3" length="25110957" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1569</itunes:duration>
     </item>
   </channel>
 </rss>
