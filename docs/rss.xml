@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 19 Sep 2026 14:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 14:40:48 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Kamilou Pešekovou</title>
-      <description>Existenční obavy a reformy kancléře Merze přispěly k vítězství AfD. Získá hnutí ANO i vládu nad Prahou? Aktuální jednání o schodku. Česko – země, která kašle na budoucnost. Jak prezident Trump zlevnil Američanům hamburgery. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">b9fbccf0-ddc9-3ac4-9ab4-b504075ce3d0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aefa1237-db61-43fc-905c-94a45da054d9.mp3" length="37748781" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1573</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
       <description>Co může reálně změnit Alternativa pro Německo? Na podzim lidé rozhodnou o soupeři Babišova hnutí. Co bude dál na ukrajinské frontě a bude k tomu mít Ukrajina dost Patriotů? Tejc chystá paragraf, který má Babiše zbavit přízraku Čapího hnízda. A na konec glosa Kristiny Žantovské. Moderuje Jan Fingerland.</description>
@@ -110,6 +102,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/966fbac7-bff0-498b-87f8-9949846a9da3.mp3" length="25110957" type="audio/mpeg"/>
       <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
       <itunes:duration>1569</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Patricie Polanská.</description>
+      <guid isPermaLink="false">22d9aa5d-85ff-3ca3-a55e-f1623c8fe6bd</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/26249541-a515-4894-8698-39c7f01844c7.mp3" length="37275885" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Sep 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1553</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
+      <description>Premiér si všiml ruské hybridní války. Její vojáky má ale i mezi vlastními poslanci. Zmatený premiér nebo divadlo pro domácí a zahraniční publikum? Rozpaky pražského voliče. Polská vláda Donalda Tuska začala řešit vysoké ceny paliv. To je signál i pro Česko. Rituální cvičení slovenského prezidenta Pellegriniho. Afrika překresluje mapu světa. A s ní i svůj příběh.</description>
+      <guid isPermaLink="false">9644294</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bb475c8b-3667-4128-b3d7-5908dbd7dcf5.mp3" length="24838701" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Sep 2026 11:50:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
