@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 21 Sep 2026 16:59:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:29:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
-      <description>Neúprosná aritmetika, aneb blízké hrozby pro Ukrajinu. Berme Šanghajskou organizaci pro spolupráci vážněji! Svět nekončí, ale liberální pokrokářství ano. ETF a pražská burza. Státní rozpočet není soubor čísel k věření… Spíš než hejtmany a primátory peskovat by se měla vláda od nich poučit</description>
-      <guid isPermaLink="false">537cec95-6b62-34b6-bbcc-305c58643ed1</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d6083cbc-98d0-41f9-a80d-d9ef3d53763a.mp3" length="37596141" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Sep 2026 10:33:00 +0000</pubDate>
-      <itunes:duration>1566</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
       <description>Schillerová uvažuje o obraně jako o opravě obrubníku v Malhostovicích. Při hledání práce zase ve finanční nejistotě. Švédové mají volby rádi napjaté. Ruský dům v Berlíně padl. Před tím pražským stojí na stráži Okamura. Kulaté výročí narození Václava Havla oslavujeme likvidací jeho knihovny. Francouzská výšivka stará tisíc let pobláznila Londýn</description>
@@ -107,9 +99,17 @@
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Slovensko. Když se z nejbližšího souseda stane nespolehlivý spojenec. Regulace cen benzínu a nafty. Ruské volby. Je přidružené členství v EU pro Kanadu jen politickým sloganem? Trumpův boj s centrální bankou a realitou. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
       <guid isPermaLink="false">fd711ab4-0936-3fd5-b338-94bf174aed90</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/5b7322de-42e7-4a1a-9a6d-f39b8241a59b.mp3" length="37480941" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1b64e5be-c1e5-4f6a-9e4f-a6049d72a5d3.mp3" length="37843821" type="audio/mpeg"/>
       <pubDate>Mon, 21 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
+      <itunes:duration>1577</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Babiš bere extremistům vítr z plachet. Ale za jakou cenu? AfD a Die Linke aneb Když pravice ví, co dělá levice. Pošlapání demokratických tabu čili incest vládní moci. Žádný realistický plán na obzoru. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">b47fa9a0-a026-3d98-a597-62379907a014</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a53e03b2-4140-4414-9d83-a2347f0238a9.mp3" length="37832301" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1576</itunes:duration>
     </item>
   </channel>
 </rss>
