@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 15:25:47 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
-      <description>Schillerová uvažuje o obraně jako o opravě obrubníku v Malhostovicích. Při hledání práce zase ve finanční nejistotě. Švédové mají volby rádi napjaté. Ruský dům v Berlíně padl. Před tím pražským stojí na stráži Okamura. Kulaté výročí narození Václava Havla oslavujeme likvidací jeho knihovny. Francouzská výšivka stará tisíc let pobláznila Londýn</description>
-      <guid isPermaLink="false">cf830bd2-fd63-3402-ad9f-9386444487da</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/cdfdbde2-b05f-4cbb-9626-7e7e03c1bfdd.mp3" length="37680813" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Sep 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1570</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Jak dopadli čeští žáci v mezinárodním testování PISA a co si z toho vzít. Přichází horký podzim, ceny energií letí vzhůru v čase extrémního zadlužení. Evropská unie se musí rozhodnout, zda do ní může patřit Srbsko. Summit BRICS jako důležitý symbol. Vyhrajte Ig Nobelovu cenu</description>
@@ -110,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a53e03b2-4140-4414-9d83-a2347f0238a9.mp3" length="37832301" type="audio/mpeg"/>
       <pubDate>Tue, 22 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1576</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Premiéra u pumpy viděti aneb Pro a proti regulaci cen pohonných hmot. Motoristé a SPD využívají svůj „vyděračský“ potenciál, netýká se to ale rozpočtu. Když postavení kancléře eroduje, daří se extrémům. Merz v koutě a co to znamená pro Německo i EU. Klub nešťastných zemí. Jaroslav Seifert, básník meziválečné avantgardy. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">01b93d79-d0b7-386e-bbf3-38a5ef56a32d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aa83a32d-3fb9-425f-b9c4-7f111ed0c501.mp3" length="37487853" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
