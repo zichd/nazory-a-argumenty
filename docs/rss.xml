@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:47:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -105,11 +105,19 @@
     </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Premiéra u pumpy viděti aneb Pro a proti regulaci cen pohonných hmot. Motoristé a SPD využívají svůj „vyděračský“ potenciál, netýká se to ale rozpočtu. Když postavení kancléře eroduje, daří se extrémům. Merz v koutě a co to znamená pro Německo i EU. Klub nešťastných zemí. Jaroslav Seifert, básník meziválečné avantgardy. Moderuje Ondřej Konrád.</description>
+      <description>Premiéra u pumpy viděti aneb Pro a proti regulaci cen pohonných hmot. Motoristé a SPD využívají svůj „vyděračský“ potenciál, netýká se to ale rozpočtu. „Pozitivní a produktivní“ schůzka Zelenského s Trumpem. Jaroslav Seifert, básník meziválečné avantgardy. Moderuje Ondřej Konrád.</description>
       <guid isPermaLink="false">01b93d79-d0b7-386e-bbf3-38a5ef56a32d</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aa83a32d-3fb9-425f-b9c4-7f111ed0c501.mp3" length="37487853" type="audio/mpeg"/>
       <pubDate>Wed, 23 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
+      <description>Americká média se vzbouřila proti Trumpově útoku na některé mediální organizace. Česko řeší dopady mnoha krizí. Potřebuje silný leadership. Merz v koutě a co to znamená pro Německo i EU. Klub nešťastných zemí. Macron představil prezidentským kandidátům ruské hrozby. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">956d3267-860a-3275-9ca6-f5b350619990</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/650c1b42-bc2b-4336-bea4-4886a30c6ce0.mp3" length="37619757" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1567</itunes:duration>
     </item>
   </channel>
 </rss>
