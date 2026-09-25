@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:47:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:47:38 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Jak dopadli čeští žáci v mezinárodním testování PISA a co si z toho vzít. Přichází horký podzim, ceny energií letí vzhůru v čase extrémního zadlužení. Evropská unie se musí rozhodnout, zda do ní může patřit Srbsko. Summit BRICS jako důležitý symbol. Vyhrajte Ig Nobelovu cenu</description>
-      <guid isPermaLink="false">647552f3-f888-3c53-9c81-4598ac861465</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a82da863-9f9f-40f8-b6cc-55852714302a.mp3" length="37662957" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1569</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Další volební kampaň, která voliče nemotivuje, ale nudí. Nemluvit s prezidentem je k ničemu. Trump slibuje Američanům vracet tisíce dolarů, které nejsou jeho. Beztak to nesplní. Kdo může mít radost z vítězství AfD? V Polsku i u nás. Josef Sudek, fotograf ticha. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/650c1b42-bc2b-4336-bea4-4886a30c6ce0.mp3" length="37619757" type="audio/mpeg"/>
       <pubDate>Thu, 24 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1567</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Svět ve varu. Petr Pavel a Petr Macinka spolu v OSN. Třetí světová válka už možná začala. Kreml plní cíle ohlášené před téměř pěti lety. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">4b863e2e-3bca-3533-bcc9-f95562b0afe2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/35838fcc-a7ff-430d-9342-f93c3463dbe4.mp3" length="37370349" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
