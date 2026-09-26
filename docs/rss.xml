@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 25 Sep 2026 15:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:57:23 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Další volební kampaň, která voliče nemotivuje, ale nudí. Nemluvit s prezidentem je k ničemu. Trump slibuje Američanům vracet tisíce dolarů, které nejsou jeho. Beztak to nesplní. Kdo může mít radost z vítězství AfD? V Polsku i u nás. Josef Sudek, fotograf ticha. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">ada7e2e5-3e4b-381f-b5c9-9bf74a0b0e0b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/62f8c34f-0e96-4295-b254-2733e2c09eee.mp3" length="37843245" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1577</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>To by se to půjčovalo, kdyby nebyly úroky. Novela jednacího řádu neznamená konec sněmovních obstrukcí. Napínavě nudné volby aneb Učte se u Švédů. Trump AI brzdit nebude, vyhlazení lidstva se nebojí. Kartágo musí být zničeno aneb Ukrajinský boj s korupcí. Moderuje Ondřej Konrád.</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/35838fcc-a7ff-430d-9342-f93c3463dbe4.mp3" length="37370349" type="audio/mpeg"/>
       <pubDate>Fri, 25 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
+      <description>Dva oligarchové se radují ze zrušení sankcí. Co Evropa? Babiš volá po míru, ale Putin chce válku. Evropa bez Babiše pracuje na protivzdušné obraně. Maďarsko-ukrajinské sbližování se stále nekoná. Příkopy jsou hluboké. Francouzští zemědělci v problémech. Motoristé a SPD využívají svůj „vyděračský“ potenciál, netýká se to ale rozpočtu. Premiéra u pumpy viděti</description>
+      <guid isPermaLink="false">c18bd586-0bb8-3d64-a52c-5851402d25c4</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/572b6f70-33af-4ffc-a479-86f87577175c.mp3" length="37823085" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1576</itunes:duration>
     </item>
   </channel>
 </rss>
