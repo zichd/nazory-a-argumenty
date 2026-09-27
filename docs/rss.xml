@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 26 Sep 2026 14:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 15:37:52 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>To by se to půjčovalo, kdyby nebyly úroky. Novela jednacího řádu neznamená konec sněmovních obstrukcí. Napínavě nudné volby aneb Učte se u Švédů. Trump AI brzdit nebude, vyhlazení lidstva se nebojí. Kartágo musí být zničeno aneb Ukrajinský boj s korupcí. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">14d3a012-4199-33db-9f0f-9765bda697ba</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/4c1b345f-4fe4-4745-8801-56939d701321.mp3" length="37834029" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1576</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Patricií Polanskou</title>
       <description>Nejvyšší soud USA odmítl Trumpovy snahy zproblematizovat nadcházející volby. Kde se skrývají ruské peníze. Jak se zbavit Turka aneb Konec Motoristů v Čechách. Zdanit „investiční byty“ pořízené na přilepšení k důchodu? To se voličům ANO nebude líbit. Proces aneb Kafkovská dohra atentátů z 11. září. Moderuje Patricie Polanská.</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/572b6f70-33af-4ffc-a479-86f87577175c.mp3" length="37823085" type="audio/mpeg"/>
       <pubDate>Sat, 26 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1576</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
+      <description>Zmrazení platů politiků. To je blbý, to se bude líbit. Blíží se skutečný test popularity Andreje Babiše. Kořist patří vítězi. Americký prezident chtěl venezuelskou ropu. A dostal ji. Selhání trhu korunované selháním státu. Klub nešťastných zemí</description>
+      <guid isPermaLink="false">c3c57ac1-b964-3698-8bb1-14a79102bda4</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/3175b68f-6255-4ee1-9997-f093cb9b9d68.mp3" length="35683821" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1487</itunes:duration>
     </item>
   </channel>
 </rss>
