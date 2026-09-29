@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 28 Sep 2026 18:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:52:09 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Co takhle zmodernizovat Senát? Opozice bude muset znovu sjednotit síly. Dřív, než si myslela. Rusům mají zajistit pokoření Ukrajiny ostatky světců. Před padesáti lety se v Polsku zrodila první organizovaná opozice. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">a333245d-8a0b-3cc7-8dda-e21e90e3f841</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/2cffff63-a8c2-477f-93f3-dfe1e587eed4.mp3" length="37266669" type="audio/mpeg"/>
-      <pubDate>Fri, 18 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1553</itunes:duration>
-    </item>
     <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Patricie Polanská.</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/c18846e7-ebd4-472f-9f1b-e4212e03eb88.mp3" length="37745901" type="audio/mpeg"/>
       <pubDate>Mon, 28 Sep 2026 10:34:00 +0000</pubDate>
       <itunes:duration>1573</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Skutečně si opozice myslí, že zmobilizuje voliče dalším hlasováním o nedůvěře vládě? Švýcaři rozhodli, že na sankcích proti ruským oligarchům se nic nezmění. Babiš v boji s EU o střet zájmů v zoufalství sází i na konspirační bludy. I v Česku vznikají úspěšné firmy. Mužská chřipka</description>
+      <guid isPermaLink="false">8cbc0f7c-3381-33f1-b7f0-858a7645ddf7</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dcacfb59-456f-48a3-b33d-bf4500570e95.mp3" length="37834605" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Sep 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1576</itunes:duration>
     </item>
   </channel>
 </rss>
