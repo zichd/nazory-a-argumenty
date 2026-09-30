@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 29 Sep 2026 16:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:48:07 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">5564f0da-bf3e-3ccf-916f-bddf463b9135</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/902ef919-4de3-47d5-933f-4f7a2f3531c8.mp3" length="37684269" type="audio/mpeg"/>
-      <pubDate>Sat, 19 Sep 2026 10:33:00 +0000</pubDate>
-      <itunes:duration>1570</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>Proč německým kancléřům tolik zatápí regionální volby? Sledovat ruské volby má svůj smysl. Informovaný volič je mýtus 20. století: vládne citový volič, který neumí zabít sám sebe. Kultura je to jediné, co nás přežije.</description>
-      <guid isPermaLink="false">9644189</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/966fbac7-bff0-498b-87f8-9949846a9da3.mp3" length="25110957" type="audio/mpeg"/>
-      <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>1569</itunes:duration>
-    </item>
     <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Patricie Polanská.</description>
@@ -118,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dcacfb59-456f-48a3-b33d-bf4500570e95.mp3" length="37834605" type="audio/mpeg"/>
       <pubDate>Tue, 29 Sep 2026 10:34:00 +0000</pubDate>
       <itunes:duration>1576</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
+      <description>Hlas komunálu, hlas boží. Potvrdí ANO minulý triumf? Hlasování o nedůvěře. Smíšené pocity aneb Američané odešli z Iráku. Proč momentálně nelze povalit Babišovu vládu. Jak může z vládní krize na Slovensku vytěžit Robert Fico. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">1356ba9c-1d88-399a-b53e-2e56b75a31d0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/17bb4847-5053-4007-a32c-e2e5ef06a6da.mp3" length="37809837" type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1575</itunes:duration>
     </item>
   </channel>
 </rss>
