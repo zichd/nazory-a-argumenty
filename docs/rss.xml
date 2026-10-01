@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 30 Sep 2026 16:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:21:01 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Patricie Polanská.</description>
-      <guid isPermaLink="false">22d9aa5d-85ff-3ca3-a55e-f1623c8fe6bd</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/26249541-a515-4894-8698-39c7f01844c7.mp3" length="37275885" type="audio/mpeg"/>
-      <pubDate>Sun, 20 Sep 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1553</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
-      <description>Premiér si všiml ruské hybridní války. Její vojáky má ale i mezi vlastními poslanci. Zmatený premiér nebo divadlo pro domácí a zahraniční publikum? Rozpaky pražského voliče. Polská vláda Donalda Tuska začala řešit vysoké ceny paliv. To je signál i pro Česko. Rituální cvičení slovenského prezidenta Pellegriniho. Afrika překresluje mapu světa. A s ní i svůj příběh.</description>
-      <guid isPermaLink="false">9644294</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bb475c8b-3667-4128-b3d7-5908dbd7dcf5.mp3" length="24838701" type="audio/mpeg"/>
-      <pubDate>Sun, 20 Sep 2026 11:50:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Slovensko. Když se z nejbližšího souseda stane nespolehlivý spojenec. Regulace cen benzínu a nafty. Ruské volby. Je přidružené členství v EU pro Kanadu jen politickým sloganem? Trumpův boj s centrální bankou a realitou. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -104,12 +88,20 @@
       <itunes:duration>1576</itunes:duration>
     </item>
     <item>
-      <title>Poslechněte si všechny úterní komentáře s Ondřejem Konrádem</title>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Hlas komunálu, hlas boží. Potvrdí ANO minulý triumf? Hlasování o nedůvěře. Smíšené pocity aneb Američané odešli z Iráku. Proč momentálně nelze povalit Babišovu vládu. Jak může z vládní krize na Slovensku vytěžit Robert Fico. Moderuje Ondřej Konrád.</description>
       <guid isPermaLink="false">1356ba9c-1d88-399a-b53e-2e56b75a31d0</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/17bb4847-5053-4007-a32c-e2e5ef06a6da.mp3" length="37809837" type="audio/mpeg"/>
       <pubDate>Wed, 30 Sep 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1575</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
+      <description>Trump slibuje v reklamních spotech placených vládou „poslední bitvu“. I populistický lídr potřebuje ve vládě schopné ministry. Výhled pro ruský rozpočet. Miliardový boj agentů o zákazníka. Fenomén Jiří Suchý. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">c1f21beb-d1ae-32c4-9c79-5ec3e446baa9</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/44d79b55-fbca-4f05-a287-8ed5b79f5f1e.mp3" length="37835757" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1576</itunes:duration>
     </item>
   </channel>
 </rss>
