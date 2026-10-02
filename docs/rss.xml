@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 01 Oct 2026 17:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:36:39 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Slovensko. Když se z nejbližšího souseda stane nespolehlivý spojenec. Regulace cen benzínu a nafty. Ruské volby. Je přidružené členství v EU pro Kanadu jen politickým sloganem? Trumpův boj s centrální bankou a realitou. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">fd711ab4-0936-3fd5-b338-94bf174aed90</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1b64e5be-c1e5-4f6a-9e4f-a6049d72a5d3.mp3" length="37843821" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1577</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Babiš bere extremistům vítr z plachet. Ale za jakou cenu? AfD a Die Linke aneb Když pravice ví, co dělá levice. Pošlapání demokratických tabu čili incest vládní moci. Žádný realistický plán na obzoru. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/44d79b55-fbca-4f05-a287-8ed5b79f5f1e.mp3" length="37835757" type="audio/mpeg"/>
       <pubDate>Thu, 01 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1576</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Havel 90. Případ Kyněv, návrat k stalinským praktikám. Brazilské déjà vu: favorité voleb jsou Lula da Silva a Bolsonaro. Výjimečný krok VW v problémech. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">74ecb3d9-0a07-335c-b0b9-1c1c24cdb557</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/eead4dc4-ab3f-4daa-92c5-0bede9d6c51b.mp3" length="37502253" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1563</itunes:duration>
     </item>
   </channel>
 </rss>
