@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:45:39 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
-      <description>Americká média se vzbouřila proti Trumpově útoku na některé mediální organizace. Česko řeší dopady mnoha krizí. Potřebuje silný leadership. Merz v koutě a co to znamená pro Německo i EU. Klub nešťastných zemí. Macron představil prezidentským kandidátům ruské hrozby. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">956d3267-860a-3275-9ca6-f5b350619990</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/650c1b42-bc2b-4336-bea4-4886a30c6ce0.mp3" length="37619757" type="audio/mpeg"/>
-      <pubDate>Thu, 24 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1567</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Svět ve varu. Petr Pavel a Petr Macinka spolu v OSN. Třetí světová válka už možná začala. Kreml plní cíle ohlášené před téměř pěti lety. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8c87e359-458c-4f1a-8ea3-d43f8c3d51fd.mp3" length="36746541" type="audio/mpeg"/>
       <pubDate>Sun, 04 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1531</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Někdy je lepší, když vlády své sliby neplní, předejde se katastrofám. Růst cen bytů se zadrhnul, tržní nájemné roste po celé republice. Jak to teď vypadá s bytem jako investicí? Předznamenávají zesílené útoky na Kyjev těžkou zimu? Proč naše generace vzpomíná na Václava Havla. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">4a72f4d7-150a-3998-afd5-51e0d778202f</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/980461fa-1365-418c-a29a-7843effc27dd.mp3" length="37752237" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1573</itunes:duration>
     </item>
   </channel>
 </rss>
