@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 06 Oct 2026 17:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:47:19 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
-      <description>Dva oligarchové se radují ze zrušení sankcí. Co Evropa? Babiš volá po míru, ale Putin chce válku. Evropa bez Babiše pracuje na protivzdušné obraně. Maďarsko-ukrajinské sbližování se stále nekoná. Příkopy jsou hluboké. Francouzští zemědělci v problémech. Motoristé a SPD využívají svůj „vyděračský“ potenciál, netýká se to ale rozpočtu. Premiéra u pumpy viděti</description>
-      <guid isPermaLink="false">c18bd586-0bb8-3d64-a52c-5851402d25c4</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/572b6f70-33af-4ffc-a479-86f87577175c.mp3" length="37823085" type="audio/mpeg"/>
-      <pubDate>Sat, 26 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1576</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
       <description>Zmrazení platů politiků. To je blbý, to se bude líbit. Blíží se skutečný test popularity Andreje Babiše. Kořist patří vítězi. Americký prezident chtěl venezuelskou ropu. A dostal ji. Selhání trhu korunované selháním státu. Klub nešťastných zemí</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/81347d86-4e15-48cc-b222-ccfb6c01e3e4.mp3" length="37762605" type="audio/mpeg"/>
       <pubDate>Tue, 06 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1573</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Návrat inflace. Je to vážné? Kdo v obci trvale nebydlí, ten nevolí. Jak změnit přístup k obraně? Hlavně rychle. Zlato, uran a ruští vojáci. O co jde Moskvě v Sahelu? Protesty středoškoláků zachvátily celou Francii</description>
+      <guid isPermaLink="false">4bded3fd-1f9c-3aca-ae3a-00a961e3e29e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/ea24ac2d-10df-4c70-8198-c7f0bf1609cf.mp3" length="37527021" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1564</itunes:duration>
     </item>
   </channel>
 </rss>
