@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 10 Oct 2026 16:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:37:33 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Hlas komunálu, hlas boží. Potvrdí ANO minulý triumf? Hlasování o nedůvěře. Smíšené pocity aneb Američané odešli z Iráku. Proč momentálně nelze povalit Babišovu vládu. Jak může z vládní krize na Slovensku vytěžit Robert Fico. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">1356ba9c-1d88-399a-b53e-2e56b75a31d0</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9e8b4a43-966b-49a5-8ada-82e83d8c0814.mp3" length="37446957" type="audio/mpeg"/>
-      <pubDate>Wed, 30 Sep 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
       <description>Trump slibuje v reklamních spotech placených vládou „poslední bitvu“. I populistický lídr potřebuje ve vládě schopné ministry. Výhled pro ruský rozpočet. Miliardový boj agentů o zákazníka. Fenomén Jiří Suchý. Moderuje Jan Fingerland.</description>
@@ -110,6 +102,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/49cb6dfb3dfcc5899e4101b32e8f79b4.mp3" length="24026112" type="audio/mpeg"/>
       <pubDate>Sat, 10 Oct 2026 11:00:00 +0000</pubDate>
       <itunes:duration>1502</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">4c3dbde0-c786-3719-8f7b-0f83bf41acf9</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/39c762f0-bc6c-4852-a3a8-3b0fa1c0d15b.mp3" length="36290925" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 10:34:00 +0000</pubDate>
+      <itunes:duration>1512</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
+      <description>Jak uspěly strany ve volbách. Česko se nezajímá o dvě stě tisíc voličů, občanů zemí EU. Zkrachovala mírová jednání USA-Ukrajina-Rusko. Müllerova vila a společnost.</description>
+      <guid isPermaLink="false">9649065</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/d9b0e872d1669077bab7feab00ba7ab3.mp3" length="24181632" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>1511</itunes:duration>
     </item>
   </channel>
 </rss>
