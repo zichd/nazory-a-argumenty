@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:37:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:15:11 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
-      <description>Trump slibuje v reklamních spotech placených vládou „poslední bitvu“. I populistický lídr potřebuje ve vládě schopné ministry. Výhled pro ruský rozpočet. Miliardový boj agentů o zákazníka. Fenomén Jiří Suchý. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">c1f21beb-d1ae-32c4-9c79-5ec3e446baa9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f62c0b86-b853-46ec-b052-8a0b4685c1ae.mp3" length="37472877" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Havel 90. Případ Kyněv, návrat k stalinským praktikám. Brazilské déjà vu: favorité voleb jsou Lula da Silva a Bolsonaro. Výjimečný krok VW v problémech. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/d9b0e872d1669077bab7feab00ba7ab3.mp3" length="24181632" type="audio/mpeg"/>
       <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
       <itunes:duration>1511</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Nová zastupitelstva čeká úkol nejtěžší – péče o školy v nejisté době. Obyvatele nejbohatšího města v Česku čeká zdražování, další plány se teprve ladí. Kde bydlíme, má velký vliv na to, jak jsme zdraví, jak se hýbeme a kolika let se dožijeme. Socha Koněva a proruské tendence slovenské vlády. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">f5a6e64b-dbab-39e8-af3b-8e092a1cc02b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fc78d672-3179-4e69-8270-19bc2438a074.mp3" length="37268973" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1553</itunes:duration>
     </item>
   </channel>
 </rss>
