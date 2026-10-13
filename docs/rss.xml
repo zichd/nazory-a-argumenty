@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 12 Oct 2026 20:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:13:33 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Havel 90. Případ Kyněv, návrat k stalinským praktikám. Brazilské déjà vu: favorité voleb jsou Lula da Silva a Bolsonaro. Výjimečný krok VW v problémech. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">74ecb3d9-0a07-335c-b0b9-1c1c24cdb557</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e2806dc7-fd44-43d1-83c1-80758627380e.mp3" length="37139373" type="audio/mpeg"/>
-      <pubDate>Fri, 02 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1547</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všchny sobotní komentáře s Petrem Schwarzem</title>
       <description>Vivaldi hraje proti Rusku, Výjimečný krok Volkswagenu v problémech, Musíme si promluvit o obraně Česka, Co je smyslem ústavy?</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/fc78d672-3179-4e69-8270-19bc2438a074.mp3" length="37268973" type="audio/mpeg"/>
       <pubDate>Mon, 12 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1553</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Staré bolesti nových zastupitelstev. STAN jako hlavní opoziční síla? Co je za útokem na Saúdy. Odpor proti datacentrům, účinná brzda AI boomu? A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">f7ca7e24-e756-3f47-b322-964a7157efc6</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/9dcfbcfda97bc11e7299725f1917fb73.mp3" length="37443456" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
