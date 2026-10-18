@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 17 Oct 2026 14:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:31:54 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Návrat inflace. Je to vážné? Kdo v obci trvale nebydlí, ten nevolí. Jak změnit přístup k obraně? Hlavně rychle. Zlato, uran a ruští vojáci. O co jde Moskvě v Sahelu? Protesty středoškoláků zachvátily celou Francii</description>
-      <guid isPermaLink="false">4bded3fd-1f9c-3aca-ae3a-00a961e3e29e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e2ac1fb8-39bf-4551-9c8e-a78aedca02b9.mp3" length="37164141" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1548</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Trump se zapojil do kampaně republikánů, slibuje volební překvapení. Angličtí Zelení kontra Sionisté. Bude Pavlovým soupeřem Zeman? Možná už zraje plán. Studená válka Ruska proti Německu. Po kapitalismu přichází technofeudalismus. Už to nastalo?</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b4aea9b6-4cb6-46bb-9ec6-e8b599d1687e.mp3" length="37412397" type="audio/mpeg"/>
       <pubDate>Sat, 17 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
+      <description>Dobrá katastrofa a opoziční dominance. Babiš chystá restart hnutí ANO. Restartovat by měl ale sám sebe. Praha na cestě k setrvačnosti. STAN a ODS nejsou žádná změna, jen jednodušší pokračovaní panující stagnace a problémů v hlavním městě. Babiš chce posbírat bezdomovce, nastěhovat do budov a nechat je „makat“. Plán úplně mimo. Po svém „adios“ občanským demokratům Kuba dál jen přešlapuje na hranicích Jižních Čech. Romové udělali výstavu o svých romských partyzánech</description>
+      <guid isPermaLink="false">a2d8839d-d526-3e99-8f8a-279de8f85b60</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/353dbe90-1c06-41cb-bcbb-3439d9292177.mp3" length="37475757" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
