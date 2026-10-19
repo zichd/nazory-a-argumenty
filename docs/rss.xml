@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:26:26 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
-      <description>Trump se zapojil do kampaně republikánů, slibuje volební překvapení. Angličtí Zelení kontra Sionisté. Bude Pavlovým soupeřem Zeman? Možná už zraje plán. Studená válka Ruska proti Německu. Po kapitalismu přichází technofeudalismus. Už to nastalo?</description>
-      <guid isPermaLink="false">4f042c98-8dfd-34ef-a6bb-9e2f46cac35b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/36daadf6-15d1-45e7-a73b-a7f91aceb826.mp3" length="37476909" type="audio/mpeg"/>
-      <pubDate>Thu, 08 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Ujíždí nám vlak. Drahá válka, levné triky. Trump hasí ceny nafty. Odjeli do Ruska, tam je nutí do vojska. Nobelova cena za literaturu. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/353dbe90-1c06-41cb-bcbb-3439d9292177.mp3" length="37475757" type="audio/mpeg"/>
       <pubDate>Sun, 18 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
+      <description>Jak se sestavuje rozpočet pro volební rok? Jinak, než slibuje Babišova vláda. Francie zažila ničivé nepokoje. Pracovní trh čeká v příštím roce obrovská změna, v největší nejistotě zůstávají nízkopříjmoví. Rudolf Fejeton Křesťan. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">630ea802-b0e9-3cbf-8743-d0a1a6547c9b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1e1064af-bfb7-4d43-a3f9-5cc8d2c93249.mp3" length="37338669" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1556</itunes:duration>
     </item>
   </channel>
 </rss>
