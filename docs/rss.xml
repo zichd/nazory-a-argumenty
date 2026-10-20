@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 19 Oct 2026 17:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:37:46 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Ujíždí nám vlak. Drahá válka, levné triky. Trump hasí ceny nafty. Odjeli do Ruska, tam je nutí do vojska. Nobelova cena za literaturu. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">2aa85844-7ef9-3b8a-87c1-6f76ce0ea38e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/95397a40-7961-4ebe-adfc-b3dd1aa81abd.mp3" length="37366317" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Petr Hartman.</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1e1064af-bfb7-4d43-a3f9-5cc8d2c93249.mp3" length="37338669" type="audio/mpeg"/>
       <pubDate>Mon, 19 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Na oslavy není čas, opozice má spoustu práce před sebou. Malá francouzská revoluce. Ruská drahota přiměřená situaci. Medellín bourá Escobarovy domy, jeho mýtus tím ale neodstraní. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">868e3989-03da-32ca-a404-cde98fccca97</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aaa7aa69-49e6-477d-9339-4a3d3be93402.mp3" length="37453293" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
