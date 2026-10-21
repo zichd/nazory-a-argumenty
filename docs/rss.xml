@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:37:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:55:26 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">233d0e2c-a32c-3843-b9f4-de62706130b8</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6a37ebae-4cbf-4c7d-9c63-ede93e57d11a.mp3" length="36057645" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 10:33:00 +0000</pubDate>
-      <itunes:duration>1502</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Petrem Hartmanem</title>
-      <description>Vzdělání na oltář ruské prestiže? Příběh jedné ženy, který odhalil španělskou krizi bydlení. Na drúzský 7. říjen se zapomnělo. AI se mýlí stejně sebejistě, jako má pravdu.</description>
-      <guid isPermaLink="false">9648901</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/49cb6dfb3dfcc5899e4101b32e8f79b4.mp3" length="24026112" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 11:00:00 +0000</pubDate>
-      <itunes:duration>1502</itunes:duration>
-    </item>
     <item>
       <title>Den pohledem renomovaných komentátorů</title>
       <description>Moderuje Petr Hartman.</description>
@@ -117,6 +101,14 @@
       <guid isPermaLink="false">868e3989-03da-32ca-a404-cde98fccca97</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aaa7aa69-49e6-477d-9339-4a3d3be93402.mp3" length="37453293" type="audio/mpeg"/>
       <pubDate>Tue, 20 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
+      <description>Pomyslný granát ETS2. Pravda o solárních lavičkách. TOP 09 ohrožuje úspěšný předseda lidovců Grolich. Příklad Berlína ukazuje, že Německo se potýká i s extremismem zleva. Francouzi divočí v ulicích, ale problémy tikají i jinde. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">759e76d9-8740-3f32-864e-c0e02b14071c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/abeb0ed8-70e7-4e18-b93d-2d215ac690a4.mp3" length="37469997" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
