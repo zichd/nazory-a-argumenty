@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:51:40 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">4c3dbde0-c786-3719-8f7b-0f83bf41acf9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/39c762f0-bc6c-4852-a3a8-3b0fa1c0d15b.mp3" length="36290925" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Oct 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>1512</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
-      <description>Jak uspěly strany ve volbách. Česko se nezajímá o dvě stě tisíc voličů, občanů zemí EU. Zkrachovala mírová jednání USA-Ukrajina-Rusko. Müllerova vila a společnost.</description>
-      <guid isPermaLink="false">9649065</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/d9b0e872d1669077bab7feab00ba7ab3.mp3" length="24181632" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
-      <itunes:duration>1511</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Nová zastupitelstva čeká úkol nejtěžší – péče o školy v nejisté době. Obyvatele nejbohatšího města v Česku čeká zdražování, další plány se teprve ladí. Kde bydlíme, má velký vliv na to, jak jsme zdraví, jak se hýbeme a kolika let se dožijeme. Socha Koněva a proruské tendence slovenské vlády. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -109,6 +93,14 @@
       <guid isPermaLink="false">759e76d9-8740-3f32-864e-c0e02b14071c</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/abeb0ed8-70e7-4e18-b93d-2d215ac690a4.mp3" length="37469997" type="audio/mpeg"/>
       <pubDate>Wed, 21 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Trumpova extrémně konfrontační kampaň a útoky na Ukrajinu nevěstí nic dobrého pro povolební vývoj. Jednání USA s Ukrajinou. Izrael čekají existenciální volby. Už zase. STAN dostal křídla, ale musí se naučit letět. Bezradnost státu před vztekem studentů. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">7f9c5541-b664-39ca-a85a-a2559f925b16</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/a8a8ecc0-0d99-494a-9c73-0004f232b331.mp3" length="37465389" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
