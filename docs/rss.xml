@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 23 Oct 2026 15:42:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:28:09 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Staré bolesti nových zastupitelstev. STAN jako hlavní opoziční síla? Co je za útokem na Saúdy. Odpor proti datacentrům, účinná brzda AI boomu? A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">f7ca7e24-e756-3f47-b322-964a7157efc6</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/9dcfbcfda97bc11e7299725f1917fb73.mp3" length="37443456" type="audio/mpeg"/>
-      <pubDate>Tue, 13 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Evropa vstupuje do roku chromé kachny. ANO na komunální úrovni někde spolupracuje i s vládní opozicí. Trvalé nebo skutečné bydliště dělá velký rozdíl. Odložené palestinské volby. Trump a technologické firmy – předvolební obrat. Moderuje Ondřej Konrád.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/205f6afbf809667feb95fa686a564697.mp3" length="37416384" type="audio/mpeg"/>
       <pubDate>Fri, 23 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Republikáni se bojí debaklu. Demokraté svých slabých míst. Záchrana jednoho vojáka ukazuje rozdíl mezi světy. Macinkovy hry kolem evropské turistiky Rusů. Adam Michnik, jedinečná postava polské společnosti. Pracovní trh čeká v příštím roce obrovská změna, v největší nejistotě zůstávají nízkopříjmoví. Pravda o solárních lavičkách</description>
+      <guid isPermaLink="false">e343d957-37c9-3e53-ab0a-39eb89115a82</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/20c6a65c-c483-4d2d-842a-17644c783786.mp3" length="36596205" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Oct 2026 11:10:00 +0000</pubDate>
+      <itunes:duration>1525</itunes:duration>
     </item>
   </channel>
 </rss>
