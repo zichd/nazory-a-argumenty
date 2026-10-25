@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:55:54 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Evropa vstupuje do roku chromé kachny. ANO na komunální úrovni někde spolupracuje i s vládní opozicí. Trvalé nebo skutečné bydliště dělá velký rozdíl. Odložené palestinské volby. Trump a technologické firmy – předvolební obrat. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">b3b5ca04-1c77-3532-b9a7-95692ae1e33e</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/983bdf36-3c69-487b-bba9-d725c42e89f9.mp3" length="37485549" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
       <description>Mnoho povyku pro rozpočet. Tentokrát ten unijní. Republikánům škodí Trumpova předvolební kampaň. Hledání nové ODS, spíše pořád Spolu. Výzvy, na něž by měli reagovat i senátoři. Zelenskyj, Trump a prezidentské volby. Moderuje Jan Fingerland.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/20c6a65c-c483-4d2d-842a-17644c783786.mp3" length="36596205" type="audio/mpeg"/>
       <pubDate>Sat, 24 Oct 2026 11:10:00 +0000</pubDate>
       <itunes:duration>1525</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Veřejnoprávní média a sněmovna. Volby skončily, zapomeňte! Kdo (ne)porazí Netanjahua. Musk a akcie do každé rodiny. Nebezpečí pokroku. Jak kapitálové toky ohrožují dělbu moci</description>
+      <guid isPermaLink="false">4bf4ae41-c521-3a94-937a-5007adffa512</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e8c7a9ce-6525-49ad-971e-460254c9905a.mp3" length="36440685" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Oct 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1518</itunes:duration>
     </item>
   </channel>
 </rss>
