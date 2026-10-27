@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:32:18 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Putin, Trump a Česká republika. Světu mír, pardon, vlastně naftu. Rašismus zabíjí různými způsoby. Šanci vyhrát prezidentské volby ve Francii má zatím Le Penová. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">afaacf50-7eb4-3fd2-96d5-d17f160094d7</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/67ebdad0-db6b-4e55-b2de-9ac629c4c35a.mp3" length="37277613" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1553</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
       <description>Ukrajina a EU po summitu. Pal, nepal! Francie a Německo se přou o tanky. Před volbami v USA přituhuje. Trumpově kritičce prohledali dům. Srovnání studentských revolt dnes a před 60. lety. Evropa vstupuje do roku chromé kachny. Trvalé nebo skutečné bydliště dělá velký rozdíl</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/28e483c9-5209-4113-9a29-1d28ca5f6284.mp3" length="37454445" type="audio/mpeg"/>
       <pubDate>Mon, 26 Oct 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>Plný Staromák nese první ovoce. Proč se ve Francii děje, co se děje. Útoky na křesťany v Jordánsku. Lula da Silva znovu vyhrál. Brazílie ale vyhráno nemá. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">f484eda7-e497-335a-8f4b-c566f078ccc2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1c324422-968e-431a-b66e-48a5faafc770.mp3" length="37480365" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
