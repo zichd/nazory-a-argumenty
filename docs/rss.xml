@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:32:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:08:16 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Kamilou Pešekovou</title>
-      <description>Ukrajina a EU po summitu. Pal, nepal! Francie a Německo se přou o tanky. Před volbami v USA přituhuje. Trumpově kritičce prohledali dům. Srovnání studentských revolt dnes a před 60. lety. Evropa vstupuje do roku chromé kachny. Trvalé nebo skutečné bydliště dělá velký rozdíl</description>
-      <guid isPermaLink="false">7222e57e-1d3f-3509-8cf8-bb2ef1a45b79</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/b4aea9b6-4cb6-46bb-9ec6-e8b599d1687e.mp3" length="37412397" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
       <description>Dobrá katastrofa a opoziční dominance. Babiš chystá restart hnutí ANO. Restartovat by měl ale sám sebe. Praha na cestě k setrvačnosti. STAN a ODS nejsou žádná změna, jen jednodušší pokračovaní panující stagnace a problémů v hlavním městě. Babiš chce posbírat bezdomovce, nastěhovat do budov a nechat je „makat“. Plán úplně mimo. Po svém „adios“ občanským demokratům Kuba dál jen přešlapuje na hranicích Jižních Čech. Romové udělali výstavu o svých romských partyzánech</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1c324422-968e-431a-b66e-48a5faafc770.mp3" length="37480365" type="audio/mpeg"/>
       <pubDate>Tue, 27 Oct 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Petrem Schwarzem</title>
+      <description>Všichni zvyšují daně. Proč ne Češi? Když je Trump „neomylný“, odnést to může Hegseth. Evropský systém protivzdušné obrany Freyja bude otestován ještě letos. Česko se neúčastní. Premiéra premiérky aneb Maroko našlo ženu. Co doopravdy dává smysl v Praze zdražovat. Podle Babiše slova nesmí být zbraň</description>
+      <guid isPermaLink="false">549de3e8-2115-372f-94a0-d421db7c84f9</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aa19ebd0-6f3a-4dda-a09c-a64a7fe4281d.mp3" length="37253421" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2026 11:34:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
     </item>
   </channel>
 </rss>
