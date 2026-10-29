@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:23:51 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou</title>
-      <description>Dobrá katastrofa a opoziční dominance. Babiš chystá restart hnutí ANO. Restartovat by měl ale sám sebe. Praha na cestě k setrvačnosti. STAN a ODS nejsou žádná změna, jen jednodušší pokračovaní panující stagnace a problémů v hlavním městě. Babiš chce posbírat bezdomovce, nastěhovat do budov a nechat je „makat“. Plán úplně mimo. Po svém „adios“ občanským demokratům Kuba dál jen přešlapuje na hranicích Jižních Čech. Romové udělali výstavu o svých romských partyzánech</description>
-      <guid isPermaLink="false">a2d8839d-d526-3e99-8f8a-279de8f85b60</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/353dbe90-1c06-41cb-bcbb-3439d9292177.mp3" length="37475757" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
       <description>Jak se sestavuje rozpočet pro volební rok? Jinak, než slibuje Babišova vláda. Francie zažila ničivé nepokoje. Pracovní trh čeká v příštím roce obrovská změna, v největší nejistotě zůstávají nízkopříjmoví. Rudolf Fejeton Křesťan. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aa19ebd0-6f3a-4dda-a09c-a64a7fe4281d.mp3" length="37253421" type="audio/mpeg"/>
       <pubDate>Wed, 28 Oct 2026 11:34:00 +0000</pubDate>
       <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
+      <description>Politici kráčí po pohodlné cestě bez ohledu na přání prezidenta. Přidružené členství bez přidružení i začlenění. EU a Kanada řeší, jak posílit vztahy. Kdo vyhrál v Izraeli? Záleží na úhlu pohledu. Příslovečná evropská nesoudržnost. Pro koho bude 4:36 osudná hodina</description>
+      <guid isPermaLink="false">39b94d62-29c0-3cbf-8dc7-c8d750487b7b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bfe33bcf-ae9c-4a1a-8ecc-ab030c1d17db.mp3" length="37232109" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Oct 2026 11:34:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
