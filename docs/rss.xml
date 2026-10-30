@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:59:41 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Jak se sestavuje rozpočet pro volební rok? Jinak, než slibuje Babišova vláda. Francie zažila ničivé nepokoje. Pracovní trh čeká v příštím roce obrovská změna, v největší nejistotě zůstávají nízkopříjmoví. Rudolf Fejeton Křesťan. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">630ea802-b0e9-3cbf-8743-d0a1a6547c9b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1e1064af-bfb7-4d43-a3f9-5cc8d2c93249.mp3" length="37338669" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1556</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
       <description>Na oslavy není čas, opozice má spoustu práce před sebou. Malá francouzská revoluce. Ruská drahota přiměřená situaci. Medellín bourá Escobarovy domy, jeho mýtus tím ale neodstraní. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bfe33bcf-ae9c-4a1a-8ecc-ab030c1d17db.mp3" length="37232109" type="audio/mpeg"/>
       <pubDate>Thu, 29 Oct 2026 11:34:00 +0000</pubDate>
       <itunes:duration>1551</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Pavlův bonbon (nejen) pro Putina. Návrhy vládní koalice na změny ústavy jsou jen politické divadlo. Proč s některými Čechy nehne vraždění ukrajinských dětí. Nepokoje v Itálii: od frustrace k rabování. Klempířovo ticho</description>
+      <guid isPermaLink="false">985c8302-c6f4-3cd7-b3d1-647013216b73</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/06f614a2-d367-424f-b3df-138615f38556.mp3" length="37459629" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
