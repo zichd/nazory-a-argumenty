@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:02:45 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Na oslavy není čas, opozice má spoustu práce před sebou. Malá francouzská revoluce. Ruská drahota přiměřená situaci. Medellín bourá Escobarovy domy, jeho mýtus tím ale neodstraní. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">868e3989-03da-32ca-a404-cde98fccca97</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aaa7aa69-49e6-477d-9339-4a3d3be93402.mp3" length="37453293" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
       <description>Pomyslný granát ETS2. Pravda o solárních lavičkách. TOP 09 ohrožuje úspěšný předseda lidovců Grolich. Příklad Berlína ukazuje, že Německo se potýká i s extremismem zleva. Francouzi divočí v ulicích, ale problémy tikají i jinde. Moderuje Jan Fingerland.</description>
@@ -101,6 +93,14 @@
       <guid isPermaLink="false">985c8302-c6f4-3cd7-b3d1-647013216b73</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/06f614a2-d367-424f-b3df-138615f38556.mp3" length="37459629" type="audio/mpeg"/>
       <pubDate>Fri, 30 Oct 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
+      <description>K čemu je dobré mít tři prezidenty? Jak (ne)může vypadat válka s Evropou? Historické kořeny Babišova krocení veřejnoprávnosti. Realita nebo obraz. Banky jako záchrana rozpočtů. Lula da Silva znovu vyhrál. Brazílie ale vyhráno nemá</description>
+      <guid isPermaLink="false">9488d2fe-628f-3f6e-94cd-fe6ec467a650</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7d1b3ca4-4637-4c59-9240-caa2aeb3f0dc.mp3" length="37460781" type="audio/mpeg"/>
+      <pubDate>Sat, 31 Oct 2026 11:33:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
