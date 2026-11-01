@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 31 Oct 2026 16:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:05:08 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Janem Fingerlandem</title>
-      <description>Pomyslný granát ETS2. Pravda o solárních lavičkách. TOP 09 ohrožuje úspěšný předseda lidovců Grolich. Příklad Berlína ukazuje, že Německo se potýká i s extremismem zleva. Francouzi divočí v ulicích, ale problémy tikají i jinde. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">759e76d9-8740-3f32-864e-c0e02b14071c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/abeb0ed8-70e7-4e18-b93d-2d215ac690a4.mp3" length="37469997" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Trumpova extrémně konfrontační kampaň a útoky na Ukrajinu nevěstí nic dobrého pro povolební vývoj. Jednání USA s Ukrajinou. Izrael čekají existenciální volby. Už zase. STAN dostal křídla, ale musí se naučit letět. Bezradnost státu před vztekem studentů. Moderuje Kamila Pešeková.</description>
@@ -101,6 +93,14 @@
       <guid isPermaLink="false">9488d2fe-628f-3f6e-94cd-fe6ec467a650</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7d1b3ca4-4637-4c59-9240-caa2aeb3f0dc.mp3" length="37460781" type="audio/mpeg"/>
       <pubDate>Sat, 31 Oct 2026 11:33:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
+      <description>Aby se za nás děti nestyděly. Hnutí ANO v ohrožení vlastním heslem. Konec politického instinktu Andreje Babiše? Výsledek izraelských voleb je z pohledu tamních křesťanů šancí k usmíření. Velká záhada. 28. říjen v mé hlavě. Ministr kultury to myslí dobře. Se sebou</description>
+      <guid isPermaLink="false">7bf6fbfd-3c07-38f0-bded-945b43d605a0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/de5ed154-dfb4-49af-a39d-71ffab6edf69.mp3" length="37468269" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Nov 2026 11:34:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
