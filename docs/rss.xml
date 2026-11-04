@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:23:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:35:49 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Digitální tsunami s Babišem. Slovenské regionální volby jako generální zkouška pro ty parlamentní. Kyjev je závislý na zpravodajských informacích USA. Trump rozhoduje o životě a smrti Ukrajinců. Proč s mnoha Rusy nehne vraždění ukrajinských dětí. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">752c4741-a86e-3fdb-a817-c514c8fcfc5c</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/205f6afbf809667feb95fa686a564697.mp3" length="37416384" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
       <description>Republikáni se bojí debaklu. Demokraté svých slabých míst. Záchrana jednoho vojáka ukazuje rozdíl mezi světy. Macinkovy hry kolem evropské turistiky Rusů. Adam Michnik, jedinečná postava polské společnosti. Pracovní trh čeká v příštím roce obrovská změna, v největší nejistotě zůstávají nízkopříjmoví. Pravda o solárních lavičkách</description>
@@ -99,9 +91,17 @@
       <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
       <description>Ministr Zůna předložil poraženeckou koncepci armády. Ohrožení země ať řeší někdo jiný. Dostupnost bydlení se s růstem úrokových sazeb dál zhorší, politické řešení je v nedohlednu. Evakuace Olešek. Ruští hokejisté smějí na led. Digizmatek na steroidech. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
       <guid isPermaLink="false">a257e52c-0ac4-3f8d-bd8d-885dabae3312</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/dd9871dc-c096-4d00-9bf2-10cf7322495d.mp3" length="37956141" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/34d04a6e-c2a7-467a-81d6-7a02cf20a5ef.mp3" length="37475181" type="audio/mpeg"/>
       <pubDate>Mon, 02 Nov 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1581</itunes:duration>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Republikáni si proklestili i proválčili cestu k porážce. Říjen 2026. Zadlužujeme se nevídanou rychlostí. Babišova koncepce výstavby armády je plánem černého pasažéra NATO, kterého mají bránit jiné země. Digizmatek na steroidech. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">dfe68bd0-e254-34c4-b12b-94e66c6605de</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/21402fa3-a3f6-4c86-8665-ddbfcd281d1e.mp3" length="34388973" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1433</itunes:duration>
     </item>
   </channel>
 </rss>
