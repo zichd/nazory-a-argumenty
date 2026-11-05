@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:41:25 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Republikáni se bojí debaklu. Demokraté svých slabých míst. Záchrana jednoho vojáka ukazuje rozdíl mezi světy. Macinkovy hry kolem evropské turistiky Rusů. Adam Michnik, jedinečná postava polské společnosti. Pracovní trh čeká v příštím roce obrovská změna, v největší nejistotě zůstávají nízkopříjmoví. Pravda o solárních lavičkách</description>
-      <guid isPermaLink="false">e343d957-37c9-3e53-ab0a-39eb89115a82</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/20c6a65c-c483-4d2d-842a-17644c783786.mp3" length="36596205" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Oct 2026 11:10:00 +0000</pubDate>
-      <itunes:duration>1525</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Veřejnoprávní média a sněmovna. Volby skončily, zapomeňte! Kdo (ne)porazí Netanjahua. Musk a akcie do každé rodiny. Nebezpečí pokroku. Jak kapitálové toky ohrožují dělbu moci</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/21402fa3-a3f6-4c86-8665-ddbfcd281d1e.mp3" length="34388973" type="audio/mpeg"/>
       <pubDate>Wed, 04 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1433</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
+      <description>Jak změní drtivé vítězství demokratů ve volbách do Kongresu americkou politiku. Paprsek naděje v transatlantických vztazích? Zatím rozhodně ne. Rusko a USA po volbách. S hnutím ANO, nebo ke dnu? Toť otázka pro opoziční lídry. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">27124d52-a9a6-3401-aa36-b55b1ccd7bd3</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/22a25de9-e009-443e-b0df-0778522393d1.mp3" length="37476909" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
