@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:55:23 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Veřejnoprávní média a sněmovna. Volby skončily, zapomeňte! Kdo (ne)porazí Netanjahua. Musk a akcie do každé rodiny. Nebezpečí pokroku. Jak kapitálové toky ohrožují dělbu moci</description>
-      <guid isPermaLink="false">4bf4ae41-c521-3a94-937a-5007adffa512</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/e8c7a9ce-6525-49ad-971e-460254c9905a.mp3" length="36440685" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Oct 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1518</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
       <description>Co znamenají pro Česko výsledky slovenských komunálních voleb. Banky jako záchrana rozpočtů? Energetika Ukrajiny před pátou válečnou zimou. Je Donald Trump náš spojenec? A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/22a25de9-e009-443e-b0df-0778522393d1.mp3" length="37476909" type="audio/mpeg"/>
       <pubDate>Thu, 05 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Poslední kapka. Arabské strany v Izraeli. Reakce českých politiků na americké volby. Zabili nás, zní z Ruska. Koho konkrétně? A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">8eca6cb4-e092-3bd8-b4b5-e5c90b7d1e30</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/619d77ca-d795-4b30-9c09-89982c52c9bc.mp3" length="37414701" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
     </item>
   </channel>
 </rss>
