@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 07 Nov 2026 16:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:00:35 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
-      <description>Plný Staromák nese první ovoce. Proč se ve Francii děje, co se děje. Útoky na křesťany v Jordánsku. Lula da Silva znovu vyhrál. Brazílie ale vyhráno nemá. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
-      <guid isPermaLink="false">f484eda7-e497-335a-8f4b-c566f078ccc2</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1c324422-968e-431a-b66e-48a5faafc770.mp3" length="37480365" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Oct 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1562</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Petrem Schwarzem</title>
-      <description>Všichni zvyšují daně. Proč ne Češi? Když je Trump „neomylný“, odnést to může Hegseth. Evropský systém protivzdušné obrany Freyja bude otestován ještě letos. Česko se neúčastní. Premiéra premiérky aneb Maroko našlo ženu. Co doopravdy dává smysl v Praze zdražovat. Podle Babiše slova nesmí být zbraň</description>
-      <guid isPermaLink="false">549de3e8-2115-372f-94a0-d421db7c84f9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/aa19ebd0-6f3a-4dda-a09c-a64a7fe4281d.mp3" length="37253421" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Oct 2026 11:34:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
       <description>Politici kráčí po pohodlné cestě bez ohledu na přání prezidenta. Přidružené členství bez přidružení i začlenění. EU a Kanada řeší, jak posílit vztahy. Kdo vyhrál v Izraeli? Záleží na úhlu pohledu. Příslovečná evropská nesoudržnost. Pro koho bude 4:36 osudná hodina</description>
@@ -110,6 +94,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/f1e50ea5fd985de074f92f23cd2bb737.mp3" length="24962304" type="audio/mpeg"/>
       <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">bd3f9b42-4914-3877-b720-41c6af883e83</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/18776aef-5372-4429-82b2-fa917906f214.mp3" length="36923949" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Nov 2026 11:34:00 +0000</pubDate>
+      <itunes:duration>1538</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Petrem Schwarzem</title>
+      <description>Nejde o to porazit Babiše, ale porazit populismus. Trump možná zamíří do předčasného důchodu. Latinoameričané v USA. Náš hlas není samozřejmost. Čína si své technologie brání. Západ může jen vzpomínat. Dvě vášně Patrika Eichlera.</description>
+      <guid isPermaLink="false">9655086</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/50909bf5ea0691cc4a8423ed5791d0a7.mp3" length="24603648" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1538</itunes:duration>
     </item>
   </channel>
 </rss>
