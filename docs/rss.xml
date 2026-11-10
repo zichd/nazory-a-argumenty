@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 09 Nov 2026 21:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:38:53 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny čtvrteční komentáře s Ondřejem Konrádem</title>
-      <description>Politici kráčí po pohodlné cestě bez ohledu na přání prezidenta. Přidružené členství bez přidružení i začlenění. EU a Kanada řeší, jak posílit vztahy. Kdo vyhrál v Izraeli? Záleží na úhlu pohledu. Příslovečná evropská nesoudržnost. Pro koho bude 4:36 osudná hodina</description>
-      <guid isPermaLink="false">39b94d62-29c0-3cbf-8dc7-c8d750487b7b</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/bfe33bcf-ae9c-4a1a-8ecc-ab030c1d17db.mp3" length="37232109" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Oct 2026 11:34:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
       <description>Pavlův bonbon (nejen) pro Putina. Návrhy vládní koalice na změny ústavy jsou jen politické divadlo. Proč s některými Čechy nehne vraždění ukrajinských dětí. Nepokoje v Itálii: od frustrace k rabování. Klempířovo ticho</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6518db35-5e26-40f8-ac53-71117458eb6d.mp3" length="37429677" type="audio/mpeg"/>
       <pubDate>Mon, 09 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
+      <description>Macinka by měl být za hrubost vyloučen do konce zápasu. Z lepší ochrany platformových pracujících menší ochrana pro všechny. Maďarsko je znovu náš skoro soused. Magyar se ukazuje jako velký pragmatik. První koaliční přikázání? Babišovy zájmy opečovávati budeš! Těžce zkoušená Francie. A na konec glosa Ivy Pekárkové. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">57440ac0-be98-3886-a7fe-b1320b2a4bf2</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/57d5b01c-bbe3-4070-9ae1-758f45274442.mp3" length="37368621" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
 </rss>
