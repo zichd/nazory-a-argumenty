@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:38:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:38:25 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Pavlův bonbon (nejen) pro Putina. Návrhy vládní koalice na změny ústavy jsou jen politické divadlo. Proč s některými Čechy nehne vraždění ukrajinských dětí. Nepokoje v Itálii: od frustrace k rabování. Klempířovo ticho</description>
-      <guid isPermaLink="false">985c8302-c6f4-3cd7-b3d1-647013216b73</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/06f614a2-d367-424f-b3df-138615f38556.mp3" length="37459629" type="audio/mpeg"/>
-      <pubDate>Fri, 30 Oct 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
       <description>K čemu je dobré mít tři prezidenty? Jak (ne)může vypadat válka s Evropou? Historické kořeny Babišova krocení veřejnoprávnosti. Realita nebo obraz. Banky jako záchrana rozpočtů. Lula da Silva znovu vyhrál. Brazílie ale vyhráno nemá</description>
@@ -113,10 +105,18 @@
     </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
-      <description>Macinka by měl být za hrubost vyloučen do konce zápasu. Z lepší ochrany platformových pracujících menší ochrana pro všechny. Maďarsko je znovu náš skoro soused. Magyar se ukazuje jako velký pragmatik. První koaliční přikázání? Babišovy zájmy opečovávati budeš! Těžce zkoušená Francie. A na konec glosa Ivy Pekárkové. Moderuje Jan Fingerland.</description>
+      <description>Macinka by měl být za hrubost vyloučen do konce zápasu. Z lepší ochrany platformových pracujících menší ochrana pro všechny. Maďarsko je znovu náš skoro soused. Magyar se ukazuje jako velký pragmatik. A na konec glosa Ivy Pekárkové. Moderuje Jan Fingerland.</description>
       <guid isPermaLink="false">57440ac0-be98-3886-a7fe-b1320b2a4bf2</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/57d5b01c-bbe3-4070-9ae1-758f45274442.mp3" length="37368621" type="audio/mpeg"/>
       <pubDate>Tue, 10 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Česko v pohodě. Jen kdyby ČNB nezvýšila sazby. Pete Hegseth, první oběť vnitrorepublikánského boje. Šéf Nvidie rozehrál hollywoodský thriller s prvky červené knihovny. Novely jak premiérovi šité na míru. Jak si bavorský premiér Markus Söder prosadil „svou“ prezidentku. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">538812a3-3d12-3591-b0c3-d367cb001713</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f59c65e0-31e4-42a2-b7d8-e0e708595d06.mp3" length="37370925" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
     </item>
   </channel>
