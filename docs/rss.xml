@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 11 Nov 2026 18:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:52:00 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
-      <description>K čemu je dobré mít tři prezidenty? Jak (ne)může vypadat válka s Evropou? Historické kořeny Babišova krocení veřejnoprávnosti. Realita nebo obraz. Banky jako záchrana rozpočtů. Lula da Silva znovu vyhrál. Brazílie ale vyhráno nemá</description>
-      <guid isPermaLink="false">9488d2fe-628f-3f6e-94cd-fe6ec467a650</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/7d1b3ca4-4637-4c59-9240-caa2aeb3f0dc.mp3" length="37460781" type="audio/mpeg"/>
-      <pubDate>Sat, 31 Oct 2026 11:33:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
       <description>Aby se za nás děti nestyděly. Hnutí ANO v ohrožení vlastním heslem. Konec politického instinktu Andreje Babiše? Výsledek izraelských voleb je z pohledu tamních křesťanů šancí k usmíření. Velká záhada. 28. říjen v mé hlavě. Ministr kultury to myslí dobře. Se sebou</description>
@@ -118,6 +110,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f59c65e0-31e4-42a2-b7d8-e0e708595d06.mp3" length="37370925" type="audio/mpeg"/>
       <pubDate>Wed, 11 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1557</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
+      <description>Trump po prohraných volbách zvolil konfrontaci a neústupnost. Abú Zabí. Praha má svou koalici. Komu zůstane v ruce utržené ucho od džbánu. Těžce zkoušená Francie. Moderuje Kamila Pešeková.</description>
+      <guid isPermaLink="false">e09ff086-dff5-3ced-a83f-db5cbe0d8c8b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/10db780a-51da-448d-abcd-b516a46b56a0.mp3" length="37468845" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
