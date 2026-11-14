@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:29:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 17:00:40 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
-      <description>Ministr Zůna předložil poraženeckou koncepci armády. Ohrožení země ať řeší někdo jiný. Dostupnost bydlení se s růstem úrokových sazeb dál zhorší, politické řešení je v nedohlednu. Evakuace Olešek. Ruští hokejisté smějí na led. Digizmatek na steroidech. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">a257e52c-0ac4-3f8d-bd8d-885dabae3312</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/34d04a6e-c2a7-467a-81d6-7a02cf20a5ef.mp3" length="37475181" type="audio/mpeg"/>
-      <pubDate>Mon, 02 Nov 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Republikáni si proklestili i proválčili cestu k porážce. Říjen 2026. Zadlužujeme se nevídanou rychlostí. Babišova koncepce výstavby armády je plánem černého pasažéra NATO, kterého mají bránit jiné země. Digizmatek na steroidech. Moderuje Ondřej Konrád.</description>
@@ -118,6 +110,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/528ee299-d281-4fc5-8467-3f9debf51498.mp3" length="37395117" type="audio/mpeg"/>
       <pubDate>Fri, 13 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1558</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">f5c86541-e97f-3cce-9ce1-c5726fb5b0a1</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f414e9e2-43a7-46f2-ba25-4c2f5c80a3f2.mp3" length="37239021" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Nov 2026 11:33:00 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
+      <description>Bizarní hra s mapou, kterou těžko brát vážně. Rusové už testují satelitní systém Rassvet. Evropa zaspala, je dál závislá na Starlinku. Američtí demokraté slaví, jejich vedení ale klopýtá. Evropané chtějí nést větší odpovědnost za vlastní bezpečnost.</description>
+      <guid isPermaLink="false">9656482</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/dcf7f8c6c7256b4f19299287433f668a.mp3" length="24813696" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Nov 2026 12:15:00 +0000</pubDate>
+      <itunes:duration>1551</itunes:duration>
     </item>
   </channel>
 </rss>
