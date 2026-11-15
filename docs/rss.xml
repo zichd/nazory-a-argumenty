@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 14 Nov 2026 17:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:40:47 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Republikáni si proklestili i proválčili cestu k porážce. Říjen 2026. Zadlužujeme se nevídanou rychlostí. Babišova koncepce výstavby armády je plánem černého pasažéra NATO, kterého mají bránit jiné země. Digizmatek na steroidech. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">dfe68bd0-e254-34c4-b12b-94e66c6605de</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/21402fa3-a3f6-4c86-8665-ddbfcd281d1e.mp3" length="34388973" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Nov 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1433</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Petrem Hartmanem</title>
       <description>Jak změní drtivé vítězství demokratů ve volbách do Kongresu americkou politiku. Paprsek naděje v transatlantických vztazích? Zatím rozhodně ne. Rusko a USA po volbách. S hnutím ANO, nebo ke dnu? Toť otázka pro opoziční lídry. A na konec glosa Ivy Pekárkové. Moderuje Petr Hartman.</description>
@@ -126,6 +118,22 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/dcf7f8c6c7256b4f19299287433f668a.mp3" length="24813696" type="audio/mpeg"/>
       <pubDate>Sat, 14 Nov 2026 12:15:00 +0000</pubDate>
       <itunes:duration>1551</itunes:duration>
+    </item>
+    <item>
+      <title>Den pohledem renomovaných komentátorů</title>
+      <description>Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">71287b7a-dd01-3a72-b1cd-9080a0f2bb25</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/92da3da2-7b68-45c4-9fb9-3bbfea6687b2.mp3" length="35357229" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Nov 2026 11:34:00 +0000</pubDate>
+      <itunes:duration>1473</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
+      <description>Na Letné nejde jen o Český rozhlas a Českou televizi. Ani dnes nezapomínejme na obranu země. Sýrie pro Saúdy, Saúdi pro Sýrii. Robert Fico odkládá rukavičky. Na Slovensku začíná předvolební kampaň. Papež v Latinské Americe: víra zůstává, katolíků ubývá.</description>
+      <guid isPermaLink="false">9656611</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/5c97e7a15997568615389416c4a0dc45.mp3" length="23559168" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1472</itunes:duration>
     </item>
   </channel>
 </rss>
