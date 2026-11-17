@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:57:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:47:13 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Poslední kapka. Arabské strany v Izraeli. Reakce českých politiků na americké volby. Zabili nás, zní z Ruska. Koho konkrétně? A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">8eca6cb4-e092-3bd8-b4b5-e5c90b7d1e30</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/619d77ca-d795-4b30-9c09-89982c52c9bc.mp3" length="37414701" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Nov 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1559</itunes:duration>
-    </item>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">f9d8e4d4-0f53-3722-a3c0-e0032d957d5f</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/039e9206-7ba3-4792-8450-856c695b37eb.mp3" length="37461933" type="audio/mpeg"/>
-      <pubDate>Sat, 07 Nov 2026 11:33:00 +0000</pubDate>
-      <itunes:duration>1561</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Petrem Schwarzem</title>
       <description>Evropští nacionalisté se definitivně odvrátí od poraženého Trumpa. Protikorupční operace Karthágo pokračuje. Nad pádem Vučiče Evropská unie jásat nejspíš nebude. Putinův africký summit s protizápadní rétorikou. Miliardář z východu.</description>
@@ -134,6 +118,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/baa1b031-5c03-4233-9ec0-52a7d16e0e12.mp3" length="37139373" type="audio/mpeg"/>
       <pubDate>Mon, 16 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1547</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
+      <description>Sedmatřicet let po Listopadu vzpomínejme i na to, co se nepovedlo. Vládní koalice znovu splétá bič na neziskovky. V Česko-německém diskusním fóru by měl zaznít i hlas AfD a české SPD. Starý dobrý nový Bond. Humor ve veřejnoprávní televizi. Ještě že na nás nepadá kolektivní vina</description>
+      <guid isPermaLink="false">8d463194-a9ab-3a19-9408-fce58664a28f</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/25951461-e90e-48f0-a66f-f31928ab65ff.mp3" length="36567981" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1524</itunes:duration>
     </item>
   </channel>
 </rss>
