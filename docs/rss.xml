@@ -11,7 +11,7 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 19:03:19 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
@@ -56,28 +56,12 @@
       <itunes:duration>1558</itunes:duration>
     </item>
     <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">f5c86541-e97f-3cce-9ce1-c5726fb5b0a1</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f414e9e2-43a7-46f2-ba25-4c2f5c80a3f2.mp3" length="37239021" type="audio/mpeg"/>
-      <pubDate>Sat, 14 Nov 2026 11:33:00 +0000</pubDate>
-      <itunes:duration>1552</itunes:duration>
-    </item>
-    <item>
       <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
       <description>Bizarní hra s mapou, kterou těžko brát vážně. Rusové už testují satelitní systém Rassvet. Evropa zaspala, je dál závislá na Starlinku. Američtí demokraté slaví, jejich vedení ale klopýtá. Evropané chtějí nést větší odpovědnost za vlastní bezpečnost.</description>
       <guid isPermaLink="false">9656482</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/dcf7f8c6c7256b4f19299287433f668a.mp3" length="24813696" type="audio/mpeg"/>
       <pubDate>Sat, 14 Nov 2026 12:15:00 +0000</pubDate>
       <itunes:duration>1551</itunes:duration>
-    </item>
-    <item>
-      <title>Den pohledem renomovaných komentátorů</title>
-      <description>Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">71287b7a-dd01-3a72-b1cd-9080a0f2bb25</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/92da3da2-7b68-45c4-9fb9-3bbfea6687b2.mp3" length="35357229" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Nov 2026 11:34:00 +0000</pubDate>
-      <itunes:duration>1473</itunes:duration>
     </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
@@ -118,6 +102,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9062891e-55bd-4100-8660-3101f0dd3eca.mp3" length="37411245" type="audio/mpeg"/>
       <pubDate>Thu, 19 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Tři staří pánové chtějí mír. Na okraj jednání Si–Trump–Putin. Máme primátora Prahy a Senát. Za co trestají ruské sportovce. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">0e09f7f2-2afc-39a2-9a61-080f97048484</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/31d8e69d-1e8b-41c8-9f18-13ecf42f66db.mp3" length="37439469" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
     </item>
   </channel>
 </rss>
