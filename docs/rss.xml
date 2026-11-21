@@ -11,26 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:56:39 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem</title>
-      <description>Česko už je oficiálně černým pasažérem v NATO. Říká si o vyhazov. Zdražíme hypotéky, snížíme úročení vkladů. Tak by mělo znít vysvětlení zavedení sektorové daně na banky. Kyjev hoří, Kličko a Zelenskyj se dohadují. Spor o média není bojem o peníze, nýbrž o přijatelnou politickou kulturu. A na konec glosa Ondřeje Neffa. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">45fcf528-aa8f-3e33-8037-a34427b29911</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/6518db35-5e26-40f8-ac53-71117458eb6d.mp3" length="37429677" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Nov 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-    </item>
-    <item>
-      <title>Poslechněte si všechny úterní komentáře s Janem Fingerlandem</title>
-      <description>Macinka by měl být za hrubost vyloučen do konce zápasu. Z lepší ochrany platformových pracujících menší ochrana pro všechny. Maďarsko je znovu náš skoro soused. Magyar se ukazuje jako velký pragmatik. A na konec glosa Ivy Pekárkové. Moderuje Jan Fingerland.</description>
-      <guid isPermaLink="false">57440ac0-be98-3886-a7fe-b1320b2a4bf2</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/57d5b01c-bbe3-4070-9ae1-758f45274442.mp3" length="37368621" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Nov 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
       <description>Česko v pohodě. Jen kdyby ČNB nezvýšila sazby. Pete Hegseth, první oběť vnitrorepublikánského boje. Šéf Nvidie rozehrál hollywoodský thriller s prvky červené knihovny. Novely jak premiérovi šité na míru. Jak si bavorský premiér Markus Söder prosadil „svou“ prezidentku. Moderuje Ondřej Konrád.</description>
@@ -110,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/31d8e69d-1e8b-41c8-9f18-13ecf42f66db.mp3" length="37439469" type="audio/mpeg"/>
       <pubDate>Fri, 20 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny sobotní komentáře s Patricií Polanskou</title>
+      <description>Rusko počítá své mrtvé. Michel Houllebecq před soudem. Ale jakým? Problém bezdomovectví jako vysvědčení pro celou společnost. Přese všechno i umělá inteligence má své mouchy. Sedmatřicet let po listopadu 1989 vzpomínejme i na to, co se nepovedlo. Nejdražší veřejně prospěšná firma na světě</description>
+      <guid isPermaLink="false">955502b0-2b8f-3eb5-99cf-5f3c5956f17b</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/af35ebf3-d8f9-42b2-85b7-332b1c6b120f.mp3" length="37210221" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1550</itunes:duration>
     </item>
   </channel>
 </rss>
