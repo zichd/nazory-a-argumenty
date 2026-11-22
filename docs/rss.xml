@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:28:00 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
-      <description>Česko v pohodě. Jen kdyby ČNB nezvýšila sazby. Pete Hegseth, první oběť vnitrorepublikánského boje. Šéf Nvidie rozehrál hollywoodský thriller s prvky červené knihovny. Novely jak premiérovi šité na míru. Jak si bavorský premiér Markus Söder prosadil „svou“ prezidentku. Moderuje Ondřej Konrád.</description>
-      <guid isPermaLink="false">538812a3-3d12-3591-b0c3-d367cb001713</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/f59c65e0-31e4-42a2-b7d8-e0e708595d06.mp3" length="37370925" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1557</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny čtvrteční komentáře s Kamilou Pešekovou</title>
       <description>Trump po prohraných volbách zvolil konfrontaci a neústupnost. Abú Zabí. Praha má svou koalici. Komu zůstane v ruce utržené ucho od džbánu. Těžce zkoušená Francie. Moderuje Kamila Pešeková.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/af35ebf3-d8f9-42b2-85b7-332b1c6b120f.mp3" length="37210221" type="audio/mpeg"/>
       <pubDate>Sat, 21 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1550</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny nedělní komentáře s Patricií Polanskou</title>
+      <description>Andreje Babiše i Milion chvilek čeká obtížná zkouška. Opakování senátních voleb ve Žďáru. Kallasová a pozvánka Evropanů do Moskvy. Burzy zasáhl výprodej AI, ani Anthropic tomu nezabránil. Pravda se poznává zpětně. Humor v médiích</description>
+      <guid isPermaLink="false">a5707af1-9a8f-3a2a-9437-c29068b2d43d</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/8381ff6c-7b0c-4eb4-bc13-bf8c499e0f5f.mp3" length="36031725" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1501</itunes:duration>
     </item>
   </channel>
 </rss>
