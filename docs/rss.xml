@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Mon, 23 Nov 2026 22:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:07:01 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
-      <description>Česko jako černý pasažér evropské bezpečnosti. Kdo tady vládne? Nebo přesněji: kdo koho drží pod krkem? Rezignace šéfa Nvidie. V Rusku nepálí knihy na náměstích, ničí je jinak. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
-      <guid isPermaLink="false">793e417a-fe3b-3aa0-823e-654320650e4d</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/528ee299-d281-4fc5-8467-3f9debf51498.mp3" length="37395117" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Nov 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1558</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
       <description>Bizarní hra s mapou, kterou těžko brát vážně. Rusové už testují satelitní systém Rassvet. Evropa zaspala, je dál závislá na Starlinku. Američtí demokraté slaví, jejich vedení ale klopýtá. Evropané chtějí nést větší odpovědnost za vlastní bezpečnost.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/9a882387-f012-449d-8db7-185a472e1383.mp3" length="37349037" type="audio/mpeg"/>
       <pubDate>Mon, 23 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1556</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny úterní komentáře s Petrem Hartmanem</title>
+      <description>ODS může být buď vyhraněná, nebo spolupracující. Mine ji osud sociálních demokratů? Nový pokus o novou SOCDEM. EU a Británie se sbližují, na britské peníze se ale Babiš ještě načeká. Genocida Rohingů uznána. Ropné mafie zhatily světovou klimatickou konferenci COP31 v Antalyi. Oteplování pokračuje. Moderuje Petr Hartman.</description>
+      <guid isPermaLink="false">809f43e8-8186-3497-8b47-d074f523667f</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/16f49085-4504-4ecb-8d1c-344ec252e134.mp3" length="37471725" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
