@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:27:04 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny sobotní komentáře s Ondřejem Konrádem</title>
-      <description>Bizarní hra s mapou, kterou těžko brát vážně. Rusové už testují satelitní systém Rassvet. Evropa zaspala, je dál závislá na Starlinku. Američtí demokraté slaví, jejich vedení ale klopýtá. Evropané chtějí nést větší odpovědnost za vlastní bezpečnost.</description>
-      <guid isPermaLink="false">9656482</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/dcf7f8c6c7256b4f19299287433f668a.mp3" length="24813696" type="audio/mpeg"/>
-      <pubDate>Sat, 14 Nov 2026 12:15:00 +0000</pubDate>
-      <itunes:duration>1551</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
       <description>Na Letné nejde jen o Český rozhlas a Českou televizi. Ani dnes nezapomínejme na obranu země. Sýrie pro Saúdy, Saúdi pro Sýrii. Robert Fico odkládá rukavičky. Na Slovensku začíná předvolební kampaň. Papež v Latinské Americe: víra zůstává, katolíků ubývá.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/16f49085-4504-4ecb-8d1c-344ec252e134.mp3" length="37471725" type="audio/mpeg"/>
       <pubDate>Tue, 24 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny středeční komentáře s Ondřejem Konrádem</title>
+      <description>Až se zima zeptá… Na plyn už se zeptala. Půjdou ODS a TOP 09 dál vedle sebe, nebo Spolu? Trumpova lobby vrátila šéfa Nvidie do hry. Asi toho moc ví. Dánská premiérka zklamala i potěšila. A na konec glosa Ivy Pekárkové. Moderuje Ondřej Konrád.</description>
+      <guid isPermaLink="false">1b7d8968-cf3e-3eda-834d-0383b452b68e</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/752cf071-c680-4b5a-b815-2e04f71c99b2.mp3" length="37484397" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
     </item>
   </channel>
 </rss>
