@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 20:06:59 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny nedělní komentáře s Ondřejem Konrádem</title>
-      <description>Na Letné nejde jen o Český rozhlas a Českou televizi. Ani dnes nezapomínejme na obranu země. Sýrie pro Saúdy, Saúdi pro Sýrii. Robert Fico odkládá rukavičky. Na Slovensku začíná předvolební kampaň. Papež v Latinské Americe: víra zůstává, katolíků ubývá.</description>
-      <guid isPermaLink="false">9656611</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/portal.rozhlas.cz/sites/default/files/audios/5c97e7a15997568615389416c4a0dc45.mp3" length="23559168" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>1472</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
       <description>Vláda se rozhodla pro experiment se školním stravováním a hází děti přes palubu. Tlak Ruska na odchod Finska z NATO. Odhalení imperiálních choutek Ruska: Česko je už ve svém zájmu nemůže bagatelizovat. Bitcoin a jiné pohyby na technologických trzích. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
@@ -102,6 +94,14 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/752cf071-c680-4b5a-b815-2e04f71c99b2.mp3" length="37484397" type="audio/mpeg"/>
       <pubDate>Wed, 25 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny čtvrteční komentáře s Janem Fingerlandem</title>
+      <description>V nového unijním rozpočtu se nejvíc škrtá tam, kde je to pro Evropu nejhorší. V USA vypukne politická válka mezi Bílým domem a Kongresem. Magyar na Ukrajině a maďarsko-ukrajinské vztahy. Europarlament varuje Babiše, že si způsobem rušení poplatků ČT a ČRo vyrábí evropský problém. SPD drží premiéra Babiše v ohrádce. Moderuje Jan Fingerland.</description>
+      <guid isPermaLink="false">5e800f56-73f0-33bd-9a4e-ecfb1a531389</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d49ba1c5-c7d2-40d2-8ffd-b50d3ef8c21a.mp3" length="37466541" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
