@@ -11,18 +11,10 @@
       <link>https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76</link>
     </image>
     <language>cs</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:54:43 +0000</lastBuildDate>
     <itunes:author>Český rozhlas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Každý den pohled pod povrch událostí doma i ve světě. Komentáře, analýzy. Informace, rozhovory a debaty.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Názory a argumenty můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/f4133d64-ccb2-30e7-a70f-23e9c54d8e76?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f4133d64-ccb2-30e7-a70f-23e9c54d8e76_description"&gt;mujRozhlas.cz&lt;/a&gt;.</itunes:summary>
-    <item>
-      <title>Poslechněte si všechny pondělní komentáře s Kamilou Pešekovou</title>
-      <description>Vláda se rozhodla pro experiment se školním stravováním a hází děti přes palubu. Tlak Ruska na odchod Finska z NATO. Odhalení imperiálních choutek Ruska: Česko je už ve svém zájmu nemůže bagatelizovat. Bitcoin a jiné pohyby na technologických trzích. A na konec glosa Ondřeje Neffa. Moderuje Kamila Pešeková.</description>
-      <guid isPermaLink="false">e7adf1b5-cb18-3650-b158-0c66c2fdc3b9</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/baa1b031-5c03-4233-9ec0-52a7d16e0e12.mp3" length="37139373" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Nov 2026 12:10:00 +0000</pubDate>
-      <itunes:duration>1547</itunes:duration>
-    </item>
     <item>
       <title>Poslechněte si všechny úterní komentáře s Petrem Schwarzem</title>
       <description>Sedmatřicet let po Listopadu vzpomínejme i na to, co se nepovedlo. Vládní koalice znovu splétá bič na neziskovky. V Česko-německém diskusním fóru by měl zaznít i hlas AfD a české SPD. Starý dobrý nový Bond. Humor ve veřejnoprávní televizi. Ještě že na nás nepadá kolektivní vina</description>
@@ -101,6 +93,14 @@
       <guid isPermaLink="false">5e800f56-73f0-33bd-9a4e-ecfb1a531389</guid>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/d49ba1c5-c7d2-40d2-8ffd-b50d3ef8c21a.mp3" length="37466541" type="audio/mpeg"/>
       <pubDate>Thu, 26 Nov 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
+    </item>
+    <item>
+      <title>Poslechněte si všechny páteční komentáře s Petrem Schwarzem</title>
+      <description>Dítě za milion, kliniky za miliardy. Proč slovenská vládní koalice pohrdá svými občany v zahraničí. Josif Stalin Superstar. Proč je Karel Havlíček Borovský aktuální. A na konec glosa Evy Turnové. Moderuje Petr Schwarz.</description>
+      <guid isPermaLink="false">d89b228c-4dd7-39f7-b17f-eaf4a203bea1</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/croaod.cz/download/1ccc8d82-9b87-4a82-b656-f725678352cd.mp3" length="37470573" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Nov 2026 12:10:00 +0000</pubDate>
       <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
